@@ -51,6 +51,12 @@
         "name": "Ville de Lavaltrie",
         "url": "https://www.facebook.com/VilleDeLavaltrie/",
         "enabled": true
+      },
+      {
+        "id": "traders-360",
+        "name": "Traders 360",
+        "url": "https://www.facebook.com/firmetraders360/",
+        "enabled": true
       }
     ],
     "reddit": []
