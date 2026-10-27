@@ -2,7 +2,7 @@
   "version": 1,
   "title": "Social Feed",
   "description": "Un seul fil pour suivre les sources qui comptent.",
-  "generated_at": "2026-10-27T16:09:41.325157+00:00",
+  "generated_at": "2026-10-27T16:26:46.613956+00:00",
   "sources": [
     {
       "id": "eco-en-batons",
@@ -11,7 +11,7 @@
       "url": "https://www.youtube.com/@Eco_en_batons",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-10-27T16:09:41.325157+00:00",
+      "last_success_at": "2026-10-27T16:26:46.613956+00:00",
       "item_count": 15
     },
     {
@@ -21,7 +21,7 @@
       "url": "https://www.youtube.com/@investi-qc",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-10-27T16:09:41.325157+00:00",
+      "last_success_at": "2026-10-27T16:26:46.613956+00:00",
       "item_count": 15
     },
     {
@@ -31,7 +31,7 @@
       "url": "https://www.youtube.com/@hugolisoiryoutube",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-10-27T16:09:41.325157+00:00",
+      "last_success_at": "2026-10-27T16:26:46.613956+00:00",
       "item_count": 15
     },
     {
@@ -41,7 +41,7 @@
       "url": "https://www.youtube.com/@alexdemers-finance360",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-10-27T16:09:41.325157+00:00",
+      "last_success_at": "2026-10-27T16:26:46.613956+00:00",
       "item_count": 15
     },
     {
@@ -51,7 +51,7 @@
       "url": "https://www.facebook.com/GuildWars/",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-10-27T16:09:41.325157+00:00",
+      "last_success_at": "2026-10-27T16:26:46.613956+00:00",
       "item_count": 1
     },
     {
@@ -61,7 +61,7 @@
       "url": "https://www.facebook.com/LOTRO/",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-10-27T16:09:41.325157+00:00",
+      "last_success_at": "2026-10-27T16:26:46.613956+00:00",
       "item_count": 1
     }
   ],
@@ -71,7 +71,7 @@
       "title": "C’est quoi la titrisation?",
       "url": "https://www.youtube.com/watch?v=iUDsAY-BXFk",
       "published_at": "2026-10-27T15:37:00+00:00",
-      "updated_at": "2026-10-27T15:43:51+00:00",
+      "updated_at": "2026-10-27T16:09:53+00:00",
       "description": "C’est quoi la titrisation?",
       "image_url": "https://i2.ytimg.com/vi/iUDsAY-BXFk/hqdefault.jpg",
       "source_id": "investi-qc",
@@ -121,7 +121,7 @@
       "published_at": "2026-10-26T21:51:58+00:00",
       "updated_at": "2026-10-26T21:51:58+00:00",
       "description": "Lead Systems Designer Orion talks about what it's like getting close to launch day",
-      "image_url": "https://scontent.fymq3-1.fna.fbcdn.net/v/t15.5256-10/868852323_4624378027820375_2001315489557700610_n.jpg?stp=dst-jpg_tt6&cstp=mx1080x1920&ctp=s960x960&_nc_cat=109&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=d2b52d&_nc_ohc=h-mrY4mmE-8Q7kNvwFfJkJt&_nc_oc=AdrAYn4a7AQ7D7G6nZ4wC-H3wOn5EWzkruowkuS3lThzFoWvtjbw84TacYQJOEOIm8o&_nc_zt=23&_nc_ht=scontent.fymq3-1.fna&_nc_gid=LzkqG6yqdPJZkT0JVjaugg&_nc_ss=7e289&oh=00_AQOxWitDmaryQeVzXxGRH44S7SBLtf5H_FpT90k3dNQVng&oe=6AE6A5E9",
+      "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t15.5256-10/868852323_4624378027820375_2001315489557700610_n.jpg?stp=dst-jpg_tt6&cstp=mx1080x1920&ctp=s960x960&_nc_cat=109&ccb=1-7&_nc_sid=d2b52d&_nc_ohc=h-mrY4mmE-8Q7kNvwEENOwW&_nc_oc=Adq24z6him9p-US_PyB7OZqtH-OVunkX_C1cH0DlUcDQYcO12DmxHO26Dc0GtCKcSQ8&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&_nc_gid=WZlB6QJgF_9NDBoTJc9tTg&_nc_ss=7f289&oh=00_AQPqZG7o1NrN1ewXvZhkTgL3pe81gsc_o9qf4Gkgb2z3_w&oe=6AE6A5E9",
       "source_id": "lotro",
       "source_name": "The Lord of the Rings Online",
       "platform": "facebook"
@@ -157,7 +157,7 @@
       "published_at": "2026-10-26T18:01:05+00:00",
       "updated_at": "2026-10-26T18:01:05+00:00",
       "description": "We looked all over Kamadan for you... 👻\n\nDidn't make it to the Halloween meetup? Here's what you missed! Drop your costume in the replies so we know you were there in spirit. 🎃\n\n#GuildWarsReforged #GuildWars",
-      "image_url": "https://scontent.fymq3-1.fna.fbcdn.net/v/t15.5256-10/867849540_1148916977809238_6780334540241726130_n.jpg?stp=dst-jpg_tt6&cstp=mx1920x1080&ctp=s960x960&_nc_cat=106&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=nJpeEXsh01EQ7kNvwHWFsD6&_nc_oc=AdpEOmErzHh1bvLPPwHHyRH5n0zk3HF9bA4lkNpWHTfN4zcHgYqSQvsUVZc_KYyEdAI&_nc_zt=23&_nc_ht=scontent.fymq3-1.fna&_nc_gid=TEtB1viECMIviwee7qcZdw&_nc_ss=7e289&oh=00_AQPC_mAfmYr9v1HEuKKcNWwgsgdu-pTXwiaQYfIFWirKbw&oe=6AE6B407",
+      "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t15.5256-10/867849540_1148916977809238_6780334540241726130_n.jpg?stp=dst-jpg_tt6&cstp=mx1920x1080&ctp=s960x960&_nc_cat=106&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=nJpeEXsh01EQ7kNvwF9PbYy&_nc_oc=AdpzW3bPj5KG9iD6OoDdS635OFNE4DLJvtC-j0VomSpCvcTkggKekcJJ9mS--HiIamE&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&_nc_gid=_-gwjcW-22-lgaXdE918gg&_nc_ss=7f289&oh=00_AQOQEUMcwxW63VJkjegbX6bGErlh_aTQHYXooGzoltTjdQ&oe=6AE6B407",
       "source_id": "guild-wars",
       "source_name": "Guild Wars",
       "platform": "facebook"
