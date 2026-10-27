@@ -1,0 +1,52 @@
+{
+  "title": "Social Feed",
+  "description": "Un seul fil pour suivre les sources qui comptent.",
+  "site_url": "https://otisdave.github.io/social-feed/",
+  "subscriptions": {
+    "youtube": [
+      {
+        "id": "eco-en-batons",
+        "name": "Éco en bâtons",
+        "url": "https://www.youtube.com/@Eco_en_batons",
+        "channel_id": "UCJrYJevv7eUOBg857Jx_qIA",
+        "enabled": true
+      },
+      {
+        "id": "investi-qc",
+        "name": "Investi QC",
+        "url": "https://www.youtube.com/@investi-qc",
+        "channel_id": "UCfCJWpm5-ju5XNG-JSBxdzQ",
+        "enabled": true
+      },
+      {
+        "id": "hugo-lisoir",
+        "name": "Hugo Lisoir",
+        "url": "https://www.youtube.com/@hugolisoiryoutube",
+        "channel_id": "UCDC6DBi0kRp6Jk21xqfvFLA",
+        "enabled": true
+      },
+      {
+        "id": "alex-demers-finance360",
+        "name": "Alex Demers — Finance 360",
+        "url": "https://www.youtube.com/@alexdemers-finance360",
+        "channel_id": "UCBfOv6PsHSnLUPEoSLNt9Dg",
+        "enabled": true
+      }
+    ],
+    "facebook": [
+      {
+        "id": "guild-wars",
+        "name": "Guild Wars",
+        "url": "https://www.facebook.com/GuildWars/",
+        "enabled": true
+      },
+      {
+        "id": "lotro",
+        "name": "The Lord of the Rings Online",
+        "url": "https://www.facebook.com/LOTRO/",
+        "enabled": true
+      }
+    ],
+    "reddit": []
+  }
+}

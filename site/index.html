@@ -1,0 +1,72 @@
+<!doctype html>
+<html lang="fr-CA">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="theme-color" content="#f5f4ef" />
+    <meta name="description" content="Les dernières publications de vos sources préférées, réunies dans un seul fil." />
+    <title>Social Feed — Votre fil, simplement.</title>
+    <link rel="alternate" type="application/rss+xml" title="Social Feed" href="./feed.xml" />
+    <link rel="stylesheet" href="./styles.css" />
+    <script src="./app.js" defer></script>
+  </head>
+  <body>
+    <a class="skip-link" href="#publications">Aller aux publications</a>
+    <header class="header">
+      <a class="brand" href="./" aria-label="Social Feed, accueil"><span class="brand-icon" aria-hidden="true">s<span>f</span></span>social<span class="brand-light">feed</span><span class="brand-dot">.</span></a>
+      <a class="rss-link" href="./feed.xml"><span aria-hidden="true">◔</span> S'abonner au RSS <span aria-hidden="true">↗</span></a>
+    </header>
+
+    <main class="layout">
+      <aside class="sidebar" aria-label="Sources du fil">
+        <p class="eyebrow">VOTRE PETIT COIN D'INTERNET</p>
+        <h1>Moins de bruit.<br />Plus de <span>nouvelles.</span></h1>
+        <p class="intro">Vos sources préférées, réunies au même endroit. Sans algorithme, sans détour.</p>
+        <div class="sidebar-rule"></div>
+        <h2 class="section-label">MES ABONNEMENTS <span id="source-count">—</span></h2>
+        <button class="source-button selected" type="button" data-source="all" aria-pressed="true">
+          <span class="source-icon all-icon" aria-hidden="true">▦</span><span>Toutes les sources</span><span class="count" id="all-count">—</span>
+        </button>
+        <div id="sources"></div>
+        <div class="coming-next">
+          <span class="section-label">LA SUITE, BIENTÔT</span>
+          <div><span class="future-icon reddit-icon" aria-hidden="true">r/</span> Reddit <span class="soon">À venir</span></div>
+        </div>
+        <div class="sidebar-note">
+          <span class="live-dot" aria-hidden="true"></span>
+          <div><strong>Un fil qui suit le rythme.</strong><p>Actualisation automatique environ chaque heure.</p></div>
+        </div>
+      </aside>
+
+      <section class="feed" aria-labelledby="feed-heading">
+        <div class="feed-heading">
+          <div><p class="eyebrow">LE FIL</p><h2 id="feed-heading">Quoi de neuf<span class="brand-dot"> ?</span></h2></div>
+          <span class="sort-label"><span aria-hidden="true">↓</span> Plus récent d'abord</span>
+        </div>
+        <div class="toolbar">
+          <label class="search"><span aria-hidden="true">⌕</span><span class="sr-only">Rechercher une publication</span><input id="search" type="search" placeholder="Rechercher dans le fil…" autocomplete="off" /></label>
+          <label class="platform-filter"><span class="sr-only">Filtrer par plateforme</span><select id="platform"><option value="all">Toutes les plateformes</option></select></label>
+        </div>
+        <div class="feed-meta"><p id="results" role="status" aria-live="polite">Chargement du fil…</p><p id="updated"></p></div>
+        <div id="warning" class="notice warning" role="status" hidden></div>
+        <div id="error" class="notice error" role="alert" hidden></div>
+        <div id="publications" class="cards" aria-busy="true"></div>
+        <div id="empty" class="empty" hidden><span aria-hidden="true">○</span><h3>Rien par ici pour l'instant.</h3><p id="empty-message">Essayez une autre recherche ou une autre source.</p></div>
+        <button id="load-more" class="load-more" type="button" hidden>Voir plus de publications <span aria-hidden="true">↓</span></button>
+        <noscript><p class="notice">Activez JavaScript pour consulter le fil, ou <a href="./feed.xml">ouvrez le flux RSS</a>.</p></noscript>
+      </section>
+    </main>
+    <footer><span>Un peu moins de défilement. Un peu plus de découvertes.</span><a href="https://github.com/otisdave/social-feed" target="_blank" rel="noopener noreferrer">Code source ↗</a></footer>
+    <template id="card-template">
+      <article class="card">
+        <a class="card-image-link" target="_blank" rel="noopener noreferrer"><img loading="lazy" decoding="async" alt="" /><span class="play-icon" aria-hidden="true">▶</span></a>
+        <div class="card-body">
+          <div class="card-meta"><span class="platform-tag"></span><time></time></div>
+          <h3><a target="_blank" rel="noopener noreferrer"></a></h3>
+          <p class="card-description"></p>
+          <div class="card-footer"><span class="card-source"></span><a class="read-link" target="_blank" rel="noopener noreferrer">Voir la publication <span aria-hidden="true">↗</span></a></div>
+        </div>
+      </article>
+    </template>
+  </body>
+</html>

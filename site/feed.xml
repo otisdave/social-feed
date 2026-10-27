@@ -1,0 +1,1175 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>Social Feed</title>
+    <link>https://otisdave.github.io/social-feed/</link>
+    <description>Un seul fil pour suivre les sources qui comptent.</description>
+    <language>fr-ca</language>
+    <lastBuildDate>Tue, 27 Oct 2026 16:02:03 GMT</lastBuildDate>
+    <atom:link href="https://otisdave.github.io/social-feed/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>C’est quoi la titrisation?</title>
+      <link>https://www.youtube.com/watch?v=iUDsAY-BXFk</link>
+      <description>C’est quoi la titrisation?</description>
+      <pubDate>Tue, 27 Oct 2026 15:37:00 GMT</pubDate>
+      <category>youtube</category>
+      <guid isPermaLink="false">investi-qc:youtube:iUDsAY-BXFk</guid>
+      <source url="https://otisdave.github.io/social-feed/feed.xml">Investi QC</source>
+    </item>
+    <item>
+      <title>Le Livret A expliqué en 1 minute (qui fixe son taux ?)</title>
+      <link>https://www.youtube.com/watch?v=3TXu9sRJD9Q</link>
+      <description>Le Livret A est un compte d'épargne dont le taux n'est pas libre : il est fixé par l'État. Depuis le 1er août 2026, il rapporte 1,7 % par an, sans impôt. On n'a droit qu'à un seul Livret A par personne, plafonné à 22 950 € de dépôts.
+Le taux ne sort pas d'un chapeau : le gouverneur de la Banque de France propose une formule fondée sur la moyenne de l'inflation et du taux des banques entre elles (€STR). Au 15 juillet 2026 : inflation 1,52 %, €STR 1,95 %, soit 1,7 % après arrondi. Le ministre de l'Économie décide ensuite.
+Ce qui étonne : plus de la moitié de l'épargne des Livrets A et LDDS (59,5 %) est centralisée à la Caisse des Dépôts. En 2025, le Fonds d'épargne a financé 123 036 logements sociaux.
+Pour vous : 10 000 € sur un Livret A rapporteraient environ 170 € en un an si le taux restait à 1,7 %. Le taux est révisé chaque 1er février et 1er août.
+
+👉 Quel concept d'économie voulez-vous voir demain ? Dites-le en commentaire. Un concept d'économie par jour, expliqué en bâtons.
+
+Sources (lues le 18/10/2026) :
+- Service-public.fr, Livret A (fiche F2365) : https://www.service-public.gouv.fr/particuliers/vosdroits/F2365
+- Banque de France, taux du Livret A et proposition du gouverneur, 15/07/2026
+- Caisse des Dépôts, Fonds d'épargne : encours centralisé (18/05/2026) et logements sociaux financés en 2025
+Le taux du Livret A peut changer à chaque révision. Ceci n'est pas un conseil financier.
+
+Musique : composée avec ElevenLabs Music pour la chaîne.
+
+#LivretA #économie #épargne #taux #apprendre #Shorts</description>
+      <pubDate>Tue, 27 Oct 2026 12:00:22 GMT</pubDate>
+      <category>youtube</category>
+      <guid isPermaLink="false">eco-en-batons:youtube:3TXu9sRJD9Q</guid>
+      <source url="https://otisdave.github.io/social-feed/feed.xml">Éco en bâtons</source>
+    </item>
+    <item>
+      <title>Chat GPT a failli être français !</title>
+      <link>https://www.youtube.com/watch?v=4ihDsZpyYPk</link>
+      <description>Et si ChatGPT était français ? En 2022, un modèle de langage ouvert, BLOOM, sort d'un supercalculateur public français, 141 jours avant ChatGPT. On suit l'histoire d'un pays qui avait les chercheurs, le calcul public et le plan, et on regarde ce qui s'est joué entre la rétropropagation de 1985, Jean Zay, Hugging Face, Mistral AI et la facture que vous payez aujourd'hui.
+
+Et vous : quel moment de cette histoire vous a le plus surpris ? Dites-le en commentaire.
+
+⏱️ Chapitres
+0:00 Mercredi 30 novembre 2022, dans l'autre monde
+1:21 Partie 1 — Une machine à 25 millions
+4:04 Partie 2 — Un million en cinq jours
+7:26 Partie 3 — Un mois, zéro produit
+10:13 Deux mondes, une journée
+
+📌 Sources (pages lues en octobre 2026)
+- Yann LeCun : bibliographie de l'auteur (publication de 1985, Paris), chapitre Springer 1986, biographie ACM A.M. Turing
+- CNRS : communiqués du 12/07/2022 (BLOOM), du 28/03/2024 et du 14/05/2025 (Jean Zay) ; Université Paris-Saclay, 30/01/2020 (inauguration du supercalculateur, 25 millions d'euros)
+- Discours du président de la République sur l'intelligence artificielle, 29/03/2018 ; rapport Villani (2018)
+- Cour des comptes, « La stratégie nationale pour l'intelligence artificielle », novembre 2025
+- OpenAI : page de lancement de ChatGPT ; Sam Altman, message du 05/12/2022 (un million d'utilisateurs) ; Reuters, 02/2023 (estimation UBS)
+- Vaswani et al., « Attention Is All You Need » (2017) ; article BLOOM (arXiv 2211.05100) ; LLaMA (arXiv 2302.13971)
+- Hugging Face : formulaire 8-K de Nvidia du 03/09/2026 (accord de rachat) ; TechCrunch, 03/09/2026
+- Mistral AI : annonces officielles (Mistral 7B, Série C du 09/09/2025, Série D du 08/09/2026)
+- Facebook France, 02/06/2015 (création de FAIR Paris) ; départ de Yann LeCun et AMI Labs : presse (TechCrunch, 23/01/2026 ; The Next Web, 10/03/2026), donné comme annoncé ou rapporté
+- Insee Première n° 2120, 21/07/2026 ; Stanford AI Index (investissement privé dans l'IA)
+
+🎞️ Photos et crédits
+- Photo : Clemcloum8, Wikimedia Commons, CC0
+- Photo : Jmex, Wikimedia Commons, CC0
+- Photo : Carl Lender from Sunrise, USA, Wikimedia Commons, CC BY 2.0
+- Photo : Steve Jurvetson, CC BY 2.0, via Wikimedia Commons (recadrée et détourée)
+Musique : bibliothèque audio YouTube.
+Les dessins sont des illustrations. C'est un scénario imaginé : « et si ? » ne dit pas ce qui se serait passé, il explore ce que les faits permettent. Les chiffres sont datés ; ceux des tiers sont des estimations. Explication générale, pas un conseil en investissement.</description>
+      <pubDate>Mon, 26 Oct 2026 22:57:07 GMT</pubDate>
+      <category>youtube</category>
+      <guid isPermaLink="false">eco-en-batons:youtube:4ihDsZpyYPk</guid>
+      <source url="https://otisdave.github.io/social-feed/feed.xml">Éco en bâtons</source>
+    </item>
+    <item>
+      <title>Est-ce que Nike a fini sa chute?</title>
+      <link>https://www.youtube.com/watch?v=kNLZH1T2y4E</link>
+      <description>Est-ce que Nike a fini sa chute?</description>
+      <pubDate>Mon, 26 Oct 2026 22:40:53 GMT</pubDate>
+      <category>youtube</category>
+      <guid isPermaLink="false">investi-qc:youtube:kNLZH1T2y4E</guid>
+      <source url="https://otisdave.github.io/social-feed/feed.xml">Investi QC</source>
+    </item>
+    <item>
+      <title>Lead Systems Designer Orion talks about what it's like getting close to launch day</title>
+      <link>https://www.facebook.com/reel/1124556806735733/</link>
+      <description>Lead Systems Designer Orion talks about what it's like getting close to launch day</description>
+      <pubDate>Mon, 26 Oct 2026 21:51:58 GMT</pubDate>
+      <category>facebook</category>
+      <guid isPermaLink="false">lotro:facebook:100064792208382:1627738096062582</guid>
+      <source url="https://otisdave.github.io/social-feed/feed.xml">The Lord of the Rings Online</source>
+    </item>
+    <item>
+      <title>Mes actions BMO me rapportent 6,6% par année en dividendes (yield on cost)</title>
+      <link>https://www.youtube.com/watch?v=tfH37hvQwos</link>
+      <description>Ce rendement est calculé sur mon coût d'achat moyen de 103$ par action. Quelqu'un qui achète l'action au prix d'aujourd'hui obtiendrait un rendement autour de 2,9%.
+
+Il ne faut pas oublier le fait que le montant du dividende trimestriel a grimpé de 60% depuis 2020.</description>
+      <pubDate>Mon, 26 Oct 2026 21:50:38 GMT</pubDate>
+      <category>youtube</category>
+      <guid isPermaLink="false">alex-demers-finance360:youtube:tfH37hvQwos</guid>
+      <source url="https://otisdave.github.io/social-feed/feed.xml">Alex Demers — Finance 360</source>
+    </item>
+    <item>
+      <title>Investi LIVE mercredi 3 juin 13h</title>
+      <link>https://www.youtube.com/watch?v=L6RyPr4Qrts</link>
+      <description>Made with Restream. Livestream on 30+ platforms at once via https://restream.io
+
+Restream helps you multistream &amp; reach your audience, wherever they are.</description>
+      <pubDate>Mon, 26 Oct 2026 19:02:40 GMT</pubDate>
+      <category>youtube</category>
+      <guid isPermaLink="false">investi-qc:youtube:L6RyPr4Qrts</guid>
+      <source url="https://otisdave.github.io/social-feed/feed.xml">Investi QC</source>
+    </item>
+    <item>
+      <title>We looked all over Kamadan for you... 👻</title>
+      <link>https://www.facebook.com/reel/2292121411567344/</link>
+      <description>We looked all over Kamadan for you... 👻
+
+Didn't make it to the Halloween meetup? Here's what you missed! Drop your costume in the replies so we know you were there in spirit. 🎃
+
+#GuildWarsReforged #GuildWars</description>
+      <pubDate>Mon, 26 Oct 2026 18:01:05 GMT</pubDate>
+      <category>facebook</category>
+      <guid isPermaLink="false">guild-wars:facebook:100069958479615:1423212986687304</guid>
+      <source url="https://otisdave.github.io/social-feed/feed.xml">Guild Wars</source>
+    </item>
+    <item>
+      <title>Question du public: Si vous recommenciez à zéro, que feriez-vous différemment?</title>
+      <link>https://www.youtube.com/watch?v=65LA-y56cus</link>
+      <description>Question du public: Si vous recommenciez à zéro, que feriez-vous différemment?</description>
+      <pubDate>Mon, 26 Oct 2026 15:37:13 GMT</pubDate>
+      <category>youtube</category>
+      <guid isPermaLink="false">investi-qc:youtube:65LA-y56cus</guid>
+      <source url="https://otisdave.github.io/social-feed/feed.xml">Investi QC</source>
+    </item>
+    <item>
+      <title>Le taux directeur expliqué en 1 minute (pourquoi il touche votre crédit)</title>
+      <link>https://www.youtube.com/watch?v=raE_2QSxr0k</link>
+      <description>Le taux directeur est le taux d'intérêt fixé par la banque centrale : c'est son principal outil. Dans la zone euro, le taux de dépôt de la BCE, celui que les banques reçoivent quand elles placent leur argent chez elle, est le plus suivi des trois taux directeurs. Depuis le 16 septembre 2026, il est de 2,5 %.
+Pourquoi il vous touche : quand il monte, les banques relèvent le coût du crédit, on emprunte moins, on dépense moins, et l'inflation ralentit, au bout de plusieurs mois. Exemple (calcul illustratif, hors assurance) : sur un crédit de 200 000 € sur 20 ans, un point de taux en plus coûte environ 100 € de plus par mois.
+Ce qui étonne : jusqu'en juillet 2022, ce taux était négatif. La BCE l'a ensuite relevé dix fois de suite, jusqu'à 4 % en septembre 2023.
+Mais votre taux de crédit ne suit pas mécaniquement le taux directeur : il dépend aussi des taux à long terme, de la concurrence entre banques et de votre dossier.
+
+👉 Quel concept d'économie voulez-vous voir demain ? Dites-le en commentaire. Un concept d'économie par jour, expliqué en bâtons.
+
+Sources (lues le 18/10/2026) :
+- BCE, décisions de politique monétaire du 10/09/2026 : https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.mp260910~314e508016.en.html
+- BCE, taux directeurs (historique) : https://www.ecb.europa.eu/stats/policy_and_exchange_rates/key_ecb_interest_rates/html/index.en.html
+- Banque de France, La transmission de la politique monétaire : https://www.banque-france.fr/fr/publications-et-statistiques/publications/la-transmission-de-la-politique-monetaire
+- Banque de France, Crédits aux particuliers, août 2026 (taux moyen des nouveaux crédits à l'habitat : 3,32 %) : https://www.banque-france.fr/fr/statistiques/credit/credits-aux-particuliers-2026-08
+Le taux de la BCE est revu à chaque réunion de son Conseil des gouverneurs : les chiffres ci-dessus sont ceux de septembre 2026. Ceci n'est pas un conseil financier.
+
+Musique : composée avec ElevenLabs Music pour la chaîne.
+
+#tauxdirecteur #BCE #économie #crédit #apprendre #Shorts</description>
+      <pubDate>Mon, 26 Oct 2026 12:00:23 GMT</pubDate>
+      <category>youtube</category>
+      <guid isPermaLink="false">eco-en-batons:youtube:raE_2QSxr0k</guid>
+      <source url="https://otisdave.github.io/social-feed/feed.xml">Éco en bâtons</source>
+    </item>
+    <item>
+      <title>Des gros dividendes peuvent cacher un portefeuille plus risqué que vous le pensez</title>
+      <link>https://www.youtube.com/watch?v=Egsu7OUCTFo</link>
+      <description>À force de chercher les actions canadiennes qui versent le plus, vous pouvez finir avec une collection de banques, de télécoms et de compagnies d'énergie.
+
+Même avec 20 titres, votre argent peut rester concentré dans quelques secteurs et un seul pays.
+
+Si plusieurs de vos placements se mettent à baisser pour les mêmes raisons, vos dividendes peuvent être loin de compenser les pertes.</description>
+      <pubDate>Mon, 26 Oct 2026 00:21:34 GMT</pubDate>
+      <category>youtube</category>
+      <guid isPermaLink="false">alex-demers-finance360:youtube:Egsu7OUCTFo</guid>
+      <source url="https://otisdave.github.io/social-feed/feed.xml">Alex Demers — Finance 360</source>
+    </item>
+    <item>
+      <title>Vendre des stocks parce qu’ils ne bougent pas 🥹</title>
+      <link>https://www.youtube.com/watch?v=hW0GoArZLVE</link>
+      <description>Vendre des stocks parce qu’ils ne bougent pas 🥹</description>
+      <pubDate>Sun, 25 Oct 2026 20:38:42 GMT</pubDate>
+      <category>youtube</category>
+      <guid isPermaLink="false">investi-qc:youtube:hW0GoArZLVE</guid>
+      <source url="https://otisdave.github.io/social-feed/feed.xml">Investi QC</source>
+    </item>
+    <item>
+      <title>Sandisk a la mémoire courte? Tiré de l’épisode 61 enregistré en août 2026.</title>
+      <link>https://www.youtube.com/watch?v=1qka_l24-TE</link>
+      <description>Sandisk a la mémoire courte? Tiré de l’épisode 61 enregistré en août 2026.</description>
+      <pubDate>Sun, 25 Oct 2026 15:39:17 GMT</pubDate>
+      <category>youtube</category>
+      <guid isPermaLink="false">investi-qc:youtube:1qka_l24-TE</guid>
+      <source url="https://otisdave.github.io/social-feed/feed.xml">Investi QC</source>
+    </item>
+    <item>
+      <title>La TVA expliquée en 1 minute (qui la paie vraiment ?)</title>
+      <link>https://www.youtube.com/watch?v=1hdt-pip2c0</link>
+      <description>La TVA (taxe sur la valeur ajoutée) est un impôt sur la consommation : chaque entreprise facture la TVA à son client, puis déduit celle qu'elle a payée sur ses achats et verse la différence à l'État. Au bout de la chaîne, c'est le consommateur final qui la supporte, une seule fois.
+Exemple en trois maillons au taux normal de 20 % (calcul illustratif) : le producteur verse 20 €, l'industriel 10 €, le magasin 10 €. Total : 40 € de TVA dans un achat de 240 € TTC.
+Fin 2024, selon la DGFiP, 4,8 millions d'entreprises (37 %) étaient en franchise en base : elles ne facturent pas de TVA, mais ne récupèrent pas non plus celle de leurs achats.
+Et le piège classique : à 20 %, la TVA ne représente pas 20 % du prix TTC, mais un sixième (16,7 %), car elle se calcule sur le prix hors taxe.
+
+👉 Quel concept d'économie voulez-vous voir demain ? Dites-le en commentaire. Un concept d'économie par jour, expliqué en bâtons.
+
+Sources (lues le 18/10/2026) :
+- DGFiP, Statistiques n° 37 (septembre 2025), TVA collectée, déduite et franchise en base : https://www.impots.gouv.fr/sites/default/files/media/9_statistiques/0_etudes_et_stats/0_publications/dgfip_statistiques/2025/num37_09/dgfip_stat_37_2025.pdf
+- Service-public.fr, taux de TVA applicables (fiche F22399) : https://entreprendre.service-public.gouv.fr/vosdroits/F22399
+Les taux de TVA peuvent être modifiés par une loi de finances. Ceci n'est pas un conseil financier.
+
+Musique : composée avec ElevenLabs Music pour la chaîne.
+
+#TVA #économie #impôt #fiscalité #apprendre #Shorts</description>
+      <pubDate>Sun, 25 Oct 2026 12:00:23 GMT</pubDate>
+      <category>youtube</category>
+      <guid isPermaLink="false">eco-en-batons:youtube:1hdt-pip2c0</guid>
+      <source url="https://otisdave.github.io/social-feed/feed.xml">Éco en bâtons</source>
+    </item>
+    <item>
+      <title>Le ratio Sharpe</title>
+      <link>https://www.youtube.com/watch?v=6YAgak1a3dw</link>
+      <description>Le ratio Sharpe</description>
+      <pubDate>Sat, 24 Oct 2026 22:38:50 GMT</pubDate>
+      <category>youtube</category>
+      <guid isPermaLink="false">investi-qc:youtube:6YAgak1a3dw</guid>
+      <source url="https://otisdave.github.io/social-feed/feed.xml">Investi QC</source>
+    </item>
+    <item>
+      <title>Marc est souvent au téléphone avec le cambiste</title>
+      <link>https://www.youtube.com/watch?v=zWXC8tGtPHM</link>
+      <description>Marc est souvent au téléphone avec le cambiste</description>
+      <pubDate>Sat, 24 Oct 2026 15:37:34 GMT</pubDate>
+      <category>youtube</category>
+      <guid isPermaLink="false">investi-qc:youtube:zWXC8tGtPHM</guid>
+      <source url="https://otisdave.github.io/social-feed/feed.xml">Investi QC</source>
+    </item>
+    <item>
+      <title>L'effet de levier expliqué en 1 minute (quand l'emprunt amplifie tout)</title>
+      <link>https://www.youtube.com/watch?v=PMDMjr0UD5M</link>
+      <description>L'effet de levier, c'est utiliser de l'argent emprunté, en plus de son apport, pour acheter un actif : le gain (ou la perte) porte sur tout l'actif, mais il est rapporté à votre seul apport. Si l'actif rapporte plus que ce que coûte la dette, le gain sur votre apport est amplifié.
+Exemple (calcul illustratif, hors frais, revente immédiate) : un logement de 250 000 € acheté avec 25 000 € d'apport, le reste emprunté, soit un levier de 10. Si le logement gagne 10 %, vous gagnez 25 000 € : votre apport double. S'il perd 10 % et que vous revendez, l'apport est entièrement perdu.
+Ce qui étonne : en Europe, le ratio de levier minimal exigé des banques est de 3 % (BCE), ce qui permet à une banque de détenir jusqu'à 33 € d'actifs pour 1 € de fonds propres. C'est un plafond théorique, pas la situation moyenne.
+Et le piège : le levier marche dans les deux sens. Il n'est gagnant que si votre achat rapporte plus que ce que coûte l'emprunt, et il coûte cher si vous devez vendre après une baisse.
+
+👉 Quel concept d'économie voulez-vous voir demain ? Dites-le en commentaire. Un concept d'économie par jour, expliqué en bâtons.
+
+Sources (lues le 18/10/2026) :
+- BCE, supervision bancaire, exigence de ratio de levier (Pilier 2) : https://www.bankingsupervision.europa.eu/banking/srep/html/leverage_ratio_p2r.en.html
+- Les montants de l'exemple (logement, apport, gain, perte) sont un calcul illustratif, pas des données observées.
+Les règles prudentielles peuvent évoluer. Ceci n'est pas un conseil financier.
+
+Musique : composée avec ElevenLabs Music pour la chaîne.
+
+#effetdelevier #économie #crédit #immobilier #apprendre #Shorts</description>
+      <pubDate>Sat, 24 Oct 2026 11:00:24 GMT</pubDate>
+      <category>youtube</category>
+      <guid isPermaLink="false">eco-en-batons:youtube:PMDMjr0UD5M</guid>
+      <source url="https://otisdave.github.io/social-feed/feed.xml">Éco en bâtons</source>
+    </item>
+    <item>
+      <title>Uber n’est pas le plus populaire à Barcelone</title>
+      <link>https://www.youtube.com/watch?v=dM0J8zx5aJ0</link>
+      <description>Uber n’est pas le plus populaire à Barcelone</description>
+      <pubDate>Fri, 23 Oct 2026 20:39:26 GMT</pubDate>
+      <category>youtube</category>
+      <guid isPermaLink="false">investi-qc:youtube:dM0J8zx5aJ0</guid>
+      <source url="https://otisdave.github.io/social-feed/feed.xml">Investi QC</source>
+    </item>
+    <item>
+      <title>Amazon, expliqué comme si vous aviez 5 ans</title>
+      <link>https://www.youtube.com/watch?v=Al-khcLiNYc</link>
+      <description>En 2025, Amazon a vendu pour 716,9 milliards de dollars, soit environ 1,36 million de dollars chaque minute. Pourtant, sur le colis que vous recevez, la marge est mince. L'argent vient d'ailleurs : de l'abonnement Prime, des vendeurs tiers et d'AWS, la location de serveurs, qui a rapporté 57 % du résultat d'exploitation du groupe en 2025. On remonte l'histoire d'un libraire en ligne devenu un empire, de 1994 à aujourd'hui, pour voir comment chaque choix a construit cette machine.
+
+Et vous : quel moment de l'histoire d'Amazon vous a le plus surpris ? Dites-le en commentaire.
+
+⏱️ Chapitres
+0:00 La commande de trois heures
+1:03 Partie 1 — Le siège passager
+3:22 Partie 2 — La cloche
+7:01 Partie 3 — La machine
+10:23 Partie 4 — L'empire
+13:24 Le colis de trois heures
+
+📌 Sources (pages lues le 18/10/2026 ; chiffres de l'entreprise tirés de ses communiqués et de ses rapports déposés auprès de la SEC)
+- Amazon : communiqués de résultats du T4 2025 (05/02/2026) et du T2 2026 (30/07/2026), rapport annuel 10-K 2025, lettre aux actionnaires 2025
+- Amazon : communiqué du T1 2015 (première publication séparée d'AWS), annonce de Prime du 02/02/2006, communiqué Marketplace du 19/03/2001
+- SEC : document S-1 (1997) et rapports 10-K d'Amazon de 1997 à 2003
+- FTC : communiqué du 25/09/2025 (règlement de 2,5 milliards de dollars sur Prime, sans reconnaissance de faute) ; la plainte antitrust de la FTC est contestée par Amazon et le procès n'a pas eu lieu
+- Conseil d'État, 23/12/2025 (sanction de la CNIL ramenée de 32 à 15 millions d'euros) ; Reuters, 12/01/2026 et 13/03/2026 (amendes italienne et luxembourgeoise)
+- Légifrance : arrêté du 4 avril 2023 (livraison des livres neufs)
+- Estimations de tiers, toujours attribuées dans la vidéo : CIRP (membres Prime), Marketplace Pulse (part des vendeurs tiers)
+
+🎞️ Photos et crédits
+- Jeff Bezos : U.S. Department of Defense photo by Senior Master Sgt. Adrian Cadiz, Wikimedia Commons, CC BY 2.0 (https://commons.wikimedia.org/?curid=60644838)
+- Andy Jassy : JD Lasica, Wikimedia Commons, CC BY 2.0 (https://commons.wikimedia.org/?curid=99526694)
+- Bernie Sanders : Palácio do Planalto from Brasilia, Brasil, Wikimedia Commons, CC BY 2.0 (https://commons.wikimedia.org/?curid=133453493)
+- Kindle Paperwhite : Jacek Halicki, Wikimedia Commons, CC BY-SA 4.0 (https://commons.wikimedia.org/?curid=134825179)
+- Whole Foods Market à Oklahoma City : DoulosBen, Wikimedia Commons, CC BY 4.0 (https://commons.wikimedia.org/?curid=175833490)
+Musique : bibliothèque audio YouTube.
+Les dessins sont des illustrations. Les chiffres sont datés ; ceux des tiers sont des estimations. La FTC accuse, Amazon conteste : aucune de ces affaires n'est tranchée. Explication générale, pas un conseil en investissement.</description>
+      <pubDate>Fri, 23 Oct 2026 18:59:45 GMT</pubDate>
+      <category>youtube</category>
+      <guid isPermaLink="false">eco-en-batons:youtube:Al-khcLiNYc</guid>
+      <source url="https://otisdave.github.io/social-feed/feed.xml">Éco en bâtons</source>
+    </item>
+    <item>
+      <title>Je suis allé au Down Jones Bar pour que vous n’ayiez pas à y aller 🫡</title>
+      <link>https://www.youtube.com/watch?v=wL977eZR6O0</link>
+      <description>Je suis allé au Down Jones Bar pour que vous n’ayiez pas à y aller 🫡</description>
+      <pubDate>Fri, 23 Oct 2026 15:39:24 GMT</pubDate>
+      <category>youtube</category>
+      <guid isPermaLink="false">investi-qc:youtube:wL977eZR6O0</guid>
+      <source url="https://otisdave.github.io/social-feed/feed.xml">Investi QC</source>
+    </item>
+    <item>
+      <title>Les coiffeuses sont une source exceptionnelle d’informations prévilégiées</title>
+      <link>https://www.youtube.com/watch?v=Q7jwqyh_HJw</link>
+      <description>Les coiffeuses sont une source exceptionnelle d’informations prévilégiées. 💬+ 💇‍♂️= 🧠</description>
+      <pubDate>Fri, 23 Oct 2026 00:42:47 GMT</pubDate>
+      <category>youtube</category>
+      <guid isPermaLink="false">investi-qc:youtube:Q7jwqyh_HJw</guid>
+      <source url="https://otisdave.github.io/social-feed/feed.xml">Investi QC</source>
+    </item>
+    <item>
+      <title>Ils sont convaincus que ces 6 stocks vont doubler en 2027 | Investi (Ép. 70)</title>
+      <link>https://www.youtube.com/watch?v=1cbuJyevHlQ</link>
+      <description>Six auditeurs se sont prêtés au jeu de Rendement Double. Ils débarquent sur Investi pour nous pitcher un stock qui selon eux a le potentiel de doubler dans les 12 prochains mois:
+
+- Bombardier (BBD.A) : le Global 8000, les services après-vente et les occasions dans la défense ont séduit Olivier.
+- MDA Space (MDA) : les satellites, la nouvelle usine et la croissance de l’industrie spatiale ont charmé Charles.
+- Lassonde (LAS.A) : une compagnie « plate », des marques privées et une valorisation qui mérite qu’on s’y attarde, un coup de coeur pour Tommy.
+- Uber : la force de sa plateforme et le potentiel des robotaxis suffisent pour convaincre Nicolas
+- Kraken Robotics (PNG) : Cyrille a le bégin pour les technologies sous-marines et les dépenses militaires
+- Venture Global (VG) :  Samuel est en amour avec les exportations de gaz naturel liquéfié et les nouveaux projets de production
+
+On challenge les thèses, les comparables, les marges, la dette et ce qui est déjà inclus dans le prix. Il y a de bonnes idées, quelques questions qui font mal et beaucoup de plaisir.
+
+Quel candidat t’a le plus convaincu? Quel stock a la plus de chance de doubler en 2027?
+Dis-nous lequel et pourquoi en commentaire. Si tu vois une faille dans une thèse, on veut aussi l’entendre!
+
+Faites comme Samuel et profitez de 0$ de commission sur actions et FNB avec Banque Nationale Courtage Direct : https://bncd.ca/podcast-investi
+
+BNCD offre l’exécution d’ordres sans conseils. Vous êtes responsables de vos décisions de placement.
+
+Les informations partagées dans cette vidéo sont fournies à des fins éducatives et de divertissement seulement. Elles ne constituent pas des conseils financiers ni des recommandations d’achat ou de vente.
+
+CHAPITRES :
+
+00:00 Introduction et présentation des candidats
+03:08 Bombardier : management, innovation et après-vente
+07:51 Bombardier : volatilité et valorisation
+16:36 MDA Space : satellites, contrats et nouvelle usine
+20:11 MDA Space : croissance et risques
+27:21 MDA Space : rachats d'actions et avenir des satellites
+32:32 Lassonde : une stratégie à la Warren Buffett
+40:01 Lassonde : croissance et gestion des coûts
+45:52 Uber : valorisation et croissance
+55:33 Uber : robotaxis, drones et partenariats
+1:03:21 Kraken Robotics : drones marins et contrats militaires
+1:10:56 Kraken Robotics : potentiel de doubler et risques
+1:23:13 Venture Global : GNL, modèle d'affaires et contrats
+1:30:03 Venture Global : expansion et défis financiers
+1:38:50 Récapitulatif des 6 prédictions</description>
+      <pubDate>Thu, 22 Oct 2026 19:00:26 GMT</pubDate>
+      <category>youtube</category>
+      <guid isPermaLink="false">investi-qc:youtube:1cbuJyevHlQ</guid>
+      <source url="https://otisdave.github.io/social-feed/feed.xml">Investi QC</source>
+    </item>
+    <item>
+      <title>Nvidia : 12 $ l'action en 1999, environ 102 800 $ au 16 octobre 2026 (hors dividendes)</title>
+      <link>https://www.youtube.com/watch?v=fyvfBZo-gNw</link>
+      <description>Sur le trimestre clos fin juillet 2026, Nvidia vend pour 96 milliards de dollars, dont plus de neuf ventes sur dix pour les centres de données où tournent les IA que vous utilisez : environ 44 millions de dollars de ventes par heure, nuit comprise. Le 29 octobre 2025, elle devient la première entreprise à valoir 5 000 milliards de dollars en Bourse. Et l'action à 12 dollars de l'entrée en Bourse de 1999 ? À force de découpages en plusieurs actions, elle en est devenue 480 ; au cours du 16 octobre 2026, elles valaient environ 102 800 dollars, hors dividendes.
+Chiffres datés du 16/10/2026 : ils bougent chaque jour. Explication générale, pas un conseil en investissement.
+#Shorts #Nvidia #Bourse #économie
+
+Vidéo complète : https://youtu.be/UJD4YZW3AvI</description>
+      <pubDate>Thu, 22 Oct 2026 17:00:04 GMT</pubDate>
+      <category>youtube</category>
+      <guid isPermaLink="false">eco-en-batons:youtube:fyvfBZo-gNw</guid>
+      <source url="https://otisdave.github.io/social-feed/feed.xml">Éco en bâtons</source>
+    </item>
+    <item>
+      <title>Incroyable ! La Terre a peut-être déjà été exposée à l’espace interstellaire !</title>
+      <link>https://www.youtube.com/watch?v=UGEJam9c5QY</link>
+      <description>Le Soleil nous protège grâce à une immense bulle : l’héliosphère. Mais à plusieurs reprises, celle-ci aurait pu rétrécir jusqu’à laisser la Terre à l’extérieur ! Des rencontres avec des nuages interstellaires pourraient-elles avoir modifié notre atmosphère, voire notre climat ? Des simulations aux traces radioactives enfouies au fond des océans, partons sur la piste de ces épisodes encore mystérieux.
+
+Sources :
+https://www.annualreviews.org/content/journals/10.1146/annurev-astro-120425-053711
+https://www.nature.com/articles/s41550-024-02279-8
+https://ui.adsabs.harvard.edu/abs/2024ApJ...972..201O/abstract
+https://www.nature.com/articles/s41598-026-36926-z
+https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2024GL110174
+https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL123133
+
+Musiques : Pedro Macedo Camacho / Star Citizen, Utho Riley et Gérald M. Dorai
+Images : NASA, NASA’s Goddard Space Flight Center Conceptual Image Lab, SHIELD DRIVE Science Center, Merav Opher / Harvard Radcliffe Institute
+Moteur 3D : Space Engine Pro</description>
+      <pubDate>Thu, 22 Oct 2026 16:00:03 GMT</pubDate>
+      <category>youtube</category>
+      <guid isPermaLink="false">hugo-lisoir:youtube:UGEJam9c5QY</guid>
+      <source url="https://otisdave.github.io/social-feed/feed.xml">Hugo Lisoir</source>
+    </item>
+    <item>
+      <title>Chris Camillo est connu pour sa stratégie de « social arbitrage » : repérer des tendances de</title>
+      <link>https://www.youtube.com/watch?v=CTlN8Ww7aKI</link>
+      <description>Chris Camillo est connu pour sa stratégie de « social arbitrage » : repérer des tendances de consommation avant Wall Street en analysant notamment les conversations sur les réseaux sociaux, les forums et les commentaires des consommateurs. Il a popularisé cette approche dans son livre Laughing at Wall Street et à travers la communauté Dumb Money.</description>
+      <pubDate>Thu, 22 Oct 2026 15:36:39 GMT</pubDate>
+      <category>youtube</category>
+      <guid isPermaLink="false">investi-qc:youtube:CTlN8Ww7aKI</guid>
+      <source url="https://otisdave.github.io/social-feed/feed.xml">Investi QC</source>
+    </item>
+    <item>
+      <title>ImageNet 2012 : Toronto, sur des cartes de jeu, se trompe 15,3 % du temps contre 26,2 %</title>
+      <link>https://www.youtube.com/watch?v=hh8l_xveS9o</link>
+      <description>En 2012, des chercheurs s'affrontent sur ImageNet, un concours où un logiciel doit reconnaître ce que montrent des photos (cinq réponses permises par photo). L'équipe de Toronto entraîne un réseau de neurones sur des cartes de jeu vidéo : « ça ne marchera jamais », pensait-on, face à des années de réglages faits à la main. Résultat : l'université de Tokyo, deuxième, se trompe sur 26,2 % des photos ; Toronto, première, sur 15,3 %. Près de onze points d'écart.
+Les dessins sont des illustrations ; les scènes avec dialogues sont des mises en scène, pas des citations.
+#Shorts #ImageNet #AlexNet #intelligenceartificielle
+
+Vidéo complète : https://youtu.be/UJD4YZW3AvI</description>
+      <pubDate>Thu, 22 Oct 2026 14:30:11 GMT</pubDate>
+      <category>youtube</category>
+      <guid isPermaLink="false">eco-en-batons:youtube:hh8l_xveS9o</guid>
+      <source url="https://otisdave.github.io/social-feed/feed.xml">Éco en bâtons</source>
+    </item>
+    <item>
+      <title>NV1 (1995) : la puce graphique en courbes que le monde des triangles a rejetée</title>
+      <link>https://www.youtube.com/watch?v=qaeGsT1Kjj0</link>
+      <description>En mai 1995, Nvidia présente sa toute première puce graphique, la NV1. Pour dessiner un objet en relief, elle utilise des surfaces courbes. Mais Microsoft vient de publier sa norme pour les jeux sous Windows, et tout y est fait en triangles : la forme la plus simple qui soit, trois points, toujours plate, facile à calculer. Quand Microsoft fixe la norme, les développeurs de jeux suivent. La NV1 est en grande partie incompatible : elle est née pour un monde qui n'existe déjà plus, et Nvidia se retrouve avec deux ans de travail sur une puce dont personne ne veut.
+Les dessins sont des illustrations ; les scènes avec dialogues sont des mises en scène, pas des citations.
+#Shorts #Nvidia #NV1 #jeuxvidéo
+
+Vidéo complète : https://youtu.be/UJD4YZW3AvI</description>
+      <pubDate>Thu, 22 Oct 2026 12:00:39 GMT</pubDate>
+      <category>youtube</category>
+      <guid isPermaLink="false">eco-en-batons:youtube:qaeGsT1Kjj0</guid>
+      <source url="https://otisdave.github.io/social-feed/feed.xml">Éco en bâtons</source>
+    </item>
+    <item>
+      <title>Nvidia et Sega : 5 millions de dollars « très probablement perdus » (Dreamcast, 1996)</title>
+      <link>https://www.youtube.com/watch?v=uVdRpKkNlqg</link>
+      <description>Nvidia a conçu la puce graphique de la future console Dreamcast de Sega. Problème : la NV2, deuxième mauvaise puce, n'aboutira pas. Si on continue, on livre une puce qui ne marche pas ; si on arrête, on perd le contrat qui fait vivre l'entreprise. Jensen Huang part au Japon et le dit lui-même à Sega, puis ajoute une demande : Sega doit encore cinq millions de dollars à Nvidia pour ce contrat, et il propose qu'ils soient versés autrement, comme investissement dans l'entreprise. Selon ses propres mots, cet argent sera « très probablement perdu ». Le dirigeant de Sega, Shoichiro Irimajiri, accepte.
+Les dessins sont des illustrations ; les scènes avec dialogues sont des mises en scène, pas des citations.
+#Shorts #Nvidia #Sega #économie
+
+Vidéo complète : https://youtu.be/UJD4YZW3AvI</description>
+      <pubDate>Thu, 22 Oct 2026 09:30:13 GMT</pubDate>
+      <category>youtube</category>
+      <guid isPermaLink="false">eco-en-batons:youtube:uVdRpKkNlqg</guid>
+      <source url="https://otisdave.github.io/social-feed/feed.xml">Éco en bâtons</source>
+    </item>
+    <item>
+      <title>Nvidia : de la table d'un Denny's à 5 170 milliards de dollars (1993 → 2026)</title>
+      <link>https://www.youtube.com/watch?v=Q-Yih-TWFqk</link>
+      <description>En 1993, trois ingénieurs fondent Nvidia autour d'une table de Denny's, dans la Silicon Valley. L'un d'eux, Jensen Huang, a fait la plonge dès quinze ans dans un Denny's de Portland. Quatre ans plus tard, l'entreprise n'a plus en caisse qu'un mois de salaires. À la clôture du 16 octobre 2026, la Bourse la valorise 5 170 milliards de dollars : c'est l'entreprise la plus valorisée du monde. Comment passe-t-on de l'un à l'autre ? Tout tient à deux mauvaises puces et à un pari que personne ne comprenait.
+Photo de Jensen Huang : © Anderseidesvik, CC BY-SA 4.0 (https://commons.wikimedia.org/wiki/File:Jensen_huang_stanford_2026-04-30_010.jpg).
+Chiffres datés du 16/10/2026 : ils bougent chaque jour. Explication générale, pas un conseil en investissement.
+#Shorts #Nvidia #JensenHuang #économie
+
+Vidéo complète : https://youtu.be/UJD4YZW3AvI</description>
+      <pubDate>Thu, 22 Oct 2026 07:00:00 GMT</pubDate>
+      <category>youtube</category>
+      <guid isPermaLink="false">eco-en-batons:youtube:Q-Yih-TWFqk</guid>
+      <source url="https://otisdave.github.io/social-feed/feed.xml">Éco en bâtons</source>
+    </item>
+    <item>
+      <title>L’opinion de Marc sur le SaaSpocalypse, épisode 61 enregistré en août 2026</title>
+      <link>https://www.youtube.com/watch?v=Tl8jNSr8K-Y</link>
+      <description>L’opinion de Marc sur le SaaSpocalypse, épisode 61 enregistré en août 2026</description>
+      <pubDate>Wed, 21 Oct 2026 20:37:21 GMT</pubDate>
+      <category>youtube</category>
+      <guid isPermaLink="false">investi-qc:youtube:Tl8jNSr8K-Y</guid>
+      <source url="https://otisdave.github.io/social-feed/feed.xml">Investi QC</source>
+    </item>
+    <item>
+      <title>Nvidia expliquée comme si vous aviez 5 ans</title>
+      <link>https://www.youtube.com/watch?v=UJD4YZW3AvI</link>
+      <description>En 1993, trois ingénieurs fondent Nvidia autour d'une table de Denny's. Quatre ans plus tard, il ne reste à l'entreprise qu'un mois de salaires en caisse. Au 16 octobre 2026, la Bourse la valorise 5 170 milliards de dollars : c'est l'entreprise la plus valorisée du monde. Entre les deux, deux mauvaises puces, un chèque de Sega que son patron avait annoncé « très probablement perdu », un logiciel pour doctorants, et un concours d'images gagné par deux cartes de jeu. On suit l'histoire en cinq étapes : la mauvaise puce, la survie, le pari, la preuve, les blocages. Et ce pari concerne votre quotidien : c'est lui qui calcule, très souvent, la réponse quand vous posez une question à une IA.
+
+Et vous : laquelle de ces cinq étapes vous a le plus surpris ? Dites-le en commentaire.
+
+⏱️ Chapitres
+0:00 L'accroche
+1:15 Partie 1 — La puce à courbes
+3:00 Partie 2 — Un mois de salaires
+5:07 Partie 3 — Le hobby des doctorants
+6:58 Partie 4 — Deux cartes de jeu
+8:47 Partie 5 — L'échiquier
+12:16 Retour au Denny's
+
+📌 Sources (pages lues le 18/10/2026)
+- Nvidia, blog : « Denny's » et l'histoire de la création de l'entreprise ; Wikipédia : Nvidia, Jensen Huang, Dreamcast
+- SEC : rapports 10-K de Nvidia (exercices 1999 et 2026), communiqué des résultats du 2e trimestre de l'exercice 2027 ; 8-K du 08/02/2022 (abandon du rachat d'Arm) et du 26/08/2022 (licences d'exportation)
+- ImageNet : résultats du concours ILSVRC 2012 ; Nvidia, blog développeurs : AlexNet et les cartes GeForce
+- FTC, Nvidia, CMA (gov.uk), Commission européenne : dossier du rachat d'Arm (2020-2022)
+- BIS (département du Commerce des États-Unis) : nouvelles règles d'exportation du 17/10/2023
+- Banque mondiale : PIB du Royaume-Uni
+- companiesmarketcap.com et Forbes : valorisation boursière, 16 au 18/10/2026
+- Fortune (04/12/2025 et 21/06/2024) : propos de Jensen Huang sur la faillite ; VGC, Yahoo et TNW : l'investissement de Sega (5 millions de dollars)
+
+🎞️ Photos et crédits
+- photo de Jensen Huang © Anderseidesvik, CC BY-SA 4.0 (commons.wikimedia.org) : https://commons.wikimedia.org/wiki/File:Jensen_huang_stanford_2026-04-30_010.jpg
+- « Denny's Restaurant in Brooklyn NY », Bonnachoven, CC0, via Wikimedia Commons
+- Puce Nvidia TU104 (GeForce RTX 2080), Fritzchens Fritz, CC0, via Wikimedia Commons
+Musique : bibliothèque audio YouTube.
+Les dessins sont des illustrations ; les chiffres sont datés (valorisation au 16/10/2026) et bougent chaque jour. « À trente jours de la faillite » est la formule de Jensen Huang, pas un chiffre comptable. Les 5 millions de dollars de Sega sont un investissement dans l'entreprise, pas le paiement d'un travail. Explication générale, pas un conseil en investissement.</description>
+      <pubDate>Wed, 21 Oct 2026 16:53:04 GMT</pubDate>
+      <category>youtube</category>
+      <guid isPermaLink="false">eco-en-batons:youtube:UJD4YZW3AvI</guid>
+      <source url="https://otisdave.github.io/social-feed/feed.xml">Éco en bâtons</source>
+    </item>
+    <item>
+      <title>L’endettement des neoclouds est-il alarmant?</title>
+      <link>https://www.youtube.com/watch?v=tbyYjxbBiwY</link>
+      <description>L’endettement des neoclouds est-il alarmant?</description>
+      <pubDate>Wed, 21 Oct 2026 15:37:05 GMT</pubDate>
+      <category>youtube</category>
+      <guid isPermaLink="false">investi-qc:youtube:tbyYjxbBiwY</guid>
+      <source url="https://otisdave.github.io/social-feed/feed.xml">Investi QC</source>
+    </item>
+    <item>
+      <title>2009 : les primes de Wall Street remontent, Occupy Wall Street en 2011 (crise de 2008)</title>
+      <link>https://www.youtube.com/watch?v=R-TtFaCYq7U</link>
+      <description>Pendant ce temps, Wall Street se relève : en 2009, les primes de ses salariés remontent à plus de 20 milliards de dollars à New York. La colère éclate : en septembre 2011, le mouvement Occupy Wall Street s'installe dans un parc de New York, au cri de « Nous sommes les 99 % ». Aucun dirigeant des grandes banques n'a été condamné pénalement pour la crise : un cadre de Credit Suisse a fait de la prison, et les banques ont surtout payé des amendes. Une idée s'installe : quand une banque se trompe, on la sauve, et quand vous vous trompez, vous perdez votre maison.
+#Shorts #crise2008 #OccupyWallStreet #économie
+
+Vidéo complète : https://youtu.be/sLE_ng4e8n8</description>
+      <pubDate>Wed, 21 Oct 2026 15:30:38 GMT</pubDate>
+      <category>youtube</category>
+      <guid isPermaLink="false">eco-en-batons:youtube:R-TtFaCYq7U</guid>
+      <source url="https://otisdave.github.io/social-feed/feed.xml">Éco en bâtons</source>
+    </item>
+    <item>
+      <title>Lehman Brothers : la ruée bancaire moderne, sans file devant les agences (15 septembre 2008)</title>
+      <link>https://www.youtube.com/watch?v=BtsTDjfTF8w</link>
+      <description>Lehman a un point faible en plus de son levier : elle emprunte chaque jour, au jour le jour. Sa survie dépend de sa liquidité, c'est-à-dire de l'argent disponible tout de suite : chaque matin, des prêteurs doivent accepter de lui prêter à nouveau. La vraie cause de la chute est là : au fil des mois, ses prêteurs à très court terme s'en vont, une ruée bancaire moderne, sans file devant les agences. Après un dernier week-end de négociations sans repreneur, Lehman Brothers dépose le bilan le lundi 15 septembre 2008 au matin.
+Photo : Lehman Brothers, Times Square — David Shankbone, CC BY-SA 3.0, via Wikimedia Commons (https://commons.wikimedia.org/?curid=2559779).
+#Shorts #crise2008 #Lehman #économie
+
+Vidéo complète : https://youtu.be/sLE_ng4e8n8</description>
+      <pubDate>Wed, 21 Oct 2026 14:00:20 GMT</pubDate>
+      <category>youtube</category>
+      <guid isPermaLink="false">eco-en-batons:youtube:BtsTDjfTF8w</guid>
+      <source url="https://otisdave.github.io/social-feed/feed.xml">Éco en bâtons</source>
+    </item>
+    <item>
+      <title>AIG et Lehman : 3 % de pertes suffisent à effacer l'argent propre d'une banque endettée</title>
+      <link>https://www.youtube.com/watch?v=YYqlcjyqbfI</link>
+      <description>Qui vend ces assurances en masse ? Surtout l'assureur AIG, qui en a vendu pour plus de 500 milliards de dollars fin 2007, dont environ 78 milliards sur des CDO. Le prêt des Miller, famille imaginaire, passe dans un paquet, puis dans un CDO noté triple A, assuré par AIG, et imaginons qu'il finisse chez Lehman Brothers. Or Lehman investit surtout avec de l'argent emprunté, c'est le levier : fin 2007, pour chaque dollar à elle, elle en avait emprunté une trentaine. Une perte d'un peu plus de 3 % sur ses placements suffit alors à effacer tout son argent propre, comme si vous achetiez une maison avec 3 % d'apport.
+#Shorts #crise2008 #AIG #Lehman
+
+Vidéo complète : https://youtu.be/sLE_ng4e8n8</description>
+      <pubDate>Wed, 21 Oct 2026 12:00:26 GMT</pubDate>
+      <category>youtube</category>
+      <guid isPermaLink="false">eco-en-batons:youtube:YYqlcjyqbfI</guid>
+      <source url="https://otisdave.github.io/social-feed/feed.xml">Éco en bâtons</source>
+    </item>
+    <item>
+      <title>Recevoir 3000$ par Mois en Dividendes | Combien Faut-il Avoir?</title>
+      <link>https://www.youtube.com/watch?v=Gi4LwGXsaB4</link>
+      <description>Abonnez-vous à mon infolettre Analyse360:
+https://traders360.ca/product/infolettre-analyse-360
+
+Ma formation pour les investisseurs autonomes:
+https://formation-traders360.mykajabi.com/inscription
+
+Ép. 353
+Recevoir 3,000$ par mois sans travailler davantage, ça fait rêver. Mais combien faut-il avoir en placements pour que vos dividendes paient une partie de vos factures? Si vous pensez avoir trouvé un raccourci avec un fonds qui verse 15% par année, écoutez cet épisode avant de faire vos calculs. Vous pourriez vous appauvrir malgré le fait de recevoir de l'argent à chaque mois.
+
+Suivez-moi sur Facebook, Instagram et Tiktok:
+https://www.facebook.com/firmetraders360/
+https://www.instagram.com/alextraders360
+https://www.tiktok.com/@alexdemers360
+
+
+AVIS LÉGAL: Les propos de l'animateur ne doivent en aucun cas être interprétés comme une recommandation d’achat d'une action sur les marchés boursiers. Alexandre Demers n'est pas un conseiller financier et toutes les informations partagées dans ce balado ne reflète que son opinion personnelle. Consultez un professionnel accrédité auprès de l'AMF pour obtenir des conseils appropriés à votre situation.
+
+00:00 Intro
+01:17 Rendement des dividendes
+02:28 3,000$ par mois
+04:02 Imposition des dividendes
+06:25 Dividende vs intérêt
+07:18 Fonds covered-calls
+11:54 Dividende de BMO</description>
+      <pubDate>Tue, 20 Oct 2026 22:00:12 GMT</pubDate>
+      <category>youtube</category>
+      <guid isPermaLink="false">alex-demers-finance360:youtube:Gi4LwGXsaB4</guid>
+      <source url="https://otisdave.github.io/social-feed/feed.xml">Alex Demers — Finance 360</source>
+    </item>
+    <item>
+      <title>On a trouvé une étoile verte (et c’est la faute de ses planètes) DNDE</title>
+      <link>https://www.youtube.com/watch?v=BYXUATGZaoo</link>
+      <description>Dernières Nouvelles des Étoiles (DNDE) est un format hebdomadaire qui fait le tour de l’actualité spatiale. SpaceX, NASA, ESA, Chine : quels seront les prochains grands défis de l’humanité en matière d’exploration de l’espace ?
+Au programme cette semaine : une naine blanche dont la lumière nous apparaîtrait verte et une étonnante palette de couleurs stellaires, les nouvelles infrastructures de Blue Origin pour multiplier les vols de New Glenn, le report du premier lancement de Neutron à 2027 et le deuxième étage de Stoke Space qui rejoint son centre d’essais pour préparer une fusée entièrement réutilisable.
+
+Retrouvez les podcasts sur Spotify: https://open.spotify.com/show/4tSLoAKS8jh4mVftHpkkb3
+
+
+Sources :
+Une naine blanche verte:
+https://arxiv.org/html/2610.18966v1
+Blue Origin prépare la montée en cadence de New Glenn :
+https://www.blueorigin.com/news/building-infrastructure-for-more-frequent-launches-in-florida
+Rocket Lab :
+https://www.youtube.com/watch?v=2wAcXQSgbS0
+Stoke Space :
+https://x.com/stoke_space/status/2110393372284174432
+https://www.stokespace.com/news/scaling-nova
+
+Musiques : Pedro Macedo Camacho / Star Citizen, Utho Riley et Gérald M. Dorai
+Images : University of Warwick, Mark A. Hollands et al., Mark A. Garlick, Blue Origin, Rocket Lab, Stoke Space
+Moteur 3D : Space Engine Pro</description>
+      <pubDate>Tue, 20 Oct 2026 16:00:27 GMT</pubDate>
+      <category>youtube</category>
+      <guid isPermaLink="false">hugo-lisoir:youtube:BYXUATGZaoo</guid>
+      <source url="https://otisdave.github.io/social-feed/feed.xml">Hugo Lisoir</source>
+    </item>
+    <item>
+      <title>Le tiers de mon portefeuille dépend de ce qui se passe avec OpenAl et Anthropic</title>
+      <link>https://www.youtube.com/watch?v=9X9D6b7-Sig</link>
+      <description>Ça fait réfléchir à mon exposition réelle au trade sur l'IA.
+
+Détenir plusieurs actions peut donner une impression de diversification mais leurs rendements peuvent dépendre du même pari.
+
+En investissant dans d'autres industries, je réduis progressivement ma surconcentration dans le secteur de la tech, tout en gardant une exposition au potentie de l'IA.</description>
+      <pubDate>Mon, 19 Oct 2026 22:36:47 GMT</pubDate>
+      <category>youtube</category>
+      <guid isPermaLink="false">alex-demers-finance360:youtube:9X9D6b7-Sig</guid>
+      <source url="https://otisdave.github.io/social-feed/feed.xml">Alex Demers — Finance 360</source>
+    </item>
+    <item>
+      <title>Le plus gros RISQUE sur le marché américain c’est le trade sur l’IA</title>
+      <link>https://www.youtube.com/watch?v=id9qsHCR_tM</link>
+      <description>Toute l'économie américaine semble dépendre du succès ou de l'échec de l'IA.
+
+En fait, tout l'écosystème repose de façon fragile sur la réussite commerciale d'OpenAl et d'Anthropic.
+
+Je garde mon exposition mais je diversifie ailleurs.
+
+Et vous, quel % de ton portefeuille dépend de l'IA?</description>
+      <pubDate>Sun, 18 Oct 2026 21:56:50 GMT</pubDate>
+      <category>youtube</category>
+      <guid isPermaLink="false">alex-demers-finance360:youtube:id9qsHCR_tM</guid>
+      <source url="https://otisdave.github.io/social-feed/feed.xml">Alex Demers — Finance 360</source>
+    </item>
+    <item>
+      <title>Le plan fou du Japon pour ramener Mars sur Terre avant tout le monde !</title>
+      <link>https://www.youtube.com/watch?v=b8S3KNTAkoU</link>
+      <description>D’où viennent les lunes de Mars ? Astéroïdes capturés, vestiges d’une collision gigantesque ou fragments d’un corps déchiré par la gravité : Phobos et Déimos gardent encore le secret de leur naissance. La mission japonaise MMX s’apprête à partir à leur rencontre, avec un programme exceptionnel : explorer les deux lunes, déposer le rover franco-allemand Idefix sur Phobos et rapporter des échantillons sur Terre.
+Dans ce nouveau Dossier de l’espace, nous suivons cette aventure qui pourrait aussi nous offrir un nouveau regard sur Mars elle-même. Car parmi les grains prélevés sur Phobos pourraient se cacher des fragments arrachés à la planète rouge par des impacts ! Comment les identifier ? Que pourront-ils nous apprendre ? Et comment faire rouler un petit robot dans une gravité deux mille fois plus faible que sur Terre ?
+
+Retrouvez les podcasts sur Sportif : https://open.spotify.com/show/4tSLoAKS8jh4mVftHpkkb3
+
+
+
+Sources :
+https://www.mmx.jaxa.jp/en/mission/
+https://www.mmx.jaxa.jp/en/science/
+https://cnes.fr/projets/mmx/en-details
+https://www.nasa.gov/general/making-mars-moons-supercomputers-offer-disruptive-new-explanation-2/
+https://www.dlr.de/en/research-and-transfer/projects-and-missions/mmx/intelligent-wheels-safe-locomotion-on-unknown-terrain
+
+Musiques : Pedro Macedo Camacho / Star Citizen, Utho Riley et Gérald M. Dorai
+Images : JAXA, CNES, DLR, NASA, ESA
+Moteur 3D : Space Engine Pro</description>
+      <pubDate>Thu, 15 Oct 2026 16:00:05 GMT</pubDate>
+      <category>youtube</category>
+      <guid isPermaLink="false">hugo-lisoir:youtube:b8S3KNTAkoU</guid>
+      <source url="https://otisdave.github.io/social-feed/feed.xml">Hugo Lisoir</source>
+    </item>
+    <item>
+      <title>S'enrichir avec la Bourse | Mes CRAINTES Face au Trade sur l'IA</title>
+      <link>https://www.youtube.com/watch?v=G7b4SEnzI9s</link>
+      <description>Abonnez-vous à mon infolettre Analyse360:
+https://traders360.ca/product/infolettre-analyse-360
+
+Ma formation pour les investisseurs autonomes:
+https://formation-traders360.mykajabi.com/inscription
+
+Ép. 352
+Votre peur de perdre en Bourse pourrait vous coûter des années de rendement composé. À force d’attendre le moment parfait pour investir, vous risquez de laisser passer d’excellentes opportunités d’investissement. De l’autre côté, jusqu’où faut-il accepter le risque lié aux actions? Dans cet épisode, je vous partage ce qui me préoccupe et ce que je change dans mon propre portefeuille.
+
+Suivez-moi sur Facebook, Instagram et Tiktok:
+https://www.facebook.com/firmetraders360/
+https://www.instagram.com/alextraders360
+https://www.tiktok.com/@alexdemers360
+
+AVIS LÉGAL: Les propos de l'animateur ne doivent en aucun cas être interprétés comme une recommandation d’achat d'une action sur les marchés boursiers. Alexandre Demers n'est pas un conseiller financier et toutes les informations partagées dans ce balado ne reflète que son opinion personnelle. Consultez un professionnel accrédité auprès de l'AMF pour obtenir des conseils appropriés à votre situation.
+
+
+00:00 Intro
+00:22 Tolérance au risque
+02:04 Obligations à 10 ans
+05:09 Le plus gros risque
+05:38 Oracle (ORCL)
+07:08 Bloom Energy (BE)
+07:40 Le trade sur l'IA
+08:33 Mon portefeuille
+10:27 Krach boursier?
+11:35 Avez-vous peur?</description>
+      <pubDate>Tue, 13 Oct 2026 22:00:07 GMT</pubDate>
+      <category>youtube</category>
+      <guid isPermaLink="false">alex-demers-finance360:youtube:G7b4SEnzI9s</guid>
+      <source url="https://otisdave.github.io/social-feed/feed.xml">Alex Demers — Finance 360</source>
+    </item>
+    <item>
+      <title>Incroyable, une planète naît des cendres de son étoile ! DNDE</title>
+      <link>https://www.youtube.com/watch?v=LEeF2xTmTR0</link>
+      <description>15% de réduction sur votre eSIM Saily avec le code HUGOLISOIR : https://saily.com/hugolisoir
+
+
+
+Dernières Nouvelles des Étoiles (DNDE) est un format hebdomadaire qui fait le tour de l’actualité spatiale. SpaceX, NASA, ESA, Chine : quels seront les prochains grands défis de l’humanité en matière de conquête et d’exploration de l’espace ?
+Au programme cette semaine : une possible planète née des restes de son étoile après sa mort, la NASA qui lance son appel d’offres final pour les stations commerciales de l’après-ISS, The Exploration Company qui prépare les essais de son démonstrateur lunaire ONEIROS et HyPrSpace qui inaugure La Boulangerie, son usine destinée à produire les futurs lanceurs Baguette.
+
+Retrouvez les podcasts sur Sportif : https://open.spotify.com/show/4tSLoAKS8jh4mVftHpkkb3
+
+
+
+Sources :
+Une planète de seconde génération :
+https://www.nature.com/articles/s41550-026-02983-7
+L’appel d’offres de la NASA :
+https://www.nasa.gov/news-release/nasa-seeks-us-industry-plans-for-commercial-space-stations/
+ONEIROS, le démonstrateur de The Exploration Company :
+https://iafastro.directory/iac/paper/id/106897/abstract-pdf/IAC-26,A3,2A,10,x106897.brief.pdf
+HyPrSpace inaugure La Boulangerie :
+https://lachroniquespatiale.com/2026/10/02/hyprspace-ouvre-sa-boulangerie/
+
+Musiques : Pedro Macedo Camacho / Star Citizen, Utho Riley et Gérald M. Dorai
+Images : NASA, ESA, STScI, Université de Warwick, Axiom Space, Blue Origin, Starlab Space, Vast, The Exploration Company, HyPrSpace, DGA
+Moteur 3D : Space Engine Pro</description>
+      <pubDate>Tue, 13 Oct 2026 16:00:26 GMT</pubDate>
+      <category>youtube</category>
+      <guid isPermaLink="false">hugo-lisoir:youtube:LEeF2xTmTR0</guid>
+      <source url="https://otisdave.github.io/social-feed/feed.xml">Hugo Lisoir</source>
+    </item>
+    <item>
+      <title>La bourse atteint des records mais les opportunités d'investissement n'ont pas toutes disparu</title>
+      <link>https://www.youtube.com/watch?v=LK9nBads_FQ</link>
+      <description>Même quand les indices sont à des sommets historiques, certaines actions peuvent être temporairement sous-évaluées.
+
+Mes récents achats dans Home Depot, American Express, Spotify et Sony reflètent cette approche.</description>
+      <pubDate>Mon, 12 Oct 2026 22:18:37 GMT</pubDate>
+      <category>youtube</category>
+      <guid isPermaLink="false">alex-demers-finance360:youtube:LK9nBads_FQ</guid>
+      <source url="https://otisdave.github.io/social-feed/feed.xml">Alex Demers — Finance 360</source>
+    </item>
+    <item>
+      <title>J’ai acheté des actions de Spotify (SPOT) à 475$US #bourse</title>
+      <link>https://www.youtube.com/watch?v=aMUlzGfvH-U</link>
+      <description>Ma thèse : Spotify peut mieux monétiser son auditoire et accélérer la croissance de ses revenus publicitaires.
+
+Les abonnements payants attirent l'attention mais je vois aussi du potentiel du côté des annonceurs.</description>
+      <pubDate>Mon, 12 Oct 2026 14:02:43 GMT</pubDate>
+      <category>youtube</category>
+      <guid isPermaLink="false">alex-demers-finance360:youtube:aMUlzGfvH-U</guid>
+      <source url="https://otisdave.github.io/social-feed/feed.xml">Alex Demers — Finance 360</source>
+    </item>
+    <item>
+      <title>Nouvelle découverte sur Mars : de l'eau chaude sous Jezero ?</title>
+      <link>https://www.youtube.com/watch?v=JWSEhbN7QyQ</link>
+      <description>Mars a-t-elle pu abriter la vie ? Dans le cratère Jezero, Perseverance a découvert des roches qui témoignent d’au moins trois épisodes d’interaction avec l’eau liquide. Des circulations souterraines à l’ancien lac, jusqu’au passage de fluides chauds, ces indices révèlent une histoire complexe et ouvrent de nouvelles pistes pour comprendre l’habitabilité passée de la planète rouge.
+
+Sources :
+https://www.nature.com/articles/s43247-026-03997-9
+https://www.nasa.gov/solar-system/planets/mars/nasa-discovery-reveals-complex-water-systems-on-early-mars/
+https://science.nasa.gov/mission/mars-sample-return/
+https://english.www.gov.cn/news/202507/23/content_WS68803af3c6d0868f4e8f45d3.html
+https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/ExoMars_rover_targets_vast_bed_of_clay_in_search_for_life
+
+Musiques : Pedro Macedo Camacho / Star Citizen, Utho Riley et Gérald M. Dorai
+Images : NASA, JPL-Caltech, MSSS, ESA, CNSA.
+Moteur 3D : Space Engine Pro</description>
+      <pubDate>Thu, 08 Oct 2026 16:00:38 GMT</pubDate>
+      <category>youtube</category>
+      <guid isPermaLink="false">hugo-lisoir:youtube:JWSEhbN7QyQ</guid>
+      <source url="https://otisdave.github.io/social-feed/feed.xml">Hugo Lisoir</source>
+    </item>
+    <item>
+      <title>La Bourse Cache une Correction (et j’ai commencé à acheter)</title>
+      <link>https://www.youtube.com/watch?v=ZHUlvQbMUG8</link>
+      <description>Abonnez-vous à mon infolettre Analyse360:
+https://traders360.ca/product/infolettre-analyse-360
+
+Ma formation pour les investisseurs autonomes:
+https://formation-traders360.mykajabi.com/inscription
+
+Ép. 351
+Vous attendez une correction pour acheter en Bourse? Elle est peut-être déjà commencée sur les actions que vous ne regardez pas. Pendant que les indices sont tout près de leurs records, j'ai grossi 2 positions et j'ai ajouté 2 nouvelles entreprises dans mon portefeuille. Je vous dévoile mes achats, les prix payés et pourquoi j’y vois du potentiel malgré les risques.
+
+Suivez-moi sur Facebook, Instagram et Tiktok:
+https://www.facebook.com/firmetraders360/
+https://www.instagram.com/alextraders360
+https://www.tiktok.com/@alexdemers360
+
+
+AVIS LÉGAL: Les propos de l'animateur ne doivent en aucun cas être interprétés comme une recommandation d’achat d'une action sur les marchés boursiers. Alexandre Demers n'est pas un conseiller financier et toutes les informations partagées dans ce balado ne reflète que son opinion personnelle. Consultez un professionnel accrédité auprès de l'AMF pour obtenir des conseils appropriés à votre situation.
+
+
+00:00 Intro
+00:24 Indices boursiers
+02:27 Taux obligataires
+03:43 Confiance des consommateurs
+05:17 Achat d'actions
+06:51 Nouvelle position 1
+09:01 Nouvelle position 2
+12:08 Conclusion</description>
+      <pubDate>Tue, 06 Oct 2026 22:00:30 GMT</pubDate>
+      <category>youtube</category>
+      <guid isPermaLink="false">alex-demers-finance360:youtube:ZHUlvQbMUG8</guid>
+      <source url="https://otisdave.github.io/social-feed/feed.xml">Alex Demers — Finance 360</source>
+    </item>
+    <item>
+      <title>Un SIGNAL RADIO capté sur une EXOPLANÈTE : une première !</title>
+      <link>https://www.youtube.com/watch?v=YNruo4jIT0g</link>
+      <description>Profitez de 60% de réduction sur l'abonnement annuel Incogni : https://incogni.com/hugolisoir
+
+
+Dernières Nouvelles des Étoiles (DNDE) est un format hebdomadaire qui fait le tour de l’actualité spatiale. SpaceX, NASA, ESA, Chine : quels seront les prochains grands défis de l’humanité en matière d’exploration de l’espace ?
+Au programme cette semaine : une première détection radio directement attribuée à l’exoplanète Bêta Pictoris b révèle son puissant champ magnétique, la mission LINK échoue à sauver le télescope Swift, Roman poursuit sa mise en route avec ses premières images de test, et Starship atteint l’orbite lors de son vol 14 tandis que SpaceX prépare une transition commerciale qui pourrait progressivement fermer l’accès à Falcon 9 autour de 2028–2029.
+
+Retrouvez les podcasts sur Sportif : https://open.spotify.com/show/4tSLoAKS8jh4mVftHpkkb3
+
+
+Sources :
+Bêta Pictoris b :
+https://arxiv.org/abs/2609.16720
+LINK &amp; swift :
+https://science.nasa.gov/missions/swift/nasa-highlights-lessons-learned-from-swift-boost-mission/
+Roman :
+https://science.nasa.gov/blogs/roman/2026/09/15/nasa-activates-romans-primary-instrument-checks-out-coronagraph/
+Starship :
+https://www.spacex.com/launches/starship-flight-14
+Falcon 9 : fermeture progressive des nouvelles réservations commerciales
+https://www.spaceintelreport.com/spacex-tells-prospective-falcon-9-commercial-customers-that-the-rocket-is-no-longer-accepting-new-reservations/
+
+Musiques : Pedro Macedo Camacho / Star Citizen, Utho Riley et Gérald M. Dorai
+Images : NASA, NASA’s Goddard Space Flight Center, NASA/JPL-Caltech, STScI, Caltech/IPAC, Katalyst Space, SpaceX, K. N. Ortiz Ceballos, E. Berger et Y. Cendes
+Moteur 3D : Space Engine Pro</description>
+      <pubDate>Tue, 06 Oct 2026 16:00:13 GMT</pubDate>
+      <category>youtube</category>
+      <guid isPermaLink="false">hugo-lisoir:youtube:YNruo4jIT0g</guid>
+      <source url="https://otisdave.github.io/social-feed/feed.xml">Hugo Lisoir</source>
+    </item>
+    <item>
+      <title>1000$ par mois pendant 30 ans peut devenir plus de 2 millions #bourse</title>
+      <link>https://www.youtube.com/watch?v=sjxiOgDqg90</link>
+      <description>Avec un rendement annuel moyen de 10%, le plus difficile c'est le début.
+
+Il faut près de 17 ans pour atteindre les premiers 500000$ puis seulement 6 ans de plus pour atteindre 1 million.</description>
+      <pubDate>Mon, 05 Oct 2026 22:04:04 GMT</pubDate>
+      <category>youtube</category>
+      <guid isPermaLink="false">alex-demers-finance360:youtube:sjxiOgDqg90</guid>
+      <source url="https://otisdave.github.io/social-feed/feed.xml">Alex Demers — Finance 360</source>
+    </item>
+    <item>
+      <title>J'ai multiplié mon investissement par 7 en 18 mois avec AMD #bourse</title>
+      <link>https://www.youtube.com/watch?v=7hg0wphh6KQ</link>
+      <description>Un rendement de 600% aussi rapidement c'est exceptionnel. On ne peut pas bâtir sa stratégie de placements en espérant répéter ce genre d'exploit.
+
+En bourse, notre plan d'investissement doit fonctionner même sans coup de circuit.</description>
+      <pubDate>Sun, 04 Oct 2026 22:44:20 GMT</pubDate>
+      <category>youtube</category>
+      <guid isPermaLink="false">alex-demers-finance360:youtube:7hg0wphh6KQ</guid>
+      <source url="https://otisdave.github.io/social-feed/feed.xml">Alex Demers — Finance 360</source>
+    </item>
+    <item>
+      <title>D'où vient vraiment l'objet interstellaire 3I/ATLAS ? On a une nouvelle piste !</title>
+      <link>https://www.youtube.com/watch?v=Rg2wOiV9vak</link>
+      <description>3I/ATLAS continue de livrer ses secrets ! De nouvelles observations de sa queue ont révélé une signature chimique qui suggère une formation dans un froid extrême, probablement sous les −240 °C.
+
+------------------------------------
+
+Sources :
+
+https://www.ras.ac.uk/news-and-press/research-highlights/secrets-interstellar-comet-3iatlas-revealed
+
+https://doi.org/10.1093/mnras/stag1402
+
+https://arxiv.org/abs/2603.06911
+
+https://arxiv.org/abs/2508.18209
+
+------------------------------------
+
+Musiques : Pedro Macedo Camacho / Star Citizen, Utho Riley et Gérald M. Dorai
+
+Images : NASA, ESA, CSA, STScI, NSF–DOE Vera C. Rubin Observatory, NOIRLab, AURA, Royal Astronomical Society, Léa Ferellec, Isaac Newton Group of Telescopes, Daniel López.
+
+Moteur 3D : Space Engine Pro</description>
+      <pubDate>Sun, 04 Oct 2026 16:06:17 GMT</pubDate>
+      <category>youtube</category>
+      <guid isPermaLink="false">hugo-lisoir:youtube:Rg2wOiV9vak</guid>
+      <source url="https://otisdave.github.io/social-feed/feed.xml">Hugo Lisoir</source>
+    </item>
+    <item>
+      <title>Ce robot a trouvé des FOSSILES en s'entraînant pour Mars</title>
+      <link>https://www.youtube.com/watch?v=QSWqnNCGhuo</link>
+      <description>LEMUR, un robot de la NASA (JPL), escalade des parois rocheuses grâce à des centaines d'hameçons de pêche montés sur ses pinces. Lors d'un test dans la Vallée de la Mort, il a même repéré des fossiles de stromatolithes vieux d'environ 500 millions d'années. Les rovers comme Curiosity et Perseverance ne peuvent pas grimper : ce type de robot pourrait un jour explorer les falaises de Mars et lire l'histoire de son eau.
+
+🎥 Images : NASA/JPL-Caltech (2019)
+https://www.jpl.nasa.gov/videos/nasa-climbing-robot-scales-cliffs-and-looks-for-life/
+
+#nasa #mars #robot</description>
+      <pubDate>Fri, 02 Oct 2026 13:50:40 GMT</pubDate>
+      <category>youtube</category>
+      <guid isPermaLink="false">hugo-lisoir:youtube:QSWqnNCGhuo</guid>
+      <source url="https://otisdave.github.io/social-feed/feed.xml">Hugo Lisoir</source>
+    </item>
+    <item>
+      <title>James Webb découvre une planète trop froide… et personne ne sait pourquoi</title>
+      <link>https://www.youtube.com/watch?v=4OQbVUny1A8</link>
+      <description>À quelque 550 années-lumière de la Terre, HATS-6b boucle son orbite en à peine plus de trois jours. Pourtant, les observations du télescope spatial James Webb suggèrent une température atmosphérique près de 200 degrés inférieure à celle attendue. Comment expliquer cet écart ?
+
+Sources :
+https://arxiv.org/abs/2608.16990
+https://today.umd.edu/briefs/umd-led-study-detects-ammonia-and-unexpected-chill-on-a-distant-giant-planet
+https://arxiv.org/abs/1408.1758
+
+Musiques : Pedro Macedo Camacho / Star Citizen, Utho Riley et Gérald M. Dorai
+Images : NASA, ESA, CSA, STScI, HATSouth, Université du Maryland
+Moteur 3D : Space Engine Pro</description>
+      <pubDate>Thu, 01 Oct 2026 16:00:05 GMT</pubDate>
+      <category>youtube</category>
+      <guid isPermaLink="false">hugo-lisoir:youtube:4OQbVUny1A8</guid>
+      <source url="https://otisdave.github.io/social-feed/feed.xml">Hugo Lisoir</source>
+    </item>
+    <item>
+      <title>Comment Devenir Millionnaire avec la Bourse | Investisseur Québécois</title>
+      <link>https://www.youtube.com/watch?v=YUP2h1EZnnk</link>
+      <description>Ma formation pour les investisseurs autonomes:
+https://formation-traders360.mykajabi.com/inscription
+
+Abonnez-vous à mon infolettre Analyse360:
+https://traders360.ca/product/infolettre-analyse-360
+
+Ép. 350
+Votre premier million en bourse n’est pas aussi difficile que vous pourriez le penser. Faut-il prendre de gros risques, trouver la prochaine action qui explose ou simplement investir autrement? Dans cet épisode, je remets en question ce que vous croyez nécessaire pour bâtir un portefeuille à 7 chiffres. Écoutez jusqu’à la fin pour découvrir combien vous devriez investir chaque mois selon le temps que vous avez devant vous.
+
+Suivez-moi sur Facebook, Instagram et Tiktok:
+https://www.facebook.com/firmetraders360/
+https://www.instagram.com/alextraders360
+https://www.tiktok.com/@alexdemers360
+
+AVIS LÉGAL: Les propos de l'animateur ne doivent en aucun cas être interprétés comme une recommandation d’achat d'une action sur les marchés boursiers. Alexandre Demers n'est pas un conseiller financier et toutes les informations partagées dans ce balado ne reflète que son opinion personnelle. Consultez un professionnel accrédité auprès de l'AMF pour obtenir des conseils appropriés à votre situation.
+
+
+00:00 Intro
+00:30 Un million en placements
+02:40 Cotisations vs Rendement
+04:05 Le piège à éviter
+05:20 Stock picking ou FNB
+06:41 Peur de la bourse
+08:42 Combien investir par mois
+09:52 1000$ par mois
+11:48 Millionnaire avec la bourse</description>
+      <pubDate>Tue, 29 Sep 2026 22:00:21 GMT</pubDate>
+      <category>youtube</category>
+      <guid isPermaLink="false">alex-demers-finance360:youtube:YUP2h1EZnnk</guid>
+      <source url="https://otisdave.github.io/social-feed/feed.xml">Alex Demers — Finance 360</source>
+    </item>
+    <item>
+      <title>ENCELADE : deux études relancent la recherche de VIE EXTRATERRESTRE ! DNDE</title>
+      <link>https://www.youtube.com/watch?v=q92eiDMM-Ko</link>
+      <description>Dernières Nouvelles des Étoiles (DNDE) est un format hebdomadaire qui fait le tour de l’actualité spatiale. SpaceX, NASA, ESA, Chine : quels seront les prochains grands défis de l’humanité en matière d’exploration de l’espace ?
+Au programme cette semaine : deux études renforcent l’intérêt d’Encelade pour la recherche de vie et la détection de signatures biologiques dans ses geysers, l’Italie négocie sa participation aux habitats lunaires américains en échange de missions pour ses astronautes, Google et la Chine avancent dans le calcul en orbite, et AstroForge prépare une mission entièrement autonome pour ouvrir la voie à l’exploitation des astéroïdes.
+
+Sources :
+Encelade :
+https://www.science.org/doi/10.1126/sciadv.aei0167
+https://www.science.org/doi/10.1126/sciadv.aee7256
+Italie–NASA :
+https://www.mimit.gov.it/it/notizie-stampa/spazio-urso-firma-a-washington-accordo-con-la-nasa-sul-modulo-abitativo-lunare-italiano
+https://europeanspaceflight.com/italy-to-spend-over-5-billion-to-send-two-astronauts-to-the-moon/
+Google Suncatcher :
+https://blog.google/innovation-and-ai/models-and-research/google-research/google-project-suncatcher-facts/
+Supercomputing-1 :
+https://www.cas-space.com/article/606.html
+AstroForge :
+https://www.astroforge.com/updates-collection/introducing-autonomy-1-the-first-autonomous-space-mission-powered-by-solo
+
+Musiques : Pedro Macedo Camacho / Star Citizen, Utho Riley et Gérald M. Dorai
+Images : NASA, ESA, ASI, JPL-Caltech, Space Science Institute, Freie Universität Berlin, Thales Alenia Space, Google, Planet Labs, SpaceX, CAS Space, AstroForge, Stoke Space
+Moteur 3D : Space Engine Pro</description>
+      <pubDate>Tue, 29 Sep 2026 16:00:09 GMT</pubDate>
+      <category>youtube</category>
+      <guid isPermaLink="false">hugo-lisoir:youtube:q92eiDMM-Ko</guid>
+      <source url="https://otisdave.github.io/social-feed/feed.xml">Hugo Lisoir</source>
+    </item>
+    <item>
+      <title>Je surveille le prix des actions de Home Depot (HD) qui continue de baisser #bourse</title>
+      <link>https://www.youtube.com/watch?v=FPFddWz-kuk</link>
+      <description>Je suis déjà actionnaire d'Home Depot et je considère que le titre est temporairement sous-évalué.
+
+Selon moi, le fort ralentissement de l'immobilier aux États-Unis pèse sur les perspectives de l'entreprise etsur le prix que les investisseurs sont prêts à payer.
+
+Ma thèse c'est que les difficultés actuelles ne dureront pas éternellement. Une reprise des transactions et des rénovations pourrait redonner de l'élan à Home Depot.
+
+Reste à voir combien de temps il faudra patienter.</description>
+      <pubDate>Mon, 28 Sep 2026 22:13:57 GMT</pubDate>
+      <category>youtube</category>
+      <guid isPermaLink="false">alex-demers-finance360:youtube:FPFddWz-kuk</guid>
+      <source url="https://otisdave.github.io/social-feed/feed.xml">Alex Demers — Finance 360</source>
+    </item>
+    <item>
+      <title>Je suis déjà actionnaire de McDonald’s avec un prix d'achat moyen de 250$ #mcd</title>
+      <link>https://www.youtube.com/watch?v=7Pt0DKYeZq8</link>
+      <description>McDonald's baisse en bourse et ça commence à m'ouvrir l'appétit.
+
+Je surveille de près le prix de l’action.
+
+Si le prix continue de descendre, je pourrais penser à grossir ma position.</description>
+      <pubDate>Mon, 28 Sep 2026 00:04:57 GMT</pubDate>
+      <category>youtube</category>
+      <guid isPermaLink="false">alex-demers-finance360:youtube:7Pt0DKYeZq8</guid>
+      <source url="https://otisdave.github.io/social-feed/feed.xml">Alex Demers — Finance 360</source>
+    </item>
+    <item>
+      <title>Ce robot explore 38 fois plus vite qu'un rover de la NASA !  #insolite #espace #science</title>
+      <link>https://www.youtube.com/watch?v=OA8BKtyYrzM</link>
+      <description>Ces chiens-robots s'entraînent à explorer Mars, dans une grotte de Californie.
+
+Dans un tube de lave au nord de la Californie, trois robots Spot de Boston Dynamics avancent seuls, dans le noir. Le JPL (NASA) les a équipés de capteurs et de son propre logiciel d'autonomie. Le vrai sujet, ce n'est pas le robot, c'est ce qu'il y a dans sa tête : son programme.
+
+Un rover à roues ne peut pas descendre dans ce genre de terrain. Curiosity avance à peine à 140 mètres par heure, sur du plat, avec validation humaine à chaque mètre. Ces robots à quatre pattes, eux, marchent à 5 km/h, franchissent des éboulis, se relèvent quand ils tombent, et explorent 38 fois plus vite qu'un rover classique.
+
+Une fois dans la grotte, la roche coupe toute communication. Personne ne les pilote : ils cartographient les parois au laser, choisissent leur chemin et se répartissent le travail entre eux, en totale autonomie.
+
+Pourquoi les grottes ? Sur Mars, la surface est stérilisée par les radiations (pas de champ magnétique, atmosphère trop fine). Sous terre, l'environnement est protégé. Les tubes de lave martiens pourraient donc avoir préservé des traces de vie ou de chimie avancée, et constituer un abri naturel pour une future base humaine.
+
+Mars est criblée de ces tubes de lave, avec des puits d'effondrement visibles depuis l'orbite, certains larges de 100 mètres. Personne ne sait ce qu'il y a au fond. Prochaine étape : y envoyer un groupe de chiens-robots.
+
+#espace #nasa #mars</description>
+      <pubDate>Fri, 25 Sep 2026 15:00:24 GMT</pubDate>
+      <category>youtube</category>
+      <guid isPermaLink="false">hugo-lisoir:youtube:OA8BKtyYrzM</guid>
+      <source url="https://otisdave.github.io/social-feed/feed.xml">Hugo Lisoir</source>
+    </item>
+    <item>
+      <title>On s'est peut-être trompé sur l'avenir de l'Univers !</title>
+      <link>https://www.youtube.com/watch?v=bto83Kuv8Fk</link>
+      <description>L’énergie noire évolue-t-elle avec le temps ? Près de trente ans après la découverte de l’accélération de l’expansion de l’Univers, l’analyse Unite rassemble les observations de 2 884 supernovas et entretient le doute sur la constante cosmologique. Dans ce Dossier de l’Espace, retour sur ces explosions qui permettent de mesurer le cosmos, les indices d’une énergie noire dynamique et ce qu’une confirmation changerait pour notre compréhension de l’Univers… et de son avenir.
+
+Sources :
+https://arxiv.org/abs/2609.05053
+https://arxiv.org/abs/2609.05321
+https://arxiv.org/abs/2605.27221
+https://newscenter.lbl.gov/2025/03/19/new-desi-results-strengthen-hints-that-dark-energy-may-evolve/
+https://news.uq.edu.au/2026-09-big-supernova-dataset-challenges-dark-energy-theory
+
+Musiques : Pedro Macedo Camacho / Star Citizen, Utho Riley et Gérald M. Dorai
+Images : [crédits à compléter selon les visuels utilisés]
+Moteur 3D : Space Engine Pro
+
+#science #energie #espace</description>
+      <pubDate>Thu, 24 Sep 2026 16:00:32 GMT</pubDate>
+      <category>youtube</category>
+      <guid isPermaLink="false">hugo-lisoir:youtube:bto83Kuv8Fk</guid>
+      <source url="https://otisdave.github.io/social-feed/feed.xml">Hugo Lisoir</source>
+    </item>
+    <item>
+      <title>Ce robot de la NASA roule À L'ENVERS sous la glace (et c'est voulu)</title>
+      <link>https://www.youtube.com/watch?v=7k6iqeYkWDw</link>
+      <description>Ce rover de la NASA roule à l'envers, sous la glace. Et ça va lui permettre d'explorer une lune de Jupiter.
+
+BRUIE (Buoyant Rover for Under-Ice Exploration) est un robot flottant, plus léger que l'eau, qui se plaque naturellement contre la face inférieure de la banquise en Antarctique. Contrairement à un sous-marin classique, il n'a besoin d'aucune énergie pour maintenir sa position : il flotte, c'est tout.
+
+Cette zone, la face cachée de la glace, est l'un des endroits les plus riches en vie de l'océan polaire (algues, krill). Une caractéristique qui en fait un site d'entraînement idéal pour la vraie mission de BRUIE : Europe, une lune de Jupiter qui abrite sous 20 km de glace un océan plus grand que tous les océans terrestres réunis. Encelade, autour de Saturne, en cache un également.
+
+Le défi restant ? Personne ne sait encore traverser 20 km de glace. La NASA travaille sur des sondes chauffées capables de fondre leur chemin sur plusieurs années.
+
+En attendant, BRUIE s'entraîne près de la station australienne de Casey, dans des trous creusés à la main.
+
+#espace #nasa #europa</description>
+      <pubDate>Wed, 23 Sep 2026 09:38:23 GMT</pubDate>
+      <category>youtube</category>
+      <guid isPermaLink="false">hugo-lisoir:youtube:7k6iqeYkWDw</guid>
+      <source url="https://otisdave.github.io/social-feed/feed.xml">Hugo Lisoir</source>
+    </item>
+    <item>
+      <title>La Bourse est Trop Chère? | Voici les Actions que je Surveille</title>
+      <link>https://www.youtube.com/watch?v=GVSmvESL9zY</link>
+      <description>Ma formation pour les investisseurs autonomes:
+https://formation-traders360.mykajabi.com/inscription
+
+Abonnez-vous à mon infolettre Analyse360:
+https://traders360.ca/product/infolettre-analyse-360
+
+Ép. 349
+Les indices sont près de leur sommet historique, les taux remontent et quelques secteurs se font massacrer en bourse. McDonald’s, Domino’s Pizza, Chipotle, Home Depot, Lowe’s et Whirlpool ont tous reculé mais certaines de ces baisses pourraient peut-être cacher de bonnes opportunités. Dans cet épisode, je regarde où ça commence à devenir intéressant et surtout comment faire la différence entre une action sous-évaluée et un value-trap.
+
+Suivez-moi sur Facebook, Instagram et Tiktok:
+https://www.facebook.com/firmetraders360/
+https://www.instagram.com/alextraders360
+https://www.tiktok.com/@alexdemers360
+
+AVIS LÉGAL: Les propos de l'animateur ne doivent en aucun cas être interprétés comme une recommandation d’achat d'une action sur les marchés boursiers. Alexandre Demers n'est pas un conseiller financier et toutes les informations partagées dans ce balado ne reflète que son opinion personnelle. Consultez un professionnel accrédité auprès de l'AMF pour obtenir des conseils appropriés à votre situation.
+
+
+00:00 Intro
+00:36 Hausse de taux (Fed)
+02:17 McDonald's (MCD)
+05:25 Domino's et Chipotle
+07:33 Marché immobilier US
+09:20 Home Depot (HD)
+10:56 Lowe's (LOW)
+11:50 Whirlpool (WHR)
+13:08 Action sous-évaluée?</description>
+      <pubDate>Tue, 22 Sep 2026 22:00:15 GMT</pubDate>
+      <category>youtube</category>
+      <guid isPermaLink="false">alex-demers-finance360:youtube:GVSmvESL9zY</guid>
+      <source url="https://otisdave.github.io/social-feed/feed.xml">Alex Demers — Finance 360</source>
+    </item>
+    <item>
+      <title>La Lune a été frappée par un astéroïde géant (et on ne l'a vu que 1 an après)</title>
+      <link>https://www.youtube.com/watch?v=KdIbwdplJyA</link>
+      <description>Dernières Nouvelles des Étoiles (DNDE) est un format hebdomadaire qui fait le tour de l’actualité spatiale. SpaceX, NASA, ESA, Chine : quels seront les prochains grands défis de l’humanité en matière d’exploration de l’espace ?
+Au programme cette semaine : Lunar Reconnaissance Orbiter découvre un nouveau cratère de 222 mètres apparu récemment sur la Lune, Starship tente pour la première fois de rejoindre véritablement l’orbite, le télescope Nancy Grace Roman pourrait disposer d’assez d’ergols pour fonctionner pendant plus de vingt ans, tandis que les États-Unis reconnaissent pour la première fois avoir déployé des systèmes d’armes directement en orbite.
+
+Sources :
+Nouveau cratère lunaire McGetchin :
+https://science.nasa.gov/solar-system/moon/nasas-moon-orbiter-spots-new-once-in-century-moon-crater/
+https://www.science.org/doi/10.1126/sciadv.aeh7812
+Starship vol 14 :
+https://www.spacex.com/launches/starship-flight-14
+Nancy Grace Roman Space Telescope :
+https://arstechnica.com/space/2026/09/the-roman-telescope-has-enough-gas-for-22-years-double-nasas-expectations/
+Armes américaines en orbite :
+https://arstechnica.com/space/2026/09/for-the-first-time-the-us-military-confirms-it-has-deployed-weapons-in-orbit/
+
+Musiques : Pedro Macedo Camacho / Star Citizen, Utho Riley et Gérald M. Dorai
+Images : NASA, GSFC, Arizona State University, Lunar Reconnaissance Orbiter Camera, Diviner, CNSA, SpaceX, NASA Goddard, US Space Force, US Air Force
+Moteur 3D : Space Engine Pro</description>
+      <pubDate>Tue, 22 Sep 2026 16:00:25 GMT</pubDate>
+      <category>youtube</category>
+      <guid isPermaLink="false">hugo-lisoir:youtube:KdIbwdplJyA</guid>
+      <source url="https://otisdave.github.io/social-feed/feed.xml">Hugo Lisoir</source>
+    </item>
+    <item>
+      <title>Ils ont fait décoller un SATELLITE alimenté par une batterie ATOMIQUE</title>
+      <link>https://www.youtube.com/watch?v=OvgbtL5Kl6A</link>
+      <description>Dans cette vidéo spéciale abonnée, on découvre Bohr, un satellite qui exploite une nouvelle source d'énergie nucléaire.
+
+Source:
+
+https://citylabs.net/first-commercial-nuclear-powered-satellite-aboard-spacex-transporter-17/
+https://arstechnica.com/space/2026/07/miami-based-city-labs-achieves-a-first-for-commercial-nuclear-power-in-space/
+https://citylabs.net/technology-overview/
+https://citylabs.net/betavoltaics-explained/
+
+---------------------------------
+Planning des publications de la chaîne :
+Mardi 18H : DNDE - actualité spatiale
+Jeudi 18H : Les dossiers de l'espace
+
+Un Dimanche sur deux 18H : ce format
+------------------------------------
+Suivez-moi sur Twitter : https://twitter.com/hugolisoir
+Venez voir les lives sur Twitch : https://www.twitch.tv/hugolisoir
+Discutez avec la communauté sur discord : https://discord.com/invite/vTyg7JW4dP
+On est aussi sur Facebook : https://www.facebook.com/Hugo-Lisoir-1770249776339404/
+Suivez l'Instagram D'Hugo : https://www.instagram.com/hugolisoir/?hl=en
+------------------------------------
+Moteur 3D : Space Engine Pro
+Images : City Labs, SpaceX, NASA</description>
+      <pubDate>Sun, 20 Sep 2026 15:00:00 GMT</pubDate>
+      <category>youtube</category>
+      <guid isPermaLink="false">hugo-lisoir:youtube:OvgbtL5Kl6A</guid>
+      <source url="https://otisdave.github.io/social-feed/feed.xml">Hugo Lisoir</source>
+    </item>
+  </channel>
+</rss>
