@@ -37,6 +37,16 @@ def main() -> None:
             page_errors = []
             page.on("pageerror", lambda error: page_errors.append(str(error)))
             page.route("https://**/*", lambda route: route.abort())
+            stale_scripts = []
+
+            def stale_asset(route):
+                stale_scripts.append(route.request.url)
+                route.fulfill(content_type="text/javascript", body=(
+                    "throw new Error('Unversioned cached script must not be used.');"
+                ))
+
+            for name in ("app.js", "publication.js", "embeds.js"):
+                page.route(base + name, stale_asset)
             feed_fixture = {
                 **archive,
                 "items": [video, facebook, {
@@ -141,6 +151,7 @@ def main() -> None:
             page.locator("#publication-error").wait_for(state="visible")
             assert "503" in page.locator("#publication-error").inner_text()
             assert not page_errors, page_errors
+            assert not stale_scripts, stale_scripts
             browser.close()
         print("Feed and internal pages: inline playback, single player, navigation, consent, embeds, fallbacks, safe text, responsive layout and errors OK.")
     finally:

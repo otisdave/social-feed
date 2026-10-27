@@ -39,6 +39,11 @@ et un lien direct vers la source officielle restent disponibles sur chaque carte
 Le démarrage est demandé au clic, mais le navigateur ou le fournisseur peut
 exiger un clic supplémentaire sur son propre bouton de lecture.
 
+Les scripts, imports JavaScript et feuilles de style utilisent un identifiant
+de version dans leur URL. Lors d'un changement du contrat HTML/JavaScript ou des
+styles, mettre à jour cet identifiant dans les deux pages HTML et les imports :
+cela évite de réutiliser un ancien script en cache avec un nouveau gabarit.
+
 Le lecteur YouTube (domaine `youtube-nocookie.com`) ou la publication/vidéo
 Facebook officielle est chargé seulement après un clic explicite. Aucun lecteur
 tiers n'est chargé avant ce consentement; les miniatures sont toutefois chargées

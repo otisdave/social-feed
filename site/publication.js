@@ -1,4 +1,4 @@
-import { safeHttps, embedFor, createEmbed } from './embeds.js';
+import { safeHttps, embedFor, createEmbed } from './embeds.js?v=inline-player-2';
 
 const byId = (id) => document.getElementById(id);
 

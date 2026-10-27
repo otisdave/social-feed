@@ -1,4 +1,4 @@
-import { embedFor, createEmbed } from './embeds.js';
+import { embedFor, createEmbed } from './embeds.js?v=inline-player-2';
 
 const PAGE_SIZE = 12;
 const PLATFORM_NAMES = { youtube: 'YouTube', reddit: 'Reddit', facebook: 'Facebook' };
