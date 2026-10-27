@@ -2,7 +2,7 @@
   "version": 1,
   "title": "Social Feed",
   "description": "Un seul fil pour suivre les sources qui comptent.",
-  "generated_at": "2026-10-27T19:49:48.626706+00:00",
+  "generated_at": "2026-10-27T20:44:01.045903+00:00",
   "sources": [
     {
       "id": "eco-en-batons",
@@ -11,7 +11,7 @@
       "url": "https://www.youtube.com/@Eco_en_batons",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-10-27T19:49:48.626706+00:00",
+      "last_success_at": "2026-10-27T20:44:01.045903+00:00",
       "item_count": 15
     },
     {
@@ -21,7 +21,7 @@
       "url": "https://www.youtube.com/@investi-qc",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-10-27T19:49:48.626706+00:00",
+      "last_success_at": "2026-10-27T20:44:01.045903+00:00",
       "item_count": 15
     },
     {
@@ -31,7 +31,7 @@
       "url": "https://www.youtube.com/@hugolisoiryoutube",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-10-27T19:49:48.626706+00:00",
+      "last_success_at": "2026-10-27T20:44:01.045903+00:00",
       "item_count": 16
     },
     {
@@ -41,7 +41,7 @@
       "url": "https://www.youtube.com/@alexdemers-finance360",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-10-27T19:49:48.626706+00:00",
+      "last_success_at": "2026-10-27T20:44:01.045903+00:00",
       "item_count": 15
     },
     {
@@ -51,7 +51,7 @@
       "url": "https://www.facebook.com/GuildWars/",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-10-27T19:49:48.626706+00:00",
+      "last_success_at": "2026-10-27T20:44:01.045903+00:00",
       "item_count": 2
     },
     {
@@ -61,8 +61,8 @@
       "url": "https://www.facebook.com/LOTRO/",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-10-27T19:49:48.626706+00:00",
-      "item_count": 1
+      "last_success_at": "2026-10-27T20:44:01.045903+00:00",
+      "item_count": 2
     },
     {
       "id": "ville-de-lavaltrie",
@@ -71,8 +71,8 @@
       "url": "https://www.facebook.com/VilleDeLavaltrie/",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-10-27T19:49:48.626706+00:00",
-      "item_count": 1
+      "last_success_at": "2026-10-27T20:44:01.045903+00:00",
+      "item_count": 2
     },
     {
       "id": "traders-360",
@@ -81,11 +81,47 @@
       "url": "https://www.facebook.com/firmetraders360/",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-10-27T19:49:48.626706+00:00",
-      "item_count": 2
+      "last_success_at": "2026-10-27T20:44:01.045903+00:00",
+      "item_count": 3
     }
   ],
   "items": [
+    {
+      "id": "facebook:100064792208382:1628940965942295",
+      "title": "The LOTRO game worlds will be unavailable on Wednesday, October 28th from 9:00 AM - 1:00 PM Eastern (-4 GMT) to release ",
+      "url": "https://www.facebook.com/LOTRO/posts/pfbid02jkpYyw4FTMeqAbWaFue4PYzWXx4ucwYj6C5z7NGc3GNBhrDFyVardePP62kgbBqPl",
+      "published_at": "2026-10-27T20:36:54+00:00",
+      "updated_at": "2026-10-27T20:36:54+00:00",
+      "description": "The LOTRO game worlds will be unavailable on Wednesday, October 28th from 9:00 AM - 1:00 PM Eastern (-4 GMT) to release Update 50: The Wolves of Mordor. Find the release notes on LOTRO.com: https://www.lotro.com/update-notes/lotro-update-50",
+      "image_url": null,
+      "source_id": "lotro",
+      "source_name": "The Lord of the Rings Online",
+      "platform": "facebook"
+    },
+    {
+      "id": "facebook:100064655653099:1566582352173605",
+      "title": "La conférence 𝐅𝐨𝐫𝐜𝐞 𝐦𝐚𝐣𝐞𝐮𝐫𝐞 𝐝’𝐄𝐯𝐞𝐥𝐲𝐧𝐞 𝐑𝐨𝐮𝐬𝐬𝐞𝐚𝐮 est bien plus qu’une conférence : c’est une histoire de courage, de passi",
+      "url": "https://www.facebook.com/VilleDeLavaltrie/posts/pfbid033YRFX6eGzh2YRBEg7e6WhhdRCYNFhvRmeQLpn1u7tYmRm1oobL9fvncPV5PSf9ECl",
+      "published_at": "2026-10-27T19:52:00+00:00",
+      "updated_at": "2026-10-27T19:52:00+00:00",
+      "description": "La conférence 𝐅𝐨𝐫𝐜𝐞 𝐦𝐚𝐣𝐞𝐮𝐫𝐞 𝐝’𝐄𝐯𝐞𝐥𝐲𝐧𝐞 𝐑𝐨𝐮𝐬𝐬𝐞𝐚𝐮 est bien plus qu’une conférence : c’est une histoire de courage, de passion et de transmission.\n\nGrâce à Pol Brisset, le souhait d’Evelyne de partager son message continue de rayonner et de tou",
+      "image_url": null,
+      "source_id": "ville-de-lavaltrie",
+      "source_name": "Ville de Lavaltrie",
+      "platform": "facebook"
+    },
+    {
+      "id": "facebook:100063889127390:1658541796285442",
+      "title": "La croissance reste ordinaire mais la rentabilité s’améliore.",
+      "url": "https://www.facebook.com/firmetraders360/posts/pfbid0Pak7eY5xVegwPHt8JQgTcWGExKmrRUMiTTjFMuSMKMbNDKBXLrjueRG6S7dBLYNRl",
+      "published_at": "2026-10-27T18:58:24+00:00",
+      "updated_at": "2026-10-27T18:58:24+00:00",
+      "description": "La croissance reste ordinaire mais la rentabilité s’améliore.\n\nPayPal a généré 8,6 milliards de revenus, une hausse de seulement 2% sur un an. Par contre, le bénéfice par action est de 1,45$ au-dessus des 1,31$ attendus.\n\nLa compagnie a aus",
+      "image_url": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.99422-6/866318059_28737240729231977_3662586960399337933_n.png?stp=dst-jpg_tt6&cstp=mx1328x1488&ctp=s565x565&_nc_cat=105&ccb=1-7&_nc_sid=127cfc&_nc_ohc=sQfqfPqtNOQQ7kNvwGo-CQh&_nc_oc=Adq_pZS_qe8iXWaROLBHbBh73YGSBA0KrZkGQ3JdzEsGQpx9QpwO-YBFqsFez9bMulg&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=Sd_dhKXFzmWIngdmzYWaLQ&_nc_ss=7f289&oh=00_AQPknOS5ERnC-eaNr_7h73mB5B6D4oNbQyItghMu4-tbCg&oe=6AE6F33D",
+      "source_id": "traders-360",
+      "source_name": "Traders 360",
+      "platform": "facebook"
+    },
     {
       "id": "youtube:Rq_a_LLLKtE",
       "title": "10 ans après, ces deux explosions cosmiques restent inexplicables ! DNDE",
@@ -213,7 +249,7 @@
       "published_at": "2026-10-26T18:01:05+00:00",
       "updated_at": "2026-10-26T18:01:05+00:00",
       "description": "We looked all over Kamadan for you... 👻\n\nDidn't make it to the Halloween meetup? Here's what you missed! Drop your costume in the replies so we know you were there in spirit. 🎃\n\n#GuildWarsReforged #GuildWars",
-      "image_url": "https://scontent-ord5-1.xx.fbcdn.net/v/t15.5256-10/867849540_1148916977809238_6780334540241726130_n.jpg?stp=dst-jpg_tt6&cstp=mx1920x1080&ctp=s960x960&_nc_cat=106&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=nJpeEXsh01EQ7kNvwGK465F&_nc_oc=AdqzVANBMqlc3QGe0LkbaTLr_en2DK9memz7-xrcPZG3SN_TT1j_8HH61DulsPNWPes&_nc_zt=23&_nc_ht=scontent-ord5-1.xx&_nc_gid=kUZiByeeiww65B0gxIDEzA&_nc_ss=7f289&oh=00_AQM78DxRqCf9zevOMkvL9frUJVOix31SWXHBlKE_GnmJuQ&oe=6AE6EC47",
+      "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t15.5256-10/867849540_1148916977809238_6780334540241726130_n.jpg?stp=dst-jpg_tt6&cstp=mx1920x1080&ctp=s960x960&_nc_cat=106&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=nJpeEXsh01EQ7kNvwEvPahZ&_nc_oc=Adq4MpTA35L1LcegWB3Mxrsvc8VMV7_P7WEsKnikwf3aGM7I8WtClDGCaDE_QAAgM7U&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&_nc_gid=zsTvkdzvbxzwQ9r-UQi19w&_nc_ss=7f289&oh=00_AQP_c-6G4crA9G6kPssKVizq3XgBJsGqfc7YWjtYsScFyQ&oe=6AE6EC47",
       "source_id": "guild-wars",
       "source_name": "Guild Wars",
       "platform": "facebook"
