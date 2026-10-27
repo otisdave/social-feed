@@ -154,7 +154,9 @@ def facebook(source: dict, render: Callable[[str], str] = render_public_page) ->
             image_url = None
             for attachment in story.get("attachments") or []:
                 media = ((attachment.get("styles") or {}).get("attachment") or {}).get("media") or {}
-                image_url = (media.get("thumbnailImage") or media.get("image") or {}).get("uri")
+                image_url = (
+                    media.get("thumbnailImage") or media.get("image") or media.get("photo_image") or {}
+                ).get("uri")
                 if image_url:
                     break
             publication = Publication(

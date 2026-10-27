@@ -11,6 +11,13 @@ from urllib.parse import urlencode
 from playwright.sync_api import sync_playwright
 
 
+PNG = bytes.fromhex(
+    "89504e470d0a1a0a0000000d4948445200000001000000010806000000"
+    "1f15c4890000000d49444154789c6360f8cfc0f01f0005000201a5f1b6"
+    "d80000000049454e44ae426082"
+)
+
+
 def main(browser_name: str = "chromium") -> None:
     directory = Path(__file__).resolve().parents[1] / "site"
     handler = functools.partial(SimpleHTTPRequestHandler, directory=str(directory))
@@ -110,10 +117,18 @@ def main(browser_name: str = "chromium") -> None:
             page.locator("#retry-embed").click()
             assert page.locator("iframe").count() == 1
             assert "Firefox" in page.locator("#embed-fallback").inner_text()
+            assert "Edge" in page.locator("#embed-fallback").inner_text()
             page.locator("#close-embed").click()
             assert page.locator("iframe").count() == 0
             assert page.locator("#activate-embed").is_visible()
+            assert page.locator("#embed-privacy").is_hidden()
+            page.reload()
+            page.locator("#publication[aria-busy=false]").wait_for()
+            assert page.locator("iframe").count() == 0, "a closed player must stay closed"
             page.locator("#activate-embed").click()
+            assert page.locator("iframe").count() == 1
+            page.reload()
+            page.locator("#publication[aria-busy=false]").wait_for()
             assert page.locator("iframe").count() == 1
             page.go_back()
             page.go_forward()
@@ -141,13 +156,24 @@ def main(browser_name: str = "chromium") -> None:
             assert "Firefox" in page.locator("#embed-fallback").inner_text()
             page.locator("#retry-embed").click()
             assert page.locator("iframe").count() == 1
+            assert "▶" in page.locator("#embed-privacy").inner_text()
             page.locator("#close-embed").click()
             assert page.locator("iframe").count() == 0
             assert page.locator("#publication-description").is_visible()
             assert page.locator("#official-link").is_visible()
-            post = {**facebook, "url": "https://www.facebook.com/Test/posts/123456789/"}
+            assert "lecteur Facebook" in page.locator("#activate-embed").inner_text()
+            page.locator("#activate-embed").click()
+            assert page.locator("iframe").count() == 1
+            image_url = "https://scontent.example.fbcdn.net/photo.png"
+            page.route(image_url, lambda route: route.fulfill(content_type="image/png", body=PNG))
+            post = {**facebook, "url": "https://www.facebook.com/Test/posts/123456789/", "image_url": image_url}
             use_fixture(post)
             assert "/plugins/post.php?" in page.locator("iframe").get_attribute("src")
+            assert "▶" not in page.locator("#embed-privacy").inner_text()
+            assert "lecture" not in page.locator("#embed-privacy").inner_text().lower()
+            assert "🚫" in page.locator("#embed-fallback").inner_text()
+            page.locator("#publication-image").wait_for(state="visible")
+            assert page.locator("#preview").is_visible(), "archived image stays visible below the embed"
             for width in (375, 768, 1280):
                 page.set_viewport_size({"width": width, "height": 900})
                 assert page.evaluate("document.documentElement.scrollWidth <= innerWidth")
@@ -166,7 +192,7 @@ def main(browser_name: str = "chromium") -> None:
             assert not page_errors, page_errors
             assert not stale_scripts, stale_scripts
             browser.close()
-        print("Image-only feed and automatic article players: navigation, no autoplay, retry/close, fallbacks, safe text, responsive layout and errors OK.")
+        print("Image-only feed and automatic article players: navigation, remembered close, archived fallback, Edge help, no autoplay, retry/close, fallbacks, safe text, responsive layout and errors OK.")
     finally:
         server.shutdown()
         server.server_close()

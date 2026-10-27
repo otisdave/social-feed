@@ -1,6 +1,34 @@
-import { safeHttps, embedFor, createEmbed, embedHelp } from './embeds.js?v=article-players-5';
+import { safeHttps, embedFor, createEmbed, embedHelp } from './embeds.js?v=article-fallback-6';
 
 const byId = (id) => document.getElementById(id);
+const closedKey = (embed) => `social-feed:embed-closed:${embed.kind}`;
+
+function rememberClosed(embed, closed) {
+  try {
+    if (closed) localStorage.setItem(closedKey(embed), '1');
+    else localStorage.removeItem(closedKey(embed));
+  } catch {
+    // Storage can be disabled; the choice then lasts only for this page.
+  }
+}
+
+function wasClosed(embed) {
+  try {
+    return localStorage.getItem(closedKey(embed)) === '1';
+  } catch {
+    return false;
+  }
+}
+
+function showClosed(embed) {
+  const provider = embed.kind === 'facebook' ? 'Facebook' : 'YouTube';
+  byId('embed-container').replaceChildren();
+  byId('embed-controls').hidden = true;
+  byId('embed-fallback').hidden = true;
+  byId('embed-privacy').hidden = true;
+  byId('activate-embed').textContent = embed.isVideo ? `Afficher le lecteur ${provider}` : `Afficher la publication ${provider} intégrée`;
+  byId('activate-embed').hidden = false;
+}
 
 function activateEmbed(embed, title) {
   byId('embed-fallback').textContent = embedHelp(embed);
@@ -9,7 +37,7 @@ function activateEmbed(embed, title) {
   });
   byId('embed-container').replaceChildren(iframe);
   byId('activate-embed').hidden = true;
-  byId('preview').hidden = true;
+  byId('embed-privacy').hidden = false;
   byId('embed-fallback').hidden = false;
   byId('embed-controls').hidden = false;
 }
@@ -51,21 +79,21 @@ async function loadPublication() {
     const embed = embedFor(item);
     if (embed) {
       byId('embed-section').hidden = false;
-      byId('activate-embed').textContent = 'Réafficher le lecteur';
       byId('embed-privacy').textContent = embed.privacy;
-      byId('activate-embed').addEventListener('click', () => activateEmbed(embed, item.title));
+      byId('activate-embed').addEventListener('click', () => {
+        rememberClosed(embed, false);
+        activateEmbed(embed, item.title);
+      });
       byId('retry-embed').addEventListener('click', () => activateEmbed(embed, item.title));
       byId('close-embed').addEventListener('click', () => {
-        byId('embed-container').replaceChildren();
-        byId('embed-controls').hidden = true;
-        byId('embed-fallback').hidden = true;
-        byId('activate-embed').hidden = false;
-        byId('preview').hidden = !item.image_url || !byId('publication-image').naturalWidth;
+        rememberClosed(embed, true);
+        showClosed(embed);
         byId('activate-embed').focus();
       });
     }
     byId('detail').hidden = false;
-    if (embed) activateEmbed(embed, item.title);
+    if (embed && wasClosed(embed)) showClosed(embed);
+    else if (embed) activateEmbed(embed, item.title);
   } catch (error) {
     console.error('Unable to load publication:', error);
     byId('publication-error').textContent = `Impossible d’afficher cette publication. ${error.message}`;

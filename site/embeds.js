@@ -8,7 +8,8 @@ export function safeHttps(value) {
 
 export function embedHelp(embed) {
   const provider = embed.kind === 'facebook' ? 'Facebook' : 'YouTube';
-  return `Cadre blanc ou lecture bloquée ? ${provider} peut être bloqué par une protection anti-pistage, une extension ou ses propres restrictions. Sous Firefox, le bouclier près de l’adresse permet de consulter les blocages. Vous pouvez réessayer, fermer le lecteur ou ouvrir la source officielle, sans modifier vos protections.`;
+  const symptom = embed.isVideo ? 'Cadre gris, blanc ou lecture bloquée ?' : 'Cadre gris, blanc ou icône 🚫 ?';
+  return `${symptom} ${provider} peut être bloqué par la prévention du suivi du navigateur, une extension ou ses propres restrictions. Sous Edge, l’icône à gauche de l’adresse indique les éléments bloqués (prévention du suivi « Stricte »). Sous Firefox, consultez le bouclier près de l’adresse. Le contenu archivé reste affiché ci-dessous. Vous pouvez fermer le lecteur ou ouvrir la source officielle sans modifier vos protections.`;
 }
 
 export function embedFor(item, { width = 500 } = {}) {
@@ -33,7 +34,9 @@ export function embedFor(item, { width = 500 } = {}) {
       url: url.href,
       kind: 'facebook',
       isVideo,
-      privacy: 'Ce lecteur contacte Facebook dès son chargement et lui transmet votre adresse IP. Facebook peut utiliser des cookies ou demander une connexion. La lecture démarre avec le bouton ▶ du lecteur.',
+      privacy: isVideo
+        ? 'Ce lecteur contacte Facebook dès son chargement et lui transmet votre adresse IP. Facebook peut utiliser des cookies ou demander une connexion. La lecture démarre avec le bouton ▶ du lecteur.'
+        : 'Cette publication Facebook intégrée contacte Facebook dès son chargement et lui transmet votre adresse IP. Facebook peut utiliser des cookies ou demander une connexion.',
     };
   }
   return null;

@@ -33,8 +33,13 @@ L'accueil affiche uniquement des miniatures, sans lecteur ni commandes vidéo.
 Cliquer sur l'image, le titre ou « Voir la publication » ouvre la fiche détaillée.
 Un lien direct vers la source officielle reste disponible sur chaque carte.
 Le lecteur se charge automatiquement **uniquement dans la fiche de l'article** :
-il suffit de cliquer sur **▶ dans le lecteur** pour lancer la vidéo, sans étape
-intermédiaire. Aucune lecture automatique ni aucun son n'est lancé par le site.
+pour une vidéo, il suffit de cliquer sur **▶ dans le lecteur**, sans étape
+intermédiaire. Les publications Facebook sans vidéo s'affichent comme une
+publication intégrée. Aucune lecture automatique ni aucun son n'est lancé par le site.
+Le contenu archivé (image et texte) reste toujours affiché sous le lecteur.
+**Fermer le lecteur** est mémorisé par fournisseur dans ce navigateur : les
+fiches suivantes de ce fournisseur n'en chargent plus automatiquement jusqu'au
+clic sur « Afficher… ».
 
 Les scripts, imports JavaScript et feuilles de style utilisent un identifiant
 de version dans leur URL. Lors d'un changement du contrat HTML/JavaScript ou des
@@ -54,10 +59,11 @@ Le navigateur ne permet pas de détecter de façon fiable les refus à l'intéri
 d'une iframe tierce. Facebook affiche un extrait archivé de 240 caractères, pas
 une copie garantie du texte intégral; YouTube affiche la description archivée.
 
-Un cadre blanc ne signifie pas que le post est vide : Firefox, une extension,
-le réseau ou le fournisseur peuvent bloquer le lecteur. Les commandes
+Un cadre blanc ou gris (icône 🚫) ne signifie pas que le post est vide : la
+prévention du suivi d'Edge (mode « Stricte »), le bouclier de Firefox, une
+extension, le réseau ou le fournisseur peuvent bloquer le lecteur. Les commandes
 **Réessayer** et **Fermer le lecteur** sont disponibles sur la fiche de l'article,
-avec une aide indiquant le bouclier Firefox et le lien vers l'original.
+avec une aide pour Edge et Firefox et le lien vers l'original.
 Le site ne désactive ni ne contourne ces protections et ne prétend pas détecter
 automatiquement un refus interne à une iframe tierce.
 

@@ -53,6 +53,12 @@ class FacebookTests(unittest.TestCase):
     def test_deduplicates_repeated_script_payloads(self):
         self.assertEqual(len(facebook(SOURCE, lambda url: page([story(), story()]))), 1)
 
+    def test_extracts_images_from_photo_posts(self):
+        photo = story(attachments=[{"styles": {"attachment": {"media": {
+            "photo_image": {"uri": "https://example.com/photo.jpg"}
+        }}}}])
+        self.assertEqual(facebook(SOURCE, lambda url: page([photo]))[0].image_url, "https://example.com/photo.jpg")
+
     def test_limits_excerpts_and_preserves_real_publication_date(self):
         item = story(comet_sections={"content": {"story": {"message": {"text": "x" * 1000}}}})
         result = facebook(SOURCE, lambda url: page(item))[0]
