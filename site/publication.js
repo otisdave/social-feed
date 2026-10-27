@@ -1,4 +1,4 @@
-import { safeHttps, embedFor, createEmbed, embedHelp } from './embeds.js?v=direct-players-4';
+import { safeHttps, embedFor, createEmbed, embedHelp } from './embeds.js?v=article-players-5';
 
 const byId = (id) => document.getElementById(id);
 

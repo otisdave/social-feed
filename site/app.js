@@ -1,12 +1,9 @@
-import { embedFor, createEmbed, embedHelp } from './embeds.js?v=direct-players-4';
-
 const PAGE_SIZE = 12;
 const PLATFORM_NAMES = { youtube: 'YouTube', reddit: 'Reddit', facebook: 'Facebook' };
 const state = { items: [], source: 'all', platform: 'all', query: '', limit: PAGE_SIZE };
 const element = (id) => document.getElementById(id);
 const dateFormat = new Intl.DateTimeFormat('fr-CA', { day: 'numeric', month: 'short', year: 'numeric' });
 const timeFormat = new Intl.DateTimeFormat('fr-CA', { dateStyle: 'medium', timeStyle: 'short' });
-let pendingPlayers = [];
 
 function safeUrl(value) {
   const url = new URL(value);
@@ -48,54 +45,6 @@ function makeCard(item) {
     image.remove();
     imageLink.classList.add('no-image');
   }
-  const embed = embedFor(item);
-  if (embed?.isVideo) {
-    const play = card.querySelector('.card-play');
-    const player = card.querySelector('.card-player');
-    const playback = card.querySelector('.card-playback');
-    const stop = card.querySelector('.card-stop:not(.card-retry)');
-    const retry = card.querySelector('.card-retry');
-    const status = playback.querySelector('[role="status"]');
-    const privacy = card.querySelector('.card-privacy');
-    privacy.textContent = embed.privacy;
-    privacy.hidden = false;
-    play.hidden = false;
-    play.textContent = 'Réafficher le lecteur';
-    play.setAttribute('aria-label', `Réafficher le lecteur : ${item.title}`);
-    const close = () => {
-      player.replaceChildren();
-      player.hidden = true;
-      playback.hidden = true;
-      imageLink.hidden = false;
-      play.hidden = false;
-    };
-    const start = () => {
-      const activeEmbed = embedFor(item, {
-        width: player.parentElement.getBoundingClientRect().width,
-      });
-      status.textContent = embedHelp(activeEmbed);
-      player.replaceChildren(createEmbed(activeEmbed, item.title, () => {
-        status.textContent = 'Le lecteur n’a pas pu être chargé. Utilisez le lien vers la source officielle.';
-      }));
-      imageLink.hidden = true;
-      play.hidden = true;
-      player.hidden = false;
-      playback.hidden = false;
-    };
-    pendingPlayers.push(start);
-    play.addEventListener('click', () => {
-      start();
-      stop.focus();
-    });
-    retry.addEventListener('click', () => {
-      start();
-      stop.focus();
-    });
-    stop.addEventListener('click', () => {
-      close();
-      play.focus();
-    });
-  }
   card.querySelector('.platform-tag').textContent = PLATFORM_NAMES[item.platform] || item.platform;
   const date = card.querySelector('time');
   date.dateTime = item.published_at;
@@ -111,7 +60,6 @@ function makeCard(item) {
 }
 
 function render() {
-  pendingPlayers = [];
   const query = normalizeText(state.query.trim());
   const matches = state.items.filter((item) =>
     (state.source === 'all' || item.source_id === state.source) &&
@@ -121,8 +69,6 @@ function render() {
   const fragment = document.createDocumentFragment();
   matches.slice(0, state.limit).forEach((item) => fragment.append(makeCard(item)));
   element('publications').replaceChildren(fragment);
-  pendingPlayers.forEach((start) => start());
-  pendingPlayers = [];
   element('results').textContent = `${matches.length} publication${matches.length === 1 ? '' : 's'}`;
   element('empty').hidden = matches.length > 0;
   element('load-more').hidden = matches.length <= state.limit;

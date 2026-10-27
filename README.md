@@ -29,15 +29,12 @@ permettent de parcourir le fil. Les cartes ouvrent une page interne partageable
 (`publication.html?source=…&id=…`), avec le texte archivé, la date et un bouton
 permanent vers l'original. Les liens du RSS continuent de pointer vers l'original.
 
-Les cartes vidéo du fil affichent directement leur lecteur officiel, sans bouton
-intermédiaire. Il suffit de cliquer sur **▶ dans le lecteur** : aucune lecture
-automatique ni aucun son n'est lancé par le site. Les iframes utilisent le
-chargement différé natif du navigateur pour les contenus éloignés de l'écran.
-Plusieurs lecteurs peuvent être présents; leurs propres commandes contrôlent la
-lecture. Fermer un lecteur revient à la miniature et permet de le réafficher.
-Changer les filtres ou la pagination reconstruit les cartes et arrête les lecteurs
-précédents. Les liens vers la fiche détaillée et la source officielle restent
-disponibles sur chaque carte.
+L'accueil affiche uniquement des miniatures, sans lecteur ni commandes vidéo.
+Cliquer sur l'image, le titre ou « Voir la publication » ouvre la fiche détaillée.
+Un lien direct vers la source officielle reste disponible sur chaque carte.
+Le lecteur se charge automatiquement **uniquement dans la fiche de l'article** :
+il suffit de cliquer sur **▶ dans le lecteur** pour lancer la vidéo, sans étape
+intermédiaire. Aucune lecture automatique ni aucun son n'est lancé par le site.
 
 Les scripts, imports JavaScript et feuilles de style utilisent un identifiant
 de version dans leur URL. Lors d'un changement du contrat HTML/JavaScript ou des
@@ -45,7 +42,7 @@ styles, mettre à jour cet identifiant dans les deux pages HTML et les imports :
 cela évite de réutiliser un ancien script en cache avec un nouveau gabarit.
 
 Le lecteur YouTube (domaine `youtube-nocookie.com`) ou la publication/vidéo
-Facebook officielle apparaît aussi automatiquement sur la fiche détaillée.
+Facebook officielle apparaît automatiquement sur la fiche détaillée.
 **Les fournisseurs sont contactés dès le chargement du lecteur, avant tout clic
 sur ▶** : ils reçoivent l'adresse IP et peuvent utiliser des cookies ou des
 données de navigation. Une note le rappelle près de chaque lecteur. Les miniatures
@@ -59,8 +56,8 @@ une copie garantie du texte intégral; YouTube affiche la description archivée.
 
 Un cadre blanc ne signifie pas que le post est vide : Firefox, une extension,
 le réseau ou le fournisseur peuvent bloquer le lecteur. Les commandes
-**Réessayer** et **Fermer le lecteur** sont disponibles dans le fil et sur la
-fiche, avec une aide indiquant le bouclier Firefox et le lien vers l'original.
+**Réessayer** et **Fermer le lecteur** sont disponibles sur la fiche de l'article,
+avec une aide indiquant le bouclier Firefox et le lien vers l'original.
 Le site ne désactive ni ne contourne ces protections et ne prétend pas détecter
 automatiquement un refus interne à une iframe tierce.
 

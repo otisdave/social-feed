@@ -7,8 +7,8 @@
     <meta name="description" content="Les dernières publications de vos sources préférées, réunies dans un seul fil." />
     <title>Social Feed — Votre fil, simplement.</title>
     <link rel="alternate" type="application/rss+xml" title="Social Feed" href="./feed.xml" />
-    <link rel="stylesheet" href="./styles.css?v=direct-players-4" />
-    <script src="./app.js?v=direct-players-4" type="module"></script>
+    <link rel="stylesheet" href="./styles.css?v=article-players-5" />
+    <script src="./app.js?v=article-players-5" type="module"></script>
   </head>
   <body>
     <a class="skip-link" href="#publications">Aller aux publications</a>
@@ -59,17 +59,7 @@
     <footer><span>Un peu moins de défilement. Un peu plus de découvertes.</span><a href="https://github.com/otisdave/social-feed" target="_blank" rel="noopener noreferrer">Code source ↗</a></footer>
     <template id="card-template">
       <article class="card">
-        <div class="card-media">
-          <a class="card-image-link"><img loading="lazy" decoding="async" alt="" /></a>
-          <button class="card-play" type="button" hidden>▶ Lire ici</button>
-          <div class="card-player" hidden></div>
-        </div>
-        <div class="card-playback" hidden>
-          <button class="card-retry card-stop" type="button">Réessayer</button>
-          <button class="card-stop" type="button">Fermer le lecteur</button>
-          <p class="embed-note" role="status">Si la lecture est bloquée, utilisez le lien vers la source officielle.</p>
-        </div>
-        <p class="card-privacy" hidden></p>
+        <a class="card-image-link"><img loading="lazy" decoding="async" alt="" /></a>
         <div class="card-body">
           <div class="card-meta"><span class="platform-tag"></span><time></time></div>
           <h3><a></a></h3>

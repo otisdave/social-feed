@@ -60,8 +60,8 @@ def main(browser_name: str = "chromium") -> None:
             ))
             page.goto(base)
             page.locator("#publications[aria-busy=false]").wait_for()
-            assert page.locator("iframe").count() == 2
-            assert page.locator(".card-play:visible").count() == 0
+            assert page.locator("iframe").count() == 0
+            assert page.locator(".card-playback").count() == 0
             assert page.locator(".card-official").count() == 3
             video_card = page.locator(".card").filter(has=page.locator(
                 f'.card-official[href="{video["url"]}"]'
@@ -70,25 +70,18 @@ def main(browser_name: str = "chromium") -> None:
                 f'.card-official[href="{facebook["url"]}"]'
             ))
             assert page.url == base
-            assert "autoplay" not in video_card.locator("iframe").get_attribute("src")
-            assert video_card.locator("iframe").get_attribute("loading") == "lazy"
-            assert video_card.locator(".card-image-link").is_hidden()
-            assert video_card.locator(".card-play").is_hidden()
-            assert "/plugins/video.php?" in facebook_card.locator("iframe").get_attribute("src")
-            assert "autoplay" not in facebook_card.locator("iframe").get_attribute("src")
+            assert video_card.locator(".card-image-link").is_visible()
+            assert facebook_card.locator(".card-image-link").is_visible()
+            assert "publication.html?" in facebook_card.locator(".card-image-link").get_attribute("href")
             for width in (375, 768, 1280):
                 page.set_viewport_size({"width": width, "height": 900})
                 assert page.evaluate("document.documentElement.scrollWidth <= innerWidth")
-            facebook_card.locator(".card-retry").click()
-            assert page.locator("iframe").count() == 2
-            assert "Firefox" in facebook_card.locator('[role="status"]').inner_text()
-            facebook_card.locator(".card-stop:not(.card-retry)").click()
+            video_card.locator(".card-image-link").click()
+            page.locator("#detail").wait_for(state="visible")
             assert page.locator("iframe").count() == 1
-            assert facebook_card.locator(".card-play").evaluate(
-                "button => button === document.activeElement"
-            )
-            facebook_card.locator(".card-play").click()
-            assert page.locator("iframe").count() == 2
+            page.go_back()
+            page.locator("#publications[aria-busy=false]").wait_for()
+            assert page.locator("iframe").count() == 0
             page.locator("#search").fill("no-such-publication-12345")
             assert page.locator("iframe").count() == 0
             assert page.locator("#empty").is_visible()
@@ -173,7 +166,7 @@ def main(browser_name: str = "chromium") -> None:
             assert not page_errors, page_errors
             assert not stale_scripts, stale_scripts
             browser.close()
-        print("Feed and internal pages: automatic player loading without autoplay, retry/close, navigation, fallbacks, safe text, responsive layout and errors OK.")
+        print("Image-only feed and automatic article players: navigation, no autoplay, retry/close, fallbacks, safe text, responsive layout and errors OK.")
     finally:
         server.shutdown()
         server.server_close()
