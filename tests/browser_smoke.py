@@ -70,6 +70,10 @@ def main(browser_name: str = "chromium") -> None:
             assert page.locator("iframe").count() == 0
             assert page.locator(".card-playback").count() == 0
             assert page.locator(".card-official").count() == 3
+            assert page.locator(".card-image-link .platform-badge svg").count() == 3
+            assert page.locator(".platform-badge.facebook").count() == 2
+            assert page.locator(".platform-badge.youtube").first.inner_text() == "YouTube"
+            assert page.locator(".card-source svg").count() == 3
             video_card = page.locator(".card").filter(has=page.locator(
                 f'.card-official[href="{video["url"]}"]'
             ))

@@ -1,4 +1,4 @@
-import { safeHttps, embedFor, createEmbed, embedHelp } from './embeds.js?v=article-fallback-6';
+import { safeHttps, embedFor, createEmbed, embedHelp } from './embeds.js?v=platform-logos-7';
 
 const byId = (id) => document.getElementById(id);
 const closedKey = (embed) => `social-feed:embed-closed:${embed.kind}`;

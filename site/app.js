@@ -5,6 +5,42 @@ const element = (id) => document.getElementById(id);
 const dateFormat = new Intl.DateTimeFormat('fr-CA', { day: 'numeric', month: 'short', year: 'numeric' });
 const timeFormat = new Intl.DateTimeFormat('fr-CA', { dateStyle: 'medium', timeStyle: 'short' });
 
+const SVG_NS = 'http://www.w3.org/2000/svg';
+const PLATFORM_SHAPES = {
+  youtube: [
+    ['rect', { x: 1, y: 4.5, width: 22, height: 15, rx: 4.5, fill: '#ff0000' }],
+    ['path', { d: 'M9.75 8.5v7l6-3.5z', fill: '#fff' }],
+  ],
+  facebook: [
+    ['circle', { cx: 12, cy: 12, r: 11, fill: '#1877f2' }],
+    ['path', { d: 'M13.4 23v-8.3h2.8l.4-3.3h-3.2V9.3c0-.9.3-1.6 1.6-1.6h1.7V4.8c-.3 0-1.3-.1-2.5-.1-2.5 0-4.1 1.5-4.1 4.2v2.5H7.3v3.3h2.8V23z', fill: '#fff' }],
+  ],
+  reddit: [
+    ['circle', { cx: 12, cy: 12, r: 11, fill: '#ff4500' }],
+    ['ellipse', { cx: 12, cy: 14, rx: 6.5, ry: 4.3, fill: '#fff' }],
+    ['circle', { cx: 16.3, cy: 6.4, r: 1.4, fill: '#fff' }],
+    ['path', { d: 'M12 9.8l1-4 3.3.6', stroke: '#fff', 'stroke-width': 1, fill: 'none' }],
+    ['circle', { cx: 9.6, cy: 13.4, r: 1.1, fill: '#ff4500' }],
+    ['circle', { cx: 14.4, cy: 13.4, r: 1.1, fill: '#ff4500' }],
+  ],
+};
+
+function platformLogo(platform, size = 18) {
+  const svg = document.createElementNS(SVG_NS, 'svg');
+  svg.setAttribute('viewBox', '0 0 24 24');
+  svg.setAttribute('width', size);
+  svg.setAttribute('height', size);
+  svg.setAttribute('aria-hidden', 'true');
+  svg.setAttribute('focusable', 'false');
+  svg.classList.add('platform-logo');
+  for (const [tag, attributes] of PLATFORM_SHAPES[platform] || []) {
+    const shape = document.createElementNS(SVG_NS, tag);
+    Object.entries(attributes).forEach(([name, value]) => shape.setAttribute(name, value));
+    svg.append(shape);
+  }
+  return svg;
+}
+
 function safeUrl(value) {
   const url = new URL(value);
   if (url.protocol !== 'https:' || url.username || url.password) {
@@ -45,7 +81,13 @@ function makeCard(item) {
     image.remove();
     imageLink.classList.add('no-image');
   }
-  card.querySelector('.platform-tag').textContent = PLATFORM_NAMES[item.platform] || item.platform;
+  const platformName = PLATFORM_NAMES[item.platform] || item.platform;
+  const badge = card.querySelector('.platform-badge');
+  badge.classList.add(item.platform);
+  badge.append(platformLogo(item.platform, 20), platformName);
+  const tag = card.querySelector('.platform-tag');
+  tag.classList.add(item.platform);
+  tag.textContent = platformName;
   const date = card.querySelector('time');
   date.dateTime = item.published_at;
   date.textContent = dateFormat.format(new Date(item.published_at));
@@ -53,7 +95,9 @@ function makeCard(item) {
   title.href = internalUrl;
   title.textContent = item.title;
   card.querySelector('.card-description').textContent = item.description;
-  card.querySelector('.card-source').textContent = item.source_name;
+  const source = card.querySelector('.card-source');
+  source.append(platformLogo(item.platform, 14), item.source_name);
+  source.title = `${item.source_name} sur ${platformName}`;
   card.querySelector('.read-link').href = internalUrl;
   card.querySelector('.card-official').href = item.url;
   return card;
@@ -85,7 +129,7 @@ function showSources(sources) {
   platforms.forEach((platform) => {
     const heading = document.createElement('h3');
     heading.className = 'source-platform';
-    heading.textContent = PLATFORM_NAMES[platform] || platform;
+    heading.append(platformLogo(platform, 14), PLATFORM_NAMES[platform] || platform);
     element('sources').append(heading);
     sources.filter((source) => source.platform === platform).forEach((source) => {
       const button = document.createElement('button');
@@ -95,7 +139,7 @@ function showSources(sources) {
       button.setAttribute('aria-pressed', 'false');
       const icon = document.createElement('span');
       icon.className = `source-icon ${source.platform}`;
-      icon.textContent = source.platform === 'youtube' ? '▶' : source.platform === 'facebook' ? 'f' : 'r/';
+      icon.append(platformLogo(source.platform, 18));
       icon.setAttribute('aria-hidden', 'true');
       const name = document.createElement('span');
       name.textContent = source.name;

@@ -47,9 +47,9 @@ h1 > span { font-family: Georgia, serif; font-weight: 400; font-style: italic; c
 .source-button:disabled { cursor: default; opacity: 0.65; }
 .source-button:disabled:hover { background: transparent; }
 .source-platform { margin: 20px 10px 8px; font-size: 10px; font-weight: 600; color: var(--muted); letter-spacing: 0.5px; }
-.source-icon { display: grid; place-items: center; width: 26px; height: 26px; border-radius: 6px; background: #eceee6; font-size: 13px; }
-.source-icon.youtube { background: #fae7e1; color: #c45034; font-size: 10px; }
-.source-icon.facebook { background: #e3e7ed; color: #6381a8; font-weight: 700; }
+.source-icon { display: grid; place-items: center; width: 26px; height: 26px; border-radius: 6px; background: #fff; box-shadow: inset 0 0 0 1px var(--line); }
+.source-platform { display: flex; align-items: center; gap: 6px; }
+.platform-logo { display: block; flex: none; }
 .count { font-size: 11px; color: var(--muted); }
 .coming-next { margin-top: 40px; }
 .coming-next > div { display: flex; align-items: center; gap: 10px; padding: 10px; font-size: 13px; color: #8a8e85; }
@@ -86,7 +86,15 @@ h1 > span { font-family: Georgia, serif; font-weight: 400; font-style: italic; c
 .card-official:hover { color: var(--accent); }
 .card-body { padding: 20px; display: flex; flex-direction: column; flex: 1; }
 .card-meta { display: flex; justify-content: space-between; align-items: center; gap: 8px; margin-bottom: 12px; font-size: 10px; color: var(--muted); }
-.platform-tag { font-size: 9px; font-weight: 700; text-transform: uppercase; letter-spacing: 0.6px; border-radius: 4px; padding: 5px 7px; background: #faeae4; color: #b75137; }
+.platform-tag { font-size: 9px; font-weight: 700; text-transform: uppercase; letter-spacing: 0.6px; border-radius: 4px; padding: 5px 7px; background: #eceee6; color: var(--muted); }
+.platform-tag.youtube { background: #ffe5e5; color: #b80000; }
+.platform-tag.facebook { background: #e5efff; color: #0b5bd3; }
+.platform-tag.reddit { background: #ffeadf; color: #c03600; }
+.platform-badge { position: absolute; top: 10px; left: 10px; display: inline-flex; align-items: center; gap: 6px; padding: 5px 10px 5px 6px; border-radius: 999px; background: #ffffffee; color: #1f2420; font-size: 12px; font-weight: 700; box-shadow: 0 2px 10px #0000002e; pointer-events: none; }
+.platform-badge.youtube { border-left: 3px solid #ff0000; }
+.platform-badge.facebook { border-left: 3px solid #1877f2; }
+.platform-badge.reddit { border-left: 3px solid #ff4500; }
+.card-source { display: inline-flex; align-items: center; gap: 5px; font-weight: 600; }
 .card h3 { font-size: 17px; line-height: 1.45; font-weight: 650; letter-spacing: -0.3px; margin: 0 0 10px; overflow-wrap: anywhere; }
 .card h3 a:hover, .read-link:hover { color: var(--accent); }
 .card-description { font-size: 12px; line-height: 1.75; color: var(--muted); margin: 0 0 18px; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; overflow-wrap: anywhere; }
