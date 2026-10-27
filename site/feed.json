@@ -2,7 +2,7 @@
   "version": 1,
   "title": "Social Feed",
   "description": "Un seul fil pour suivre les sources qui comptent.",
-  "generated_at": "2026-10-27T18:38:31.361910+00:00",
+  "generated_at": "2026-10-27T18:55:13.165686+00:00",
   "sources": [
     {
       "id": "eco-en-batons",
@@ -11,7 +11,7 @@
       "url": "https://www.youtube.com/@Eco_en_batons",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-10-27T18:38:31.361910+00:00",
+      "last_success_at": "2026-10-27T18:55:13.165686+00:00",
       "item_count": 15
     },
     {
@@ -21,7 +21,7 @@
       "url": "https://www.youtube.com/@investi-qc",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-10-27T18:38:31.361910+00:00",
+      "last_success_at": "2026-10-27T18:55:13.165686+00:00",
       "item_count": 15
     },
     {
@@ -31,7 +31,7 @@
       "url": "https://www.youtube.com/@hugolisoiryoutube",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-10-27T18:38:31.361910+00:00",
+      "last_success_at": "2026-10-27T18:55:13.165686+00:00",
       "item_count": 16
     },
     {
@@ -41,7 +41,7 @@
       "url": "https://www.youtube.com/@alexdemers-finance360",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-10-27T18:38:31.361910+00:00",
+      "last_success_at": "2026-10-27T18:55:13.165686+00:00",
       "item_count": 15
     },
     {
@@ -51,7 +51,7 @@
       "url": "https://www.facebook.com/GuildWars/",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-10-27T18:38:31.361910+00:00",
+      "last_success_at": "2026-10-27T18:55:13.165686+00:00",
       "item_count": 2
     },
     {
@@ -61,7 +61,7 @@
       "url": "https://www.facebook.com/LOTRO/",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-10-27T18:38:31.361910+00:00",
+      "last_success_at": "2026-10-27T18:55:13.165686+00:00",
       "item_count": 1
     },
     {
@@ -71,7 +71,7 @@
       "url": "https://www.facebook.com/VilleDeLavaltrie/",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-10-27T18:38:31.361910+00:00",
+      "last_success_at": "2026-10-27T18:55:13.165686+00:00",
       "item_count": 1
     },
     {
@@ -81,7 +81,7 @@
       "url": "https://www.facebook.com/firmetraders360/",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-10-27T18:38:31.361910+00:00",
+      "last_success_at": "2026-10-27T18:55:13.165686+00:00",
       "item_count": 1
     }
   ],
@@ -117,7 +117,7 @@
       "published_at": "2026-10-27T14:11:56+00:00",
       "updated_at": "2026-10-27T14:11:56+00:00",
       "description": "UPS est en train de prouver qu’elle n’a pas besoin de livrer plus de colis pour gagner plus d’argent.\n\nLes revenus ont atteint 22,9 milliards de dollars, en hausse de 6,7% sur un an et au-dessus des attentes de Wall Street. Le bénéfice par ",
-      "image_url": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.99422-6/870356977_1809521690250805_296524448031334731_n.png?stp=dst-jpg_tt6&cstp=mx1328x1472&ctp=s565x565&_nc_cat=111&ccb=1-7&_nc_sid=127cfc&_nc_ohc=XizVBwq4J3kQ7kNvwHP2Kcg&_nc_oc=Adq8jmDku0qFcCadnSBnRQa5W1TL-Ca3r1bRZFUgapc8vA0Y1E_6GGvsBGPD4ctLVPE&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=E2GHtoWcFgCUc82jp3eZBQ&_nc_ss=7f289&oh=00_AQPoVe0QaZjn6mI8nqOJpoqzhBhn18kUvnm328IGbrsqhQ&oe=6AE6AAEA",
+      "image_url": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.99422-6/870356977_1809521690250805_296524448031334731_n.png?stp=dst-jpg_tt6&cstp=mx1328x1472&ctp=s565x565&_nc_cat=111&ccb=1-7&_nc_sid=127cfc&_nc_ohc=XizVBwq4J3kQ7kNvwG9QNPV&_nc_oc=AdpnZWD8oMFj10ci9kHwclnFCi2vji8Kj71ohBCnaIcvhCpbDgbyCT49eUFAGZbyioQ&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=eXGh-4JKBwHhyexVX9n8fg&_nc_ss=7f289&oh=00_AQPfV5tjcwP5pKHPGSGWx2hMT9Vl_b4LH47oK0dkp_s2Cg&oe=6AE6AAEA",
       "source_id": "traders-360",
       "source_name": "Traders 360",
       "platform": "facebook"
@@ -165,7 +165,7 @@
       "published_at": "2026-10-26T22:17:03+00:00",
       "updated_at": "2026-10-26T22:17:03+00:00",
       "description": "𝟯𝟬 𝗮𝗻𝘀 𝗱’𝗲𝗻𝗴𝗮𝗴𝗲𝗺𝗲𝗻𝘁 𝗮𝘂𝗽𝗿𝗲̀𝘀 𝗱𝗲 𝗹𝗮 𝗷𝗲𝘂𝗻𝗲𝘀𝘀𝗲\n\nDepuis 1996, le Carrefour jeunesse-emploi de D’Autray-Joliette (CJE de D'Autray-Joliette) accompagne les jeunes de 12 à 35 ans dans leurs parcours scolaires, professionnels et personnels. Sa missi",
-      "image_url": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.99422-6/847679167_1808906600132268_6609341708747916211_n.png?stp=dst-jpg_tt6&cstp=mx1080x1080&ctp=p526x296&_nc_cat=102&ccb=1-7&_nc_sid=127cfc&_nc_ohc=0vJYs1oS-vkQ7kNvwFxEbKc&_nc_oc=AdrgGP3mzZNt-NSgeF9TddboHZHqqC4pVbmAcmiWdxQXiXaScqJXUJtWM5pwtOPf53E&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=wcxqP55WUZaHxnUSTl269w&_nc_ss=7f289&oh=00_AQNvMMoVcQuWXPP80bt-oJKwc3kejuI6NE3ML0eZWudP8Q&oe=6AE6B755",
+      "image_url": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.99422-6/847679167_1808906600132268_6609341708747916211_n.png?stp=dst-jpg_tt6&cstp=mx1080x1080&ctp=p526x296&_nc_cat=102&ccb=1-7&_nc_sid=127cfc&_nc_ohc=0vJYs1oS-vkQ7kNvwE7-p8B&_nc_oc=AdpfxuAq_9U5RG93vX0AvQRm5ZMQWuEx35Jo4igsG-pJnhrtdNH-SkVLRUKmWVdY_pw&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=p54Svwi8n_QSoU6OaBRsNA&_nc_ss=7f289&oh=00_AQO51kAUNT0t9lKNV1wesJISS2AXX-4kFH210jB7BIWQWw&oe=6AE6B755",
       "source_id": "ville-de-lavaltrie",
       "source_name": "Ville de Lavaltrie",
       "platform": "facebook"
@@ -177,7 +177,7 @@
       "published_at": "2026-10-26T21:51:58+00:00",
       "updated_at": "2026-10-26T21:51:58+00:00",
       "description": "Lead Systems Designer Orion talks about what it's like getting close to launch day",
-      "image_url": "https://scontent-sjc6-1.xx.fbcdn.net/v/t15.5256-10/868852323_4624378027820375_2001315489557700610_n.jpg?stp=dst-jpg_tt6&cstp=mx1080x1920&ctp=s960x960&_nc_cat=109&ccb=1-7&_nc_sid=d2b52d&_nc_ohc=h-mrY4mmE-8Q7kNvwEnT9Z8&_nc_oc=AdoPHqX0fwABZXbuOq5JbB4--M_M67jgUUwnTUoW5bJstIolCzZxiezkC8Gcy1kc1Vw&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=PI8hygThjj4M0_B6HN0I1g&_nc_ss=7f289&oh=00_AQN6GDUHHDG4RG58WKCdeUvGAHscj2DKJ3DicvD-lYDohg&oe=6AE6DE29",
+      "image_url": "https://scontent-sjc6-1.xx.fbcdn.net/v/t15.5256-10/868852323_4624378027820375_2001315489557700610_n.jpg?stp=dst-jpg_tt6&cstp=mx1080x1920&ctp=s960x960&_nc_cat=109&ccb=1-7&_nc_sid=d2b52d&_nc_ohc=h-mrY4mmE-8Q7kNvwHNWA_C&_nc_oc=AdqxzPyelOD2VjWatYI9PSlRENtOB80mAsMuljwg7PBj0dtcQe0QbfXy4PLCQypngYc&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=YTBnc06olZPDtTEcb3P3LQ&_nc_ss=7f289&oh=00_AQOw37NIeNUkSnSa7rmMTqPwEK13qbdrbvBjEXh9LqCvtQ&oe=6AE6DE29",
       "source_id": "lotro",
       "source_name": "The Lord of the Rings Online",
       "platform": "facebook"
@@ -393,7 +393,7 @@
       "published_at": "2026-10-22T17:01:34+00:00",
       "updated_at": "2026-10-22T17:01:34+00:00",
       "description": "Halloween in Tyria means dressing to impress (or terrify). 🎃\n\nChoose from a closet full of spooky costumes, and say hello to the newest addition: Guise of the Wayward! 👻\n\nAvailable now at store.guildwars.com\n\n#GuildWarsReforged #GuildWars #",
-      "image_url": "https://scontent-ord5-1.xx.fbcdn.net/v/t15.5256-10/858155239_1107215472168643_7263987061875034759_n.jpg?stp=dst-jpg_tt6&cstp=mx1920x1080&ctp=s960x960&_nc_cat=101&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=0NyLM60kldoQ7kNvwEJJZiG&_nc_oc=AdoO7Qim8r2utfZybq1UCZyEL9FyPZbP5WDbBrS7uAnSnTgvsybZCCovjJ3E43hL1fo&_nc_zt=23&_nc_ht=scontent-ord5-1.xx&_nc_gid=ZK6QWSqFe-gt5S2wE_Lndw&_nc_ss=7f289&oh=00_AQMhfijH-ZKthNW9iW9cLIEEY7t1N8nVTDJiFjUaoQto3Q&oe=6AE6BE13",
+      "image_url": "https://scontent-sjc6-1.xx.fbcdn.net/v/t15.5256-10/858155239_1107215472168643_7263987061875034759_n.jpg?stp=dst-jpg_tt6&cstp=mx1920x1080&ctp=s960x960&_nc_cat=101&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=0NyLM60kldoQ7kNvwH20Tjp&_nc_oc=AdoWiDZ9zjqhr-Zh-4hUwAty85lPvecD65aMdysjnIfzMYScKul8214TcBK-KW-YIec&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=Cr_wfklJaNnC5tU-U49oXA&_nc_ss=7f289&oh=00_AQOu7zuzZK_xitzdGN36mE4Utc7gqcOsvNM0bjh_OcOsww&oe=6AE6BE13",
       "source_id": "guild-wars",
       "source_name": "Guild Wars",
       "platform": "facebook"
