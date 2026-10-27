@@ -7,7 +7,7 @@ dans un flux RSS global.
 - **Site** : https://otisdave.github.io/social-feed/
 - **RSS** : https://otisdave.github.io/social-feed/feed.xml
 - **YouTube** : Éco en bâtons, Investi QC, Hugo Lisoir et Alex Demers — Finance 360.
-- **Facebook** : Guild Wars et The Lord of the Rings Online, via un scraper public expérimental.
+- **Facebook** : Guild Wars, The Lord of the Rings Online et Ville de Lavaltrie, via un scraper public expérimental.
 
 ## Fonctionnement
 

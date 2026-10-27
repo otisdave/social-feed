@@ -45,6 +45,12 @@
         "name": "The Lord of the Rings Online",
         "url": "https://www.facebook.com/LOTRO/",
         "enabled": true
+      },
+      {
+        "id": "ville-de-lavaltrie",
+        "name": "Ville de Lavaltrie",
+        "url": "https://www.facebook.com/VilleDeLavaltrie/",
+        "enabled": true
       }
     ],
     "reddit": []
