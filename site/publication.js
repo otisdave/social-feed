@@ -1,4 +1,4 @@
-import { safeHttps, embedFor, createEmbed, embedHelp } from './embeds.js?v=embed-recovery-3';
+import { safeHttps, embedFor, createEmbed, embedHelp } from './embeds.js?v=direct-players-4';
 
 const byId = (id) => document.getElementById(id);
 
@@ -51,7 +51,7 @@ async function loadPublication() {
     const embed = embedFor(item);
     if (embed) {
       byId('embed-section').hidden = false;
-      byId('activate-embed').textContent = embed.label;
+      byId('activate-embed').textContent = 'Réafficher le lecteur';
       byId('embed-privacy').textContent = embed.privacy;
       byId('activate-embed').addEventListener('click', () => activateEmbed(embed, item.title));
       byId('retry-embed').addEventListener('click', () => activateEmbed(embed, item.title));
@@ -65,6 +65,7 @@ async function loadPublication() {
       });
     }
     byId('detail').hidden = false;
+    if (embed) activateEmbed(embed, item.title);
   } catch (error) {
     console.error('Unable to load publication:', error);
     byId('publication-error').textContent = `Impossible d’afficher cette publication. ${error.message}`;

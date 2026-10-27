@@ -29,15 +29,15 @@ permettent de parcourir le fil. Les cartes ouvrent une page interne partageable
 (`publication.html?source=…&id=…`), avec le texte archivé, la date et un bouton
 permanent vers l'original. Les liens du RSS continuent de pointer vers l'original.
 
-Les cartes vidéo du fil proposent aussi **« Lire ici »** : le lecteur officiel
-remplace la miniature sans quitter le fil. Le fournisseur reçoit les données
-indiquées sous la miniature seulement au clic (hors chargement des miniatures).
-Un seul lecteur du fil reste ouvert à la fois; fermer le lecteur ou changer
-les filtres/recharger les cartes arrête la lecture. La pagination reconstruit les
-cartes et ferme donc également le lecteur actif. Le lien vers la fiche détaillée
-et un lien direct vers la source officielle restent disponibles sur chaque carte.
-Le démarrage est demandé au clic, mais le navigateur ou le fournisseur peut
-exiger un clic supplémentaire sur son propre bouton de lecture.
+Les cartes vidéo du fil affichent directement leur lecteur officiel, sans bouton
+intermédiaire. Il suffit de cliquer sur **▶ dans le lecteur** : aucune lecture
+automatique ni aucun son n'est lancé par le site. Les iframes utilisent le
+chargement différé natif du navigateur pour les contenus éloignés de l'écran.
+Plusieurs lecteurs peuvent être présents; leurs propres commandes contrôlent la
+lecture. Fermer un lecteur revient à la miniature et permet de le réafficher.
+Changer les filtres ou la pagination reconstruit les cartes et arrête les lecteurs
+précédents. Les liens vers la fiche détaillée et la source officielle restent
+disponibles sur chaque carte.
 
 Les scripts, imports JavaScript et feuilles de style utilisent un identifiant
 de version dans leur URL. Lors d'un changement du contrat HTML/JavaScript ou des
@@ -45,9 +45,12 @@ styles, mettre à jour cet identifiant dans les deux pages HTML et les imports :
 cela évite de réutiliser un ancien script en cache avec un nouveau gabarit.
 
 Le lecteur YouTube (domaine `youtube-nocookie.com`) ou la publication/vidéo
-Facebook officielle est chargé seulement après un clic explicite. Aucun lecteur
-tiers n'est chargé avant ce consentement; les miniatures sont toutefois chargées
-depuis YouTube ou Facebook. Aucune vidéo n'est téléchargée ni réhébergée.
+Facebook officielle apparaît aussi automatiquement sur la fiche détaillée.
+**Les fournisseurs sont contactés dès le chargement du lecteur, avant tout clic
+sur ▶** : ils reçoivent l'adresse IP et peuvent utiliser des cookies ou des
+données de navigation. Une note le rappelle près de chaque lecteur. Les miniatures
+sont également chargées depuis YouTube ou Facebook. Aucune vidéo n'est
+téléchargée ni réhébergée.
 Une intégration peut être refusée par le fournisseur, demander des cookies ou
 une connexion : un message et le bouton vers l'original restent disponibles.
 Le navigateur ne permet pas de détecter de façon fiable les refus à l'intérieur

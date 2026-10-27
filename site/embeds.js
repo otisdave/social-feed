@@ -11,17 +11,16 @@ export function embedHelp(embed) {
   return `Cadre blanc ou lecture bloquée ? ${provider} peut être bloqué par une protection anti-pistage, une extension ou ses propres restrictions. Sous Firefox, le bouclier près de l’adresse permet de consulter les blocages. Vous pouvez réessayer, fermer le lecteur ou ouvrir la source officielle, sans modifier vos protections.`;
 }
 
-export function embedFor(item, { autoplay = false, width = 500 } = {}) {
+export function embedFor(item, { width = 500 } = {}) {
   const official = safeHttps(item.url);
   if (item.platform === 'youtube' && official.hostname === 'www.youtube.com') {
     const videoId = official.searchParams.get('v');
     if (!/^[\w-]{11}$/.test(videoId || '')) return null;
     return {
-      url: `https://www.youtube-nocookie.com/embed/${videoId}${autoplay ? '?autoplay=1' : ''}`,
+      url: `https://www.youtube-nocookie.com/embed/${videoId}`,
       kind: 'youtube',
       isVideo: true,
-      label: 'Charger le lecteur YouTube',
-      privacy: 'Au clic, YouTube reçoit votre adresse IP et peut utiliser des données de navigation.',
+      privacy: 'Ce lecteur contacte YouTube dès son chargement et lui transmet votre adresse IP. La lecture démarre avec le bouton ▶ du lecteur.',
     };
   }
   if (item.platform === 'facebook' && official.hostname === 'www.facebook.com') {
@@ -30,13 +29,11 @@ export function embedFor(item, { autoplay = false, width = 500 } = {}) {
     url.searchParams.set('href', official.href);
     url.searchParams.set('show_text', 'true');
     url.searchParams.set('width', String(Math.max(220, Math.min(500, Math.round(width)))));
-    if (autoplay && isVideo) url.searchParams.set('autoplay', 'true');
     return {
       url: url.href,
       kind: 'facebook',
       isVideo,
-      label: 'Afficher la publication Facebook',
-      privacy: 'Au clic, Facebook reçoit votre adresse IP et peut utiliser des cookies ou demander une connexion.',
+      privacy: 'Ce lecteur contacte Facebook dès son chargement et lui transmet votre adresse IP. Facebook peut utiliser des cookies ou demander une connexion. La lecture démarre avec le bouton ▶ du lecteur.',
     };
   }
   return null;
@@ -45,6 +42,7 @@ export function embedFor(item, { autoplay = false, width = 500 } = {}) {
 export function createEmbed(embed, title, onError) {
   const iframe = document.createElement('iframe');
   iframe.src = embed.url;
+  iframe.loading = 'lazy';
   iframe.title = title;
   iframe.className = `publication-embed ${embed.kind}`;
   iframe.allow = 'accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen';

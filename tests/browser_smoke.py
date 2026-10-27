@@ -60,8 +60,8 @@ def main(browser_name: str = "chromium") -> None:
             ))
             page.goto(base)
             page.locator("#publications[aria-busy=false]").wait_for()
-            assert page.locator("iframe").count() == 0
-            assert page.locator(".card-play:visible").count() == 2
+            assert page.locator("iframe").count() == 2
+            assert page.locator(".card-play:visible").count() == 0
             assert page.locator(".card-official").count() == 3
             video_card = page.locator(".card").filter(has=page.locator(
                 f'.card-official[href="{video["url"]}"]'
@@ -69,27 +69,26 @@ def main(browser_name: str = "chromium") -> None:
             facebook_card = page.locator(".card").filter(has=page.locator(
                 f'.card-official[href="{facebook["url"]}"]'
             ))
-            video_card.locator(".card-play").click()
             assert page.url == base
-            assert "autoplay=1" in video_card.locator("iframe").get_attribute("src")
+            assert "autoplay" not in video_card.locator("iframe").get_attribute("src")
+            assert video_card.locator("iframe").get_attribute("loading") == "lazy"
             assert video_card.locator(".card-image-link").is_hidden()
-            facebook_card.locator(".card-play").click()
-            assert page.locator("iframe").count() == 1
-            assert video_card.locator(".card-play").is_visible()
+            assert video_card.locator(".card-play").is_hidden()
             assert "/plugins/video.php?" in facebook_card.locator("iframe").get_attribute("src")
-            assert "autoplay=true" in facebook_card.locator("iframe").get_attribute("src")
+            assert "autoplay" not in facebook_card.locator("iframe").get_attribute("src")
             for width in (375, 768, 1280):
                 page.set_viewport_size({"width": width, "height": 900})
                 assert page.evaluate("document.documentElement.scrollWidth <= innerWidth")
             facebook_card.locator(".card-retry").click()
-            assert page.locator("iframe").count() == 1
+            assert page.locator("iframe").count() == 2
             assert "Firefox" in facebook_card.locator('[role="status"]').inner_text()
             facebook_card.locator(".card-stop:not(.card-retry)").click()
-            assert page.locator("iframe").count() == 0
+            assert page.locator("iframe").count() == 1
             assert facebook_card.locator(".card-play").evaluate(
                 "button => button === document.activeElement"
             )
-            video_card.locator(".card-play").click()
+            facebook_card.locator(".card-play").click()
+            assert page.locator("iframe").count() == 2
             page.locator("#search").fill("no-such-publication-12345")
             assert page.locator("iframe").count() == 0
             assert page.locator("#empty").is_visible()
@@ -104,14 +103,14 @@ def main(browser_name: str = "chromium") -> None:
             assert page.locator("#official-link").get_attribute("target") == "_blank"
             page.goto(detail_url(video))
             page.locator("#detail").wait_for(state="visible")
-            assert page.locator("iframe").count() == 0
+            assert page.locator("iframe").count() == 1
             assert page.locator("#publication-description").inner_text() == (
                 video["description"] or "Aucun texte archivé pour cette publication."
             )
-            page.locator("#activate-embed").click()
             iframe = page.locator("iframe")
             assert iframe.count() == 1
             assert iframe.get_attribute("src").startswith("https://www.youtube-nocookie.com/embed/")
+            assert "autoplay" not in iframe.get_attribute("src")
             assert page.locator("#embed-fallback").is_visible()
             assert page.locator("#activate-embed").is_hidden()
             assert page.locator("#official-link").get_attribute("href") == video["url"]
@@ -126,7 +125,7 @@ def main(browser_name: str = "chromium") -> None:
             page.go_back()
             page.go_forward()
             page.locator("#detail").wait_for(state="visible")
-            assert page.locator("iframe").count() == 0
+            assert page.locator("iframe").count() == 1
 
             def use_fixture(item):
                 page.route("**/feed.json", lambda route: route.fulfill(
@@ -143,8 +142,7 @@ def main(browser_name: str = "chromium") -> None:
             assert page.locator("#publication-title").inner_text() == facebook["title"]
             assert page.locator("#publication-description").inner_text() == facebook["description"]
             assert page.locator("#excerpt-note").is_visible()
-            assert page.locator("iframe").count() == 0
-            page.locator("#activate-embed").click()
+            assert page.locator("iframe").count() == 1
             assert "/plugins/video.php?" in page.locator("iframe").get_attribute("src")
             assert page.locator("#embed-fallback").is_visible()
             assert "Firefox" in page.locator("#embed-fallback").inner_text()
@@ -156,7 +154,6 @@ def main(browser_name: str = "chromium") -> None:
             assert page.locator("#official-link").is_visible()
             post = {**facebook, "url": "https://www.facebook.com/Test/posts/123456789/"}
             use_fixture(post)
-            page.locator("#activate-embed").click()
             assert "/plugins/post.php?" in page.locator("iframe").get_attribute("src")
             for width in (375, 768, 1280):
                 page.set_viewport_size({"width": width, "height": 900})
@@ -176,7 +173,7 @@ def main(browser_name: str = "chromium") -> None:
             assert not page_errors, page_errors
             assert not stale_scripts, stale_scripts
             browser.close()
-        print("Feed and internal pages: inline playback, single player, navigation, consent, embeds, fallbacks, safe text, responsive layout and errors OK.")
+        print("Feed and internal pages: automatic player loading without autoplay, retry/close, navigation, fallbacks, safe text, responsive layout and errors OK.")
     finally:
         server.shutdown()
         server.server_close()

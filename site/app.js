@@ -1,4 +1,4 @@
-import { embedFor, createEmbed, embedHelp } from './embeds.js?v=embed-recovery-3';
+import { embedFor, createEmbed, embedHelp } from './embeds.js?v=direct-players-4';
 
 const PAGE_SIZE = 12;
 const PLATFORM_NAMES = { youtube: 'YouTube', reddit: 'Reddit', facebook: 'Facebook' };
@@ -6,7 +6,7 @@ const state = { items: [], source: 'all', platform: 'all', query: '', limit: PAG
 const element = (id) => document.getElementById(id);
 const dateFormat = new Intl.DateTimeFormat('fr-CA', { day: 'numeric', month: 'short', year: 'numeric' });
 const timeFormat = new Intl.DateTimeFormat('fr-CA', { dateStyle: 'medium', timeStyle: 'short' });
-let closeActivePlayer = null;
+let pendingPlayers = [];
 
 function safeUrl(value) {
   const url = new URL(value);
@@ -60,19 +60,18 @@ function makeCard(item) {
     privacy.textContent = embed.privacy;
     privacy.hidden = false;
     play.hidden = false;
-    play.setAttribute('aria-label', `Lire ici : ${item.title}`);
+    play.textContent = 'Réafficher le lecteur';
+    play.setAttribute('aria-label', `Réafficher le lecteur : ${item.title}`);
     const close = () => {
       player.replaceChildren();
       player.hidden = true;
       playback.hidden = true;
       imageLink.hidden = false;
       play.hidden = false;
-      if (closeActivePlayer === close) closeActivePlayer = null;
     };
     const start = () => {
-      if (closeActivePlayer) closeActivePlayer();
       const activeEmbed = embedFor(item, {
-        autoplay: true, width: imageLink.getBoundingClientRect().width,
+        width: player.parentElement.getBoundingClientRect().width,
       });
       status.textContent = embedHelp(activeEmbed);
       player.replaceChildren(createEmbed(activeEmbed, item.title, () => {
@@ -82,11 +81,16 @@ function makeCard(item) {
       play.hidden = true;
       player.hidden = false;
       playback.hidden = false;
-      closeActivePlayer = close;
-      stop.focus();
     };
-    play.addEventListener('click', start);
-    retry.addEventListener('click', start);
+    pendingPlayers.push(start);
+    play.addEventListener('click', () => {
+      start();
+      stop.focus();
+    });
+    retry.addEventListener('click', () => {
+      start();
+      stop.focus();
+    });
     stop.addEventListener('click', () => {
       close();
       play.focus();
@@ -107,7 +111,7 @@ function makeCard(item) {
 }
 
 function render() {
-  if (closeActivePlayer) closeActivePlayer();
+  pendingPlayers = [];
   const query = normalizeText(state.query.trim());
   const matches = state.items.filter((item) =>
     (state.source === 'all' || item.source_id === state.source) &&
@@ -117,6 +121,8 @@ function render() {
   const fragment = document.createDocumentFragment();
   matches.slice(0, state.limit).forEach((item) => fragment.append(makeCard(item)));
   element('publications').replaceChildren(fragment);
+  pendingPlayers.forEach((start) => start());
+  pendingPlayers = [];
   element('results').textContent = `${matches.length} publication${matches.length === 1 ? '' : 's'}`;
   element('empty').hidden = matches.length > 0;
   element('load-more').hidden = matches.length <= state.limit;
