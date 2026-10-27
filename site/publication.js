@@ -1,52 +1,9 @@
-'use strict';
+import { safeHttps, embedFor, createEmbed } from './embeds.js';
 
 const byId = (id) => document.getElementById(id);
 
-function safeHttps(value) {
-  const url = new URL(value);
-  if (url.protocol !== 'https:' || url.username || url.password) {
-    throw new Error('Le lien de cette publication est invalide.');
-  }
-  return url;
-}
-
-function embedFor(item) {
-  const official = safeHttps(item.url);
-  if (item.platform === 'youtube' && official.hostname === 'www.youtube.com') {
-    const videoId = official.searchParams.get('v');
-    if (!/^[\w-]{11}$/.test(videoId || '')) return null;
-    return {
-      url: `https://www.youtube-nocookie.com/embed/${videoId}`,
-      kind: 'youtube',
-      label: 'Charger le lecteur YouTube',
-      privacy: 'Le lecteur officiel sera chargé uniquement à votre demande. YouTube recevra alors votre adresse IP et pourra utiliser des données de navigation.',
-    };
-  }
-  if (item.platform === 'facebook' && official.hostname === 'www.facebook.com') {
-    const isVideo = /\/(?:reel|videos)\//.test(official.pathname);
-    const url = new URL(`https://www.facebook.com/plugins/${isVideo ? 'video' : 'post'}.php`);
-    url.searchParams.set('href', official.href);
-    url.searchParams.set('show_text', 'true');
-    url.searchParams.set('width', '500');
-    return {
-      url: url.href,
-      kind: 'facebook',
-      label: 'Afficher la publication Facebook',
-      privacy: 'L’intégration officielle sera chargée uniquement à votre demande. Facebook recevra alors votre adresse IP et pourra utiliser des cookies ou demander une connexion.',
-    };
-  }
-  return null;
-}
-
 function activateEmbed(embed, title) {
-  const iframe = document.createElement('iframe');
-  iframe.src = embed.url;
-  iframe.title = title;
-  iframe.className = `publication-embed ${embed.kind}`;
-  iframe.allow = 'accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen';
-  iframe.allowFullscreen = true;
-  iframe.referrerPolicy = 'strict-origin-when-cross-origin';
-  iframe.addEventListener('error', () => {
+  const iframe = createEmbed(embed, title, () => {
     byId('embed-fallback').textContent = 'Le contenu intégré n’a pas pu être chargé. Utilisez le bouton vers la source officielle.';
   });
   byId('embed-container').replaceChildren(iframe);

@@ -8,7 +8,7 @@
     <title>Social Feed — Votre fil, simplement.</title>
     <link rel="alternate" type="application/rss+xml" title="Social Feed" href="./feed.xml" />
     <link rel="stylesheet" href="./styles.css" />
-    <script src="./app.js" defer></script>
+    <script src="./app.js" type="module"></script>
   </head>
   <body>
     <a class="skip-link" href="#publications">Aller aux publications</a>
@@ -59,12 +59,21 @@
     <footer><span>Un peu moins de défilement. Un peu plus de découvertes.</span><a href="https://github.com/otisdave/social-feed" target="_blank" rel="noopener noreferrer">Code source ↗</a></footer>
     <template id="card-template">
       <article class="card">
-        <a class="card-image-link"><img loading="lazy" decoding="async" alt="" /><span class="play-icon" aria-hidden="true">▶</span></a>
+        <div class="card-media">
+          <a class="card-image-link"><img loading="lazy" decoding="async" alt="" /></a>
+          <button class="card-play" type="button" hidden>▶ Lire ici</button>
+          <div class="card-player" hidden></div>
+        </div>
+        <div class="card-playback" hidden>
+          <button class="card-stop" type="button">Fermer le lecteur</button>
+          <p class="embed-note" role="status">Si la lecture est bloquée, utilisez le lien vers la source officielle.</p>
+        </div>
+        <p class="card-privacy" hidden></p>
         <div class="card-body">
           <div class="card-meta"><span class="platform-tag"></span><time></time></div>
           <h3><a></a></h3>
           <p class="card-description"></p>
-          <div class="card-footer"><span class="card-source"></span><a class="read-link">Voir la publication <span aria-hidden="true">→</span></a></div>
+          <div class="card-footer"><span class="card-source"></span><a class="read-link">Voir la publication <span aria-hidden="true">→</span></a><a class="card-official" target="_blank" rel="noopener noreferrer">Source officielle ↗</a></div>
         </div>
       </article>
     </template>

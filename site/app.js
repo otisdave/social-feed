@@ -1,4 +1,4 @@
-'use strict';
+import { embedFor, createEmbed } from './embeds.js';
 
 const PAGE_SIZE = 12;
 const PLATFORM_NAMES = { youtube: 'YouTube', reddit: 'Reddit', facebook: 'Facebook' };
@@ -6,6 +6,7 @@ const state = { items: [], source: 'all', platform: 'all', query: '', limit: PAG
 const element = (id) => document.getElementById(id);
 const dateFormat = new Intl.DateTimeFormat('fr-CA', { day: 'numeric', month: 'short', year: 'numeric' });
 const timeFormat = new Intl.DateTimeFormat('fr-CA', { dateStyle: 'medium', timeStyle: 'short' });
+let closeActivePlayer = null;
 
 function safeUrl(value) {
   const url = new URL(value);
@@ -47,7 +48,47 @@ function makeCard(item) {
     image.remove();
     imageLink.classList.add('no-image');
   }
-  card.querySelector('.play-icon').hidden = item.platform !== 'youtube';
+  const embed = embedFor(item);
+  if (embed?.isVideo) {
+    const play = card.querySelector('.card-play');
+    const player = card.querySelector('.card-player');
+    const playback = card.querySelector('.card-playback');
+    const stop = card.querySelector('.card-stop');
+    const status = playback.querySelector('[role="status"]');
+    const privacy = card.querySelector('.card-privacy');
+    privacy.textContent = embed.privacy;
+    privacy.hidden = false;
+    play.hidden = false;
+    play.setAttribute('aria-label', `Lire ici : ${item.title}`);
+    const close = () => {
+      player.replaceChildren();
+      player.hidden = true;
+      playback.hidden = true;
+      imageLink.hidden = false;
+      play.hidden = false;
+      if (closeActivePlayer === close) closeActivePlayer = null;
+    };
+    play.addEventListener('click', () => {
+      if (closeActivePlayer) closeActivePlayer();
+      const activeEmbed = embedFor(item, {
+        autoplay: true, width: imageLink.getBoundingClientRect().width,
+      });
+      status.textContent = 'Si la lecture est bloquée, utilisez le lien vers la source officielle.';
+      player.replaceChildren(createEmbed(activeEmbed, item.title, () => {
+        status.textContent = 'Le lecteur n’a pas pu être chargé. Utilisez le lien vers la source officielle.';
+      }));
+      imageLink.hidden = true;
+      play.hidden = true;
+      player.hidden = false;
+      playback.hidden = false;
+      closeActivePlayer = close;
+      stop.focus();
+    });
+    stop.addEventListener('click', () => {
+      close();
+      play.focus();
+    });
+  }
   card.querySelector('.platform-tag').textContent = PLATFORM_NAMES[item.platform] || item.platform;
   const date = card.querySelector('time');
   date.dateTime = item.published_at;
@@ -58,10 +99,12 @@ function makeCard(item) {
   card.querySelector('.card-description').textContent = item.description;
   card.querySelector('.card-source').textContent = item.source_name;
   card.querySelector('.read-link').href = internalUrl;
+  card.querySelector('.card-official').href = item.url;
   return card;
 }
 
 function render() {
+  if (closeActivePlayer) closeActivePlayer();
   const query = normalizeText(state.query.trim());
   const matches = state.items.filter((item) =>
     (state.source === 'all' || item.source_id === state.source) &&

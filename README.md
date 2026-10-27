@@ -29,6 +29,16 @@ permettent de parcourir le fil. Les cartes ouvrent une page interne partageable
 (`publication.html?source=…&id=…`), avec le texte archivé, la date et un bouton
 permanent vers l'original. Les liens du RSS continuent de pointer vers l'original.
 
+Les cartes vidéo du fil proposent aussi **« Lire ici »** : le lecteur officiel
+remplace la miniature sans quitter le fil. Le fournisseur reçoit les données
+indiquées sous la miniature seulement au clic (hors chargement des miniatures).
+Un seul lecteur du fil reste ouvert à la fois; fermer le lecteur ou changer
+les filtres/recharger les cartes arrête la lecture. La pagination reconstruit les
+cartes et ferme donc également le lecteur actif. Le lien vers la fiche détaillée
+et un lien direct vers la source officielle restent disponibles sur chaque carte.
+Le démarrage est demandé au clic, mais le navigateur ou le fournisseur peut
+exiger un clic supplémentaire sur son propre bouton de lecture.
+
 Le lecteur YouTube (domaine `youtube-nocookie.com`) ou la publication/vidéo
 Facebook officielle est chargé seulement après un clic explicite. Aucun lecteur
 tiers n'est chargé avant ce consentement; les miniatures sont toutefois chargées

@@ -37,6 +37,49 @@ def main() -> None:
             page_errors = []
             page.on("pageerror", lambda error: page_errors.append(str(error)))
             page.route("https://**/*", lambda route: route.abort())
+            feed_fixture = {
+                **archive,
+                "items": [video, facebook, {
+                    **facebook, "id": "facebook:1:3",
+                    "url": "https://www.facebook.com/Test/posts/123456789/",
+                }],
+            }
+            page.route("**/feed.json", lambda route: route.fulfill(
+                content_type="application/json", body=json.dumps(feed_fixture),
+            ))
+            page.goto(base)
+            page.locator("#publications[aria-busy=false]").wait_for()
+            assert page.locator("iframe").count() == 0
+            assert page.locator(".card-play:visible").count() == 2
+            assert page.locator(".card-official").count() == 3
+            video_card = page.locator(".card").filter(has=page.locator(
+                f'.card-official[href="{video["url"]}"]'
+            ))
+            facebook_card = page.locator(".card").filter(has=page.locator(
+                f'.card-official[href="{facebook["url"]}"]'
+            ))
+            video_card.locator(".card-play").click()
+            assert page.url == base
+            assert "autoplay=1" in video_card.locator("iframe").get_attribute("src")
+            assert video_card.locator(".card-image-link").is_hidden()
+            facebook_card.locator(".card-play").click()
+            assert page.locator("iframe").count() == 1
+            assert video_card.locator(".card-play").is_visible()
+            assert "/plugins/video.php?" in facebook_card.locator("iframe").get_attribute("src")
+            assert "autoplay=true" in facebook_card.locator("iframe").get_attribute("src")
+            for width in (375, 768, 1280):
+                page.set_viewport_size({"width": width, "height": 900})
+                assert page.evaluate("document.documentElement.scrollWidth <= innerWidth")
+            facebook_card.locator(".card-stop").click()
+            assert page.locator("iframe").count() == 0
+            assert facebook_card.locator(".card-play").evaluate(
+                "button => button === document.activeElement"
+            )
+            video_card.locator(".card-play").click()
+            page.locator("#search").fill("no-such-publication-12345")
+            assert page.locator("iframe").count() == 0
+            assert page.locator("#empty").is_visible()
+            page.unroute("**/feed.json")
             page.goto(base)
             page.locator("#publications[aria-busy=false]").wait_for()
             link = page.locator(".card h3 a").first
@@ -99,7 +142,7 @@ def main() -> None:
             assert "503" in page.locator("#publication-error").inner_text()
             assert not page_errors, page_errors
             browser.close()
-        print("Internal pages: navigation, consent, embeds, fallbacks, safe text, responsive layout and errors OK.")
+        print("Feed and internal pages: inline playback, single player, navigation, consent, embeds, fallbacks, safe text, responsive layout and errors OK.")
     finally:
         server.shutdown()
         server.server_close()
