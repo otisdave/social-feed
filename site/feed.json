@@ -2,7 +2,7 @@
   "version": 1,
   "title": "Social Feed",
   "description": "Un seul fil pour suivre les sources qui comptent.",
-  "generated_at": "2026-10-27T17:21:09.788818+00:00",
+  "generated_at": "2026-10-27T17:22:30.083338+00:00",
   "sources": [
     {
       "id": "eco-en-batons",
@@ -11,7 +11,7 @@
       "url": "https://www.youtube.com/@Eco_en_batons",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-10-27T17:21:09.788818+00:00",
+      "last_success_at": "2026-10-27T17:22:30.083338+00:00",
       "item_count": 15
     },
     {
@@ -21,7 +21,7 @@
       "url": "https://www.youtube.com/@investi-qc",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-10-27T17:21:09.788818+00:00",
+      "last_success_at": "2026-10-27T17:22:30.083338+00:00",
       "item_count": 15
     },
     {
@@ -31,7 +31,7 @@
       "url": "https://www.youtube.com/@hugolisoiryoutube",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-10-27T17:21:09.788818+00:00",
+      "last_success_at": "2026-10-27T17:22:30.083338+00:00",
       "item_count": 16
     },
     {
@@ -41,7 +41,7 @@
       "url": "https://www.youtube.com/@alexdemers-finance360",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-10-27T17:21:09.788818+00:00",
+      "last_success_at": "2026-10-27T17:22:30.083338+00:00",
       "item_count": 15
     },
     {
@@ -51,7 +51,7 @@
       "url": "https://www.facebook.com/GuildWars/",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-10-27T17:21:09.788818+00:00",
+      "last_success_at": "2026-10-27T17:22:30.083338+00:00",
       "item_count": 2
     },
     {
@@ -61,7 +61,17 @@
       "url": "https://www.facebook.com/LOTRO/",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-10-27T17:21:09.788818+00:00",
+      "last_success_at": "2026-10-27T17:22:30.083338+00:00",
+      "item_count": 1
+    },
+    {
+      "id": "ville-de-lavaltrie",
+      "name": "Ville de Lavaltrie",
+      "platform": "facebook",
+      "url": "https://www.facebook.com/VilleDeLavaltrie/",
+      "status": "ok",
+      "error": null,
+      "last_success_at": "2026-10-27T17:22:30.083338+00:00",
       "item_count": 1
     }
   ],
@@ -127,13 +137,25 @@
       "platform": "youtube"
     },
     {
+      "id": "facebook:100064655653099:1565622545602919",
+      "title": "𝟯𝟬 𝗮𝗻𝘀 𝗱’𝗲𝗻𝗴𝗮𝗴𝗲𝗺𝗲𝗻𝘁 𝗮𝘂𝗽𝗿𝗲̀𝘀 𝗱𝗲 𝗹𝗮 𝗷𝗲𝘂𝗻𝗲𝘀𝘀𝗲",
+      "url": "https://www.facebook.com/VilleDeLavaltrie/posts/pfbid0VH71CNX6yYKaPQTRQy6QuFvYuy7sUKi2XaiLCLrAFkneeua21GGD1ASBawKJNZuQl",
+      "published_at": "2026-10-26T22:17:03+00:00",
+      "updated_at": "2026-10-26T22:17:03+00:00",
+      "description": "𝟯𝟬 𝗮𝗻𝘀 𝗱’𝗲𝗻𝗴𝗮𝗴𝗲𝗺𝗲𝗻𝘁 𝗮𝘂𝗽𝗿𝗲̀𝘀 𝗱𝗲 𝗹𝗮 𝗷𝗲𝘂𝗻𝗲𝘀𝘀𝗲\n\nDepuis 1996, le Carrefour jeunesse-emploi de D’Autray-Joliette (CJE de D'Autray-Joliette) accompagne les jeunes de 12 à 35 ans dans leurs parcours scolaires, professionnels et personnels. Sa missi",
+      "image_url": null,
+      "source_id": "ville-de-lavaltrie",
+      "source_name": "Ville de Lavaltrie",
+      "platform": "facebook"
+    },
+    {
       "id": "facebook:100064792208382:1627738096062582",
       "title": "Lead Systems Designer Orion talks about what it's like getting close to launch day",
       "url": "https://www.facebook.com/reel/1124556806735733/",
       "published_at": "2026-10-26T21:51:58+00:00",
       "updated_at": "2026-10-26T21:51:58+00:00",
       "description": "Lead Systems Designer Orion talks about what it's like getting close to launch day",
-      "image_url": "https://scontent-sjc6-1.xx.fbcdn.net/v/t15.5256-10/868852323_4624378027820375_2001315489557700610_n.jpg?stp=dst-jpg_tt6&cstp=mx1080x1920&ctp=s960x960&_nc_cat=109&ccb=1-7&_nc_sid=d2b52d&_nc_ohc=h-mrY4mmE-8Q7kNvwHB9D8g&_nc_oc=AdpZGnY4Axrp8hVQK405HtHUojHyj9rCkasWXhBVAi2_1OSeIK4DiWupzPmZ1lLZQeI&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=G_2XYksu_gMrjwQgDIi0lg&_nc_ss=7f289&oh=00_AQOGLcgl3aqruKKcUOMVmH1qUCB0RnRle_8m54qn7kVSQg&oe=6AE6A5E9",
+      "image_url": "https://scontent-sjc6-1.xx.fbcdn.net/v/t15.5256-10/868852323_4624378027820375_2001315489557700610_n.jpg?stp=dst-jpg_tt6&cstp=mx1080x1920&ctp=s960x960&_nc_cat=109&ccb=1-7&_nc_sid=d2b52d&_nc_ohc=h-mrY4mmE-8Q7kNvwGIM0cG&_nc_oc=AdpaG2Gs8HpRO0SWCnm5FjqCuJb2JuYZ9zBSvPHHbUGVBK0PB-KfxZxdNyRU_Iz4AnA&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=4rIGfljzPibhroCDHVSdmg&_nc_ss=7f289&oh=00_AQOhJgFC7kRFth1SfJ4k_C6UYT-185D-3a7a9Z1xlNQPmA&oe=6AE6A5E9",
       "source_id": "lotro",
       "source_name": "The Lord of the Rings Online",
       "platform": "facebook"
@@ -169,7 +191,7 @@
       "published_at": "2026-10-26T18:01:05+00:00",
       "updated_at": "2026-10-26T18:01:05+00:00",
       "description": "We looked all over Kamadan for you... 👻\n\nDidn't make it to the Halloween meetup? Here's what you missed! Drop your costume in the replies so we know you were there in spirit. 🎃\n\n#GuildWarsReforged #GuildWars",
-      "image_url": "https://scontent-sjc3-1.xx.fbcdn.net/v/t15.5256-10/867849540_1148916977809238_6780334540241726130_n.jpg?stp=dst-jpg_tt6&cstp=mx1920x1080&ctp=s960x960&_nc_cat=106&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=nJpeEXsh01EQ7kNvwHcEOWM&_nc_oc=Adr0sT_W11xC-959uTq9CQmziLILdcYWAD-XK9vxw2joBP0B2sW50zJ3jcQsZWMQGF4&_nc_zt=23&_nc_ht=scontent-sjc3-1.xx&_nc_gid=UsyvRWpYOAWtLvw2XVCcxQ&_nc_ss=7f289&oh=00_AQMdGZzSDQ9_fjQjaon3dQtKwkAyxEkl6Q8J-VkZvjxJYw&oe=6AE6B407",
+      "image_url": "https://scontent-sjc3-1.xx.fbcdn.net/v/t15.5256-10/867849540_1148916977809238_6780334540241726130_n.jpg?stp=dst-jpg_tt6&cstp=mx1920x1080&ctp=s960x960&_nc_cat=106&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=nJpeEXsh01EQ7kNvwGkpXzz&_nc_oc=AdrFL3yym5rCmowPmrtH0nC0bTtLxVZ7V8Yr85cmU1Zm69JwU5tCM3QAiEY1kM7yJwk&_nc_zt=23&_nc_ht=scontent-sjc3-1.xx&_nc_gid=JX70Pz0CZSQvAe-wkFM_kw&_nc_ss=7f289&oh=00_AQMBYrHOgmnCuTukZ31o-D6TVCC62GKUrign1sgOsLaRKw&oe=6AE6B407",
       "source_id": "guild-wars",
       "source_name": "Guild Wars",
       "platform": "facebook"
