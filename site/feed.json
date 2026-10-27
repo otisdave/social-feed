@@ -2,7 +2,7 @@
   "version": 1,
   "title": "Social Feed",
   "description": "Un seul fil pour suivre les sources qui comptent.",
-  "generated_at": "2026-10-27T18:55:13.165686+00:00",
+  "generated_at": "2026-10-27T19:49:48.626706+00:00",
   "sources": [
     {
       "id": "eco-en-batons",
@@ -11,7 +11,7 @@
       "url": "https://www.youtube.com/@Eco_en_batons",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-10-27T18:55:13.165686+00:00",
+      "last_success_at": "2026-10-27T19:49:48.626706+00:00",
       "item_count": 15
     },
     {
@@ -21,7 +21,7 @@
       "url": "https://www.youtube.com/@investi-qc",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-10-27T18:55:13.165686+00:00",
+      "last_success_at": "2026-10-27T19:49:48.626706+00:00",
       "item_count": 15
     },
     {
@@ -31,7 +31,7 @@
       "url": "https://www.youtube.com/@hugolisoiryoutube",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-10-27T18:55:13.165686+00:00",
+      "last_success_at": "2026-10-27T19:49:48.626706+00:00",
       "item_count": 16
     },
     {
@@ -41,7 +41,7 @@
       "url": "https://www.youtube.com/@alexdemers-finance360",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-10-27T18:55:13.165686+00:00",
+      "last_success_at": "2026-10-27T19:49:48.626706+00:00",
       "item_count": 15
     },
     {
@@ -51,7 +51,7 @@
       "url": "https://www.facebook.com/GuildWars/",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-10-27T18:55:13.165686+00:00",
+      "last_success_at": "2026-10-27T19:49:48.626706+00:00",
       "item_count": 2
     },
     {
@@ -61,7 +61,7 @@
       "url": "https://www.facebook.com/LOTRO/",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-10-27T18:55:13.165686+00:00",
+      "last_success_at": "2026-10-27T19:49:48.626706+00:00",
       "item_count": 1
     },
     {
@@ -71,7 +71,7 @@
       "url": "https://www.facebook.com/VilleDeLavaltrie/",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-10-27T18:55:13.165686+00:00",
+      "last_success_at": "2026-10-27T19:49:48.626706+00:00",
       "item_count": 1
     },
     {
@@ -81,8 +81,8 @@
       "url": "https://www.facebook.com/firmetraders360/",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-10-27T18:55:13.165686+00:00",
-      "item_count": 1
+      "last_success_at": "2026-10-27T19:49:48.626706+00:00",
+      "item_count": 2
     }
   ],
   "items": [
@@ -161,11 +161,11 @@
     {
       "id": "facebook:100064655653099:1565622545602919",
       "title": "𝟯𝟬 𝗮𝗻𝘀 𝗱’𝗲𝗻𝗴𝗮𝗴𝗲𝗺𝗲𝗻𝘁 𝗮𝘂𝗽𝗿𝗲̀𝘀 𝗱𝗲 𝗹𝗮 𝗷𝗲𝘂𝗻𝗲𝘀𝘀𝗲",
-      "url": "https://www.facebook.com/VilleDeLavaltrie/posts/pfbid0VH71CNX6yYKaPQTRQy6QuFvYuy7sUKi2XaiLCLrAFkneeua21GGD1ASBawKJNZuQl",
+      "url": "https://www.facebook.com/VilleDeLavaltrie/posts/pfbid02Z8YiP3Svpx3JTC81zZ1LanVnUgAxU5T1HvRE2aMcVwUxZFQL75ynkuBuQNjNmQJfl",
       "published_at": "2026-10-26T22:17:03+00:00",
       "updated_at": "2026-10-26T22:17:03+00:00",
       "description": "𝟯𝟬 𝗮𝗻𝘀 𝗱’𝗲𝗻𝗴𝗮𝗴𝗲𝗺𝗲𝗻𝘁 𝗮𝘂𝗽𝗿𝗲̀𝘀 𝗱𝗲 𝗹𝗮 𝗷𝗲𝘂𝗻𝗲𝘀𝘀𝗲\n\nDepuis 1996, le Carrefour jeunesse-emploi de D’Autray-Joliette (CJE de D'Autray-Joliette) accompagne les jeunes de 12 à 35 ans dans leurs parcours scolaires, professionnels et personnels. Sa missi",
-      "image_url": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.99422-6/847679167_1808906600132268_6609341708747916211_n.png?stp=dst-jpg_tt6&cstp=mx1080x1080&ctp=p526x296&_nc_cat=102&ccb=1-7&_nc_sid=127cfc&_nc_ohc=0vJYs1oS-vkQ7kNvwE7-p8B&_nc_oc=AdpfxuAq_9U5RG93vX0AvQRm5ZMQWuEx35Jo4igsG-pJnhrtdNH-SkVLRUKmWVdY_pw&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=p54Svwi8n_QSoU6OaBRsNA&_nc_ss=7f289&oh=00_AQO51kAUNT0t9lKNV1wesJISS2AXX-4kFH210jB7BIWQWw&oe=6AE6B755",
+      "image_url": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.99422-6/847679167_1808906600132268_6609341708747916211_n.png?stp=dst-jpg_tt6&cstp=mx1080x1080&ctp=p526x296&_nc_cat=102&ccb=1-7&_nc_sid=127cfc&_nc_ohc=0vJYs1oS-vkQ7kNvwEv1r9u&_nc_oc=AdpMLS6xjIZx58n2UZNf0dnlon56wl2y0T2y5rPZLp8LoHcWLWMS-HA3zLsgL_7uJWw&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=ZkA1bYzbwddIVNBFTasMPg&_nc_ss=7f289&oh=00_AQPQKMu9vu95SwUWokjEUjSPQIJ-h4WGcO_Plj_LmMUgbA&oe=6AE6B755",
       "source_id": "ville-de-lavaltrie",
       "source_name": "Ville de Lavaltrie",
       "platform": "facebook"
@@ -177,7 +177,7 @@
       "published_at": "2026-10-26T21:51:58+00:00",
       "updated_at": "2026-10-26T21:51:58+00:00",
       "description": "Lead Systems Designer Orion talks about what it's like getting close to launch day",
-      "image_url": "https://scontent-sjc6-1.xx.fbcdn.net/v/t15.5256-10/868852323_4624378027820375_2001315489557700610_n.jpg?stp=dst-jpg_tt6&cstp=mx1080x1920&ctp=s960x960&_nc_cat=109&ccb=1-7&_nc_sid=d2b52d&_nc_ohc=h-mrY4mmE-8Q7kNvwHNWA_C&_nc_oc=AdqxzPyelOD2VjWatYI9PSlRENtOB80mAsMuljwg7PBj0dtcQe0QbfXy4PLCQypngYc&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=YTBnc06olZPDtTEcb3P3LQ&_nc_ss=7f289&oh=00_AQOw37NIeNUkSnSa7rmMTqPwEK13qbdrbvBjEXh9LqCvtQ&oe=6AE6DE29",
+      "image_url": "https://scontent-ord5-1.xx.fbcdn.net/v/t15.5256-10/868852323_4624378027820375_2001315489557700610_n.jpg?stp=dst-jpg_tt6&cstp=mx1080x1920&ctp=s960x960&_nc_cat=109&ccb=1-7&_nc_sid=d2b52d&_nc_ohc=h-mrY4mmE-8Q7kNvwHjYFb1&_nc_oc=AdqkYXZBj4TSZ1ZlQOTYy0XsdMVBoQun25v0xInAvNphZvIYk5_AySqx1IrjTD9vXtg&_nc_zt=23&_nc_ht=scontent-ord5-1.xx&_nc_gid=-U492JIP8s64An6NchuoEA&_nc_ss=7f289&oh=00_AQPqVmUZTOHcdWaaioJgpIX50Pin0F6gcF0pyDCu6q4Xhw&oe=6AE6DE29",
       "source_id": "lotro",
       "source_name": "The Lord of the Rings Online",
       "platform": "facebook"
@@ -213,7 +213,7 @@
       "published_at": "2026-10-26T18:01:05+00:00",
       "updated_at": "2026-10-26T18:01:05+00:00",
       "description": "We looked all over Kamadan for you... 👻\n\nDidn't make it to the Halloween meetup? Here's what you missed! Drop your costume in the replies so we know you were there in spirit. 🎃\n\n#GuildWarsReforged #GuildWars",
-      "image_url": "https://scontent-sjc3-1.xx.fbcdn.net/v/t15.5256-10/867849540_1148916977809238_6780334540241726130_n.jpg?stp=dst-jpg_tt6&cstp=mx1920x1080&ctp=s960x960&_nc_cat=106&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=nJpeEXsh01EQ7kNvwFBEs-5&_nc_oc=AdrOIvyQfzoFhuZn674Rbkpe4X4LkhtRXRPi20Uv-chHuoRoKSTASgCWc9TIU5Dgv5E&_nc_zt=23&_nc_ht=scontent-sjc3-1.xx&_nc_gid=RNWs8AzrD9rlscdgDvkxqg&_nc_ss=7f289&oh=00_AQOUp8RnZDihP2suSrdDqyOgLHj0sM0mCI6pavCT1N-1cQ&oe=6AE6B407",
+      "image_url": "https://scontent-ord5-1.xx.fbcdn.net/v/t15.5256-10/867849540_1148916977809238_6780334540241726130_n.jpg?stp=dst-jpg_tt6&cstp=mx1920x1080&ctp=s960x960&_nc_cat=106&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=nJpeEXsh01EQ7kNvwGK465F&_nc_oc=AdqzVANBMqlc3QGe0LkbaTLr_en2DK9memz7-xrcPZG3SN_TT1j_8HH61DulsPNWPes&_nc_zt=23&_nc_ht=scontent-ord5-1.xx&_nc_gid=kUZiByeeiww65B0gxIDEzA&_nc_ss=7f289&oh=00_AQM78DxRqCf9zevOMkvL9frUJVOix31SWXHBlKE_GnmJuQ&oe=6AE6EC47",
       "source_id": "guild-wars",
       "source_name": "Guild Wars",
       "platform": "facebook"
@@ -229,6 +229,18 @@
       "source_id": "investi-qc",
       "source_name": "Investi QC",
       "platform": "youtube"
+    },
+    {
+      "id": "facebook:100063889127390:1657173333088955",
+      "title": "Couche-Tard aurait présenté une offre d’acquisition pour Cumberland Farms, une grosse chaîne de dépanneurs et de station",
+      "url": "https://www.facebook.com/firmetraders360/posts/pfbid0LfuSPydHQ3f3dTRukizkLE8bDhYn7ix8ksmJ8uNGGbTNgrEsZ2TDtVVtGWj51DcMl",
+      "published_at": "2026-10-26T13:57:34+00:00",
+      "updated_at": "2026-10-26T13:57:34+00:00",
+      "description": "Couche-Tard aurait présenté une offre d’acquisition pour Cumberland Farms, une grosse chaîne de dépanneurs et de stations-service. \n\nL’offre serait évaluée entre 7,5 et 8 milliards de dollars US.\n\nCumberland Farms compte environ 3,300 établ",
+      "image_url": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.99422-6/861905340_975435555064718_9021277421460634871_n.png?stp=dst-jpg_tt6&cstp=mx1488x1056&ctp=s720x720&_nc_cat=103&ccb=1-7&_nc_sid=127cfc&_nc_ohc=k2PAvqX29WAQ7kNvwGOXYKM&_nc_oc=Adow7cMe81v_2FG4dJk2rV0o98jqd9sZFKVwYEl7uVqoYTPI952ytK2fd0HRaZYwpYk&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=misWS3wShZtGXpbQ4IViqg&_nc_ss=7f289&oh=00_AQMqkoDAYjKSCNpj0mg8fZ5tGnEBSU-yNoXXmO3Ha1YgGA&oe=6AE6E4AD",
+      "source_id": "traders-360",
+      "source_name": "Traders 360",
+      "platform": "facebook"
     },
     {
       "id": "youtube:raE_2QSxr0k",
