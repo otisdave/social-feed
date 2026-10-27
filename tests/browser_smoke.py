@@ -1,0 +1,110 @@
+"""Exercise internal navigation and embeds without contacting social platforms."""
+
+import functools
+import json
+import threading
+from http.server import SimpleHTTPRequestHandler, ThreadingHTTPServer
+from pathlib import Path
+from urllib.parse import urlencode
+
+from playwright.sync_api import sync_playwright
+
+
+def main() -> None:
+    directory = Path(__file__).resolve().parents[1] / "site"
+    handler = functools.partial(SimpleHTTPRequestHandler, directory=str(directory))
+    server = ThreadingHTTPServer(("127.0.0.1", 0), handler)
+    thread = threading.Thread(target=server.serve_forever, daemon=True)
+    thread.start()
+    base = f"http://127.0.0.1:{server.server_port}/"
+    archive = json.loads((directory / "feed.json").read_text(encoding="utf-8"))
+    video = next(item for item in archive["items"] if item["platform"] == "youtube")
+    facebook = {
+        **video, "id": "facebook:1:2", "source_id": "test-facebook",
+        "source_name": "Test Facebook", "platform": "facebook",
+        "title": "<script>alert('not executable')</script>",
+        "description": "First line\nSecond line", "image_url": None,
+        "url": "https://www.facebook.com/reel/123456789/",
+    }
+
+    def detail_url(item):
+        return base + "publication.html?" + urlencode({"source": item["source_id"], "id": item["id"]})
+
+    try:
+        with sync_playwright() as playwright:
+            browser = playwright.chromium.launch()
+            page = browser.new_page(viewport={"width": 1280, "height": 900})
+            page_errors = []
+            page.on("pageerror", lambda error: page_errors.append(str(error)))
+            page.route("https://**/*", lambda route: route.abort())
+            page.goto(base)
+            page.locator("#publications[aria-busy=false]").wait_for()
+            link = page.locator(".card h3 a").first
+            assert "publication.html?" in link.get_attribute("href")
+            assert link.get_attribute("target") is None
+            link.click()
+            page.locator("#detail").wait_for(state="visible")
+            assert page.locator("#official-link").get_attribute("target") == "_blank"
+            page.goto(detail_url(video))
+            page.locator("#detail").wait_for(state="visible")
+            assert page.locator("iframe").count() == 0
+            assert page.locator("#publication-description").inner_text() == (
+                video["description"] or "Aucun texte archivé pour cette publication."
+            )
+            page.locator("#activate-embed").click()
+            iframe = page.locator("iframe")
+            assert iframe.count() == 1
+            assert iframe.get_attribute("src").startswith("https://www.youtube-nocookie.com/embed/")
+            assert page.locator("#embed-fallback").is_visible()
+            assert page.locator("#activate-embed").is_hidden()
+            assert page.locator("#official-link").get_attribute("href") == video["url"]
+            page.go_back()
+            page.go_forward()
+            page.locator("#detail").wait_for(state="visible")
+            assert page.locator("iframe").count() == 0
+
+            def use_fixture(item):
+                page.route("**/feed.json", lambda route: route.fulfill(
+                    content_type="application/json",
+                    body=json.dumps({**archive, "items": [item]}),
+                ))
+                page.goto(detail_url(item))
+                page.locator("#publication[aria-busy=false]").wait_for()
+
+            use_fixture(facebook)
+            assert page.locator("#publication-title").inner_text() == facebook["title"]
+            assert page.locator("#publication-description").inner_text() == facebook["description"]
+            assert page.locator("#excerpt-note").is_visible()
+            assert page.locator("iframe").count() == 0
+            page.locator("#activate-embed").click()
+            assert "/plugins/video.php?" in page.locator("iframe").get_attribute("src")
+            post = {**facebook, "url": "https://www.facebook.com/Test/posts/123456789/"}
+            use_fixture(post)
+            page.locator("#activate-embed").click()
+            assert "/plugins/post.php?" in page.locator("iframe").get_attribute("src")
+            for width in (375, 768, 1280):
+                page.set_viewport_size({"width": width, "height": 900})
+                assert page.evaluate("document.documentElement.scrollWidth <= innerWidth")
+            page.goto(base + "publication.html")
+            page.locator("#publication-error").wait_for(state="visible")
+            page.goto(base + "publication.html?source=missing&id=missing")
+            page.locator("#publication-error").wait_for(state="visible")
+            assert "introuvable" in page.locator("#publication-error").inner_text()
+            use_fixture({**facebook, "url": "javascript:alert(1)"})
+            assert page.locator("#publication-error").is_visible()
+            assert page.locator("#detail").is_hidden()
+            page.route("**/feed.json", lambda route: route.fulfill(status=503, body="Unavailable"))
+            page.goto(detail_url(video))
+            page.locator("#publication-error").wait_for(state="visible")
+            assert "503" in page.locator("#publication-error").inner_text()
+            assert not page_errors, page_errors
+            browser.close()
+        print("Internal pages: navigation, consent, embeds, fallbacks, safe text, responsive layout and errors OK.")
+    finally:
+        server.shutdown()
+        server.server_close()
+        thread.join(timeout=5)
+
+
+if __name__ == "__main__":
+    main()

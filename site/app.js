@@ -32,8 +32,9 @@ function selectSource(sourceId) {
 
 function makeCard(item) {
   const card = element('card-template').content.cloneNode(true);
+  const internalUrl = `./publication.html?source=${encodeURIComponent(item.source_id)}&id=${encodeURIComponent(item.id)}`;
   const imageLink = card.querySelector('.card-image-link');
-  imageLink.href = item.url;
+  imageLink.href = internalUrl;
   imageLink.setAttribute('aria-label', item.title);
   const image = card.querySelector('img');
   if (item.image_url) {
@@ -52,11 +53,11 @@ function makeCard(item) {
   date.dateTime = item.published_at;
   date.textContent = dateFormat.format(new Date(item.published_at));
   const title = card.querySelector('h3 a');
-  title.href = item.url;
+  title.href = internalUrl;
   title.textContent = item.title;
   card.querySelector('.card-description').textContent = item.description;
   card.querySelector('.card-source').textContent = item.source_name;
-  card.querySelector('.read-link').href = item.url;
+  card.querySelector('.read-link').href = internalUrl;
   return card;
 }
 

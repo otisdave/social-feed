@@ -54,6 +54,18 @@ def render_public_page(url: str) -> str:
                     "Facebook exposed no dated public posts. Login, access restrictions, "
                     "or a changed page format may prevent scraping; no bypass attempted."
                 ) from error
+            # Only scroll the public page; never dismiss login or consent barriers.
+            previous_count = 0
+            for _ in range(3):
+                count = page.evaluate(
+                    """() => [...document.querySelectorAll('script[type="application/json"]')]
+                      .reduce((n, script) => n + (script.textContent.match(/"creation_time":/g) || []).length, 0)"""
+                )
+                page.evaluate("window.scrollTo(0, document.documentElement.scrollHeight)")
+                page.wait_for_timeout(1500)
+                if count == previous_count:
+                    break
+                previous_count = count
             html = page.content()
             if len(html.encode("utf-8")) > 10 * 1024 * 1024:
                 raise ValueError("Rendered Facebook page exceeds the 10 MiB limit.")

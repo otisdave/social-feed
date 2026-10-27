@@ -25,9 +25,19 @@ Facebook (page publique) ----> Adaptateur Facebook ---+--> Publications standard
 
 Le site affiche les miniatures, les dates de publication, les descriptions et les
 liens d'origine. Une recherche, un filtre par source et un filtre par plateforme
-permettent de parcourir le fil. Les publications s'ouvrent chez leur fournisseur :
-aucun lecteur tiers, outil de suivi ou framework n'est chargé par le site.
-Les miniatures sont toutefois chargées depuis YouTube ou Facebook.
+permettent de parcourir le fil. Les cartes ouvrent une page interne partageable
+(`publication.html?source=…&id=…`), avec le texte archivé, la date et un bouton
+permanent vers l'original. Les liens du RSS continuent de pointer vers l'original.
+
+Le lecteur YouTube (domaine `youtube-nocookie.com`) ou la publication/vidéo
+Facebook officielle est chargé seulement après un clic explicite. Aucun lecteur
+tiers n'est chargé avant ce consentement; les miniatures sont toutefois chargées
+depuis YouTube ou Facebook. Aucune vidéo n'est téléchargée ni réhébergée.
+Une intégration peut être refusée par le fournisseur, demander des cookies ou
+une connexion : un message et le bouton vers l'original restent disponibles.
+Le navigateur ne permet pas de détecter de façon fiable les refus à l'intérieur
+d'une iframe tierce. Facebook affiche un extrait archivé de 240 caractères, pas
+une copie garantie du texte intégral; YouTube affiche la description archivée.
 
 GitHub Actions interroge les sources environ chaque heure, à la minute 17, et à
 chaque modification de `main`. GitHub peut retarder les tâches planifiées.
@@ -54,6 +64,7 @@ python -m venv .venv
 .\.venv\Scripts\python.exe -m playwright install chromium
 .\.venv\Scripts\Activate.ps1
 python -m unittest discover -s tests -v
+python tests/browser_smoke.py
 python -m social_feed
 python -m http.server 8000 --directory site --bind 127.0.0.1
 ```
@@ -148,8 +159,9 @@ conditions d'accès en vigueur.
 
 Playwright charge la page publique dans un navigateur Chromium neuf, sans compte,
 sans cookies persistants, sans proxy ni mécanisme de contournement. Il ne ferme
-pas de barrière de connexion, ne résout pas de CAPTCHA et ne pagine pas au-delà
-du contenu initialement exposé. Les images, médias et polices sont bloqués dans
+pas de barrière de connexion et ne résout pas de CAPTCHA. Il tente au maximum
+trois défilements de la page publique et s'arrête si les données ne progressent
+plus. Il n'appelle aucun endpoint privé de pagination. Les images, médias et polices sont bloqués dans
 le navigateur de collecte pour limiter la consommation réseau.
 
 Le scraper lit les données JSON présentes dans le document rendu et conserve
@@ -162,7 +174,7 @@ Les miniatures Facebook peuvent expirer.
 **La collecte est expérimentale et non garantie.** Facebook peut ne montrer qu'une
 publication, imposer une connexion ou modifier ses données. Les restrictions
 peuvent aussi différer entre un poste local et GitHub Actions. Aucun historique
-complet, aucune pagination ni détection fiable des modifications n'est promis.
+complet ni détection fiable des modifications n'est promis.
 Si aucun post daté n'est accessible, l'adaptateur signale une erreur explicite et
 conserve l'archive; il ne transforme pas les informations du profil en faux posts.
 L'API Graph avec les permissions appropriées reste une option plus encadrée.
