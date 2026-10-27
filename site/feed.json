@@ -2,7 +2,7 @@
   "version": 1,
   "title": "Social Feed",
   "description": "Un seul fil pour suivre les sources qui comptent.",
-  "generated_at": "2026-10-27T17:11:09.094445+00:00",
+  "generated_at": "2026-10-27T17:13:46.704273+00:00",
   "sources": [
     {
       "id": "eco-en-batons",
@@ -11,7 +11,7 @@
       "url": "https://www.youtube.com/@Eco_en_batons",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-10-27T17:11:09.094445+00:00",
+      "last_success_at": "2026-10-27T17:13:46.704273+00:00",
       "item_count": 15
     },
     {
@@ -21,7 +21,7 @@
       "url": "https://www.youtube.com/@investi-qc",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-10-27T17:11:09.094445+00:00",
+      "last_success_at": "2026-10-27T17:13:46.704273+00:00",
       "item_count": 15
     },
     {
@@ -31,7 +31,7 @@
       "url": "https://www.youtube.com/@hugolisoiryoutube",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-10-27T17:11:09.094445+00:00",
+      "last_success_at": "2026-10-27T17:13:46.704273+00:00",
       "item_count": 16
     },
     {
@@ -41,7 +41,7 @@
       "url": "https://www.youtube.com/@alexdemers-finance360",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-10-27T17:11:09.094445+00:00",
+      "last_success_at": "2026-10-27T17:13:46.704273+00:00",
       "item_count": 15
     },
     {
@@ -51,7 +51,7 @@
       "url": "https://www.facebook.com/GuildWars/",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-10-27T17:11:09.094445+00:00",
+      "last_success_at": "2026-10-27T17:13:46.704273+00:00",
       "item_count": 2
     },
     {
@@ -61,7 +61,7 @@
       "url": "https://www.facebook.com/LOTRO/",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-10-27T17:11:09.094445+00:00",
+      "last_success_at": "2026-10-27T17:13:46.704273+00:00",
       "item_count": 1
     }
   ],
@@ -133,7 +133,7 @@
       "published_at": "2026-10-26T21:51:58+00:00",
       "updated_at": "2026-10-26T21:51:58+00:00",
       "description": "Lead Systems Designer Orion talks about what it's like getting close to launch day",
-      "image_url": "https://scontent-ord5-1.xx.fbcdn.net/v/t15.5256-10/868852323_4624378027820375_2001315489557700610_n.jpg?stp=dst-jpg_tt6&cstp=mx1080x1920&ctp=s960x960&_nc_cat=109&ccb=1-7&_nc_sid=d2b52d&_nc_ohc=h-mrY4mmE-8Q7kNvwEsmIy6&_nc_oc=AdqONBqRHCQb9jS6vJ4kpA1lCRzLu73VBoVLT4qeu3olrbMj-v-6e3ebdz2JIK3TVOs&_nc_zt=23&_nc_ht=scontent-ord5-1.xx&_nc_gid=cwrPlbD5LY9Zd26S0DBw9g&_nc_ss=7f289&oh=00_AQMda-Q5Cpw6z1DxUuwWmwKjtrrXx4WlzJtLZsLyc1eQdg&oe=6AE6A5E9",
+      "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t15.5256-10/868852323_4624378027820375_2001315489557700610_n.jpg?stp=dst-jpg_tt6&cstp=mx1080x1920&ctp=s960x960&_nc_cat=109&ccb=1-7&_nc_sid=d2b52d&_nc_ohc=h-mrY4mmE-8Q7kNvwGBOMTH&_nc_oc=Adq40ytJklO_GLVsHHpxwEf9Jm7spuW1D0Lbnyxf7QKNF0JgQMq9-S1xQm0UdI-XuHQ&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&_nc_gid=AGFVCHbV6FvJEG4t-kwh3Q&_nc_ss=7f289&oh=00_AQM4R2mC-qMgWUNSGSmQn6bcmHP42x1iI4xunvxJBmKp7Q&oe=6AE6A5E9",
       "source_id": "lotro",
       "source_name": "The Lord of the Rings Online",
       "platform": "facebook"
@@ -169,7 +169,7 @@
       "published_at": "2026-10-26T18:01:05+00:00",
       "updated_at": "2026-10-26T18:01:05+00:00",
       "description": "We looked all over Kamadan for you... 👻\n\nDidn't make it to the Halloween meetup? Here's what you missed! Drop your costume in the replies so we know you were there in spirit. 🎃\n\n#GuildWarsReforged #GuildWars",
-      "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t15.5256-10/867849540_1148916977809238_6780334540241726130_n.jpg?stp=dst-jpg_tt6&cstp=mx1920x1080&ctp=s960x960&_nc_cat=106&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=nJpeEXsh01EQ7kNvwF9PbYy&_nc_oc=AdpzW3bPj5KG9iD6OoDdS635OFNE4DLJvtC-j0VomSpCvcTkggKekcJJ9mS--HiIamE&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&_nc_gid=_-gwjcW-22-lgaXdE918gg&_nc_ss=7f289&oh=00_AQOQEUMcwxW63VJkjegbX6bGErlh_aTQHYXooGzoltTjdQ&oe=6AE6B407",
+      "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t15.5256-10/867849540_1148916977809238_6780334540241726130_n.jpg?stp=dst-jpg_tt6&cstp=mx1920x1080&ctp=s960x960&_nc_cat=106&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=nJpeEXsh01EQ7kNvwF78Tf7&_nc_oc=AdqaB8AVGRzv3Ivwe__TjZysu_wP8WaZFi8g_yqiuLBaS_lEY2S7RJhW7w8d1z6IMhs&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&_nc_gid=purRUMTkNy1akzRrlCFc8w&_nc_ss=7f289&oh=00_AQPYoqzf7WFIUm-nIT3IoL2SOSaCzgbh5F0W_6EhCZZzJg&oe=6AE6B407",
       "source_id": "guild-wars",
       "source_name": "Guild Wars",
       "platform": "facebook"
