@@ -1,8 +1,9 @@
-import { safeHttps, embedFor, createEmbed } from './embeds.js?v=inline-player-2';
+import { safeHttps, embedFor, createEmbed, embedHelp } from './embeds.js?v=embed-recovery-3';
 
 const byId = (id) => document.getElementById(id);
 
 function activateEmbed(embed, title) {
+  byId('embed-fallback').textContent = embedHelp(embed);
   const iframe = createEmbed(embed, title, () => {
     byId('embed-fallback').textContent = 'Le contenu intégré n’a pas pu être chargé. Utilisez le bouton vers la source officielle.';
   });
@@ -10,6 +11,7 @@ function activateEmbed(embed, title) {
   byId('activate-embed').hidden = true;
   byId('preview').hidden = true;
   byId('embed-fallback').hidden = false;
+  byId('embed-controls').hidden = false;
 }
 
 async function loadPublication() {
@@ -51,7 +53,16 @@ async function loadPublication() {
       byId('embed-section').hidden = false;
       byId('activate-embed').textContent = embed.label;
       byId('embed-privacy').textContent = embed.privacy;
-      byId('activate-embed').addEventListener('click', () => activateEmbed(embed, item.title), { once: true });
+      byId('activate-embed').addEventListener('click', () => activateEmbed(embed, item.title));
+      byId('retry-embed').addEventListener('click', () => activateEmbed(embed, item.title));
+      byId('close-embed').addEventListener('click', () => {
+        byId('embed-container').replaceChildren();
+        byId('embed-controls').hidden = true;
+        byId('embed-fallback').hidden = true;
+        byId('activate-embed').hidden = false;
+        byId('preview').hidden = !item.image_url || !byId('publication-image').naturalWidth;
+        byId('activate-embed').focus();
+      });
     }
     byId('detail').hidden = false;
   } catch (error) {

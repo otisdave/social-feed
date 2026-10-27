@@ -1,4 +1,4 @@
-import { embedFor, createEmbed } from './embeds.js?v=inline-player-2';
+import { embedFor, createEmbed, embedHelp } from './embeds.js?v=embed-recovery-3';
 
 const PAGE_SIZE = 12;
 const PLATFORM_NAMES = { youtube: 'YouTube', reddit: 'Reddit', facebook: 'Facebook' };
@@ -53,7 +53,8 @@ function makeCard(item) {
     const play = card.querySelector('.card-play');
     const player = card.querySelector('.card-player');
     const playback = card.querySelector('.card-playback');
-    const stop = card.querySelector('.card-stop');
+    const stop = card.querySelector('.card-stop:not(.card-retry)');
+    const retry = card.querySelector('.card-retry');
     const status = playback.querySelector('[role="status"]');
     const privacy = card.querySelector('.card-privacy');
     privacy.textContent = embed.privacy;
@@ -68,12 +69,12 @@ function makeCard(item) {
       play.hidden = false;
       if (closeActivePlayer === close) closeActivePlayer = null;
     };
-    play.addEventListener('click', () => {
+    const start = () => {
       if (closeActivePlayer) closeActivePlayer();
       const activeEmbed = embedFor(item, {
         autoplay: true, width: imageLink.getBoundingClientRect().width,
       });
-      status.textContent = 'Si la lecture est bloquée, utilisez le lien vers la source officielle.';
+      status.textContent = embedHelp(activeEmbed);
       player.replaceChildren(createEmbed(activeEmbed, item.title, () => {
         status.textContent = 'Le lecteur n’a pas pu être chargé. Utilisez le lien vers la source officielle.';
       }));
@@ -83,7 +84,9 @@ function makeCard(item) {
       playback.hidden = false;
       closeActivePlayer = close;
       stop.focus();
-    });
+    };
+    play.addEventListener('click', start);
+    retry.addEventListener('click', start);
     stop.addEventListener('click', () => {
       close();
       play.focus();

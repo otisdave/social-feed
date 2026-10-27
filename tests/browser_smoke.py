@@ -1,5 +1,6 @@
 """Exercise internal navigation and embeds without contacting social platforms."""
 
+import argparse
 import functools
 import json
 import threading
@@ -10,7 +11,7 @@ from urllib.parse import urlencode
 from playwright.sync_api import sync_playwright
 
 
-def main() -> None:
+def main(browser_name: str = "chromium") -> None:
     directory = Path(__file__).resolve().parents[1] / "site"
     handler = functools.partial(SimpleHTTPRequestHandler, directory=str(directory))
     server = ThreadingHTTPServer(("127.0.0.1", 0), handler)
@@ -32,7 +33,7 @@ def main() -> None:
 
     try:
         with sync_playwright() as playwright:
-            browser = playwright.chromium.launch()
+            browser = getattr(playwright, browser_name).launch()
             page = browser.new_page(viewport={"width": 1280, "height": 900})
             page_errors = []
             page.on("pageerror", lambda error: page_errors.append(str(error)))
@@ -80,7 +81,10 @@ def main() -> None:
             for width in (375, 768, 1280):
                 page.set_viewport_size({"width": width, "height": 900})
                 assert page.evaluate("document.documentElement.scrollWidth <= innerWidth")
-            facebook_card.locator(".card-stop").click()
+            facebook_card.locator(".card-retry").click()
+            assert page.locator("iframe").count() == 1
+            assert "Firefox" in facebook_card.locator('[role="status"]').inner_text()
+            facebook_card.locator(".card-stop:not(.card-retry)").click()
             assert page.locator("iframe").count() == 0
             assert facebook_card.locator(".card-play").evaluate(
                 "button => button === document.activeElement"
@@ -111,6 +115,14 @@ def main() -> None:
             assert page.locator("#embed-fallback").is_visible()
             assert page.locator("#activate-embed").is_hidden()
             assert page.locator("#official-link").get_attribute("href") == video["url"]
+            page.locator("#retry-embed").click()
+            assert page.locator("iframe").count() == 1
+            assert "Firefox" in page.locator("#embed-fallback").inner_text()
+            page.locator("#close-embed").click()
+            assert page.locator("iframe").count() == 0
+            assert page.locator("#activate-embed").is_visible()
+            page.locator("#activate-embed").click()
+            assert page.locator("iframe").count() == 1
             page.go_back()
             page.go_forward()
             page.locator("#detail").wait_for(state="visible")
@@ -124,6 +136,9 @@ def main() -> None:
                 page.goto(detail_url(item))
                 page.locator("#publication[aria-busy=false]").wait_for()
 
+            page.route("https://www.facebook.com/plugins/**", lambda route: route.fulfill(
+                content_type="text/html", body="<!doctype html><html><body></body></html>",
+            ))
             use_fixture(facebook)
             assert page.locator("#publication-title").inner_text() == facebook["title"]
             assert page.locator("#publication-description").inner_text() == facebook["description"]
@@ -131,6 +146,14 @@ def main() -> None:
             assert page.locator("iframe").count() == 0
             page.locator("#activate-embed").click()
             assert "/plugins/video.php?" in page.locator("iframe").get_attribute("src")
+            assert page.locator("#embed-fallback").is_visible()
+            assert "Firefox" in page.locator("#embed-fallback").inner_text()
+            page.locator("#retry-embed").click()
+            assert page.locator("iframe").count() == 1
+            page.locator("#close-embed").click()
+            assert page.locator("iframe").count() == 0
+            assert page.locator("#publication-description").is_visible()
+            assert page.locator("#official-link").is_visible()
             post = {**facebook, "url": "https://www.facebook.com/Test/posts/123456789/"}
             use_fixture(post)
             page.locator("#activate-embed").click()
@@ -161,4 +184,6 @@ def main() -> None:
 
 
 if __name__ == "__main__":
-    main()
+    parser = argparse.ArgumentParser(description=__doc__)
+    parser.add_argument("--browser", choices=("chromium", "firefox"), default="chromium")
+    main(parser.parse_args().browser)

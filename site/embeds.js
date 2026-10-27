@@ -6,6 +6,11 @@ export function safeHttps(value) {
   return url;
 }
 
+export function embedHelp(embed) {
+  const provider = embed.kind === 'facebook' ? 'Facebook' : 'YouTube';
+  return `Cadre blanc ou lecture bloquée ? ${provider} peut être bloqué par une protection anti-pistage, une extension ou ses propres restrictions. Sous Firefox, le bouclier près de l’adresse permet de consulter les blocages. Vous pouvez réessayer, fermer le lecteur ou ouvrir la source officielle, sans modifier vos protections.`;
+}
+
 export function embedFor(item, { autoplay = false, width = 500 } = {}) {
   const official = safeHttps(item.url);
   if (item.platform === 'youtube' && official.hostname === 'www.youtube.com') {

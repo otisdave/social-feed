@@ -5,9 +5,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta name="theme-color" content="#f5f4ef" />
     <title>Publication — Social Feed</title>
-    <link rel="stylesheet" href="./styles.css?v=inline-player-2" />
+    <link rel="stylesheet" href="./styles.css?v=embed-recovery-3" />
     <link rel="alternate" type="application/rss+xml" title="Social Feed" href="./feed.xml" />
-    <script src="./publication.js?v=inline-player-2" type="module"></script>
+    <script src="./publication.js?v=embed-recovery-3" type="module"></script>
   </head>
   <body>
     <a class="skip-link" href="#publication">Aller à la publication</a>
@@ -30,6 +30,10 @@
           <button id="activate-embed" class="load-more" type="button">Charger le contenu intégré</button>
           <p id="embed-privacy" class="embed-note"></p>
           <div id="embed-container"></div>
+          <div id="embed-controls" class="embed-controls" hidden>
+            <button id="retry-embed" class="card-stop" type="button">Réessayer le chargement</button>
+            <button id="close-embed" class="card-stop" type="button">Fermer le lecteur</button>
+          </div>
           <p id="embed-fallback" class="embed-note" hidden>Si le contenu ne s'affiche pas ou si une connexion est demandée, utilisez le bouton vers la source officielle. Le fournisseur peut interdire l'intégration.</p>
         </section>
         <p id="excerpt-note" class="notice" hidden>Extrait archivé de la publication Facebook. L'intégration peut afficher le contenu complet si Facebook l'autorise.</p>

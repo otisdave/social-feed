@@ -54,6 +54,13 @@ Le navigateur ne permet pas de détecter de façon fiable les refus à l'intéri
 d'une iframe tierce. Facebook affiche un extrait archivé de 240 caractères, pas
 une copie garantie du texte intégral; YouTube affiche la description archivée.
 
+Un cadre blanc ne signifie pas que le post est vide : Firefox, une extension,
+le réseau ou le fournisseur peuvent bloquer le lecteur. Les commandes
+**Réessayer** et **Fermer le lecteur** sont disponibles dans le fil et sur la
+fiche, avec une aide indiquant le bouclier Firefox et le lien vers l'original.
+Le site ne désactive ni ne contourne ces protections et ne prétend pas détecter
+automatiquement un refus interne à une iframe tierce.
+
 GitHub Actions interroge les sources environ chaque heure, à la minute 17, et à
 chaque modification de `main`. GitHub peut retarder les tâches planifiées.
 Une actualisation manuelle est possible dans **Actions > Refresh and publish >
