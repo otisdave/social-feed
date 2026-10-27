@@ -2,7 +2,7 @@
   "version": 1,
   "title": "Social Feed",
   "description": "Un seul fil pour suivre les sources qui comptent.",
-  "generated_at": "2026-10-27T16:26:46.613956+00:00",
+  "generated_at": "2026-10-27T17:11:09.094445+00:00",
   "sources": [
     {
       "id": "eco-en-batons",
@@ -11,7 +11,7 @@
       "url": "https://www.youtube.com/@Eco_en_batons",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-10-27T16:26:46.613956+00:00",
+      "last_success_at": "2026-10-27T17:11:09.094445+00:00",
       "item_count": 15
     },
     {
@@ -21,7 +21,7 @@
       "url": "https://www.youtube.com/@investi-qc",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-10-27T16:26:46.613956+00:00",
+      "last_success_at": "2026-10-27T17:11:09.094445+00:00",
       "item_count": 15
     },
     {
@@ -31,8 +31,8 @@
       "url": "https://www.youtube.com/@hugolisoiryoutube",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-10-27T16:26:46.613956+00:00",
-      "item_count": 15
+      "last_success_at": "2026-10-27T17:11:09.094445+00:00",
+      "item_count": 16
     },
     {
       "id": "alex-demers-finance360",
@@ -41,7 +41,7 @@
       "url": "https://www.youtube.com/@alexdemers-finance360",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-10-27T16:26:46.613956+00:00",
+      "last_success_at": "2026-10-27T17:11:09.094445+00:00",
       "item_count": 15
     },
     {
@@ -51,8 +51,8 @@
       "url": "https://www.facebook.com/GuildWars/",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-10-27T16:26:46.613956+00:00",
-      "item_count": 1
+      "last_success_at": "2026-10-27T17:11:09.094445+00:00",
+      "item_count": 2
     },
     {
       "id": "lotro",
@@ -61,17 +61,29 @@
       "url": "https://www.facebook.com/LOTRO/",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-10-27T16:26:46.613956+00:00",
+      "last_success_at": "2026-10-27T17:11:09.094445+00:00",
       "item_count": 1
     }
   ],
   "items": [
     {
+      "id": "youtube:Rq_a_LLLKtE",
+      "title": "10 ans après, ces deux explosions cosmiques restent inexplicables ! DNDE",
+      "url": "https://www.youtube.com/watch?v=Rq_a_LLLKtE",
+      "published_at": "2026-10-27T17:00:19+00:00",
+      "updated_at": "2026-10-27T17:00:20+00:00",
+      "description": "Dernières Nouvelles des Étoiles (DNDE) est un format hebdomadaire qui fait le tour de l’actualité spatiale. SpaceX, NASA, ESA, Chine : quels seront les prochains grands défis de l’humanité en matière d’exploration de l’espace ?\nAu programme cette semaine : un mystérieux double sursaut gamma qui pourrait révéler un phénomène astrophysique encore inconnu, la NASA qui rebat les cartes du programme Artemis en remettant SpaceX et Blue Origin en concurrence pour le retour sur la Lune, et les avancées du programme lunaire chinois qui pourrait bien prendre de vitesse les Américains.\n\nRetrouvez les podcasts sur Spotify : https://open.spotify.com/show/4tSLoAKS8jh4mVftHpkkb3\nSources :\nLe mystérieux double sursaut gamma GRB 160425A :\nhttps://www.nature.com/articles/s41550-026-03007-0\nLa NASA bouleverse le programme Artemis :\nhttps://www.nasa.gov/missions/artemis/nasa-partners-accelerate-lander-development-for-2028-moon-missions/\nLa Chine poursuit son programme lunaire habité :\nhttps://www.cmse.gov.cn/\n\nMusiques : Pedro Macedo Camacho / Star Citizen, Utho Riley et Gérald M. Dorai\nImages : NASA, NASA Goddard, SpaceX, Blue Origin, CNSA, CMSA\nMoteur 3D : Space Engine Pro",
+      "image_url": "https://i3.ytimg.com/vi/Rq_a_LLLKtE/hqdefault.jpg",
+      "source_id": "hugo-lisoir",
+      "source_name": "Hugo Lisoir",
+      "platform": "youtube"
+    },
+    {
       "id": "youtube:iUDsAY-BXFk",
       "title": "C’est quoi la titrisation?",
       "url": "https://www.youtube.com/watch?v=iUDsAY-BXFk",
       "published_at": "2026-10-27T15:37:00+00:00",
-      "updated_at": "2026-10-27T16:09:53+00:00",
+      "updated_at": "2026-10-27T17:10:59+00:00",
       "description": "C’est quoi la titrisation?",
       "image_url": "https://i2.ytimg.com/vi/iUDsAY-BXFk/hqdefault.jpg",
       "source_id": "investi-qc",
@@ -121,7 +133,7 @@
       "published_at": "2026-10-26T21:51:58+00:00",
       "updated_at": "2026-10-26T21:51:58+00:00",
       "description": "Lead Systems Designer Orion talks about what it's like getting close to launch day",
-      "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t15.5256-10/868852323_4624378027820375_2001315489557700610_n.jpg?stp=dst-jpg_tt6&cstp=mx1080x1920&ctp=s960x960&_nc_cat=109&ccb=1-7&_nc_sid=d2b52d&_nc_ohc=h-mrY4mmE-8Q7kNvwEENOwW&_nc_oc=Adq24z6him9p-US_PyB7OZqtH-OVunkX_C1cH0DlUcDQYcO12DmxHO26Dc0GtCKcSQ8&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&_nc_gid=WZlB6QJgF_9NDBoTJc9tTg&_nc_ss=7f289&oh=00_AQPqZG7o1NrN1ewXvZhkTgL3pe81gsc_o9qf4Gkgb2z3_w&oe=6AE6A5E9",
+      "image_url": "https://scontent-ord5-1.xx.fbcdn.net/v/t15.5256-10/868852323_4624378027820375_2001315489557700610_n.jpg?stp=dst-jpg_tt6&cstp=mx1080x1920&ctp=s960x960&_nc_cat=109&ccb=1-7&_nc_sid=d2b52d&_nc_ohc=h-mrY4mmE-8Q7kNvwEsmIy6&_nc_oc=AdqONBqRHCQb9jS6vJ4kpA1lCRzLu73VBoVLT4qeu3olrbMj-v-6e3ebdz2JIK3TVOs&_nc_zt=23&_nc_ht=scontent-ord5-1.xx&_nc_gid=cwrPlbD5LY9Zd26S0DBw9g&_nc_ss=7f289&oh=00_AQMda-Q5Cpw6z1DxUuwWmwKjtrrXx4WlzJtLZsLyc1eQdg&oe=6AE6A5E9",
       "source_id": "lotro",
       "source_name": "The Lord of the Rings Online",
       "platform": "facebook"
@@ -329,6 +341,18 @@
       "source_id": "investi-qc",
       "source_name": "Investi QC",
       "platform": "youtube"
+    },
+    {
+      "id": "facebook:100069958479615:1419391877069415",
+      "title": "Halloween in Tyria means dressing to impress (or terrify). 🎃",
+      "url": "https://www.facebook.com/reel/2337571803664913/",
+      "published_at": "2026-10-22T17:01:34+00:00",
+      "updated_at": "2026-10-22T17:01:34+00:00",
+      "description": "Halloween in Tyria means dressing to impress (or terrify). 🎃\n\nChoose from a closet full of spooky costumes, and say hello to the newest addition: Guise of the Wayward! 👻\n\nAvailable now at store.guildwars.com\n\n#GuildWarsReforged #GuildWars #",
+      "image_url": "https://scontent-ord5-1.xx.fbcdn.net/v/t15.5256-10/858155239_1107215472168643_7263987061875034759_n.jpg?stp=dst-jpg_tt6&cstp=mx1920x1080&ctp=s960x960&_nc_cat=101&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=0NyLM60kldoQ7kNvwEJJZiG&_nc_oc=AdoO7Qim8r2utfZybq1UCZyEL9FyPZbP5WDbBrS7uAnSnTgvsybZCCovjJ3E43hL1fo&_nc_zt=23&_nc_ht=scontent-ord5-1.xx&_nc_gid=ZK6QWSqFe-gt5S2wE_Lndw&_nc_ss=7f289&oh=00_AQMhfijH-ZKthNW9iW9cLIEEY7t1N8nVTDJiFjUaoQto3Q&oe=6AE6BE13",
+      "source_id": "guild-wars",
+      "source_name": "Guild Wars",
+      "platform": "facebook"
     },
     {
       "id": "youtube:fyvfBZo-gNw",

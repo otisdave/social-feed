@@ -5,8 +5,31 @@
     <link>https://otisdave.github.io/social-feed/</link>
     <description>Un seul fil pour suivre les sources qui comptent.</description>
     <language>fr-ca</language>
-    <lastBuildDate>Tue, 27 Oct 2026 16:26:46 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 17:11:09 GMT</lastBuildDate>
     <atom:link href="https://otisdave.github.io/social-feed/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>10 ans après, ces deux explosions cosmiques restent inexplicables ! DNDE</title>
+      <link>https://www.youtube.com/watch?v=Rq_a_LLLKtE</link>
+      <description>Dernières Nouvelles des Étoiles (DNDE) est un format hebdomadaire qui fait le tour de l’actualité spatiale. SpaceX, NASA, ESA, Chine : quels seront les prochains grands défis de l’humanité en matière d’exploration de l’espace ?
+Au programme cette semaine : un mystérieux double sursaut gamma qui pourrait révéler un phénomène astrophysique encore inconnu, la NASA qui rebat les cartes du programme Artemis en remettant SpaceX et Blue Origin en concurrence pour le retour sur la Lune, et les avancées du programme lunaire chinois qui pourrait bien prendre de vitesse les Américains.
+
+Retrouvez les podcasts sur Spotify : https://open.spotify.com/show/4tSLoAKS8jh4mVftHpkkb3
+Sources :
+Le mystérieux double sursaut gamma GRB 160425A :
+https://www.nature.com/articles/s41550-026-03007-0
+La NASA bouleverse le programme Artemis :
+https://www.nasa.gov/missions/artemis/nasa-partners-accelerate-lander-development-for-2028-moon-missions/
+La Chine poursuit son programme lunaire habité :
+https://www.cmse.gov.cn/
+
+Musiques : Pedro Macedo Camacho / Star Citizen, Utho Riley et Gérald M. Dorai
+Images : NASA, NASA Goddard, SpaceX, Blue Origin, CNSA, CMSA
+Moteur 3D : Space Engine Pro</description>
+      <pubDate>Tue, 27 Oct 2026 17:00:19 GMT</pubDate>
+      <category>youtube</category>
+      <guid isPermaLink="false">hugo-lisoir:youtube:Rq_a_LLLKtE</guid>
+      <source url="https://otisdave.github.io/social-feed/feed.xml">Hugo Lisoir</source>
+    </item>
     <item>
       <title>C’est quoi la titrisation?</title>
       <link>https://www.youtube.com/watch?v=iUDsAY-BXFk</link>
@@ -368,6 +391,21 @@ CHAPITRES :
       <category>youtube</category>
       <guid isPermaLink="false">investi-qc:youtube:1cbuJyevHlQ</guid>
       <source url="https://otisdave.github.io/social-feed/feed.xml">Investi QC</source>
+    </item>
+    <item>
+      <title>Halloween in Tyria means dressing to impress (or terrify). 🎃</title>
+      <link>https://www.facebook.com/reel/2337571803664913/</link>
+      <description>Halloween in Tyria means dressing to impress (or terrify). 🎃
+
+Choose from a closet full of spooky costumes, and say hello to the newest addition: Guise of the Wayward! 👻
+
+Available now at store.guildwars.com
+
+#GuildWarsReforged #GuildWars #</description>
+      <pubDate>Thu, 22 Oct 2026 17:01:34 GMT</pubDate>
+      <category>facebook</category>
+      <guid isPermaLink="false">guild-wars:facebook:100069958479615:1419391877069415</guid>
+      <source url="https://otisdave.github.io/social-feed/feed.xml">Guild Wars</source>
     </item>
     <item>
       <title>Nvidia : 12 $ l'action en 1999, environ 102 800 $ au 16 octobre 2026 (hors dividendes)</title>
