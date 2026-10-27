@@ -117,6 +117,24 @@ class FeedTests(unittest.TestCase):
         self.assertTrue(root.findtext("channel/item/pubDate").endswith("GMT"))
         self.assertEqual(root.find("channel/{http://www.w3.org/2005/Atom}link").attrib["href"],
                          CONFIG["site_url"] + "feed.xml")
+        html = root.findtext("channel/item/{http://purl.org/rss/1.0/modules/content/}encoded")
+        self.assertIn("&lt;script&gt;", html)
+        self.assertNotIn("<script>", html)
+        self.assertIsNone(root.find("channel/item/enclosure"))
+
+    def test_rss_exposes_images_to_feed_readers(self):
+        image = "https://i.ytimg.com/vi/abcdefghijk/hqdefault.jpg?a=1&b=2"
+        xml = make_rss(CONFIG, [publication(image_url=image, description="Line 1\nLine 2").to_dict()],
+                       "2026-10-27T10:00:00Z")
+        item = ET.fromstring(xml).find("channel/item")
+        self.assertEqual(item.find("enclosure").attrib["url"], image)
+        self.assertEqual(item.find("enclosure").attrib["type"], "image/jpeg")
+        self.assertEqual(item.find("{http://search.yahoo.com/mrss/}thumbnail").attrib["url"], image)
+        self.assertEqual(item.find("{http://search.yahoo.com/mrss/}content").attrib["medium"], "image")
+        html = item.findtext("{http://purl.org/rss/1.0/modules/content/}encoded")
+        self.assertTrue(html.startswith('<p><img src="https://i.ytimg.com/vi/abcdefghijk/hqdefault.jpg?a=1&amp;b=2"'))
+        self.assertIn("<p>Line 1</p>\n<p>Line 2</p>", html)
+        self.assertIn("Voir sur YouTube", html)
 
     def test_provider_failure_preserves_archive_and_is_reported(self):
         with tempfile.TemporaryDirectory() as directory:

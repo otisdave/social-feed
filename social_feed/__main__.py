@@ -6,13 +6,35 @@ import sys
 import xml.etree.ElementTree as ET
 from datetime import datetime, timezone
 from email.utils import format_datetime
+from html import escape
 from pathlib import Path
 
 from social_feed.adapters import ADAPTERS, VALIDATORS
 from social_feed.models import Publication, https_url, parse_date
 
+PLATFORM_NAMES = {"youtube": "YouTube", "facebook": "Facebook", "reddit": "Reddit"}
+
 ATOM = "http://www.w3.org/2005/Atom"
+MEDIA = "http://search.yahoo.com/mrss/"
+CONTENT = "http://purl.org/rss/1.0/modules/content/"
 ET.register_namespace("atom", ATOM)
+ET.register_namespace("media", MEDIA)
+ET.register_namespace("content", CONTENT)
+
+
+def rss_html(publication: dict) -> str:
+    """Build reader-friendly HTML; every interpolated value is escaped."""
+    parts = []
+    if publication.get("image_url"):
+        parts.append(f'<p><img src="{escape(publication["image_url"])}" alt="" /></p>')
+    for paragraph in publication["description"].split("\n"):
+        if paragraph.strip():
+            parts.append(f"<p>{escape(paragraph.strip())}</p>")
+    parts.append(
+        f'<p><a href="{escape(publication["url"])}">'
+        f'Voir sur {escape(PLATFORM_NAMES.get(publication["platform"], publication["platform"]))}</a></p>'
+    )
+    return "\n".join(parts)
 
 
 def read_config(path: Path) -> dict:
@@ -106,6 +128,12 @@ def make_rss(config: dict, items: list[dict], generated_at: str) -> bytes:
             publication["source_id"] + ":" + publication["id"]
         )
         ET.SubElement(item, "source", {"url": site_url + "feed.xml"}).text = publication["source_name"]
+        ET.SubElement(item, f"{{{CONTENT}}}encoded").text = rss_html(publication)
+        if publication.get("image_url"):
+            image = publication["image_url"]
+            ET.SubElement(item, "enclosure", {"url": image, "length": "0", "type": "image/jpeg"})
+            ET.SubElement(item, f"{{{MEDIA}}}thumbnail", {"url": image})
+            ET.SubElement(item, f"{{{MEDIA}}}content", {"url": image, "medium": "image", "type": "image/jpeg"})
     ET.indent(root, space="  ")
     return ET.tostring(root, encoding="utf-8", xml_declaration=True)
 

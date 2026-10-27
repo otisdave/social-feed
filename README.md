@@ -28,6 +28,9 @@ liens d'origine. Une recherche, un filtre par source et un filtre par plateforme
 permettent de parcourir le fil. Les cartes ouvrent une page interne partageable
 (`publication.html?source=…&id=…`), avec le texte archivé, la date et un bouton
 permanent vers l'original. Les liens du RSS continuent de pointer vers l'original.
+Chaque élément RSS fournit aussi sa miniature (`enclosure`, `media:thumbnail`,
+`media:content`) et un contenu HTML (`content:encoded`) avec l'image et le texte,
+pour les lecteurs mobiles comme Feedreader, Feedly ou Inoreader.
 
 L'accueil affiche uniquement des miniatures, sans lecteur ni commandes vidéo.
 Cliquer sur l'image, le titre ou « Voir la publication » ouvre la fiche détaillée.
