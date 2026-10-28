@@ -2,15 +2,15 @@
   "version": 1,
   "title": "Social Feed",
   "description": "Un seul fil pour suivre les sources qui comptent.",
-  "generated_at": "2026-10-27T20:44:01.045903+00:00",
+  "generated_at": "2026-10-28T00:32:42.958150+00:00",
   "sources": [
     {
       "id": "eco-en-batons",
       "name": "Éco en bâtons",
       "platform": "youtube",
       "url": "https://www.youtube.com/@Eco_en_batons",
-      "status": "ok",
-      "error": null,
+      "status": "error",
+      "error": "HTTPError: HTTP Error 404: Not Found",
       "last_success_at": "2026-10-27T20:44:01.045903+00:00",
       "item_count": 15
     },
@@ -19,8 +19,8 @@
       "name": "Investi QC",
       "platform": "youtube",
       "url": "https://www.youtube.com/@investi-qc",
-      "status": "ok",
-      "error": null,
+      "status": "error",
+      "error": "HTTPError: HTTP Error 404: Not Found",
       "last_success_at": "2026-10-27T20:44:01.045903+00:00",
       "item_count": 15
     },
@@ -29,8 +29,8 @@
       "name": "Hugo Lisoir",
       "platform": "youtube",
       "url": "https://www.youtube.com/@hugolisoiryoutube",
-      "status": "ok",
-      "error": null,
+      "status": "error",
+      "error": "HTTPError: HTTP Error 404: Not Found",
       "last_success_at": "2026-10-27T20:44:01.045903+00:00",
       "item_count": 16
     },
@@ -39,8 +39,8 @@
       "name": "Alex Demers — Finance 360",
       "platform": "youtube",
       "url": "https://www.youtube.com/@alexdemers-finance360",
-      "status": "ok",
-      "error": null,
+      "status": "error",
+      "error": "HTTPError: HTTP Error 404: Not Found",
       "last_success_at": "2026-10-27T20:44:01.045903+00:00",
       "item_count": 15
     },
@@ -51,7 +51,7 @@
       "url": "https://www.facebook.com/GuildWars/",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-10-27T20:44:01.045903+00:00",
+      "last_success_at": "2026-10-28T00:32:42.958150+00:00",
       "item_count": 2
     },
     {
@@ -61,8 +61,8 @@
       "url": "https://www.facebook.com/LOTRO/",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-10-27T20:44:01.045903+00:00",
-      "item_count": 2
+      "last_success_at": "2026-10-28T00:32:42.958150+00:00",
+      "item_count": 3
     },
     {
       "id": "ville-de-lavaltrie",
@@ -71,8 +71,8 @@
       "url": "https://www.facebook.com/VilleDeLavaltrie/",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-10-27T20:44:01.045903+00:00",
-      "item_count": 2
+      "last_success_at": "2026-10-28T00:32:42.958150+00:00",
+      "item_count": 3
     },
     {
       "id": "traders-360",
@@ -81,11 +81,47 @@
       "url": "https://www.facebook.com/firmetraders360/",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-10-27T20:44:01.045903+00:00",
-      "item_count": 3
+      "last_success_at": "2026-10-28T00:32:42.958150+00:00",
+      "item_count": 4
     }
   ],
   "items": [
+    {
+      "id": "facebook:100063889127390:1658735546266067",
+      "title": "Un autre trimestre qui montre pourquoi Coca-Cola reste aussi difficile à déloger.",
+      "url": "https://www.facebook.com/firmetraders360/posts/pfbid0tRJBJPrNUgn17jCk8feVwwP3Y2ajTJFunET5xeoCwNnkCamAGQNKKce1SuwqbYuel",
+      "published_at": "2026-10-27T23:33:32+00:00",
+      "updated_at": "2026-10-27T23:33:32+00:00",
+      "description": "Un autre trimestre qui montre pourquoi Coca-Cola reste aussi difficile à déloger.\n\nLes revenus ont atteint 13,4 milliards au Q3, une hausse de 7% sur un an et au-dessus des attentes des analystes. Le bénéfice par action est de 0,91$ versus ",
+      "image_url": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.99422-6/870887891_1520978166719189_603811162665836586_n.png?stp=dst-jpg_tt6&cstp=mx1328x1568&ctp=s590x590&_nc_cat=103&ccb=1-7&_nc_sid=127cfc&_nc_ohc=rs-Y9cnf_yMQ7kNvwHL-p9x&_nc_oc=Adq0UG8j2S8C5fILjbl-d1fa33BLGDWiHCqlHF1__dSkMlQTKjquYwkv6RdPoSgW4qk&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=9XtcCrbBiTbJL-0Ou__jjw&_nc_ss=7f289&oh=00_AQQbIk6ETPiLh1SL9en2woJDtGqhu5EncLFAp5KkB5T4Cg&oe=6AE72096",
+      "source_id": "traders-360",
+      "source_name": "Traders 360",
+      "platform": "facebook"
+    },
+    {
+      "id": "facebook:100064655653099:1566701212161719",
+      "title": "🎓𝗖𝗔𝗣 𝗦𝗨𝗥 𝗧𝗢𝗡 𝗔𝗩𝗘𝗡𝗜𝗥 | 𝗣𝗼𝗿𝘁𝗲𝘀 𝗼𝘂𝘃𝗲𝗿𝘁𝗲𝘀 𝘀𝘂𝗿 𝗹𝗮 𝗳𝗼𝗿𝗺𝗮𝘁𝗶𝗼𝗻 𝗽𝗿𝗼𝗳𝗲𝘀𝘀𝗶𝗼𝗻𝗻𝗲𝗹𝗹𝗲 𝟮𝟬𝟮𝟲!   ",
+      "url": "https://www.facebook.com/VilleDeLavaltrie/posts/pfbid0makkLWQhZqRauKgLLnD3FmtvQ7E9nqSttpjAaCwHXYq5C9VJAYbYK8FQk6uSYD2bl",
+      "published_at": "2026-10-27T23:04:02+00:00",
+      "updated_at": "2026-10-27T23:04:02+00:00",
+      "description": "🎓𝗖𝗔𝗣 𝗦𝗨𝗥 𝗧𝗢𝗡 𝗔𝗩𝗘𝗡𝗜𝗥 | 𝗣𝗼𝗿𝘁𝗲𝘀 𝗼𝘂𝘃𝗲𝗿𝘁𝗲𝘀 𝘀𝘂𝗿 𝗹𝗮 𝗳𝗼𝗿𝗺𝗮𝘁𝗶𝗼𝗻 𝗽𝗿𝗼𝗳𝗲𝘀𝘀𝗶𝗼𝗻𝗻𝗲𝗹𝗹𝗲 𝟮𝟬𝟮𝟲!   \n\nLe 10 novembre, de 17 h à 20 h les portes du Centre multiservice des Samares s’ouvrent à toi! \n\nDécouvre des métiers inspirants, participe à des ateliers prati",
+      "image_url": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.99422-6/865566114_965728549941888_2167227055102257478_n.png?stp=dst-jpg_tt6&cstp=mx940x788&ctp=s600x600&_nc_cat=103&ccb=1-7&_nc_sid=127cfc&_nc_ohc=Yroyi5gEtgcQ7kNvwFGNrJ9&_nc_oc=AdpWjA2I-pYXsa0NYEMtzU9-tinYKBrKJEDn5m72TPiVzpyWW_viKXCc5zK-nJkwFD0&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=dQ3GGPvnQkFXxRLzwNhouQ&_nc_ss=7f289&oh=00_AQQXVAM8VWCVflZSGjMh2eHKbF3zFyxvV57Ja89iy38Hxg&oe=6AE73164",
+      "source_id": "ville-de-lavaltrie",
+      "source_name": "Ville de Lavaltrie",
+      "platform": "facebook"
+    },
+    {
+      "id": "facebook:100064792208382:1628962665940125",
+      "title": "How do you make a floor interesting?",
+      "url": "https://www.facebook.com/reel/2305242586926240/",
+      "published_at": "2026-10-27T21:04:17+00:00",
+      "updated_at": "2026-10-27T21:04:17+00:00",
+      "description": "How do you make a floor interesting?",
+      "image_url": "https://scontent-sea5-1.xx.fbcdn.net/v/t15.5256-10/870805746_1638332464413699_10873300764327197_n.jpg?stp=dst-jpg_tt6&cstp=mx1080x1920&ctp=s960x960&_nc_cat=111&ccb=1-7&_nc_sid=d2b52d&_nc_ohc=8EFfARuVBUUQ7kNvwFiVTk_&_nc_oc=AdqU-hF5TTMFIaIOL750OSQMLetRBWbsRZgT4_FGX4LgD7cVPlAwkcrY_pGIqbcVnfY&_nc_zt=23&_nc_ht=scontent-sea5-1.xx&_nc_gid=IgVnA7E1HDbdKPXOGhVoZg&_nc_ss=7f289&oh=00_AQS4HD3gnHkPEJ8zV7Mlpgxql2c-_pLnaA5AoWe11YqHQA&oe=6AE6FF30",
+      "source_id": "lotro",
+      "source_name": "The Lord of the Rings Online",
+      "platform": "facebook"
+    },
     {
       "id": "facebook:100064792208382:1628940965942295",
       "title": "The LOTRO game worlds will be unavailable on Wednesday, October 28th from 9:00 AM - 1:00 PM Eastern (-4 GMT) to release ",
@@ -249,7 +285,7 @@
       "published_at": "2026-10-26T18:01:05+00:00",
       "updated_at": "2026-10-26T18:01:05+00:00",
       "description": "We looked all over Kamadan for you... 👻\n\nDidn't make it to the Halloween meetup? Here's what you missed! Drop your costume in the replies so we know you were there in spirit. 🎃\n\n#GuildWarsReforged #GuildWars",
-      "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t15.5256-10/867849540_1148916977809238_6780334540241726130_n.jpg?stp=dst-jpg_tt6&cstp=mx1920x1080&ctp=s960x960&_nc_cat=106&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=nJpeEXsh01EQ7kNvwEvPahZ&_nc_oc=Adq4MpTA35L1LcegWB3Mxrsvc8VMV7_P7WEsKnikwf3aGM7I8WtClDGCaDE_QAAgM7U&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&_nc_gid=zsTvkdzvbxzwQ9r-UQi19w&_nc_ss=7f289&oh=00_AQP_c-6G4crA9G6kPssKVizq3XgBJsGqfc7YWjtYsScFyQ&oe=6AE6EC47",
+      "image_url": "https://scontent-sea5-1.xx.fbcdn.net/v/t15.5256-10/867849540_1148916977809238_6780334540241726130_n.jpg?stp=dst-jpg_tt6&cstp=mx1920x1080&ctp=s960x960&_nc_cat=106&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=nJpeEXsh01EQ7kNvwEj1Re_&_nc_oc=AdrSx3-tfjsf5WIPjzkjz6aXiV9AeXUm-lxRUWcAo3-4u8Fdl7pTSX6xsxB0Kot_eDs&_nc_zt=23&_nc_ht=scontent-sea5-1.xx&_nc_gid=h6AlBNeUNBsx1tiIrxfCFA&_nc_ss=7f289&oh=00_AQQp-7T8j7w4fA6ftRldgV6l3Qxa52LaGis9VAEmatFscA&oe=6AE72487",
       "source_id": "guild-wars",
       "source_name": "Guild Wars",
       "platform": "facebook"
