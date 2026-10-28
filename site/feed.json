@@ -2,36 +2,36 @@
   "version": 1,
   "title": "Social Feed",
   "description": "Un seul fil pour suivre les sources qui comptent.",
-  "generated_at": "2026-10-28T06:53:36.054540+00:00",
+  "generated_at": "2026-10-28T14:03:54.573561+00:00",
   "sources": [
     {
       "id": "eco-en-batons",
       "name": "Éco en bâtons",
       "platform": "youtube",
       "url": "https://www.youtube.com/@Eco_en_batons",
-      "status": "error",
-      "error": "HTTPError: HTTP Error 404: Not Found",
-      "last_success_at": "2026-10-27T20:44:01.045903+00:00",
-      "item_count": 15
+      "status": "ok",
+      "error": null,
+      "last_success_at": "2026-10-28T14:03:54.573561+00:00",
+      "item_count": 16
     },
     {
       "id": "investi-qc",
       "name": "Investi QC",
       "platform": "youtube",
       "url": "https://www.youtube.com/@investi-qc",
-      "status": "error",
-      "error": "HTTPError: HTTP Error 404: Not Found",
-      "last_success_at": "2026-10-27T20:44:01.045903+00:00",
-      "item_count": 15
+      "status": "ok",
+      "error": null,
+      "last_success_at": "2026-10-28T14:03:54.573561+00:00",
+      "item_count": 16
     },
     {
       "id": "hugo-lisoir",
       "name": "Hugo Lisoir",
       "platform": "youtube",
       "url": "https://www.youtube.com/@hugolisoiryoutube",
-      "status": "error",
-      "error": "HTTPError: HTTP Error 404: Not Found",
-      "last_success_at": "2026-10-27T20:44:01.045903+00:00",
+      "status": "ok",
+      "error": null,
+      "last_success_at": "2026-10-28T14:03:54.573561+00:00",
       "item_count": 16
     },
     {
@@ -39,10 +39,10 @@
       "name": "Alex Demers — Finance 360",
       "platform": "youtube",
       "url": "https://www.youtube.com/@alexdemers-finance360",
-      "status": "error",
-      "error": "HTTPError: HTTP Error 404: Not Found",
-      "last_success_at": "2026-10-27T20:44:01.045903+00:00",
-      "item_count": 15
+      "status": "ok",
+      "error": null,
+      "last_success_at": "2026-10-28T14:03:54.573561+00:00",
+      "item_count": 16
     },
     {
       "id": "guild-wars",
@@ -51,7 +51,7 @@
       "url": "https://www.facebook.com/GuildWars/",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-10-28T06:53:36.054540+00:00",
+      "last_success_at": "2026-10-28T14:03:54.573561+00:00",
       "item_count": 2
     },
     {
@@ -61,7 +61,7 @@
       "url": "https://www.facebook.com/LOTRO/",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-10-28T06:53:36.054540+00:00",
+      "last_success_at": "2026-10-28T14:03:54.573561+00:00",
       "item_count": 3
     },
     {
@@ -71,7 +71,7 @@
       "url": "https://www.facebook.com/VilleDeLavaltrie/",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-10-28T06:53:36.054540+00:00",
+      "last_success_at": "2026-10-28T14:03:54.573561+00:00",
       "item_count": 3
     },
     {
@@ -81,19 +81,43 @@
       "url": "https://www.facebook.com/firmetraders360/",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-10-28T06:53:36.054540+00:00",
+      "last_success_at": "2026-10-28T14:03:54.573561+00:00",
       "item_count": 4
     }
   ],
   "items": [
     {
+      "id": "youtube:8ozL_uOz7SY",
+      "title": "Le coût d'opportunité expliqué en 1 minute (à quoi renoncez-vous ?)",
+      "url": "https://www.youtube.com/watch?v=8ozL_uOz7SY",
+      "published_at": "2026-10-28T12:00:31+00:00",
+      "updated_at": "2026-10-28T12:00:34+00:00",
+      "description": "Le coût d'opportunité d'un choix, c'est la valeur de la meilleure autre option à laquelle on renonce. Votre argent et votre temps sont limités : choisir, c'est renoncer, et même ce qui semble gratuit a un coût.\nExemple en chiffres (calcul illustratif) : 10 000 € laissés un an sur un compte courant rapportent environ 4 € (0,04 %), contre 170 € sur un Livret A à 1,70 %. Vous renoncez donc à 166 € par an : c'est le coût d'opportunité. Même un film en a un : le livre que vous n'avez pas lu.\nCe qui étonne : selon la Banque de France, les ménages gardaient en août 2026 environ 555 milliards d'euros sur leurs comptes courants, rémunérés en moyenne 0,04 % par an.\nMais attention : un compte courant sert à payer vos dépenses et vos imprévus. Le coût d'opportunité n'est pas un ordre de placer tout votre argent, c'est une question à vous poser avant chaque choix : à quoi je renonce ?\n\n👉 Quel concept d'économie voulez-vous voir demain ? Dites-le en commentaire. Un concept d'économie par jour, expliqué en bâtons.\n\nSources (lues le 18/10/2026) :\n- Library of Economics and Liberty (Econlib), « Opportunity Cost » : https://www.econlib.org/library/Enc/OpportunityCost.html\n- Banque de France, Taux de rémunération des dépôts bancaires, août 2026 : https://www.banque-france.fr/fr/statistiques/epargne/taux-de-remuneration-des-depots-bancaires-2026-08\n- Service-public.fr, Livret A (fiche F2365) : https://www.service-public.gouv.fr/particuliers/vosdroits/F2365\nLe taux du Livret A (1,70 % jusqu'au 31/01/2027) peut être modifié. Ceci n'est pas un conseil financier.\n\nMusique : composée avec ElevenLabs Music pour la chaîne.\n\n#coûtdopportunité #économie #épargne #LivretA #apprendre #Shorts",
+      "image_url": "https://i1.ytimg.com/vi/8ozL_uOz7SY/hqdefault.jpg",
+      "source_id": "eco-en-batons",
+      "source_name": "Éco en bâtons",
+      "platform": "youtube"
+    },
+    {
+      "id": "youtube:uslHuvURIIM",
+      "title": "Il faut parfois zoomer pour trouver la fenêtre d’opportunités",
+      "url": "https://www.youtube.com/watch?v=uslHuvURIIM",
+      "published_at": "2026-10-28T00:42:00+00:00",
+      "updated_at": "2026-10-28T11:00:36+00:00",
+      "description": "Il faut parfois zoomer pour trouver la fenêtre d’opportunités",
+      "image_url": "https://i2.ytimg.com/vi/uslHuvURIIM/hqdefault.jpg",
+      "source_id": "investi-qc",
+      "source_name": "Investi QC",
+      "platform": "youtube"
+    },
+    {
       "id": "facebook:100063889127390:1658735546266067",
       "title": "Un autre trimestre qui montre pourquoi Coca-Cola reste aussi difficile à déloger.",
-      "url": "https://www.facebook.com/firmetraders360/posts/pfbid0tRJBJPrNUgn17jCk8feVwwP3Y2ajTJFunET5xeoCwNnkCamAGQNKKce1SuwqbYuel",
+      "url": "https://www.facebook.com/firmetraders360/posts/pfbid02xGjtV4nCL31sPU33dZ3uNcJ52Vs6EaU4zUMPNXMH1nsMJodMFVRkEFFYRW6zi9X3l",
       "published_at": "2026-10-27T23:33:32+00:00",
       "updated_at": "2026-10-27T23:33:32+00:00",
       "description": "Un autre trimestre qui montre pourquoi Coca-Cola reste aussi difficile à déloger.\n\nLes revenus ont atteint 13,4 milliards au Q3, une hausse de 7% sur un an et au-dessus des attentes des analystes. Le bénéfice par action est de 0,91$ versus ",
-      "image_url": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.99422-6/870887891_1520978166719189_603811162665836586_n.png?stp=dst-jpg_tt6&cstp=mx1328x1568&ctp=s590x590&_nc_cat=103&ccb=1-7&_nc_sid=127cfc&_nc_ohc=rs-Y9cnf_yMQ7kNvwGHGmvv&_nc_oc=AdoIiNYuKpqx0KAb3z28UiD1ae5JYuQcik_OucjD0fUAatALf74N0aHfT8i1gXobOuk&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=NQSTGojPGzfxiRzpuZwl2Q&_nc_ss=7f289&oh=00_AQQevU9eXJEL_SeVW0rKCbOaah7DO-OwGY40HFQrun-78A&oe=6AE758D6",
+      "image_url": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.99422-6/870887891_1520978166719189_603811162665836586_n.png?stp=dst-jpg_tt6&cstp=mx1328x1568&ctp=s590x590&_nc_cat=103&ccb=1-7&_nc_sid=127cfc&_nc_ohc=rs-Y9cnf_yMQ7kNvwFdxacD&_nc_oc=Ado70T7hNjr_an3CE6kIJrMTLpqrpROK83WOfvU2Qc9fg6tPG4mvy9PdtobNGD97PJg&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=tGsn2DMOZ7uQSTJuKD26eQ&_nc_ss=7f289&oh=00_AQR7PN0eJrI5kL9DZCx1M873GS-moZ10yzOmnWRQ7-z4ow&oe=6AE7C956",
       "source_id": "traders-360",
       "source_name": "Traders 360",
       "platform": "facebook"
@@ -101,14 +125,26 @@
     {
       "id": "facebook:100064655653099:1566701212161719",
       "title": "🎓𝗖𝗔𝗣 𝗦𝗨𝗥 𝗧𝗢𝗡 𝗔𝗩𝗘𝗡𝗜𝗥 | 𝗣𝗼𝗿𝘁𝗲𝘀 𝗼𝘂𝘃𝗲𝗿𝘁𝗲𝘀 𝘀𝘂𝗿 𝗹𝗮 𝗳𝗼𝗿𝗺𝗮𝘁𝗶𝗼𝗻 𝗽𝗿𝗼𝗳𝗲𝘀𝘀𝗶𝗼𝗻𝗻𝗲𝗹𝗹𝗲 𝟮𝟬𝟮𝟲!   ",
-      "url": "https://www.facebook.com/VilleDeLavaltrie/posts/pfbid0makkLWQhZqRauKgLLnD3FmtvQ7E9nqSttpjAaCwHXYq5C9VJAYbYK8FQk6uSYD2bl",
+      "url": "https://www.facebook.com/VilleDeLavaltrie/posts/pfbid02qSCTXBLXRCWaUAKekjc1FB1FQTTERKRYnZRmFLNnqXisgtyUXQvahF2bBNHpp6Q6l",
       "published_at": "2026-10-27T23:04:02+00:00",
       "updated_at": "2026-10-27T23:04:02+00:00",
       "description": "🎓𝗖𝗔𝗣 𝗦𝗨𝗥 𝗧𝗢𝗡 𝗔𝗩𝗘𝗡𝗜𝗥 | 𝗣𝗼𝗿𝘁𝗲𝘀 𝗼𝘂𝘃𝗲𝗿𝘁𝗲𝘀 𝘀𝘂𝗿 𝗹𝗮 𝗳𝗼𝗿𝗺𝗮𝘁𝗶𝗼𝗻 𝗽𝗿𝗼𝗳𝗲𝘀𝘀𝗶𝗼𝗻𝗻𝗲𝗹𝗹𝗲 𝟮𝟬𝟮𝟲!   \n\nLe 10 novembre, de 17 h à 20 h les portes du Centre multiservice des Samares s’ouvrent à toi! \n\nDécouvre des métiers inspirants, participe à des ateliers prati",
-      "image_url": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.99422-6/865566114_965728549941888_2167227055102257478_n.png?stp=dst-jpg_tt6&cstp=mx940x788&ctp=s600x600&_nc_cat=103&ccb=1-7&_nc_sid=127cfc&_nc_ohc=Yroyi5gEtgcQ7kNvwE8N8_E&_nc_oc=AdrgZNMYNFKn2yGN15FQXwNE9dt2SzwbbX_vqKlbzgPBCeRU_cFVWo0Gie3vdIUWTlM&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=n-960HSJKjO6eA_i_NvD4A&_nc_ss=7f289&oh=00_AQS2mJ7hJVLbBg1-I8N6XWTNgkezLXJHgDEWJDGhndeuGg&oe=6AE769A4",
+      "image_url": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.99422-6/865566114_965728549941888_2167227055102257478_n.png?stp=dst-jpg_tt6&cstp=mx940x788&ctp=s600x600&_nc_cat=103&ccb=1-7&_nc_sid=127cfc&_nc_ohc=Yroyi5gEtgcQ7kNvwG-qa1q&_nc_oc=AdpWldzUersv5fprJKKY4i78GcwYmlWXxF2MSHKrigDv_ED5R0GiAV-MForRdTfuGl8&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=uRtzzIq9d8fJH7v1Djsu4Q&_nc_ss=7f289&oh=00_AQQNrdRYZCTjGaGUYHsuwFPXCZJzpX_bTAnhwTtAe2uMng&oe=6AE7DA24",
       "source_id": "ville-de-lavaltrie",
       "source_name": "Ville de Lavaltrie",
       "platform": "facebook"
+    },
+    {
+      "id": "youtube:sz3dArmC-Fs",
+      "title": "NASDAQ en Baisse | Toujours le Bon Moment pour Acheter?",
+      "url": "https://www.youtube.com/watch?v=sz3dArmC-Fs",
+      "published_at": "2026-10-27T22:00:33+00:00",
+      "updated_at": "2026-10-27T22:00:34+00:00",
+      "description": "Abonnez-vous à mon infolettre Analyse360: \nhttps://traders360.ca/product/infolettre-analyse-360\n\nMa formation pour les investisseurs autonomes: \nhttps://formation-traders360.mykajabi.com/inscription\n\nÉp. 354\nVous attendiez une baisse pour acheter des actions technologiques mais maintenant qu'elle arrive, voulez-vous encore investir? Derrière les promesses de l'IA, un risque me préoccupe particulièrement et touche beaucoup plus d'entreprises que vous le pensez. Avec plus du tiers de mon portefeuille exposé, voici pourquoi je regarde ailleurs pour mes prochains achats.\n\nSuivez-moi sur Facebook, Instagram et Tiktok:\nhttps://www.facebook.com/firmetraders360/\nhttps://www.instagram.com/alextraders360\nhttps://www.tiktok.com/@alexdemers360\n\nAVIS LÉGAL: Les propos de l'animateur ne doivent en aucun cas être interprétés comme une recommandation d’achat d'une action sur les marchés boursiers. Alexandre Demers n'est pas un conseiller financier et toutes les informations partagées dans ce balado ne reflète que son opinion personnelle. Consultez un professionnel accrédité auprès de l'AMF pour obtenir des conseils appropriés à votre situation.\n\n\n00:00 Intro\n00:43 Meta Platforms\n01:46 Bloom Energy\n02:34 Netflix\n04:15 CoreWeave\n07:00 Trade sur l'IA\n09:29 Acheter ou non?\n11:57 Spotify\n12:34 Conclusion",
+      "image_url": "https://i4.ytimg.com/vi/sz3dArmC-Fs/hqdefault.jpg",
+      "source_id": "alex-demers-finance360",
+      "source_name": "Alex Demers — Finance 360",
+      "platform": "youtube"
     },
     {
       "id": "facebook:100064792208382:1628962665940125",
@@ -117,7 +153,7 @@
       "published_at": "2026-10-27T21:04:17+00:00",
       "updated_at": "2026-10-27T21:04:17+00:00",
       "description": "How do you make a floor interesting?",
-      "image_url": "https://scontent-ord5-1.xx.fbcdn.net/v/t15.5256-10/870805746_1638332464413699_10873300764327197_n.jpg?stp=dst-jpg_tt6&cstp=mx1080x1920&ctp=s960x960&_nc_cat=111&ccb=1-7&_nc_sid=d2b52d&_nc_ohc=8EFfARuVBUUQ7kNvwFCzFh0&_nc_oc=Ador0eDHhoQH-sracdgN5TEmC3M4l4agUXTKoEhqWM8W3CD13tcu48b7102Pz_kPJAU&_nc_zt=23&_nc_ht=scontent-ord5-1.xx&_nc_gid=YiAJ1Ibo0PEK8X171soYSQ&_nc_ss=7f289&oh=00_AQT-XWe__G8vUWlWXVh0y1ecC4Nkok8H4ggJHNo3w2oQ5w&oe=6AE76FB0",
+      "image_url": "https://scontent-sjc6-1.xx.fbcdn.net/v/t15.5256-10/870805746_1638332464413699_10873300764327197_n.jpg?stp=dst-jpg_tt6&cstp=mx1080x1920&ctp=s960x960&_nc_cat=111&ccb=1-7&_nc_sid=d2b52d&_nc_ohc=8EFfARuVBUUQ7kNvwF88tLv&_nc_oc=AdpRZmzzHv-FA3441ViEnERwxoe-tb7DnO5RlUjv2Fzof1H2PxN7kKjYBOxS18De1bc&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=ghEUFad8OKANrR8aCR3k9Q&_nc_ss=7f289&oh=00_AQT6-yS8jsarAdXccqvj14q0rDsjrH4LO514EWR3cZae8A&oe=6AE7E030",
       "source_id": "lotro",
       "source_name": "The Lord of the Rings Online",
       "platform": "facebook"
@@ -160,10 +196,10 @@
     },
     {
       "id": "youtube:Rq_a_LLLKtE",
-      "title": "10 ans après, ces deux explosions cosmiques restent inexplicables ! DNDE",
+      "title": "Quelque chose a explosé deux fois dans l’univers… de deux façons différentes ! DNDE",
       "url": "https://www.youtube.com/watch?v=Rq_a_LLLKtE",
       "published_at": "2026-10-27T17:00:19+00:00",
-      "updated_at": "2026-10-27T17:00:20+00:00",
+      "updated_at": "2026-10-28T10:54:25+00:00",
       "description": "Dernières Nouvelles des Étoiles (DNDE) est un format hebdomadaire qui fait le tour de l’actualité spatiale. SpaceX, NASA, ESA, Chine : quels seront les prochains grands défis de l’humanité en matière d’exploration de l’espace ?\nAu programme cette semaine : un mystérieux double sursaut gamma qui pourrait révéler un phénomène astrophysique encore inconnu, la NASA qui rebat les cartes du programme Artemis en remettant SpaceX et Blue Origin en concurrence pour le retour sur la Lune, et les avancées du programme lunaire chinois qui pourrait bien prendre de vitesse les Américains.\n\nRetrouvez les podcasts sur Spotify : https://open.spotify.com/show/4tSLoAKS8jh4mVftHpkkb3\nSources :\nLe mystérieux double sursaut gamma GRB 160425A :\nhttps://www.nature.com/articles/s41550-026-03007-0\nLa NASA bouleverse le programme Artemis :\nhttps://www.nasa.gov/missions/artemis/nasa-partners-accelerate-lander-development-for-2028-moon-missions/\nLa Chine poursuit son programme lunaire habité :\nhttps://www.cmse.gov.cn/\n\nMusiques : Pedro Macedo Camacho / Star Citizen, Utho Riley et Gérald M. Dorai\nImages : NASA, NASA Goddard, SpaceX, Blue Origin, CNSA, CMSA\nMoteur 3D : Space Engine Pro",
       "image_url": "https://i3.ytimg.com/vi/Rq_a_LLLKtE/hqdefault.jpg",
       "source_id": "hugo-lisoir",
@@ -175,7 +211,7 @@
       "title": "C’est quoi la titrisation?",
       "url": "https://www.youtube.com/watch?v=iUDsAY-BXFk",
       "published_at": "2026-10-27T15:37:00+00:00",
-      "updated_at": "2026-10-27T17:19:54+00:00",
+      "updated_at": "2026-10-28T10:40:36+00:00",
       "description": "C’est quoi la titrisation?",
       "image_url": "https://i2.ytimg.com/vi/iUDsAY-BXFk/hqdefault.jpg",
       "source_id": "investi-qc",
@@ -285,7 +321,7 @@
       "published_at": "2026-10-26T18:01:05+00:00",
       "updated_at": "2026-10-26T18:01:05+00:00",
       "description": "We looked all over Kamadan for you... 👻\n\nDidn't make it to the Halloween meetup? Here's what you missed! Drop your costume in the replies so we know you were there in spirit. 🎃\n\n#GuildWarsReforged #GuildWars",
-      "image_url": "https://scontent-ord5-1.xx.fbcdn.net/v/t15.5256-10/867849540_1148916977809238_6780334540241726130_n.jpg?stp=dst-jpg_tt6&cstp=mx1920x1080&ctp=s960x960&_nc_cat=106&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=nJpeEXsh01EQ7kNvwEKjLMB&_nc_oc=AdpOsy4xjf2Z024jLsVeq55I6H-CPelEC1LNavpDOJ5LkzIivWdg8PaTS0w91tU994g&_nc_zt=23&_nc_ht=scontent-ord5-1.xx&_nc_gid=1NUdF_78YuP_1Bm6ryKJjg&_nc_ss=7f289&oh=00_AQTRkLm6w_z1WCTyHC3qqBLZjGIjGJYnLSsrP_OSLYSmDA&oe=6AE75CC7",
+      "image_url": "https://scontent-sjc3-1.xx.fbcdn.net/v/t15.5256-10/867849540_1148916977809238_6780334540241726130_n.jpg?stp=dst-jpg_tt6&cstp=mx1920x1080&ctp=s960x960&_nc_cat=106&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=nJpeEXsh01EQ7kNvwHRLnUY&_nc_oc=AdqhoogfT6wOvrmqp67PSVGEIZQzYsT1vtJCuHwiR-wWHdSOIXpUrSr4SN6qhU5oSzg&_nc_zt=23&_nc_ht=scontent-sjc3-1.xx&_nc_gid=csiUbha5mhHBitrL8yAAfw&_nc_ss=7f289&oh=00_AQS8FIl25jWpXHSqzG3K2xJl6GJB-1aX602vafsxYfuaBA&oe=6AE7CD47",
       "source_id": "guild-wars",
       "source_name": "Guild Wars",
       "platform": "facebook"
@@ -391,7 +427,7 @@
       "title": "Marc est souvent au téléphone avec le cambiste",
       "url": "https://www.youtube.com/watch?v=zWXC8tGtPHM",
       "published_at": "2026-10-24T15:37:34+00:00",
-      "updated_at": "2026-10-25T08:53:31+00:00",
+      "updated_at": "2026-10-26T16:04:21+00:00",
       "description": "Marc est souvent au téléphone avec le cambiste",
       "image_url": "https://i3.ytimg.com/vi/zWXC8tGtPHM/hqdefault.jpg",
       "source_id": "investi-qc",
@@ -427,7 +463,7 @@
       "title": "Amazon, expliqué comme si vous aviez 5 ans",
       "url": "https://www.youtube.com/watch?v=Al-khcLiNYc",
       "published_at": "2026-10-23T18:59:45+00:00",
-      "updated_at": "2026-10-24T11:23:15+00:00",
+      "updated_at": "2026-10-27T03:41:46+00:00",
       "description": "En 2025, Amazon a vendu pour 716,9 milliards de dollars, soit environ 1,36 million de dollars chaque minute. Pourtant, sur le colis que vous recevez, la marge est mince. L'argent vient d'ailleurs : de l'abonnement Prime, des vendeurs tiers et d'AWS, la location de serveurs, qui a rapporté 57 % du résultat d'exploitation du groupe en 2025. On remonte l'histoire d'un libraire en ligne devenu un empire, de 1994 à aujourd'hui, pour voir comment chaque choix a construit cette machine.\n\nEt vous : quel moment de l'histoire d'Amazon vous a le plus surpris ? Dites-le en commentaire.\n\n⏱️ Chapitres\n0:00 La commande de trois heures\n1:03 Partie 1 — Le siège passager\n3:22 Partie 2 — La cloche\n7:01 Partie 3 — La machine\n10:23 Partie 4 — L'empire\n13:24 Le colis de trois heures\n\n📌 Sources (pages lues le 18/10/2026 ; chiffres de l'entreprise tirés de ses communiqués et de ses rapports déposés auprès de la SEC)\n- Amazon : communiqués de résultats du T4 2025 (05/02/2026) et du T2 2026 (30/07/2026), rapport annuel 10-K 2025, lettre aux actionnaires 2025\n- Amazon : communiqué du T1 2015 (première publication séparée d'AWS), annonce de Prime du 02/02/2006, communiqué Marketplace du 19/03/2001\n- SEC : document S-1 (1997) et rapports 10-K d'Amazon de 1997 à 2003\n- FTC : communiqué du 25/09/2025 (règlement de 2,5 milliards de dollars sur Prime, sans reconnaissance de faute) ; la plainte antitrust de la FTC est contestée par Amazon et le procès n'a pas eu lieu\n- Conseil d'État, 23/12/2025 (sanction de la CNIL ramenée de 32 à 15 millions d'euros) ; Reuters, 12/01/2026 et 13/03/2026 (amendes italienne et luxembourgeoise)\n- Légifrance : arrêté du 4 avril 2023 (livraison des livres neufs)\n- Estimations de tiers, toujours attribuées dans la vidéo : CIRP (membres Prime), Marketplace Pulse (part des vendeurs tiers)\n\n🎞️ Photos et crédits\n- Jeff Bezos : U.S. Department of Defense photo by Senior Master Sgt. Adrian Cadiz, Wikimedia Commons, CC BY 2.0 (https://commons.wikimedia.org/?curid=60644838)\n- Andy Jassy : JD Lasica, Wikimedia Commons, CC BY 2.0 (https://commons.wikimedia.org/?curid=99526694)\n- Bernie Sanders : Palácio do Planalto from Brasilia, Brasil, Wikimedia Commons, CC BY 2.0 (https://commons.wikimedia.org/?curid=133453493)\n- Kindle Paperwhite : Jacek Halicki, Wikimedia Commons, CC BY-SA 4.0 (https://commons.wikimedia.org/?curid=134825179)\n- Whole Foods Market à Oklahoma City : DoulosBen, Wikimedia Commons, CC BY 4.0 (https://commons.wikimedia.org/?curid=175833490)\nMusique : bibliothèque audio YouTube.\nLes dessins sont des illustrations. Les chiffres sont datés ; ceux des tiers sont des estimations. La FTC accuse, Amazon conteste : aucune de ces affaires n'est tranchée. Explication générale, pas un conseil en investissement.",
       "image_url": "https://i2.ytimg.com/vi/Al-khcLiNYc/hqdefault.jpg",
       "source_id": "eco-en-batons",
@@ -439,7 +475,7 @@
       "title": "Je suis allé au Down Jones Bar pour que vous n’ayiez pas à y aller 🫡",
       "url": "https://www.youtube.com/watch?v=wL977eZR6O0",
       "published_at": "2026-10-23T15:39:24+00:00",
-      "updated_at": "2026-10-24T07:41:30+00:00",
+      "updated_at": "2026-10-27T03:40:28+00:00",
       "description": "Je suis allé au Down Jones Bar pour que vous n’ayiez pas à y aller 🫡",
       "image_url": "https://i4.ytimg.com/vi/wL977eZR6O0/hqdefault.jpg",
       "source_id": "investi-qc",
