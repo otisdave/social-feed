@@ -2,7 +2,7 @@
   "version": 1,
   "title": "Social Feed",
   "description": "Un seul fil pour suivre les sources qui comptent.",
-  "generated_at": "2026-10-28T14:03:54.573561+00:00",
+  "generated_at": "2026-10-28T19:37:06.743046+00:00",
   "sources": [
     {
       "id": "eco-en-batons",
@@ -11,7 +11,7 @@
       "url": "https://www.youtube.com/@Eco_en_batons",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-10-28T14:03:54.573561+00:00",
+      "last_success_at": "2026-10-28T19:37:06.743046+00:00",
       "item_count": 16
     },
     {
@@ -21,8 +21,8 @@
       "url": "https://www.youtube.com/@investi-qc",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-10-28T14:03:54.573561+00:00",
-      "item_count": 16
+      "last_success_at": "2026-10-28T19:37:06.743046+00:00",
+      "item_count": 17
     },
     {
       "id": "hugo-lisoir",
@@ -31,7 +31,7 @@
       "url": "https://www.youtube.com/@hugolisoiryoutube",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-10-28T14:03:54.573561+00:00",
+      "last_success_at": "2026-10-28T19:37:06.743046+00:00",
       "item_count": 16
     },
     {
@@ -41,7 +41,7 @@
       "url": "https://www.youtube.com/@alexdemers-finance360",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-10-28T14:03:54.573561+00:00",
+      "last_success_at": "2026-10-28T19:37:06.743046+00:00",
       "item_count": 16
     },
     {
@@ -51,8 +51,8 @@
       "url": "https://www.facebook.com/GuildWars/",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-10-28T14:03:54.573561+00:00",
-      "item_count": 2
+      "last_success_at": "2026-10-28T19:37:06.743046+00:00",
+      "item_count": 3
     },
     {
       "id": "lotro",
@@ -61,8 +61,8 @@
       "url": "https://www.facebook.com/LOTRO/",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-10-28T14:03:54.573561+00:00",
-      "item_count": 3
+      "last_success_at": "2026-10-28T19:37:06.743046+00:00",
+      "item_count": 4
     },
     {
       "id": "ville-de-lavaltrie",
@@ -71,7 +71,7 @@
       "url": "https://www.facebook.com/VilleDeLavaltrie/",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-10-28T14:03:54.573561+00:00",
+      "last_success_at": "2026-10-28T19:37:06.743046+00:00",
       "item_count": 3
     },
     {
@@ -81,11 +81,59 @@
       "url": "https://www.facebook.com/firmetraders360/",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-10-28T14:03:54.573561+00:00",
-      "item_count": 4
+      "last_success_at": "2026-10-28T19:37:06.743046+00:00",
+      "item_count": 5
     }
   ],
   "items": [
+    {
+      "id": "facebook:100064792208382:1630091069160618",
+      "title": "The latest expansion for The Lord of the Rings Online has arrived! ",
+      "url": "https://www.facebook.com/LOTRO/posts/pfbid0BYZgp7hsGYTJnHmHB5FGsSeQAkvQNATJ6sw6GC715iszPxk1D1nY7rAtKZeQJ71Ml",
+      "published_at": "2026-10-28T19:16:40+00:00",
+      "updated_at": "2026-10-28T19:16:40+00:00",
+      "description": "The latest expansion for The Lord of the Rings Online has arrived! \nSome Evils Outlive Their Masters...\nWatch our launch trailer: https://youtu.be/SDjEtbJuMP0\nPurchase here: https://www.lotro.com/the-wolves-of-mordor\nFind our release notes:",
+      "image_url": null,
+      "source_id": "lotro",
+      "source_name": "The Lord of the Rings Online",
+      "platform": "facebook"
+    },
+    {
+      "id": "facebook:100069958479615:1425139583161311",
+      "title": "Who’s ready for Halloween? 🎃 There’s still time to grab your costume. Get yours at store.guildwars.com before the festiv",
+      "url": "https://www.facebook.com/reel/1457904899767188/",
+      "published_at": "2026-10-28T18:00:59+00:00",
+      "updated_at": "2026-10-28T18:00:59+00:00",
+      "description": "Who’s ready for Halloween? 🎃 There’s still time to grab your costume. Get yours at store.guildwars.com before the festivities kick off in Tyria! \n👻 Drop your costume plans below! \n#MMORPG #GuildWarsReforged #GuildWars #Gaming #mmorpggames",
+      "image_url": "https://scontent-iad3-2.xx.fbcdn.net/v/t15.5256-10/871220793_2180433752880320_3902989831513134481_n.jpg?stp=dst-jpg_tt6&cstp=mx1920x1080&ctp=s960x960&_nc_cat=105&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=o9Qc1e_7k5AQ7kNvwE1eD0_&_nc_oc=AdpPzoFCHoV8gqPNpq4KddyAIvce8wa2CMt7WF78wmQEjmAfk1IjrQ8Cae7JQprVs-Q&_nc_zt=23&_nc_ht=scontent-iad3-2.xx&_nc_gid=eHxEDzlTodB1cPJ-6bVfLQ&_nc_ss=7f289&oh=00_AQSAgmd6jBADa9hY2pjgC5Sqj3fgMwox65UrMUO-8mEbMA&oe=6AE81D17",
+      "source_id": "guild-wars",
+      "source_name": "Guild Wars",
+      "platform": "facebook"
+    },
+    {
+      "id": "facebook:100063889127390:1659638052842483",
+      "title": "Plus je regarde l’entreprise, plus je trouve que le dossier mérite d’être surveillé de près.",
+      "url": "https://www.facebook.com/firmetraders360/posts/pfbid0ooQU9imQsBqj4gKQWLZVnvR6vxhL3PG18CSGSef9gbGrVCb1fC17DVuhz1FMWxCrl",
+      "published_at": "2026-10-28T17:25:08+00:00",
+      "updated_at": "2026-10-28T17:25:08+00:00",
+      "description": "Plus je regarde l’entreprise, plus je trouve que le dossier mérite d’être surveillé de près.\n\nGarmin vend des montres de sport, des produits de fitness, des appareils pour la randonnée, des systèmes marins, des équipements pour l’aviation e",
+      "image_url": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.99422-6/869801591_1438672951103381_3317302261459197657_n.png?stp=dst-jpg_tt6&cstp=mx1328x1472&ctp=s565x565&_nc_cat=103&ccb=1-7&_nc_sid=127cfc&_nc_ohc=XHbVnbmnJPYQ7kNvwEwymko&_nc_oc=Adohp3bEO9ffnOSFI_yKVwha68SVFBYQTXxqX0uOfz020JyjiPCDsD2M_yr7ECyunyM&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=TJmxigqzeDnsNd7VEuz0Rw&_nc_ss=7f289&oh=00_AQSFQ3sQESnRwdLXo8Fq3NACNtvZQFvlDAVPt1lS_bUskQ&oe=6AE81BDF",
+      "source_id": "traders-360",
+      "source_name": "Traders 360",
+      "platform": "facebook"
+    },
+    {
+      "id": "youtube:cEVc0I-wjA8",
+      "title": "Quand Global X lance un nouveau FNB",
+      "url": "https://www.youtube.com/watch?v=cEVc0I-wjA8",
+      "published_at": "2026-10-28T15:38:27+00:00",
+      "updated_at": "2026-10-28T18:09:31+00:00",
+      "description": "Quand Global X lance un nouveau FNB",
+      "image_url": "https://i4.ytimg.com/vi/cEVc0I-wjA8/hqdefault.jpg",
+      "source_id": "investi-qc",
+      "source_name": "Investi QC",
+      "platform": "youtube"
+    },
     {
       "id": "youtube:8ozL_uOz7SY",
       "title": "Le coût d'opportunité expliqué en 1 minute (à quoi renoncez-vous ?)",
@@ -129,7 +177,7 @@
       "published_at": "2026-10-27T23:04:02+00:00",
       "updated_at": "2026-10-27T23:04:02+00:00",
       "description": "🎓𝗖𝗔𝗣 𝗦𝗨𝗥 𝗧𝗢𝗡 𝗔𝗩𝗘𝗡𝗜𝗥 | 𝗣𝗼𝗿𝘁𝗲𝘀 𝗼𝘂𝘃𝗲𝗿𝘁𝗲𝘀 𝘀𝘂𝗿 𝗹𝗮 𝗳𝗼𝗿𝗺𝗮𝘁𝗶𝗼𝗻 𝗽𝗿𝗼𝗳𝗲𝘀𝘀𝗶𝗼𝗻𝗻𝗲𝗹𝗹𝗲 𝟮𝟬𝟮𝟲!   \n\nLe 10 novembre, de 17 h à 20 h les portes du Centre multiservice des Samares s’ouvrent à toi! \n\nDécouvre des métiers inspirants, participe à des ateliers prati",
-      "image_url": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.99422-6/865566114_965728549941888_2167227055102257478_n.png?stp=dst-jpg_tt6&cstp=mx940x788&ctp=s600x600&_nc_cat=103&ccb=1-7&_nc_sid=127cfc&_nc_ohc=Yroyi5gEtgcQ7kNvwG-qa1q&_nc_oc=AdpWldzUersv5fprJKKY4i78GcwYmlWXxF2MSHKrigDv_ED5R0GiAV-MForRdTfuGl8&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=uRtzzIq9d8fJH7v1Djsu4Q&_nc_ss=7f289&oh=00_AQQNrdRYZCTjGaGUYHsuwFPXCZJzpX_bTAnhwTtAe2uMng&oe=6AE7DA24",
+      "image_url": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.99422-6/865566114_965728549941888_2167227055102257478_n.png?stp=dst-jpg_tt6&cstp=mx940x788&ctp=s600x600&_nc_cat=103&ccb=1-7&_nc_sid=127cfc&_nc_ohc=Yroyi5gEtgcQ7kNvwFZexUB&_nc_oc=AdqepfKYLbW2t075NqpEUeAo3o3vhafR7z5PrAN0PrqG0i1JOr8_KfLrL0-jeZ5t46o&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=_CA_9VCk558wRYO6F8eKsA&_nc_ss=7f289&oh=00_AQQSb_FybML6n9KHjzw8_9s2QD-OcU9x2V_GX9Aj9ahFFg&oe=6AE81264",
       "source_id": "ville-de-lavaltrie",
       "source_name": "Ville de Lavaltrie",
       "platform": "facebook"
