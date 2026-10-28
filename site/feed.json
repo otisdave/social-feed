@@ -2,7 +2,7 @@
   "version": 1,
   "title": "Social Feed",
   "description": "Un seul fil pour suivre les sources qui comptent.",
-  "generated_at": "2026-10-28T00:32:42.958150+00:00",
+  "generated_at": "2026-10-28T06:53:36.054540+00:00",
   "sources": [
     {
       "id": "eco-en-batons",
@@ -51,7 +51,7 @@
       "url": "https://www.facebook.com/GuildWars/",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-10-28T00:32:42.958150+00:00",
+      "last_success_at": "2026-10-28T06:53:36.054540+00:00",
       "item_count": 2
     },
     {
@@ -61,7 +61,7 @@
       "url": "https://www.facebook.com/LOTRO/",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-10-28T00:32:42.958150+00:00",
+      "last_success_at": "2026-10-28T06:53:36.054540+00:00",
       "item_count": 3
     },
     {
@@ -71,7 +71,7 @@
       "url": "https://www.facebook.com/VilleDeLavaltrie/",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-10-28T00:32:42.958150+00:00",
+      "last_success_at": "2026-10-28T06:53:36.054540+00:00",
       "item_count": 3
     },
     {
@@ -81,7 +81,7 @@
       "url": "https://www.facebook.com/firmetraders360/",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-10-28T00:32:42.958150+00:00",
+      "last_success_at": "2026-10-28T06:53:36.054540+00:00",
       "item_count": 4
     }
   ],
@@ -93,7 +93,7 @@
       "published_at": "2026-10-27T23:33:32+00:00",
       "updated_at": "2026-10-27T23:33:32+00:00",
       "description": "Un autre trimestre qui montre pourquoi Coca-Cola reste aussi difficile à déloger.\n\nLes revenus ont atteint 13,4 milliards au Q3, une hausse de 7% sur un an et au-dessus des attentes des analystes. Le bénéfice par action est de 0,91$ versus ",
-      "image_url": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.99422-6/870887891_1520978166719189_603811162665836586_n.png?stp=dst-jpg_tt6&cstp=mx1328x1568&ctp=s590x590&_nc_cat=103&ccb=1-7&_nc_sid=127cfc&_nc_ohc=rs-Y9cnf_yMQ7kNvwHL-p9x&_nc_oc=Adq0UG8j2S8C5fILjbl-d1fa33BLGDWiHCqlHF1__dSkMlQTKjquYwkv6RdPoSgW4qk&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=9XtcCrbBiTbJL-0Ou__jjw&_nc_ss=7f289&oh=00_AQQbIk6ETPiLh1SL9en2woJDtGqhu5EncLFAp5KkB5T4Cg&oe=6AE72096",
+      "image_url": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.99422-6/870887891_1520978166719189_603811162665836586_n.png?stp=dst-jpg_tt6&cstp=mx1328x1568&ctp=s590x590&_nc_cat=103&ccb=1-7&_nc_sid=127cfc&_nc_ohc=rs-Y9cnf_yMQ7kNvwGHGmvv&_nc_oc=AdoIiNYuKpqx0KAb3z28UiD1ae5JYuQcik_OucjD0fUAatALf74N0aHfT8i1gXobOuk&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=NQSTGojPGzfxiRzpuZwl2Q&_nc_ss=7f289&oh=00_AQQevU9eXJEL_SeVW0rKCbOaah7DO-OwGY40HFQrun-78A&oe=6AE758D6",
       "source_id": "traders-360",
       "source_name": "Traders 360",
       "platform": "facebook"
@@ -105,7 +105,7 @@
       "published_at": "2026-10-27T23:04:02+00:00",
       "updated_at": "2026-10-27T23:04:02+00:00",
       "description": "🎓𝗖𝗔𝗣 𝗦𝗨𝗥 𝗧𝗢𝗡 𝗔𝗩𝗘𝗡𝗜𝗥 | 𝗣𝗼𝗿𝘁𝗲𝘀 𝗼𝘂𝘃𝗲𝗿𝘁𝗲𝘀 𝘀𝘂𝗿 𝗹𝗮 𝗳𝗼𝗿𝗺𝗮𝘁𝗶𝗼𝗻 𝗽𝗿𝗼𝗳𝗲𝘀𝘀𝗶𝗼𝗻𝗻𝗲𝗹𝗹𝗲 𝟮𝟬𝟮𝟲!   \n\nLe 10 novembre, de 17 h à 20 h les portes du Centre multiservice des Samares s’ouvrent à toi! \n\nDécouvre des métiers inspirants, participe à des ateliers prati",
-      "image_url": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.99422-6/865566114_965728549941888_2167227055102257478_n.png?stp=dst-jpg_tt6&cstp=mx940x788&ctp=s600x600&_nc_cat=103&ccb=1-7&_nc_sid=127cfc&_nc_ohc=Yroyi5gEtgcQ7kNvwFGNrJ9&_nc_oc=AdpWjA2I-pYXsa0NYEMtzU9-tinYKBrKJEDn5m72TPiVzpyWW_viKXCc5zK-nJkwFD0&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=dQ3GGPvnQkFXxRLzwNhouQ&_nc_ss=7f289&oh=00_AQQXVAM8VWCVflZSGjMh2eHKbF3zFyxvV57Ja89iy38Hxg&oe=6AE73164",
+      "image_url": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.99422-6/865566114_965728549941888_2167227055102257478_n.png?stp=dst-jpg_tt6&cstp=mx940x788&ctp=s600x600&_nc_cat=103&ccb=1-7&_nc_sid=127cfc&_nc_ohc=Yroyi5gEtgcQ7kNvwE8N8_E&_nc_oc=AdrgZNMYNFKn2yGN15FQXwNE9dt2SzwbbX_vqKlbzgPBCeRU_cFVWo0Gie3vdIUWTlM&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=n-960HSJKjO6eA_i_NvD4A&_nc_ss=7f289&oh=00_AQS2mJ7hJVLbBg1-I8N6XWTNgkezLXJHgDEWJDGhndeuGg&oe=6AE769A4",
       "source_id": "ville-de-lavaltrie",
       "source_name": "Ville de Lavaltrie",
       "platform": "facebook"
@@ -117,7 +117,7 @@
       "published_at": "2026-10-27T21:04:17+00:00",
       "updated_at": "2026-10-27T21:04:17+00:00",
       "description": "How do you make a floor interesting?",
-      "image_url": "https://scontent-sea5-1.xx.fbcdn.net/v/t15.5256-10/870805746_1638332464413699_10873300764327197_n.jpg?stp=dst-jpg_tt6&cstp=mx1080x1920&ctp=s960x960&_nc_cat=111&ccb=1-7&_nc_sid=d2b52d&_nc_ohc=8EFfARuVBUUQ7kNvwFiVTk_&_nc_oc=AdqU-hF5TTMFIaIOL750OSQMLetRBWbsRZgT4_FGX4LgD7cVPlAwkcrY_pGIqbcVnfY&_nc_zt=23&_nc_ht=scontent-sea5-1.xx&_nc_gid=IgVnA7E1HDbdKPXOGhVoZg&_nc_ss=7f289&oh=00_AQS4HD3gnHkPEJ8zV7Mlpgxql2c-_pLnaA5AoWe11YqHQA&oe=6AE6FF30",
+      "image_url": "https://scontent-ord5-1.xx.fbcdn.net/v/t15.5256-10/870805746_1638332464413699_10873300764327197_n.jpg?stp=dst-jpg_tt6&cstp=mx1080x1920&ctp=s960x960&_nc_cat=111&ccb=1-7&_nc_sid=d2b52d&_nc_ohc=8EFfARuVBUUQ7kNvwFCzFh0&_nc_oc=Ador0eDHhoQH-sracdgN5TEmC3M4l4agUXTKoEhqWM8W3CD13tcu48b7102Pz_kPJAU&_nc_zt=23&_nc_ht=scontent-ord5-1.xx&_nc_gid=YiAJ1Ibo0PEK8X171soYSQ&_nc_ss=7f289&oh=00_AQT-XWe__G8vUWlWXVh0y1ecC4Nkok8H4ggJHNo3w2oQ5w&oe=6AE76FB0",
       "source_id": "lotro",
       "source_name": "The Lord of the Rings Online",
       "platform": "facebook"
@@ -285,7 +285,7 @@
       "published_at": "2026-10-26T18:01:05+00:00",
       "updated_at": "2026-10-26T18:01:05+00:00",
       "description": "We looked all over Kamadan for you... 👻\n\nDidn't make it to the Halloween meetup? Here's what you missed! Drop your costume in the replies so we know you were there in spirit. 🎃\n\n#GuildWarsReforged #GuildWars",
-      "image_url": "https://scontent-sea5-1.xx.fbcdn.net/v/t15.5256-10/867849540_1148916977809238_6780334540241726130_n.jpg?stp=dst-jpg_tt6&cstp=mx1920x1080&ctp=s960x960&_nc_cat=106&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=nJpeEXsh01EQ7kNvwEj1Re_&_nc_oc=AdrSx3-tfjsf5WIPjzkjz6aXiV9AeXUm-lxRUWcAo3-4u8Fdl7pTSX6xsxB0Kot_eDs&_nc_zt=23&_nc_ht=scontent-sea5-1.xx&_nc_gid=h6AlBNeUNBsx1tiIrxfCFA&_nc_ss=7f289&oh=00_AQQp-7T8j7w4fA6ftRldgV6l3Qxa52LaGis9VAEmatFscA&oe=6AE72487",
+      "image_url": "https://scontent-ord5-1.xx.fbcdn.net/v/t15.5256-10/867849540_1148916977809238_6780334540241726130_n.jpg?stp=dst-jpg_tt6&cstp=mx1920x1080&ctp=s960x960&_nc_cat=106&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=nJpeEXsh01EQ7kNvwEKjLMB&_nc_oc=AdpOsy4xjf2Z024jLsVeq55I6H-CPelEC1LNavpDOJ5LkzIivWdg8PaTS0w91tU994g&_nc_zt=23&_nc_ht=scontent-ord5-1.xx&_nc_gid=1NUdF_78YuP_1Bm6ryKJjg&_nc_ss=7f289&oh=00_AQTRkLm6w_z1WCTyHC3qqBLZjGIjGJYnLSsrP_OSLYSmDA&oe=6AE75CC7",
       "source_id": "guild-wars",
       "source_name": "Guild Wars",
       "platform": "facebook"
