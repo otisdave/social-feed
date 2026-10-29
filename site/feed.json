@@ -2,26 +2,26 @@
   "version": 1,
   "title": "Social Feed",
   "description": "Un seul fil pour suivre les sources qui comptent.",
-  "generated_at": "2026-10-29T05:52:32.304883+00:00",
+  "generated_at": "2026-10-29T13:07:34.507414+00:00",
   "sources": [
     {
       "id": "eco-en-batons",
       "name": "Éco en bâtons",
       "platform": "youtube",
       "url": "https://www.youtube.com/@Eco_en_batons",
-      "status": "error",
-      "error": "HTTPError: HTTP Error 404: Not Found",
-      "last_success_at": "2026-10-28T19:37:06.743046+00:00",
-      "item_count": 16
+      "status": "ok",
+      "error": null,
+      "last_success_at": "2026-10-29T13:07:34.507414+00:00",
+      "item_count": 18
     },
     {
       "id": "investi-qc",
       "name": "Investi QC",
       "platform": "youtube",
       "url": "https://www.youtube.com/@investi-qc",
-      "status": "error",
-      "error": "HTTPError: HTTP Error 404: Not Found",
-      "last_success_at": "2026-10-29T00:01:57.784595+00:00",
+      "status": "ok",
+      "error": null,
+      "last_success_at": "2026-10-29T13:07:34.507414+00:00",
       "item_count": 18
     },
     {
@@ -29,9 +29,9 @@
       "name": "Hugo Lisoir",
       "platform": "youtube",
       "url": "https://www.youtube.com/@hugolisoiryoutube",
-      "status": "error",
-      "error": "HTTPError: HTTP Error 404: Not Found",
-      "last_success_at": "2026-10-28T19:37:06.743046+00:00",
+      "status": "ok",
+      "error": null,
+      "last_success_at": "2026-10-29T13:07:34.507414+00:00",
       "item_count": 16
     },
     {
@@ -39,9 +39,9 @@
       "name": "Alex Demers — Finance 360",
       "platform": "youtube",
       "url": "https://www.youtube.com/@alexdemers-finance360",
-      "status": "error",
-      "error": "HTTPError: HTTP Error 404: Not Found",
-      "last_success_at": "2026-10-28T19:37:06.743046+00:00",
+      "status": "ok",
+      "error": null,
+      "last_success_at": "2026-10-29T13:07:34.507414+00:00",
       "item_count": 16
     },
     {
@@ -51,7 +51,7 @@
       "url": "https://www.facebook.com/GuildWars/",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-10-29T05:52:32.304883+00:00",
+      "last_success_at": "2026-10-29T13:07:34.507414+00:00",
       "item_count": 3
     },
     {
@@ -61,7 +61,7 @@
       "url": "https://www.facebook.com/LOTRO/",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-10-29T05:52:32.304883+00:00",
+      "last_success_at": "2026-10-29T13:07:34.507414+00:00",
       "item_count": 5
     },
     {
@@ -71,8 +71,8 @@
       "url": "https://www.facebook.com/VilleDeLavaltrie/",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-10-29T05:52:32.304883+00:00",
-      "item_count": 5
+      "last_success_at": "2026-10-29T13:07:34.507414+00:00",
+      "item_count": 6
     },
     {
       "id": "traders-360",
@@ -81,11 +81,35 @@
       "url": "https://www.facebook.com/firmetraders360/",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-10-29T05:52:32.304883+00:00",
+      "last_success_at": "2026-10-29T13:07:34.507414+00:00",
       "item_count": 6
     }
   ],
   "items": [
+    {
+      "id": "youtube:iusdR9trVoo",
+      "title": "La bulle spéculative expliquée en 1 minute (pourquoi finit-elle par éclater ?)",
+      "url": "https://www.youtube.com/watch?v=iusdR9trVoo",
+      "published_at": "2026-10-29T12:00:04+00:00",
+      "updated_at": "2026-10-29T12:00:06+00:00",
+      "description": "Une bulle spéculative, c'est quand le prix d'un actif (actions, immobilier...) monte de manière excessive, au-delà de sa valeur réelle, porté par des acheteurs qui comptent le revendre plus cher. Chaque achat fait monter le cours, ce qui attire d'autres acheteurs. Quand les acheteurs manquent, certains vendent, la panique gagne et le cours s'effondre.\nLa crise de 2008 est née d'une bulle de l'immobilier américain.\nCe qui étonne : le Nasdaq Composite a perdu près de 78 % entre son sommet du 10 mars 2000 et son creux du 9 octobre 2002. Il lui a fallu 15 ans pour retrouver ce sommet (23 avril 2015). Exemple (calcul, indice de prix, sans dividendes) : 10 000 € placés au sommet valaient environ 2 200 € au creux.\nUne bulle ne se reconnaît avec certitude qu'après coup. Le test à vous poser : j'achète parce que ça monte, ou parce que ça rapporte ?\n\n👉 Quel concept d'économie voulez-vous voir demain ? Dites-le en commentaire. Un concept d'économie par jour, expliqué en bâtons.\n\nSources (lues le 18/10/2026) :\n- Banque de France, ABC de l'économie : la bulle spéculative : https://www.banque-france.fr/fr/publications-et-statistiques/publications/bulle-speculative\n- Réserve fédérale de Saint-Louis (FRED), Nasdaq Composite, clôtures quotidiennes : https://fred.stlouisfed.org/series/NASDAQCOM\nLes performances passées ne préjugent pas des performances futures. Ceci n'est pas un conseil financier.\n\nMusique : composée avec ElevenLabs Music pour la chaîne.\n\n#bullespéculative #économie #bourse #krach #apprendre #Shorts",
+      "image_url": "https://i2.ytimg.com/vi/iusdR9trVoo/hqdefault.jpg",
+      "source_id": "eco-en-batons",
+      "source_name": "Éco en bâtons",
+      "platform": "youtube"
+    },
+    {
+      "id": "facebook:100064655653099:1567348762096964",
+      "title": "𝐇𝐚𝐥𝐥𝐨𝐰𝐞𝐞𝐧  🎃",
+      "url": "https://www.facebook.com/VilleDeLavaltrie/posts/pfbid0vpRys4fSu4xAiPwoS9hdR9Bbfv2tCunKzatD9PDnAVtKhjMQYZvvLt7x7KnNnqQgl",
+      "published_at": "2026-10-29T09:00:16+00:00",
+      "updated_at": "2026-10-29T09:00:16+00:00",
+      "description": "𝐇𝐚𝐥𝐥𝐨𝐰𝐞𝐞𝐧  🎃\n\nÀ l’approche de la soirée la plus effrayante de l’année, nous souhaitons vous rappeler quelques conseils de sécurité pour profiter pleinement de la collecte de bonbons!\n\n👥 Rester en groupe ou avec l’adulte qui nous accompagne.",
+      "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.99422-6/866580743_2136831917039029_2607963667855456818_n.png?stp=dst-jpg_tt6&cstp=mx1080x1080&ctp=p526x296&_nc_cat=102&ccb=1-7&_nc_sid=127cfc&_nc_ohc=IEBkF9Y_w38Q7kNvwFEWT28&_nc_oc=Adp63lrmS2AiB00lHSYUDUexjcBU68sL7Wm-mJ4T_rq5Utr424yLgsYk_ENL-aj0zX4&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=U266z1ZclN1zsiZlXAi5vA&_nc_ss=7f289&oh=00_AQR6zlexFSyXGwe5Y2c2XE7bNzP_jtizV_MCEjUt_CiArQ&oe=6AE914B8",
+      "source_id": "ville-de-lavaltrie",
+      "source_name": "Ville de Lavaltrie",
+      "platform": "facebook"
+    },
     {
       "id": "facebook:100064655653099:1567686708729836",
       "title": "🌳 𝐓𝐫𝐚𝐯𝐚𝐮𝐱 𝐝’𝐞𝐧𝐭𝐫𝐞𝐭𝐢𝐞𝐧 𝐚𝐮 𝐛𝐨𝐢𝐬𝐞́ 𝐝𝐞 𝐥𝐚 𝐌𝐚𝐢𝐬𝐨𝐧 𝐑𝐨𝐬𝐚𝐥𝐢𝐞-𝐂𝐚𝐝𝐫𝐨𝐧",
@@ -103,7 +127,7 @@
       "title": "C’est quoi un FNB activement géré?",
       "url": "https://www.youtube.com/watch?v=wiOB9cWh-PU",
       "published_at": "2026-10-28T23:38:28+00:00",
-      "updated_at": "2026-10-28T23:52:34+00:00",
+      "updated_at": "2026-10-29T06:49:30+00:00",
       "description": "C’est quoi un FNB activement géré?",
       "image_url": "https://i4.ytimg.com/vi/wiOB9cWh-PU/hqdefault.jpg",
       "source_id": "investi-qc",
@@ -117,7 +141,7 @@
       "published_at": "2026-10-28T23:17:38+00:00",
       "updated_at": "2026-10-28T23:17:38+00:00",
       "description": "Spotify a bondi de 11% après ses résultats trimestriels. \n\nSur un an, on parle d’une croissance des revenus de 16% avec plus de 306 millions d’abonnés payants.\n\nMon prix d’achat moyen est de 475$US et je mise sur les revenus publicitaires c",
-      "image_url": "https://scontent-ord5-1.xx.fbcdn.net/v/t51.82787-10/871086881_18134329909669293_9017136676913030141_n.jpg?stp=dst-jpg_tt6&cstp=mx720x1280&ctp=s960x960&_nc_cat=111&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=rfcWMVtTp7EQ7kNvwE2Pao6&_nc_oc=Adra0CW-Iyu5IMEudsHNUQzJdD7SSyolRuQiCBzvw3DE6tqg1TduU917Ml-WLKs-P4s&_nc_zt=23&_nc_ht=scontent-ord5-1.xx&_nc_gid=U3Hs2p9Sl_JMFhNftX2bAg&_nc_ss=7f289&oh=00_AQQ2W00W5R1EWNn5DCQeGLWtpmt7-HEFmREvUC3NVrYGEg&oe=6AE8B274",
+      "image_url": "https://scontent-iad3-2.xx.fbcdn.net/v/t51.82787-10/871086881_18134329909669293_9017136676913030141_n.jpg?stp=dst-jpg_tt6&cstp=mx720x1280&ctp=s960x960&_nc_cat=111&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=rfcWMVtTp7EQ7kNvwFS2jnM&_nc_oc=AdrHdDHAl6H1VuVuHC2E9SfHaKP0PBHMtbnqM3_wgQB-S00bPeMmMfeHvzSFMsjm778&_nc_zt=23&_nc_ht=scontent-iad3-2.xx&_nc_gid=I0gb9Zbvckzbnzr4EC8wRg&_nc_ss=7f289&oh=00_AQQdHdR00Ynpzqh2uN6Vgqw1Ox6Ugi2Dv5kSmbWp9QrXcQ&oe=6AE922F4",
       "source_id": "traders-360",
       "source_name": "Traders 360",
       "platform": "facebook"
@@ -141,10 +165,22 @@
       "published_at": "2026-10-28T22:33:13+00:00",
       "updated_at": "2026-10-28T22:33:13+00:00",
       "description": "Streaming The Wolves of Mordor? Reply with a link to your stream! #LOTRO",
-      "image_url": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.99422-6/877828211_1816775502937495_5359023760137245199_n.png?stp=dst-jpg_tt6&cstp=mx1920x1080&ctp=s960x960&_nc_cat=108&ccb=1-7&_nc_sid=127cfc&_nc_ohc=rBnDVe478nMQ7kNvwFi6sFD&_nc_oc=Ado82zTIoYAU9xT-SqQuTNSiQXDITn1cLxtAgsmPLsiMdM18pYgWkpX-8ruywoY6uVQ&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=80iZCQAVIgLDXqorkk5BRw&_nc_ss=7f289&oh=00_AQQ771P0QkbrpvmWSFkGEbqdjNcFgOjwtcNy9-6d_TZKIA&oe=6AE8B9AC",
+      "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.99422-6/877828211_1816775502937495_5359023760137245199_n.png?stp=dst-jpg_tt6&cstp=mx1920x1080&ctp=s960x960&_nc_cat=108&ccb=1-7&_nc_sid=127cfc&_nc_ohc=rBnDVe478nMQ7kNvwFZnf6Z&_nc_oc=AdqPoLIhCCvBCkHsWjv5og9JMx61rAqAflcCIsqFhvCWXmTPxuKTiNrz2s6QAfkY_kM&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=SWhH2QIub32IqT_QNZRtHg&_nc_ss=7f289&oh=00_AQTdPQNJCfx7vX5ZrPW261z7npednSdA8zXCzmVCXjv-Qw&oe=6AE92A2C",
       "source_id": "lotro",
       "source_name": "The Lord of the Rings Online",
       "platform": "facebook"
+    },
+    {
+      "id": "youtube:IkflPXCa2CM",
+      "title": "Donald Trump : Le secret derrière l'empire du président des Etats-Unis",
+      "url": "https://www.youtube.com/watch?v=IkflPXCa2CM",
+      "published_at": "2026-10-28T21:54:34+00:00",
+      "updated_at": "2026-10-28T21:54:35+00:00",
+      "description": "Le secret derrière l'empire Trump. Avec un appartement acheté avec dix pour cent d'apport, on comprend comment Donald Trump a bâti son empire avec l'argent des banques, traversé les dépôts de bilan de ses casinos d'Atlantic City, puis rebondi grâce à sa marque. Une seule idée : quand vous devez peu à la banque, c'est votre problème ; quand vous lui devez énormément, c'est le sien.\n\nEt vous : achèteriez-vous avec 10 % d'apport ? Dites-le en commentaire.\n\n⏱️ Chapitres\n0:00 Le roi de la dette\n1:27 Partie 1 — Le fils du promoteur\n2:59 Partie 2 — La recette\n5:34 Partie 3 — Atlantic City\n7:16 Partie 4 — L'homme qui avait fait le calcul\n9:06 Partie 5 — Trop gros pour tomber\n12:52 Ce qu'il en reste\n\n📌 Sources (pages lues en octobre 2026)\n- Argent reçu de Fred Trump : enquête du New York Times du 02/10/2018 (reprise par Boston.com et le Boston Globe) ; TIME, 26/10/2015 (« un petit prêt d'un million de dollars »)\n- Grand Hyatt et Trump Tower : Commercial Observer (03/2020), Mother Jones (08/2020), Wikipedia (Trump Tower, Business career of Donald Trump)\n- Atlantic City, Plaza Hotel, Trump Shuttle, Taj Mahal : PolitiFact (21/06/2016), Mother Jones (20/01/2016), Philadelphia Magazine (16/08/2015), Wikipedia\n- La dette de 1990 et la tutelle des banques : Reuters (17/07/2016, via Raw Story), Newsweek\n- Les faillites (chapitre 11) : PolitiFact, Deseret News / AP (22/11/2004), NBC News (2004, 2009), dépôt SEC de Trump Entertainment Resorts (2010) ; fermeture du Taj Mahal : AP (10/10/2016)\n- Marvin Roffman : WFAE (10/10/2016), Deseret News (11/07/1990)\n- Pertes et revenus selon le New York Times : WDBJ7 (05/2019), CBS News (28/09/2020), Reality Blurred (27/09/2020)\n- Deutsche Bank : Fortune (21/03/2016, 19/03/2019), ABA Journal\n- Trump University : KQED (31/03/2017), ABA Journal ; fondation Trump : KSL (07/11/2019) ; Trump Organization : procureur de Manhattan (06/12/2022) ; fraude civile à New York (non définitif) : ABC News\n- Trump Media : dépôt SEC (03/2024) ; $TRUMP et World Liberty Financial : The Block (01/2025, 09/2025)\n- « Si vous devez 100 dollars à la banque… » : Quote Investigator (23/04/2019) ; « king of debt » : The Blaze, Fox News (05/2016) ; Bloomberg Law, PolitiFact (27/09/2016)\n\n🎞️ Photos et crédits\n- Donald Trump et Ronald Reagan, Maison-Blanche, 3 novembre 1987 : White House Photographic Office / Ronald Reagan Library, domaine public (Wikimedia Commons)\n- Fred Trump, vers 1986 : Bernard Gotfryd / Library of Congress, domaine public (Wikimedia Commons)\n- Hôtel Commodore, New York, 1919 : Rijksmuseum / Wikimedia Commons, CC0\n- Grand Hyatt New York (ex-hôtel Commodore) : Jhw57 / Wikimedia Commons, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)\n- Trump Tower, Cinquième Avenue : Jorge Láscar from Australia / Wikimedia Commons, CC BY 2.0 (https://creativecommons.org/licenses/by/2.0)\n- Trump Plaza Hotel and Casino, Atlantic City (2003) : Tom in NYC / Wikimedia Commons, CC BY 2.0 (https://creativecommons.org/licenses/by/2.0)\n- Trump Taj Mahal, Atlantic City (2007) : Kevin Wong / Wikimedia Commons, domaine public\n- Carte : © les contributeurs d'OpenStreetMap\nMusique : bibliothèque audio YouTube.\nLes dessins sont des illustrations. Les montants sont datés ; ceux qui viennent d'enquêtes de presse sont donnés « selon » leur source. Explication générale, pas un conseil en investissement.",
+      "image_url": "https://i2.ytimg.com/vi/IkflPXCa2CM/hqdefault.jpg",
+      "source_id": "eco-en-batons",
+      "source_name": "Éco en bâtons",
+      "platform": "youtube"
     },
     {
       "id": "facebook:100064792208382:1630091069160618",
@@ -165,7 +201,7 @@
       "published_at": "2026-10-28T18:00:59+00:00",
       "updated_at": "2026-10-28T18:00:59+00:00",
       "description": "Who’s ready for Halloween? 🎃 There’s still time to grab your costume. Get yours at store.guildwars.com before the festivities kick off in Tyria! \n👻 Drop your costume plans below! \n#MMORPG #GuildWarsReforged #GuildWars #Gaming #mmorpggames",
-      "image_url": "https://scontent-ord5-2.xx.fbcdn.net/v/t15.5256-10/871220793_2180433752880320_3902989831513134481_n.jpg?stp=dst-jpg_tt6&cstp=mx1920x1080&ctp=s960x960&_nc_cat=105&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=o9Qc1e_7k5AQ7kNvwG7tJq4&_nc_oc=AdqCy5qay9VTaYvlEnRR9eRCMlUA_nvn0TNa2gNe3lHm7LnsDAupUZKS22GvP4n9034&_nc_zt=23&_nc_ht=scontent-ord5-2.xx&_nc_gid=5qcz5TXgT-I4cCynA9OzkQ&_nc_ss=7f289&oh=00_AQRXgPZvfeziLX0f6LhO1zrG5CVm2lsruLefc5qrvehYQg&oe=6AE8C5D7",
+      "image_url": "https://scontent-iad3-2.xx.fbcdn.net/v/t15.5256-10/871220793_2180433752880320_3902989831513134481_n.jpg?stp=dst-jpg_tt6&cstp=mx1920x1080&ctp=s960x960&_nc_cat=105&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=o9Qc1e_7k5AQ7kNvwE6y5nx&_nc_oc=Adr-hDXWx5V5Dx71NAtCeCbozQE1TZfqhxNqw90N6O6tlxI1TXjnL5p64FkNUB96bQw&_nc_zt=23&_nc_ht=scontent-iad3-2.xx&_nc_gid=Mon8b5xa0kEtxeLov027Xg&_nc_ss=7f289&oh=00_AQTDb840xm1RalwtrTgBwZ6ytrh897ZOVcI9R0k7IztMbA&oe=6AE8FE17",
       "source_id": "guild-wars",
       "source_name": "Guild Wars",
       "platform": "facebook"
@@ -187,7 +223,7 @@
       "title": "Quand Global X lance un nouveau FNB",
       "url": "https://www.youtube.com/watch?v=cEVc0I-wjA8",
       "published_at": "2026-10-28T15:38:27+00:00",
-      "updated_at": "2026-10-28T18:09:31+00:00",
+      "updated_at": "2026-10-29T07:15:16+00:00",
       "description": "Quand Global X lance un nouveau FNB",
       "image_url": "https://i4.ytimg.com/vi/cEVc0I-wjA8/hqdefault.jpg",
       "source_id": "investi-qc",
@@ -199,7 +235,7 @@
       "title": "Le coût d'opportunité expliqué en 1 minute (à quoi renoncez-vous ?)",
       "url": "https://www.youtube.com/watch?v=8ozL_uOz7SY",
       "published_at": "2026-10-28T12:00:31+00:00",
-      "updated_at": "2026-10-28T12:00:34+00:00",
+      "updated_at": "2026-10-28T20:36:27+00:00",
       "description": "Le coût d'opportunité d'un choix, c'est la valeur de la meilleure autre option à laquelle on renonce. Votre argent et votre temps sont limités : choisir, c'est renoncer, et même ce qui semble gratuit a un coût.\nExemple en chiffres (calcul illustratif) : 10 000 € laissés un an sur un compte courant rapportent environ 4 € (0,04 %), contre 170 € sur un Livret A à 1,70 %. Vous renoncez donc à 166 € par an : c'est le coût d'opportunité. Même un film en a un : le livre que vous n'avez pas lu.\nCe qui étonne : selon la Banque de France, les ménages gardaient en août 2026 environ 555 milliards d'euros sur leurs comptes courants, rémunérés en moyenne 0,04 % par an.\nMais attention : un compte courant sert à payer vos dépenses et vos imprévus. Le coût d'opportunité n'est pas un ordre de placer tout votre argent, c'est une question à vous poser avant chaque choix : à quoi je renonce ?\n\n👉 Quel concept d'économie voulez-vous voir demain ? Dites-le en commentaire. Un concept d'économie par jour, expliqué en bâtons.\n\nSources (lues le 18/10/2026) :\n- Library of Economics and Liberty (Econlib), « Opportunity Cost » : https://www.econlib.org/library/Enc/OpportunityCost.html\n- Banque de France, Taux de rémunération des dépôts bancaires, août 2026 : https://www.banque-france.fr/fr/statistiques/epargne/taux-de-remuneration-des-depots-bancaires-2026-08\n- Service-public.fr, Livret A (fiche F2365) : https://www.service-public.gouv.fr/particuliers/vosdroits/F2365\nLe taux du Livret A (1,70 % jusqu'au 31/01/2027) peut être modifié. Ceci n'est pas un conseil financier.\n\nMusique : composée avec ElevenLabs Music pour la chaîne.\n\n#coûtdopportunité #économie #épargne #LivretA #apprendre #Shorts",
       "image_url": "https://i1.ytimg.com/vi/8ozL_uOz7SY/hqdefault.jpg",
       "source_id": "eco-en-batons",
@@ -247,7 +283,7 @@
       "title": "NASDAQ en Baisse | Toujours le Bon Moment pour Acheter?",
       "url": "https://www.youtube.com/watch?v=sz3dArmC-Fs",
       "published_at": "2026-10-27T22:00:33+00:00",
-      "updated_at": "2026-10-27T22:00:34+00:00",
+      "updated_at": "2026-10-29T00:21:02+00:00",
       "description": "Abonnez-vous à mon infolettre Analyse360: \nhttps://traders360.ca/product/infolettre-analyse-360\n\nMa formation pour les investisseurs autonomes: \nhttps://formation-traders360.mykajabi.com/inscription\n\nÉp. 354\nVous attendiez une baisse pour acheter des actions technologiques mais maintenant qu'elle arrive, voulez-vous encore investir? Derrière les promesses de l'IA, un risque me préoccupe particulièrement et touche beaucoup plus d'entreprises que vous le pensez. Avec plus du tiers de mon portefeuille exposé, voici pourquoi je regarde ailleurs pour mes prochains achats.\n\nSuivez-moi sur Facebook, Instagram et Tiktok:\nhttps://www.facebook.com/firmetraders360/\nhttps://www.instagram.com/alextraders360\nhttps://www.tiktok.com/@alexdemers360\n\nAVIS LÉGAL: Les propos de l'animateur ne doivent en aucun cas être interprétés comme une recommandation d’achat d'une action sur les marchés boursiers. Alexandre Demers n'est pas un conseiller financier et toutes les informations partagées dans ce balado ne reflète que son opinion personnelle. Consultez un professionnel accrédité auprès de l'AMF pour obtenir des conseils appropriés à votre situation.\n\n\n00:00 Intro\n00:43 Meta Platforms\n01:46 Bloom Energy\n02:34 Netflix\n04:15 CoreWeave\n07:00 Trade sur l'IA\n09:29 Acheter ou non?\n11:57 Spotify\n12:34 Conclusion",
       "image_url": "https://i4.ytimg.com/vi/sz3dArmC-Fs/hqdefault.jpg",
       "source_id": "alex-demers-finance360",
@@ -415,7 +451,7 @@
       "title": "Investi LIVE mercredi 3 juin 13h",
       "url": "https://www.youtube.com/watch?v=L6RyPr4Qrts",
       "published_at": "2026-10-26T19:02:40+00:00",
-      "updated_at": "2026-10-27T08:16:03+00:00",
+      "updated_at": "2026-10-27T15:58:47+00:00",
       "description": "Made with Restream. Livestream on 30+ platforms at once via https://restream.io\n\nRestream helps you multistream & reach your audience, wherever they are.",
       "image_url": "https://i1.ytimg.com/vi/L6RyPr4Qrts/hqdefault.jpg",
       "source_id": "investi-qc",
@@ -499,7 +535,7 @@
       "title": "Sandisk a la mémoire courte? Tiré de l’épisode 61 enregistré en août 2026.",
       "url": "https://www.youtube.com/watch?v=1qka_l24-TE",
       "published_at": "2026-10-25T15:39:17+00:00",
-      "updated_at": "2026-10-26T09:37:59+00:00",
+      "updated_at": "2026-10-27T16:03:25+00:00",
       "description": "Sandisk a la mémoire courte? Tiré de l’épisode 61 enregistré en août 2026.",
       "image_url": "https://i2.ytimg.com/vi/1qka_l24-TE/hqdefault.jpg",
       "source_id": "investi-qc",
@@ -523,7 +559,7 @@
       "title": "Le ratio Sharpe",
       "url": "https://www.youtube.com/watch?v=6YAgak1a3dw",
       "published_at": "2026-10-24T22:38:50+00:00",
-      "updated_at": "2026-10-25T07:49:52+00:00",
+      "updated_at": "2026-10-27T23:26:19+00:00",
       "description": "Le ratio Sharpe",
       "image_url": "https://i3.ytimg.com/vi/6YAgak1a3dw/hqdefault.jpg",
       "source_id": "investi-qc",
@@ -535,7 +571,7 @@
       "title": "Marc est souvent au téléphone avec le cambiste",
       "url": "https://www.youtube.com/watch?v=zWXC8tGtPHM",
       "published_at": "2026-10-24T15:37:34+00:00",
-      "updated_at": "2026-10-26T16:04:21+00:00",
+      "updated_at": "2026-10-27T23:29:16+00:00",
       "description": "Marc est souvent au téléphone avec le cambiste",
       "image_url": "https://i3.ytimg.com/vi/zWXC8tGtPHM/hqdefault.jpg",
       "source_id": "investi-qc",
@@ -547,7 +583,7 @@
       "title": "L'effet de levier expliqué en 1 minute (quand l'emprunt amplifie tout)",
       "url": "https://www.youtube.com/watch?v=PMDMjr0UD5M",
       "published_at": "2026-10-24T11:00:24+00:00",
-      "updated_at": "2026-10-25T16:11:07+00:00",
+      "updated_at": "2026-10-27T23:24:06+00:00",
       "description": "L'effet de levier, c'est utiliser de l'argent emprunté, en plus de son apport, pour acheter un actif : le gain (ou la perte) porte sur tout l'actif, mais il est rapporté à votre seul apport. Si l'actif rapporte plus que ce que coûte la dette, le gain sur votre apport est amplifié.\nExemple (calcul illustratif, hors frais, revente immédiate) : un logement de 250 000 € acheté avec 25 000 € d'apport, le reste emprunté, soit un levier de 10. Si le logement gagne 10 %, vous gagnez 25 000 € : votre apport double. S'il perd 10 % et que vous revendez, l'apport est entièrement perdu.\nCe qui étonne : en Europe, le ratio de levier minimal exigé des banques est de 3 % (BCE), ce qui permet à une banque de détenir jusqu'à 33 € d'actifs pour 1 € de fonds propres. C'est un plafond théorique, pas la situation moyenne.\nEt le piège : le levier marche dans les deux sens. Il n'est gagnant que si votre achat rapporte plus que ce que coûte l'emprunt, et il coûte cher si vous devez vendre après une baisse.\n\n👉 Quel concept d'économie voulez-vous voir demain ? Dites-le en commentaire. Un concept d'économie par jour, expliqué en bâtons.\n\nSources (lues le 18/10/2026) :\n- BCE, supervision bancaire, exigence de ratio de levier (Pilier 2) : https://www.bankingsupervision.europa.eu/banking/srep/html/leverage_ratio_p2r.en.html\n- Les montants de l'exemple (logement, apport, gain, perte) sont un calcul illustratif, pas des données observées.\nLes règles prudentielles peuvent évoluer. Ceci n'est pas un conseil financier.\n\nMusique : composée avec ElevenLabs Music pour la chaîne.\n\n#effetdelevier #économie #crédit #immobilier #apprendre #Shorts",
       "image_url": "https://i1.ytimg.com/vi/PMDMjr0UD5M/hqdefault.jpg",
       "source_id": "eco-en-batons",
