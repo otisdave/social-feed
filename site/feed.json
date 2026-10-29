@@ -2,7 +2,7 @@
   "version": 1,
   "title": "Social Feed",
   "description": "Un seul fil pour suivre les sources qui comptent.",
-  "generated_at": "2026-10-29T13:07:34.507414+00:00",
+  "generated_at": "2026-10-29T18:58:46.359496+00:00",
   "sources": [
     {
       "id": "eco-en-batons",
@@ -11,7 +11,7 @@
       "url": "https://www.youtube.com/@Eco_en_batons",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-10-29T13:07:34.507414+00:00",
+      "last_success_at": "2026-10-29T18:58:46.359496+00:00",
       "item_count": 18
     },
     {
@@ -21,8 +21,8 @@
       "url": "https://www.youtube.com/@investi-qc",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-10-29T13:07:34.507414+00:00",
-      "item_count": 18
+      "last_success_at": "2026-10-29T18:58:46.359496+00:00",
+      "item_count": 19
     },
     {
       "id": "hugo-lisoir",
@@ -31,8 +31,8 @@
       "url": "https://www.youtube.com/@hugolisoiryoutube",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-10-29T13:07:34.507414+00:00",
-      "item_count": 16
+      "last_success_at": "2026-10-29T18:58:46.359496+00:00",
+      "item_count": 17
     },
     {
       "id": "alex-demers-finance360",
@@ -41,7 +41,7 @@
       "url": "https://www.youtube.com/@alexdemers-finance360",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-10-29T13:07:34.507414+00:00",
+      "last_success_at": "2026-10-29T18:58:46.359496+00:00",
       "item_count": 16
     },
     {
@@ -51,7 +51,7 @@
       "url": "https://www.facebook.com/GuildWars/",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-10-29T13:07:34.507414+00:00",
+      "last_success_at": "2026-10-29T18:58:46.359496+00:00",
       "item_count": 3
     },
     {
@@ -61,8 +61,8 @@
       "url": "https://www.facebook.com/LOTRO/",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-10-29T13:07:34.507414+00:00",
-      "item_count": 5
+      "last_success_at": "2026-10-29T18:58:46.359496+00:00",
+      "item_count": 6
     },
     {
       "id": "ville-de-lavaltrie",
@@ -71,7 +71,7 @@
       "url": "https://www.facebook.com/VilleDeLavaltrie/",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-10-29T13:07:34.507414+00:00",
+      "last_success_at": "2026-10-29T18:58:46.359496+00:00",
       "item_count": 6
     },
     {
@@ -81,11 +81,59 @@
       "url": "https://www.facebook.com/firmetraders360/",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-10-29T13:07:34.507414+00:00",
-      "item_count": 6
+      "last_success_at": "2026-10-29T18:58:46.359496+00:00",
+      "item_count": 7
     }
   ],
   "items": [
+    {
+      "id": "facebook:100064792208382:1631263825710009",
+      "title": "Double Bonus Points is back!",
+      "url": "https://www.facebook.com/LOTRO/posts/pfbid0ZJNvcDC7L62i9ePh2R5hTmZmUziKLc8DjXBAv6UgRU3EWzhtqvJs8UVzAdGdzwoFl",
+      "published_at": "2026-10-29T18:42:14+00:00",
+      "updated_at": "2026-10-29T18:42:14+00:00",
+      "description": "Double Bonus Points is back!\nGet twice the bonus points in the LOTRO Store through November 8th! #LOTRO",
+      "image_url": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.99422-6/871454900_2470964719978392_3508255346379654916_n.png?stp=dst-jpg_tt6&cstp=mx1428x851&ctp=p843x403&_nc_cat=111&ccb=1-7&_nc_sid=127cfc&_nc_ohc=zeI_xP-0wucQ7kNvwFo-g0c&_nc_oc=AdocQBVgybuVhuN0hy0E9KV586uDlYmnhFKzHL_XtOz_L6zAMZerEVR5_dMlHuvPqwQ&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=0OlL0r_Z0Bs900_EnyaEtg&_nc_ss=7f289&oh=00_AQQ7MHMnzYWyRCU8aWdiCsMwZmMKqE1_wx8AEUrl0Nbxbg&oe=6AE98384",
+      "source_id": "lotro",
+      "source_name": "The Lord of the Rings Online",
+      "platform": "facebook"
+    },
+    {
+      "id": "youtube:SbS3jv8JjHw",
+      "title": "Il y a un bruit de fond qui fait trembler l’espace-temps ! (et on essaye de le comprendre)",
+      "url": "https://www.youtube.com/watch?v=SbS3jv8JjHw",
+      "published_at": "2026-10-29T17:00:06+00:00",
+      "updated_at": "2026-10-29T17:00:06+00:00",
+      "description": "Un immense murmure gravitationnel traverse l’Univers. Décelé grâce au chronométrage des pulsars, ce bruit de fond pourrait nous renseigner sur l’origine des trous noirs supermassifs. Et si certains de leurs ancêtres étaient des « étoiles noires », alimentées par l’annihilation de matière noire ? Des premières détections d’ondes gravitationnelles à cette hypothèse encore spéculative, partons sur la piste des premiers géants du cosmos.\n\nSources :\nhttps://journals.aps.org/prd/abstract/10.1103/hvfd-8fkr\nhttps://arxiv.org/abs/2507.06163\nhttps://arxiv.org/abs/2511.08578\nhttps://arxiv.org/abs/1002.2233\nhttps://nanograv.org/15yr/Summary/Background\nhttps://arxiv.org/abs/2306.16213\nhttps://ligo.org/science-summaries/gw150914/\n\nMusiques : Pedro Macedo Camacho / Star Citizen, Utho Riley et Gérald M. Dorai\nImages : LIGO / Caltech / MIT, NANOGrav / Aurore Simonnet, NASA, ESA, Sohan Ghodla et Cosmin Ilie\nMoteur 3D : Space Engine Pro",
+      "image_url": "https://i4.ytimg.com/vi/SbS3jv8JjHw/hqdefault.jpg",
+      "source_id": "hugo-lisoir",
+      "source_name": "Hugo Lisoir",
+      "platform": "youtube"
+    },
+    {
+      "id": "youtube:q6xh8GBWFtQ",
+      "title": "Des fnb avec levier modéré à 1.25x",
+      "url": "https://www.youtube.com/watch?v=q6xh8GBWFtQ",
+      "published_at": "2026-10-29T15:40:40+00:00",
+      "updated_at": "2026-10-29T16:21:04+00:00",
+      "description": "Des fnb avec levier modéré à 1.25x",
+      "image_url": "https://i2.ytimg.com/vi/q6xh8GBWFtQ/hqdefault.jpg",
+      "source_id": "investi-qc",
+      "source_name": "Investi QC",
+      "platform": "youtube"
+    },
+    {
+      "id": "facebook:100063889127390:1660558579417097",
+      "title": "À ce rythme-là, je vais bientôt devoir expliquer un trou de 13 ans dans mon CV.",
+      "url": "https://www.facebook.com/firmetraders360/posts/pfbid029pXY8V7FHkWph9LNNVnqQ8SWcDAsXJxWVPVo7n7d8FP1qtU9GNYmSEK7fw1Q4TREl",
+      "published_at": "2026-10-29T13:47:01+00:00",
+      "updated_at": "2026-10-29T13:47:01+00:00",
+      "description": "À ce rythme-là, je vais bientôt devoir expliquer un trou de 13 ans dans mon CV.\n\nAprès Meta et Netflix la semaine passée, c’est maintenant au tour de Google de faire planter mon portefeuille avec une chute de 13% ce matin.\n\nUne chance que m",
+      "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.99422-6/865119497_2181781375738901_4497143826398255264_n.png?stp=dst-jpg_tt6&cstp=mx1248x1248&ctp=p526x296&_nc_cat=100&ccb=1-7&_nc_sid=127cfc&_nc_ohc=-zPT6APr-mcQ7kNvwEUUaCv&_nc_oc=AdpnD2ck3qfnhO1RHwe7V2UeuKSlnxlGpPlMCHvjEntpKCvogIrSwyiUTSR4DL1xnyY&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=DAwYpdwP3SrJn-HRV21Qbg&_nc_ss=7f289&oh=00_AQSvkMfkSGVhl3f3egnwMBYXyJdHDc-lgDLFJcZ22Xe_lQ&oe=6AE981D7",
+      "source_id": "traders-360",
+      "source_name": "Traders 360",
+      "platform": "facebook"
+    },
     {
       "id": "youtube:iusdR9trVoo",
       "title": "La bulle spéculative expliquée en 1 minute (pourquoi finit-elle par éclater ?)",
@@ -105,7 +153,7 @@
       "published_at": "2026-10-29T09:00:16+00:00",
       "updated_at": "2026-10-29T09:00:16+00:00",
       "description": "𝐇𝐚𝐥𝐥𝐨𝐰𝐞𝐞𝐧  🎃\n\nÀ l’approche de la soirée la plus effrayante de l’année, nous souhaitons vous rappeler quelques conseils de sécurité pour profiter pleinement de la collecte de bonbons!\n\n👥 Rester en groupe ou avec l’adulte qui nous accompagne.",
-      "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.99422-6/866580743_2136831917039029_2607963667855456818_n.png?stp=dst-jpg_tt6&cstp=mx1080x1080&ctp=p526x296&_nc_cat=102&ccb=1-7&_nc_sid=127cfc&_nc_ohc=IEBkF9Y_w38Q7kNvwFEWT28&_nc_oc=Adp63lrmS2AiB00lHSYUDUexjcBU68sL7Wm-mJ4T_rq5Utr424yLgsYk_ENL-aj0zX4&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=U266z1ZclN1zsiZlXAi5vA&_nc_ss=7f289&oh=00_AQR6zlexFSyXGwe5Y2c2XE7bNzP_jtizV_MCEjUt_CiArQ&oe=6AE914B8",
+      "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.99422-6/866580743_2136831917039029_2607963667855456818_n.png?stp=dst-jpg_tt6&cstp=mx1080x1080&ctp=p526x296&_nc_cat=102&ccb=1-7&_nc_sid=127cfc&_nc_ohc=IEBkF9Y_w38Q7kNvwFR0vgc&_nc_oc=AdqqgDEcTqoWSpkx7Eoa3IYRcKmCfxWhlWMzuFdmFAWs6t_rnM5uByMVTWVnQ19LFWo&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=JYFzKu3M4qRVJinSkUL3FA&_nc_ss=7f289&oh=00_AQRfSyte58vupYo5zQMTFbOcBpF3Nx692aJ6BH77bV1QTA&oe=6AE98538",
       "source_id": "ville-de-lavaltrie",
       "source_name": "Ville de Lavaltrie",
       "platform": "facebook"
@@ -201,7 +249,7 @@
       "published_at": "2026-10-28T18:00:59+00:00",
       "updated_at": "2026-10-28T18:00:59+00:00",
       "description": "Who’s ready for Halloween? 🎃 There’s still time to grab your costume. Get yours at store.guildwars.com before the festivities kick off in Tyria! \n👻 Drop your costume plans below! \n#MMORPG #GuildWarsReforged #GuildWars #Gaming #mmorpggames",
-      "image_url": "https://scontent-iad3-2.xx.fbcdn.net/v/t15.5256-10/871220793_2180433752880320_3902989831513134481_n.jpg?stp=dst-jpg_tt6&cstp=mx1920x1080&ctp=s960x960&_nc_cat=105&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=o9Qc1e_7k5AQ7kNvwE6y5nx&_nc_oc=Adr-hDXWx5V5Dx71NAtCeCbozQE1TZfqhxNqw90N6O6tlxI1TXjnL5p64FkNUB96bQw&_nc_zt=23&_nc_ht=scontent-iad3-2.xx&_nc_gid=Mon8b5xa0kEtxeLov027Xg&_nc_ss=7f289&oh=00_AQTDb840xm1RalwtrTgBwZ6ytrh897ZOVcI9R0k7IztMbA&oe=6AE8FE17",
+      "image_url": "https://scontent-iad3-2.xx.fbcdn.net/v/t15.5256-10/871220793_2180433752880320_3902989831513134481_n.jpg?stp=dst-jpg_tt6&cstp=mx1920x1080&ctp=s960x960&_nc_cat=105&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=o9Qc1e_7k5AQ7kNvwEvFB7D&_nc_oc=AdqkimykenraYJMbj1Oi845jj4jo1DJyZPGbt5ZZGie738cfJf0LmCutN1FgkTKRmzI&_nc_zt=23&_nc_ht=scontent-iad3-2.xx&_nc_gid=KLlTF4VncmqcIKh8ZBIHqg&_nc_ss=7f289&oh=00_AQT27jc7vkc48JVIB5KYYkQPC23wqN_YHLWS3WUG97stQQ&oe=6AE96E97",
       "source_id": "guild-wars",
       "source_name": "Guild Wars",
       "platform": "facebook"
