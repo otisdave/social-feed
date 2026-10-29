@@ -2,7 +2,7 @@
   "version": 1,
   "title": "Social Feed",
   "description": "Un seul fil pour suivre les sources qui comptent.",
-  "generated_at": "2026-10-29T00:01:57.784595+00:00",
+  "generated_at": "2026-10-29T05:52:32.304883+00:00",
   "sources": [
     {
       "id": "eco-en-batons",
@@ -19,8 +19,8 @@
       "name": "Investi QC",
       "platform": "youtube",
       "url": "https://www.youtube.com/@investi-qc",
-      "status": "ok",
-      "error": null,
+      "status": "error",
+      "error": "HTTPError: HTTP Error 404: Not Found",
       "last_success_at": "2026-10-29T00:01:57.784595+00:00",
       "item_count": 18
     },
@@ -51,7 +51,7 @@
       "url": "https://www.facebook.com/GuildWars/",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-10-29T00:01:57.784595+00:00",
+      "last_success_at": "2026-10-29T05:52:32.304883+00:00",
       "item_count": 3
     },
     {
@@ -61,7 +61,7 @@
       "url": "https://www.facebook.com/LOTRO/",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-10-29T00:01:57.784595+00:00",
+      "last_success_at": "2026-10-29T05:52:32.304883+00:00",
       "item_count": 5
     },
     {
@@ -71,8 +71,8 @@
       "url": "https://www.facebook.com/VilleDeLavaltrie/",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-10-29T00:01:57.784595+00:00",
-      "item_count": 4
+      "last_success_at": "2026-10-29T05:52:32.304883+00:00",
+      "item_count": 5
     },
     {
       "id": "traders-360",
@@ -81,11 +81,23 @@
       "url": "https://www.facebook.com/firmetraders360/",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-10-29T00:01:57.784595+00:00",
+      "last_success_at": "2026-10-29T05:52:32.304883+00:00",
       "item_count": 6
     }
   ],
   "items": [
+    {
+      "id": "facebook:100064655653099:1567686708729836",
+      "title": "🌳 𝐓𝐫𝐚𝐯𝐚𝐮𝐱 𝐝’𝐞𝐧𝐭𝐫𝐞𝐭𝐢𝐞𝐧 𝐚𝐮 𝐛𝐨𝐢𝐬𝐞́ 𝐝𝐞 𝐥𝐚 𝐌𝐚𝐢𝐬𝐨𝐧 𝐑𝐨𝐬𝐚𝐥𝐢𝐞-𝐂𝐚𝐝𝐫𝐨𝐧",
+      "url": "https://www.facebook.com/VilleDeLavaltrie/posts/pfbid02L8ZYNJ373PyK9uYahP5Q37RFVSjKyvrVcUEhtfiNnsFWN9793e7fomj62WgBqdY4l",
+      "published_at": "2026-10-29T01:00:00+00:00",
+      "updated_at": "2026-10-29T01:00:00+00:00",
+      "description": "🌳 𝐓𝐫𝐚𝐯𝐚𝐮𝐱 𝐝’𝐞𝐧𝐭𝐫𝐞𝐭𝐢𝐞𝐧 𝐚𝐮 𝐛𝐨𝐢𝐬𝐞́ 𝐝𝐞 𝐥𝐚 𝐌𝐚𝐢𝐬𝐨𝐧 𝐑𝐨𝐬𝐚𝐥𝐢𝐞-𝐂𝐚𝐝𝐫𝐨𝐧\n\nDes travaux d’entretien auront lieu dans le sentier du boisé de la Maison Rosalie-Cadron, le jeudi 29 octobre, au courant de la journée.\n\nL’accès au sentier sera partiellement res",
+      "image_url": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.99422-6/864891236_2035858340460523_7922267737063981077_n.png?stp=dst-jpg_tt6&cstp=mx1080x1080&ctp=p526x296&_nc_cat=103&ccb=1-7&_nc_sid=127cfc&_nc_ohc=nc-bQM2YuuEQ7kNvwEWexHE&_nc_oc=AdoZ6tN0uuI7-HGr8liZFHiWl4i6QGz_j0U5ZUcCC9L_FAB6qDlwBkaiOJ2Lvi1mEKU&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=ppIoIR4TZ_v6_r9O5I4VOw&_nc_ss=7f289&oh=00_AQS7H3aJ06rzSPzYtRKTiBu3iyO-FVkBckhanT9w1Gu9wA&oe=6AE8A01D",
+      "source_id": "ville-de-lavaltrie",
+      "source_name": "Ville de Lavaltrie",
+      "platform": "facebook"
+    },
     {
       "id": "youtube:wiOB9cWh-PU",
       "title": "C’est quoi un FNB activement géré?",
@@ -105,7 +117,7 @@
       "published_at": "2026-10-28T23:17:38+00:00",
       "updated_at": "2026-10-28T23:17:38+00:00",
       "description": "Spotify a bondi de 11% après ses résultats trimestriels. \n\nSur un an, on parle d’une croissance des revenus de 16% avec plus de 306 millions d’abonnés payants.\n\nMon prix d’achat moyen est de 475$US et je mise sur les revenus publicitaires c",
-      "image_url": "https://scontent-sjc6-1.xx.fbcdn.net/v/t51.82787-10/871086881_18134329909669293_9017136676913030141_n.jpg?stp=dst-jpg_tt6&cstp=mx720x1280&ctp=s960x960&_nc_cat=111&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=rfcWMVtTp7EQ7kNvwFt4yQh&_nc_oc=Adp_w4sqa8tb528Qvfxh9hkGvZji03jRIdX25EEa2mjbEpgPEpIZ-cmCn2mTZ0n0qyg&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=ICD7l4Oadg-OXix7rmWtlg&_nc_ss=7f289&oh=00_AQTALguM4-PtZNsIVvZ2OqRJCY1enEBUTjbiHI2vOH6bKg&oe=6AE87A34",
+      "image_url": "https://scontent-ord5-1.xx.fbcdn.net/v/t51.82787-10/871086881_18134329909669293_9017136676913030141_n.jpg?stp=dst-jpg_tt6&cstp=mx720x1280&ctp=s960x960&_nc_cat=111&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=rfcWMVtTp7EQ7kNvwE2Pao6&_nc_oc=Adra0CW-Iyu5IMEudsHNUQzJdD7SSyolRuQiCBzvw3DE6tqg1TduU917Ml-WLKs-P4s&_nc_zt=23&_nc_ht=scontent-ord5-1.xx&_nc_gid=U3Hs2p9Sl_JMFhNftX2bAg&_nc_ss=7f289&oh=00_AQQ2W00W5R1EWNn5DCQeGLWtpmt7-HEFmREvUC3NVrYGEg&oe=6AE8B274",
       "source_id": "traders-360",
       "source_name": "Traders 360",
       "platform": "facebook"
@@ -129,7 +141,7 @@
       "published_at": "2026-10-28T22:33:13+00:00",
       "updated_at": "2026-10-28T22:33:13+00:00",
       "description": "Streaming The Wolves of Mordor? Reply with a link to your stream! #LOTRO",
-      "image_url": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.99422-6/877828211_1816775502937495_5359023760137245199_n.png?stp=dst-jpg_tt6&cstp=mx1920x1080&ctp=s960x960&_nc_cat=108&ccb=1-7&_nc_sid=127cfc&_nc_ohc=rBnDVe478nMQ7kNvwFU1EJB&_nc_oc=AdokXP9q6fjZx6mHpQZWe0lIOt0eLSKybvBYn0qC-uJjnrtPJhhKv_oXo-6mAbX7sb0&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=I248FnAn4pYsu0facRkWXw&_nc_ss=7f289&oh=00_AQRyzuVq8aZQjxyj0do4117ADw4UJJa7poAh8n6_OeHXmQ&oe=6AE8492C",
+      "image_url": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.99422-6/877828211_1816775502937495_5359023760137245199_n.png?stp=dst-jpg_tt6&cstp=mx1920x1080&ctp=s960x960&_nc_cat=108&ccb=1-7&_nc_sid=127cfc&_nc_ohc=rBnDVe478nMQ7kNvwFi6sFD&_nc_oc=Ado82zTIoYAU9xT-SqQuTNSiQXDITn1cLxtAgsmPLsiMdM18pYgWkpX-8ruywoY6uVQ&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=80iZCQAVIgLDXqorkk5BRw&_nc_ss=7f289&oh=00_AQQ771P0QkbrpvmWSFkGEbqdjNcFgOjwtcNy9-6d_TZKIA&oe=6AE8B9AC",
       "source_id": "lotro",
       "source_name": "The Lord of the Rings Online",
       "platform": "facebook"
@@ -153,7 +165,7 @@
       "published_at": "2026-10-28T18:00:59+00:00",
       "updated_at": "2026-10-28T18:00:59+00:00",
       "description": "Who’s ready for Halloween? 🎃 There’s still time to grab your costume. Get yours at store.guildwars.com before the festivities kick off in Tyria! \n👻 Drop your costume plans below! \n#MMORPG #GuildWarsReforged #GuildWars #Gaming #mmorpggames",
-      "image_url": "https://scontent-sjc3-1.xx.fbcdn.net/v/t15.5256-10/871220793_2180433752880320_3902989831513134481_n.jpg?stp=dst-jpg_tt6&cstp=mx1920x1080&ctp=s960x960&_nc_cat=105&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=o9Qc1e_7k5AQ7kNvwElBoFG&_nc_oc=Adr_uap0e7yNg01g9UPfxrdR8g-ZWvttNR8qXh4UJp7QB8gO8VgBQiY7YCGM9RdcEM0&_nc_zt=23&_nc_ht=scontent-sjc3-1.xx&_nc_gid=3gq4--7H2qC04Zx0rmxtGA&_nc_ss=7f289&oh=00_AQTTNSkzY2gaLl2sR1WgwN8O_3SJz9657yA3DHRu6G-sIw&oe=6AE85557",
+      "image_url": "https://scontent-ord5-2.xx.fbcdn.net/v/t15.5256-10/871220793_2180433752880320_3902989831513134481_n.jpg?stp=dst-jpg_tt6&cstp=mx1920x1080&ctp=s960x960&_nc_cat=105&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=o9Qc1e_7k5AQ7kNvwG7tJq4&_nc_oc=AdqCy5qay9VTaYvlEnRR9eRCMlUA_nvn0TNa2gNe3lHm7LnsDAupUZKS22GvP4n9034&_nc_zt=23&_nc_ht=scontent-ord5-2.xx&_nc_gid=5qcz5TXgT-I4cCynA9OzkQ&_nc_ss=7f289&oh=00_AQRXgPZvfeziLX0f6LhO1zrG5CVm2lsruLefc5qrvehYQg&oe=6AE8C5D7",
       "source_id": "guild-wars",
       "source_name": "Guild Wars",
       "platform": "facebook"
