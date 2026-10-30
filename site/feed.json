@@ -2,7 +2,7 @@
   "version": 1,
   "title": "Social Feed",
   "description": "Un seul fil pour suivre les sources qui comptent.",
-  "generated_at": "2026-10-30T18:39:28.699478+00:00",
+  "generated_at": "2026-10-30T22:59:56.586894+00:00",
   "sources": [
     {
       "id": "eco-en-batons",
@@ -11,7 +11,7 @@
       "url": "https://www.youtube.com/@Eco_en_batons",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-10-30T18:39:28.699478+00:00",
+      "last_success_at": "2026-10-30T22:59:56.586894+00:00",
       "item_count": 20
     },
     {
@@ -21,8 +21,8 @@
       "url": "https://www.youtube.com/@investi-qc",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-10-30T18:39:28.699478+00:00",
-      "item_count": 22
+      "last_success_at": "2026-10-30T22:59:56.586894+00:00",
+      "item_count": 23
     },
     {
       "id": "hugo-lisoir",
@@ -31,7 +31,7 @@
       "url": "https://www.youtube.com/@hugolisoiryoutube",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-10-30T18:39:28.699478+00:00",
+      "last_success_at": "2026-10-30T22:59:56.586894+00:00",
       "item_count": 17
     },
     {
@@ -41,7 +41,7 @@
       "url": "https://www.youtube.com/@alexdemers-finance360",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-10-30T18:39:28.699478+00:00",
+      "last_success_at": "2026-10-30T22:59:56.586894+00:00",
       "item_count": 16
     },
     {
@@ -51,7 +51,7 @@
       "url": "https://www.facebook.com/GuildWars/",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-10-30T18:39:28.699478+00:00",
+      "last_success_at": "2026-10-30T22:59:56.586894+00:00",
       "item_count": 4
     },
     {
@@ -61,8 +61,8 @@
       "url": "https://www.facebook.com/LOTRO/",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-10-30T18:39:28.699478+00:00",
-      "item_count": 8
+      "last_success_at": "2026-10-30T22:59:56.586894+00:00",
+      "item_count": 9
     },
     {
       "id": "ville-de-lavaltrie",
@@ -71,8 +71,8 @@
       "url": "https://www.facebook.com/VilleDeLavaltrie/",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-10-30T18:39:28.699478+00:00",
-      "item_count": 8
+      "last_success_at": "2026-10-30T22:59:56.586894+00:00",
+      "item_count": 9
     },
     {
       "id": "traders-360",
@@ -81,11 +81,59 @@
       "url": "https://www.facebook.com/firmetraders360/",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-10-30T18:39:28.699478+00:00",
-      "item_count": 9
+      "last_success_at": "2026-10-30T22:59:56.586894+00:00",
+      "item_count": 10
     }
   ],
   "items": [
+    {
+      "id": "facebook:100064792208382:1632573725579019",
+      "title": "This is your final weekend to run the Harvestmath Festival! This year's spooky event runs until 3am Eastern (-4 GMT) on ",
+      "url": "https://www.facebook.com/LOTRO/posts/pfbid02WAsSv9vWwtR8sBMqUT4kqphhnHWZ5B16kz7zqScF6zfBKur2c99NoZfqPFwcdPbol",
+      "published_at": "2026-10-30T22:45:26+00:00",
+      "updated_at": "2026-10-30T22:45:26+00:00",
+      "description": "This is your final weekend to run the Harvestmath Festival! This year's spooky event runs until 3am Eastern (-4 GMT) on November 2nd. Find our guide on LOTRO.com: https://www.lotro.com/guides/lotro-harvestmath-festival-guide-en #LOTRO",
+      "image_url": null,
+      "source_id": "lotro",
+      "source_name": "The Lord of the Rings Online",
+      "platform": "facebook"
+    },
+    {
+      "id": "facebook:100064655653099:1569781128520394",
+      "title": "❄️ 𝐋’𝐢𝐧𝐬𝐭𝐚𝐥𝐥𝐚𝐭𝐢𝐨𝐧 𝐝𝐞𝐬 𝐚𝐛𝐫𝐢𝐬 𝐝’𝐡𝐢𝐯𝐞𝐫 : 𝐪𝐮𝐞𝐥𝐪𝐮𝐞𝐬 𝐫𝐞̀𝐠𝐥𝐞𝐬 𝐚̀ 𝐫𝐞𝐬𝐩𝐞𝐜𝐭𝐞𝐫!",
+      "url": "https://www.facebook.com/VilleDeLavaltrie/posts/pfbid021Ju3HfM2u2SGQwXcSqEk58eZJ28dNCjj3iyraoCYmv5nL6hTsYC8X953ij456YJzl",
+      "published_at": "2026-10-30T21:00:00+00:00",
+      "updated_at": "2026-10-30T21:00:00+00:00",
+      "description": "❄️ 𝐋’𝐢𝐧𝐬𝐭𝐚𝐥𝐥𝐚𝐭𝐢𝐨𝐧 𝐝𝐞𝐬 𝐚𝐛𝐫𝐢𝐬 𝐝’𝐡𝐢𝐯𝐞𝐫 : 𝐪𝐮𝐞𝐥𝐪𝐮𝐞𝐬 𝐫𝐞̀𝐠𝐥𝐞𝐬 𝐚̀ 𝐫𝐞𝐬𝐩𝐞𝐜𝐭𝐞𝐫!\n\nAvec l’arrivée de la saison froide, plusieurs ont procédé à l'installation de leur abris temporaire, mais connaissez-vous bien la réglementation la concernant? 🚗\n\nVoici q",
+      "image_url": "https://scontent-atl3-1.xx.fbcdn.net/v/t39.99422-6/855109209_1624855622432675_4755121690779818882_n.png?stp=dst-jpg_tt6&cstp=mx1080x1080&ctp=p526x296&_nc_cat=107&ccb=1-7&_nc_sid=127cfc&_nc_ohc=Y68_mmSS8t0Q7kNvwEsXyjV&_nc_oc=AdpEBpjI3vRcqZOHqk6DdZwGW76oJfeNgspSIdgPm5j_XYDspDjHRj4Hno6uTgHCBVY&_nc_zt=14&_nc_ht=scontent-atl3-1.xx&_nc_gid=RKnKaLkzV9aPAg3PWUuGhg&_nc_ss=7f289&oh=00_AQRmMstf2DtNWZlGwKkV0t6rSgiAM7jBavxHqjFi3qHhYA&oe=6AEB0D6D",
+      "source_id": "ville-de-lavaltrie",
+      "source_name": "Ville de Lavaltrie",
+      "platform": "facebook"
+    },
+    {
+      "id": "facebook:100063889127390:1662081432598145",
+      "title": "Le Nasdaq frôle les -3% aujourd’hui mais mes actions pharma semblent vivre dans un autre marché. D’où l’importance de la",
+      "url": "https://www.facebook.com/firmetraders360/posts/pfbid0hBJHTrKZRJeLUWc4SX6kz7T9q4HqLk5hRg5YoNV52zFdQ81Usrk5RKJrgdYH2svl",
+      "published_at": "2026-10-30T20:36:34+00:00",
+      "updated_at": "2026-10-30T20:36:34+00:00",
+      "description": "Le Nasdaq frôle les -3% aujourd’hui mais mes actions pharma semblent vivre dans un autre marché. D’où l’importance de la diversification sectorielle dans un portefeuille.\n\nJe suis actionnaire de Johnson & Johnson, Merck et Bristol-Myers. En",
+      "image_url": "https://scontent-atl3-2.xx.fbcdn.net/v/t39.99422-6/870394323_1008624818923770_4764982688495605997_n.png?stp=dst-jpg_tt6&cstp=mx1488x1056&ctp=s720x720&_nc_cat=101&ccb=1-7&_nc_sid=127cfc&_nc_ohc=UGS8dZjSSJkQ7kNvwF5O4o2&_nc_oc=AdoHZE_VPSM83nH94u6J2W6Q_jqMOFtzsJ8TN4KOEnxRDQBNoNdayhtF7HVXd1I1xs4&_nc_zt=14&_nc_ht=scontent-atl3-2.xx&_nc_gid=ZwCC7HqyjmLyJCqePd4CwA&_nc_ss=7f289&oh=00_AQQAMu62GtJadcRyySV8e-pY3IJhbsqAi9xtYeHqzIzvRA&oe=6AEB08ED",
+      "source_id": "traders-360",
+      "source_name": "Traders 360",
+      "platform": "facebook"
+    },
+    {
+      "id": "youtube:DE_6A_mi4SE",
+      "title": "La fable de mes fonds damn!",
+      "url": "https://www.youtube.com/watch?v=DE_6A_mi4SE",
+      "published_at": "2026-10-30T19:39:00+00:00",
+      "updated_at": "2026-10-30T19:56:51+00:00",
+      "description": "La fable de mes fonds damn!",
+      "image_url": "https://i1.ytimg.com/vi/DE_6A_mi4SE/hqdefault.jpg",
+      "source_id": "investi-qc",
+      "source_name": "Investi QC",
+      "platform": "youtube"
+    },
     {
       "id": "facebook:100064792208382:1632403045596087",
       "title": "Not every shadow fled when Mordor's fires dimmed, and some of the Dark Lord's oldest servants are threatening the Free P",
@@ -105,7 +153,7 @@
       "published_at": "2026-10-30T18:01:06+00:00",
       "updated_at": "2026-10-30T18:01:06+00:00",
       "description": "👑 TOMORROW, Mad King Thorn takes the stage every 3 hours in Lion's Arch and Kamadan. Don't miss it!\n\n👀 Plus, here's more from last Sunday's Halloween meetup. Do you spot yourself?\n\nMore info: https://www.guildwars.com/en/events/halloween\n\n#",
-      "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t15.5256-10/882253362_1781314296455565_6935996203357576136_n.jpg?stp=dst-jpg_tt6&cstp=mx1920x1080&ctp=s960x960&_nc_cat=100&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=L6ZsyfjkE7EQ7kNvwFJ4Kaz&_nc_oc=AdoU9ppJRh5QMXUpHGRIdlhOxLrc731duGlKSKs9DEZ1Uh1lRvNud5EFp67unBARoQc&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&_nc_gid=QzlQATCyjm9CLNA8APIBHQ&_nc_ss=7f289&oh=00_AQSnis16dYHKttcOEEV7_qzwNxeRMaprCBjmeLqdiHOthw&oe=6AEAB97F",
+      "image_url": "https://scontent-atl3-1.xx.fbcdn.net/v/t15.5256-10/882253362_1781314296455565_6935996203357576136_n.jpg?stp=dst-jpg_tt6&cstp=mx1920x1080&ctp=s960x960&_nc_cat=100&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=L6ZsyfjkE7EQ7kNvwEfGINp&_nc_oc=AdrA-5IQSpBp-Etqt6HcSPjUDZ5cpALFANONO2pB75evwIvbySyxkA2XPP5XDKq2gxc&_nc_zt=23&_nc_ht=scontent-atl3-1.xx&_nc_gid=S0GYulz1d9oXrrR3inM5Uw&_nc_ss=7f289&oh=00_AQTKUngH1lczV5Ze_MXcZuH7MByNXogvz-FIU86bL-SRyg&oe=6AEAF1BF",
       "source_id": "guild-wars",
       "source_name": "Guild Wars",
       "platform": "facebook"
