@@ -2,7 +2,7 @@
   "version": 1,
   "title": "Social Feed",
   "description": "Un seul fil pour suivre les sources qui comptent.",
-  "generated_at": "2026-10-30T13:00:28.556936+00:00",
+  "generated_at": "2026-10-30T18:39:28.699478+00:00",
   "sources": [
     {
       "id": "eco-en-batons",
@@ -11,8 +11,8 @@
       "url": "https://www.youtube.com/@Eco_en_batons",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-10-30T13:00:28.556936+00:00",
-      "item_count": 19
+      "last_success_at": "2026-10-30T18:39:28.699478+00:00",
+      "item_count": 20
     },
     {
       "id": "investi-qc",
@@ -21,8 +21,8 @@
       "url": "https://www.youtube.com/@investi-qc",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-10-30T13:00:28.556936+00:00",
-      "item_count": 21
+      "last_success_at": "2026-10-30T18:39:28.699478+00:00",
+      "item_count": 22
     },
     {
       "id": "hugo-lisoir",
@@ -31,7 +31,7 @@
       "url": "https://www.youtube.com/@hugolisoiryoutube",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-10-30T13:00:28.556936+00:00",
+      "last_success_at": "2026-10-30T18:39:28.699478+00:00",
       "item_count": 17
     },
     {
@@ -41,7 +41,7 @@
       "url": "https://www.youtube.com/@alexdemers-finance360",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-10-30T13:00:28.556936+00:00",
+      "last_success_at": "2026-10-30T18:39:28.699478+00:00",
       "item_count": 16
     },
     {
@@ -51,8 +51,8 @@
       "url": "https://www.facebook.com/GuildWars/",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-10-30T13:00:28.556936+00:00",
-      "item_count": 3
+      "last_success_at": "2026-10-30T18:39:28.699478+00:00",
+      "item_count": 4
     },
     {
       "id": "lotro",
@@ -61,8 +61,8 @@
       "url": "https://www.facebook.com/LOTRO/",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-10-30T13:00:28.556936+00:00",
-      "item_count": 7
+      "last_success_at": "2026-10-30T18:39:28.699478+00:00",
+      "item_count": 8
     },
     {
       "id": "ville-de-lavaltrie",
@@ -71,8 +71,8 @@
       "url": "https://www.facebook.com/VilleDeLavaltrie/",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-10-30T13:00:28.556936+00:00",
-      "item_count": 7
+      "last_success_at": "2026-10-30T18:39:28.699478+00:00",
+      "item_count": 8
     },
     {
       "id": "traders-360",
@@ -81,11 +81,83 @@
       "url": "https://www.facebook.com/firmetraders360/",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-10-30T13:00:28.556936+00:00",
-      "item_count": 8
+      "last_success_at": "2026-10-30T18:39:28.699478+00:00",
+      "item_count": 9
     }
   ],
   "items": [
+    {
+      "id": "facebook:100064792208382:1632403045596087",
+      "title": "Not every shadow fled when Mordor's fires dimmed, and some of the Dark Lord's oldest servants are threatening the Free P",
+      "url": "https://www.facebook.com/LOTRO/posts/pfbid02G7qSUsyaNDGG8GZmbyE9xkKjQeLAmc9qwUS4woe52zQkcgo6PRsEMy55EbpsVoptl",
+      "published_at": "2026-10-30T18:30:56+00:00",
+      "updated_at": "2026-10-30T18:30:56+00:00",
+      "description": "Not every shadow fled when Mordor's fires dimmed, and some of the Dark Lord's oldest servants are threatening the Free Peoples of Middle-earth. Learn more about LOTRO's newly-released expansion called The Wolves of Mordor on LOTRO.com! http",
+      "image_url": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.99422-6/876374652_2273615913201755_2130701747012205107_n.png?stp=dst-jpg_tt6&cstp=mx1920x1080&ctp=s960x960&_nc_cat=104&ccb=1-7&_nc_sid=127cfc&_nc_ohc=uDl0jAvonnEQ7kNvwEi5MLK&_nc_oc=AdqgOEvz8LNr8IiEP3X2aZQ3N61a_9kNkxgIZO6HRSTaGSbBU935HqM1nujoXxPESgI&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=2LYbnZUXLO6zhEXuQ5IDBg&_nc_ss=7f289&oh=00_AQTXirZ-Pqu3rmeIUm0klugiD4mDH0y5rPhKrngIh5IN6w&oe=6AEAAA2C",
+      "source_id": "lotro",
+      "source_name": "The Lord of the Rings Online",
+      "platform": "facebook"
+    },
+    {
+      "id": "facebook:100069958479615:1427101596298443",
+      "title": "👑 TOMORROW, Mad King Thorn takes the stage every 3 hours in Lion's Arch and Kamadan. Don't miss it!",
+      "url": "https://www.facebook.com/reel/1104597595501041/",
+      "published_at": "2026-10-30T18:01:06+00:00",
+      "updated_at": "2026-10-30T18:01:06+00:00",
+      "description": "👑 TOMORROW, Mad King Thorn takes the stage every 3 hours in Lion's Arch and Kamadan. Don't miss it!\n\n👀 Plus, here's more from last Sunday's Halloween meetup. Do you spot yourself?\n\nMore info: https://www.guildwars.com/en/events/halloween\n\n#",
+      "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t15.5256-10/882253362_1781314296455565_6935996203357576136_n.jpg?stp=dst-jpg_tt6&cstp=mx1920x1080&ctp=s960x960&_nc_cat=100&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=L6ZsyfjkE7EQ7kNvwFJ4Kaz&_nc_oc=AdoU9ppJRh5QMXUpHGRIdlhOxLrc731duGlKSKs9DEZ1Uh1lRvNud5EFp67unBARoQc&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&_nc_gid=QzlQATCyjm9CLNA8APIBHQ&_nc_ss=7f289&oh=00_AQSnis16dYHKttcOEEV7_qzwNxeRMaprCBjmeLqdiHOthw&oe=6AEAB97F",
+      "source_id": "guild-wars",
+      "source_name": "Guild Wars",
+      "platform": "facebook"
+    },
+    {
+      "id": "facebook:100063889127390:1661926509280304",
+      "title": "Je suis actionnaire d’Amazon avec un prix d’achat moyen de 170,29$US et la position représente plus de 4% de mon portefe",
+      "url": "https://www.facebook.com/firmetraders360/posts/pfbid0dysiG3TqFsXUTVMaezKdoCHxuaeh1cn16ttYVK8MBppYSEHCeZWsyTsjG5snXauUl",
+      "published_at": "2026-10-30T17:13:57+00:00",
+      "updated_at": "2026-10-30T17:13:57+00:00",
+      "description": "Je suis actionnaire d’Amazon avec un prix d’achat moyen de 170,29$US et la position représente plus de 4% de mon portefeuille.\n\nAu dernier trimestre, les revenus ont atteint 201,9 milliards, soit une hausse de 12% sur un an. Le bénéfice par",
+      "image_url": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.99422-6/868946258_1754589930010352_6579698307298097713_n.png?stp=dst-jpg_tt6&cstp=mx1536x1024&ctp=p180x540&_nc_cat=101&ccb=1-7&_nc_sid=127cfc&_nc_ohc=fnDKFzlbWZEQ7kNvwEivkdh&_nc_oc=AdrQ4cXqo0P0UcccwNpkpedgMS91bcduvoEUIap0cM0uGe7oZEen_2dpfCtATYJ86cg&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=S1L5hD-cks80C9netkfGPA&_nc_ss=7f289&oh=00_AQRc-TFcUd3Uq3PsTdzlBwqIp_F9LHZz9TzJqrpZLsdGoA&oe=6AEAB52E",
+      "source_id": "traders-360",
+      "source_name": "Traders 360",
+      "platform": "facebook"
+    },
+    {
+      "id": "facebook:100064655653099:1569730755192098",
+      "title": "🌳 𝐕𝐨𝐭𝐫𝐞 𝐚𝐯𝐢𝐬 𝐜𝐨𝐦𝐩𝐭𝐞 𝐩𝐨𝐮𝐫 𝐮𝐧 𝐦𝐢𝐥𝐢𝐞𝐮 𝐝𝐞 𝐯𝐢𝐞 𝐩𝐥𝐮𝐬 𝐫𝐞́𝐬𝐢𝐥𝐢𝐞𝐧𝐭",
+      "url": "https://www.facebook.com/VilleDeLavaltrie/posts/pfbid05b8jJnQ2MXgSt1GT1U2rHn3sFzRZRUwbXye1yWahGT1swHQZAtJkbW2k4jWhVfaLl",
+      "published_at": "2026-10-30T16:15:33+00:00",
+      "updated_at": "2026-10-30T16:15:33+00:00",
+      "description": "🌳 𝐕𝐨𝐭𝐫𝐞 𝐚𝐯𝐢𝐬 𝐜𝐨𝐦𝐩𝐭𝐞 𝐩𝐨𝐮𝐫 𝐮𝐧 𝐦𝐢𝐥𝐢𝐞𝐮 𝐝𝐞 𝐯𝐢𝐞 𝐩𝐥𝐮𝐬 𝐫𝐞́𝐬𝐢𝐥𝐢𝐞𝐧𝐭\n\nComment pouvons-nous mieux adapter notre territoire aux changements climatiques? 🌧️\n\nAccompagnée par la firme GBI dans le cadre de la subvention Oasis, la Ville réalise une étude vi",
+      "image_url": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.99422-6/877146432_2270590060186630_3952749357941897657_n.png?stp=dst-jpg_tt6&cstp=mx1080x1080&ctp=p526x296&_nc_cat=105&ccb=1-7&_nc_sid=127cfc&_nc_ohc=6hsz0tc9EUMQ7kNvwHMUEUb&_nc_oc=AdoQq7r8p4wt6VxCEokQSW83ANNBZ9pZLhxUSKzbyL4NM0I27cztibi6LQWAT8TYuAA&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=0vdftVa2cR-ASO4JrlGVPg&_nc_ss=7f289&oh=00_AQT0jQQWo7mGbPrOR4Lpu-mOfqkgvKU79v6kLbN7rkOXkg&oe=6AEAAA70",
+      "source_id": "ville-de-lavaltrie",
+      "source_name": "Ville de Lavaltrie",
+      "platform": "facebook"
+    },
+    {
+      "id": "youtube:a5IK_0_U0MU",
+      "title": "La correction des techs est favorable aux valeurs refuge comme Dollorama",
+      "url": "https://www.youtube.com/watch?v=a5IK_0_U0MU",
+      "published_at": "2026-10-30T15:37:26+00:00",
+      "updated_at": "2026-10-30T16:27:25+00:00",
+      "description": "La correction des techs est favorable aux valeurs refuge comme Dollorama",
+      "image_url": "https://i2.ytimg.com/vi/a5IK_0_U0MU/hqdefault.jpg",
+      "source_id": "investi-qc",
+      "source_name": "Investi QC",
+      "platform": "youtube"
+    },
+    {
+      "id": "youtube:Nb1uDU_LlW4",
+      "title": "Augmenter le SMIC, bonne ou mauvaise idée ?! Vous saurez tout après cette vidéo",
+      "url": "https://www.youtube.com/watch?v=Nb1uDU_LlW4",
+      "published_at": "2026-10-30T15:00:04+00:00",
+      "updated_at": "2026-10-30T15:50:36+00:00",
+      "description": "Le SMIC horaire brut est passé à 12,31 € au 1er juin 2026, soit 1 867,02 € brut par mois. Et si on le montait à 1 600 € net, comme le promettait le Nouveau Front populaire ? Ce que dit la théorie, ce que disent les études, et trois questions à se poser avant de croire un camp ou l'autre.\n\nDans cette vidéo :\n0:00 Le SMIC, un prix avec un plancher\n0:50 Partie 1 — Un prix avec un plancher\n3:43 Partie 2 — La boulangerie de votre rue\n5:27 Partie 3 — Ce qu'ont vu les autres pays\n8:50 Partie 4 — Trois questions avant d'y croire\n10:30 Ce qu'il en reste\n\nSources (lues entre le 25 et le 27/10/2026) :\n— SMIC au 1er juin 2026 : arrêté du 22 mai 2026, JO du 24/05/2026 (JORFTEXT000054126589) — centre-inffo.fr\n— Part des salariés au SMIC (12,4 % au 01/11/2024) : Groupe d'experts sur le SMIC, rapport du 25/11/2025 — strategie-plan.gouv.fr\n— Salaires minimaux en Europe, janvier 2026 : Eurostat, 30/01/2026\n— Salaire net médian (2 183 €/mois, privé, 2023) : Insee Première n° 2020\n— Chômage au T2 2026 : Insee, Informations rapides n° 192\n— Mesure du Nouveau Front populaire (1 600 € net) : conférence de presse du 14/06/2024 — institutmontaigne.org\n— Aides publiques aux entreprises et allègements de cotisations : Sénat, commission d'enquête ; Groupe d'experts SMIC 2025\n— Card et Krueger, New Jersey / Pennsylvanie (1994, NBER w4509)\n— Cengiz, Dube, Lindner, Zipperer, Quarterly Journal of Economics, 2019\n— Dustmann, Lindner, Schönberg, Umkehrer, vom Berge, Quarterly Journal of Economics, 2022 (Allemagne 2015)\n— Azar, Huet-Vaughn, Marinescu, Taska, von Wachter (NBER w26101)\n— OFCE, cité par la Fondation Jean-Jaurès, 16/09/2024\n— Espagne 2019 (+22,3 %), Hongrie 2001, Slovénie 2010, Corée du Sud 2018 : études citées dans le fichier de sources du projet, disponibles sur demande\n\nImages : Palais Bourbon, photo DXR, Wikimedia Commons, domaine public. Illustrations d'ambiance générées par IA, dessins et animations réalisés en code (Remotion).\n\nMusique : compositions originales (ElevenLabs).\n\nCette vidéo explique un débat économique et ne prend pas parti pour un camp politique. Ce n'est pas un conseil de placement.",
+      "image_url": "https://i3.ytimg.com/vi/Nb1uDU_LlW4/hqdefault.jpg",
+      "source_id": "eco-en-batons",
+      "source_name": "Éco en bâtons",
+      "platform": "youtube"
+    },
     {
       "id": "youtube:_vWtkM74c28",
       "title": "La diversification expliquée en 1 minute (pourquoi pas un seul panier ?)",
@@ -148,11 +220,11 @@
     },
     {
       "id": "youtube:7hvHYM3XFtk",
-      "title": "Les pires histoires d’horreur de la Bourse | Investi - Spécial Halloween (Ép. 71)",
+      "title": "Histoires d'horreurs en bourse | Investi - Spécial Halloween (Ép. 71)",
       "url": "https://www.youtube.com/watch?v=7hvHYM3XFtk",
       "published_at": "2026-10-29T19:00:04+00:00",
-      "updated_at": "2026-10-29T19:00:06+00:00",
-      "description": "🎃 SPÉCIAL HALLOWEEN : Vincent et Marc vous présentent les pires histoires d’horreur en investissement, choisies par notre communauté! \n\nAu menu, 11 entreprises et scandales financiers qui ont marqué les investisseurs :\n\n- Prime Drink Group (PRME)\n- Lion Électrique (LEV)\n- Nemaska Lithium (NMX)\n- Norbourg\n- Nortel\n- AMC Entertainment (AMC)\n- Bre-X\n- The Green Organic Dutchman (TGOD)\n- Prometic Life Sciences (PLI)\n- Xebec Adsorption (XBC)\n- Transat (TRZ)\n\nDes faillites spectaculaires, des fraudes financières, des promesses de croissance jamais réalisées et des investisseurs qui ont perdu des fortunes.\n\nMais derrière chaque histoire d’horreur, une question revient : aurait-on pu voir les signes avant-coureurs?\n\nOn décortique les décisions, les événements et les erreurs qui ont transformé des investissements prometteurs en véritables cauchemars financiers.\n\n👻 Et vous, quelle est votre pire histoire d’horreur en bourse? Racontez-la dans les commentaires!\n\nFaites confiance à une plateforme de courtage qui vous montre la vraie histoire derrière celle qu'on vous raconte. Aucun frais de transaction sur les actions et FNB : https://bncd.ca/podcast-investi\n\nBanque Nationale Courtage Direct offre l’exécution d’ordres sans conseils. Vous êtes responsables de vos décisions de placement.\n\n🎭 Vincent est ici un personnage interprété pour l’Halloween. Le véritable Vincent Lacroix ne participe pas à cet épisode.\n\n⚠️ Les informations partagées dans cette vidéo sont fournies à des fins éducatives et de divertissement seulement. Elles ne constituent pas des conseils financiers ni des recommandations d’achat ou de vente.",
+      "updated_at": "2026-10-30T13:15:13+00:00",
+      "description": "🎃 SPÉCIAL HALLOWEEN : Vincent et Marc vous présentent les pires histoires d’horreur en investissement, choisies par notre communauté! \n\nAu menu, 11 entreprises et scandales financiers qui ont marqué les investisseurs :\n\n- Prime Drink Group (PRME)\n- Lion Électrique (LEV)\n- Nemaska Lithium (NMX)\n- Norbourg\n- Nortel\n- AMC Entertainment (AMC)\n- Bre-X\n- The Green Organic Dutchman (TGOD)\n- Prometic Life Sciences (PLI)\n- Xebec Adsorption (XBC)\n- Transat (TRZ)\n\nDes faillites spectaculaires, des fraudes financières, des promesses de croissance jamais réalisées et des investisseurs qui ont perdu des fortunes.\n\nMais derrière chaque histoire d’horreur, une question revient : aurait-on pu voir les signes avant-coureurs?\n\nOn décortique les décisions, les événements et les erreurs qui ont transformé des investissements prometteurs en véritables cauchemars financiers.\n\n👻 Et vous, quelle est votre pire histoire d’horreur en bourse? Racontez-la dans les commentaires!\n\nFaites confiance à une plateforme de courtage qui vous montre la vraie histoire derrière celle qu'on vous raconte. Aucun frais de transaction sur les actions et FNB : https://bncd.ca/podcast-investi\n\nBanque Nationale Courtage Direct offre l’exécution d’ordres sans conseils. Vous êtes responsables de vos décisions de placement.\n\n🎭 Vincent est ici un personnage interprété pour l’Halloween. Le véritable Vincent Lacroix ne participe pas à cet épisode.\n\n⚠️ Les informations partagées dans cette vidéo sont fournies à des fins éducatives et de divertissement seulement. Elles ne constituent pas des conseils financiers ni des recommandations d’achat ou de vente.\n\nCHAPITRES:\n00:00 Prime Drink Group : Les pièges de l'endettement excessif\n11:58 Lion Électrique : Quand les promesses dépassent la réalité\n22:20 Nemaska Lithium : Les pièges de l'investissement thématique\n25:54 Nortel : Quand la bulle éclate et les dirigeants vendent\n30:14 Bre-X : Le plus grand scandale aurifère jamais vu\n35:17 Norbourg : 130 millions disparus et les leçons pour les investisseurs\n41:12 AMC : Comment la dilution a sauvé l'entreprise du désastre\n48:25 TGOD : Les défis du marché du cannabis et les stop-loss\n56:10 Éviter les erreurs : Concentration, levier et évitement d'information\n1:04:45 Prometic Life Sciences : Les retards de la FDA et la dilution massive\n1:10:07 Xebec Adsorption : L'engouement pour l'énergie verte et la dette\n1:11:56 Transat : L'impact de la pandémie et les rumeurs d'acquisition\n1:14:11 Synthèse : Les 5 pièges des histoires d'horreur en bourse",
       "image_url": "https://i4.ytimg.com/vi/7hvHYM3XFtk/hqdefault.jpg",
       "source_id": "investi-qc",
       "source_name": "Investi QC",
