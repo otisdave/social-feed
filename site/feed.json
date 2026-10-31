@@ -2,15 +2,15 @@
   "version": 1,
   "title": "Social Feed",
   "description": "Un seul fil pour suivre les sources qui comptent.",
-  "generated_at": "2026-10-30T22:59:56.586894+00:00",
+  "generated_at": "2026-10-31T02:26:45.610515+00:00",
   "sources": [
     {
       "id": "eco-en-batons",
       "name": "Éco en bâtons",
       "platform": "youtube",
       "url": "https://www.youtube.com/@Eco_en_batons",
-      "status": "ok",
-      "error": null,
+      "status": "error",
+      "error": "HTTPError: HTTP Error 404: Not Found",
       "last_success_at": "2026-10-30T22:59:56.586894+00:00",
       "item_count": 20
     },
@@ -19,8 +19,8 @@
       "name": "Investi QC",
       "platform": "youtube",
       "url": "https://www.youtube.com/@investi-qc",
-      "status": "ok",
-      "error": null,
+      "status": "error",
+      "error": "HTTPError: HTTP Error 404: Not Found",
       "last_success_at": "2026-10-30T22:59:56.586894+00:00",
       "item_count": 23
     },
@@ -29,8 +29,8 @@
       "name": "Hugo Lisoir",
       "platform": "youtube",
       "url": "https://www.youtube.com/@hugolisoiryoutube",
-      "status": "ok",
-      "error": null,
+      "status": "error",
+      "error": "HTTPError: HTTP Error 500: Internal Server Error",
       "last_success_at": "2026-10-30T22:59:56.586894+00:00",
       "item_count": 17
     },
@@ -39,8 +39,8 @@
       "name": "Alex Demers — Finance 360",
       "platform": "youtube",
       "url": "https://www.youtube.com/@alexdemers-finance360",
-      "status": "ok",
-      "error": null,
+      "status": "error",
+      "error": "HTTPError: HTTP Error 404: Not Found",
       "last_success_at": "2026-10-30T22:59:56.586894+00:00",
       "item_count": 16
     },
@@ -51,7 +51,7 @@
       "url": "https://www.facebook.com/GuildWars/",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-10-30T22:59:56.586894+00:00",
+      "last_success_at": "2026-10-31T02:26:45.610515+00:00",
       "item_count": 4
     },
     {
@@ -61,8 +61,8 @@
       "url": "https://www.facebook.com/LOTRO/",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-10-30T22:59:56.586894+00:00",
-      "item_count": 9
+      "last_success_at": "2026-10-31T02:26:45.610515+00:00",
+      "item_count": 10
     },
     {
       "id": "ville-de-lavaltrie",
@@ -71,7 +71,7 @@
       "url": "https://www.facebook.com/VilleDeLavaltrie/",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-10-30T22:59:56.586894+00:00",
+      "last_success_at": "2026-10-31T02:26:45.610515+00:00",
       "item_count": 9
     },
     {
@@ -81,11 +81,23 @@
       "url": "https://www.facebook.com/firmetraders360/",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-10-30T22:59:56.586894+00:00",
+      "last_success_at": "2026-10-31T02:26:45.610515+00:00",
       "item_count": 10
     }
   ],
   "items": [
+    {
+      "id": "facebook:100064792208382:1632712195565172",
+      "title": "LOTRO Bonus Days bring you a +25% XP Boost, now through November 1st! #LOTRO",
+      "url": "https://www.facebook.com/LOTRO/posts/pfbid0ykuhHu5qmBt5uMxS7u42dQcPHrZGixzhFhWtYRkoQD4mHqBudF3BYBZ6aqASZMgml",
+      "published_at": "2026-10-31T02:10:15+00:00",
+      "updated_at": "2026-10-31T02:10:15+00:00",
+      "description": "LOTRO Bonus Days bring you a +25% XP Boost, now through November 1st! #LOTRO",
+      "image_url": "https://scontent-dfw5-2.xx.fbcdn.net/v/t39.99422-6/871625128_1138989118677456_7835791901728497558_n.png?stp=dst-jpg_tt6&cstp=mx1920x1080&ctp=s960x960&_nc_cat=107&ccb=1-7&_nc_sid=127cfc&_nc_ohc=iFxCjebEHnUQ7kNvwFOS_PJ&_nc_oc=AdrzVZpRhz5k8E397TbUOhZ8Wh8U9w9LFcj0bNR-UljKo2Ugk7o1I_SBu3A7xrLDpKU&_nc_zt=14&_nc_ht=scontent-dfw5-2.xx&_nc_gid=b58EExkFG64aYAJnPBWxqw&_nc_ss=7f289&oh=00_AQTvVinvzRKpq_hc9iGb8BVqKBcDMvcZuMGHIFV6FmTXbA&oe=6AEB3EB4",
+      "source_id": "lotro",
+      "source_name": "The Lord of the Rings Online",
+      "platform": "facebook"
+    },
     {
       "id": "facebook:100064792208382:1632573725579019",
       "title": "This is your final weekend to run the Harvestmath Festival! This year's spooky event runs until 3am Eastern (-4 GMT) on ",
@@ -101,11 +113,11 @@
     {
       "id": "facebook:100064655653099:1569781128520394",
       "title": "❄️ 𝐋’𝐢𝐧𝐬𝐭𝐚𝐥𝐥𝐚𝐭𝐢𝐨𝐧 𝐝𝐞𝐬 𝐚𝐛𝐫𝐢𝐬 𝐝’𝐡𝐢𝐯𝐞𝐫 : 𝐪𝐮𝐞𝐥𝐪𝐮𝐞𝐬 𝐫𝐞̀𝐠𝐥𝐞𝐬 𝐚̀ 𝐫𝐞𝐬𝐩𝐞𝐜𝐭𝐞𝐫!",
-      "url": "https://www.facebook.com/VilleDeLavaltrie/posts/pfbid021Ju3HfM2u2SGQwXcSqEk58eZJ28dNCjj3iyraoCYmv5nL6hTsYC8X953ij456YJzl",
+      "url": "https://www.facebook.com/VilleDeLavaltrie/posts/pfbid034gPDughevrBDs1Au1dsXnqec6ceHE24k7tn6eZvZzNi7QLjL8YaC2evDxZVAhWhal",
       "published_at": "2026-10-30T21:00:00+00:00",
       "updated_at": "2026-10-30T21:00:00+00:00",
       "description": "❄️ 𝐋’𝐢𝐧𝐬𝐭𝐚𝐥𝐥𝐚𝐭𝐢𝐨𝐧 𝐝𝐞𝐬 𝐚𝐛𝐫𝐢𝐬 𝐝’𝐡𝐢𝐯𝐞𝐫 : 𝐪𝐮𝐞𝐥𝐪𝐮𝐞𝐬 𝐫𝐞̀𝐠𝐥𝐞𝐬 𝐚̀ 𝐫𝐞𝐬𝐩𝐞𝐜𝐭𝐞𝐫!\n\nAvec l’arrivée de la saison froide, plusieurs ont procédé à l'installation de leur abris temporaire, mais connaissez-vous bien la réglementation la concernant? 🚗\n\nVoici q",
-      "image_url": "https://scontent-atl3-1.xx.fbcdn.net/v/t39.99422-6/855109209_1624855622432675_4755121690779818882_n.png?stp=dst-jpg_tt6&cstp=mx1080x1080&ctp=p526x296&_nc_cat=107&ccb=1-7&_nc_sid=127cfc&_nc_ohc=Y68_mmSS8t0Q7kNvwEsXyjV&_nc_oc=AdpEBpjI3vRcqZOHqk6DdZwGW76oJfeNgspSIdgPm5j_XYDspDjHRj4Hno6uTgHCBVY&_nc_zt=14&_nc_ht=scontent-atl3-1.xx&_nc_gid=RKnKaLkzV9aPAg3PWUuGhg&_nc_ss=7f289&oh=00_AQRmMstf2DtNWZlGwKkV0t6rSgiAM7jBavxHqjFi3qHhYA&oe=6AEB0D6D",
+      "image_url": "https://scontent-dfw5-2.xx.fbcdn.net/v/t39.99422-6/855109209_1624855622432675_4755121690779818882_n.png?stp=dst-jpg_tt6&cstp=mx1080x1080&ctp=p526x296&_nc_cat=107&ccb=1-7&_nc_sid=127cfc&_nc_ohc=Y68_mmSS8t0Q7kNvwGRuHQg&_nc_oc=AdpdGwhZEUXFR-nRc6Lim0EfiUiM0u34hwhL-i4t6YxoX8vDt_bYfzlKn74nLfro93o&_nc_zt=14&_nc_ht=scontent-dfw5-2.xx&_nc_gid=UWBDTZQepASoJKdMYspK1Q&_nc_ss=7f289&oh=00_AQTKFKCfz8gYJRCdCENfgllDu-TxMLr7lUQvrW3bMJYJ6w&oe=6AEB0D6D",
       "source_id": "ville-de-lavaltrie",
       "source_name": "Ville de Lavaltrie",
       "platform": "facebook"
@@ -117,7 +129,7 @@
       "published_at": "2026-10-30T20:36:34+00:00",
       "updated_at": "2026-10-30T20:36:34+00:00",
       "description": "Le Nasdaq frôle les -3% aujourd’hui mais mes actions pharma semblent vivre dans un autre marché. D’où l’importance de la diversification sectorielle dans un portefeuille.\n\nJe suis actionnaire de Johnson & Johnson, Merck et Bristol-Myers. En",
-      "image_url": "https://scontent-atl3-2.xx.fbcdn.net/v/t39.99422-6/870394323_1008624818923770_4764982688495605997_n.png?stp=dst-jpg_tt6&cstp=mx1488x1056&ctp=s720x720&_nc_cat=101&ccb=1-7&_nc_sid=127cfc&_nc_ohc=UGS8dZjSSJkQ7kNvwF5O4o2&_nc_oc=AdoHZE_VPSM83nH94u6J2W6Q_jqMOFtzsJ8TN4KOEnxRDQBNoNdayhtF7HVXd1I1xs4&_nc_zt=14&_nc_ht=scontent-atl3-2.xx&_nc_gid=ZwCC7HqyjmLyJCqePd4CwA&_nc_ss=7f289&oh=00_AQQAMu62GtJadcRyySV8e-pY3IJhbsqAi9xtYeHqzIzvRA&oe=6AEB08ED",
+      "image_url": "https://scontent-dfw6-1.xx.fbcdn.net/v/t39.99422-6/870394323_1008624818923770_4764982688495605997_n.png?stp=dst-jpg_tt6&cstp=mx1488x1056&ctp=s720x720&_nc_cat=101&ccb=1-7&_nc_sid=127cfc&_nc_ohc=UGS8dZjSSJkQ7kNvwF6ldnJ&_nc_oc=Adp7deE8v0xs-BdwARlJm6ZChCYIrf4SUc39RuGuwn8MpAhpduK9MythYSTD8BRDQF4&_nc_zt=14&_nc_ht=scontent-dfw6-1.xx&_nc_gid=rQa5NzZVePDwkuLRPFV-QQ&_nc_ss=7f289&oh=00_AQRwFLAR78PCq6ImE2iDW3GNabqer2enKHsnP31nuN6kSw&oe=6AEB08ED",
       "source_id": "traders-360",
       "source_name": "Traders 360",
       "platform": "facebook"
@@ -153,7 +165,7 @@
       "published_at": "2026-10-30T18:01:06+00:00",
       "updated_at": "2026-10-30T18:01:06+00:00",
       "description": "👑 TOMORROW, Mad King Thorn takes the stage every 3 hours in Lion's Arch and Kamadan. Don't miss it!\n\n👀 Plus, here's more from last Sunday's Halloween meetup. Do you spot yourself?\n\nMore info: https://www.guildwars.com/en/events/halloween\n\n#",
-      "image_url": "https://scontent-atl3-1.xx.fbcdn.net/v/t15.5256-10/882253362_1781314296455565_6935996203357576136_n.jpg?stp=dst-jpg_tt6&cstp=mx1920x1080&ctp=s960x960&_nc_cat=100&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=L6ZsyfjkE7EQ7kNvwEfGINp&_nc_oc=AdrA-5IQSpBp-Etqt6HcSPjUDZ5cpALFANONO2pB75evwIvbySyxkA2XPP5XDKq2gxc&_nc_zt=23&_nc_ht=scontent-atl3-1.xx&_nc_gid=S0GYulz1d9oXrrR3inM5Uw&_nc_ss=7f289&oh=00_AQTKUngH1lczV5Ze_MXcZuH7MByNXogvz-FIU86bL-SRyg&oe=6AEAF1BF",
+      "image_url": "https://scontent-dfw5-2.xx.fbcdn.net/v/t15.5256-10/882253362_1781314296455565_6935996203357576136_n.jpg?stp=dst-jpg_tt6&cstp=mx1920x1080&ctp=s960x960&_nc_cat=100&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=L6ZsyfjkE7EQ7kNvwH--kxz&_nc_oc=AdqgyRtIuApaqbGYZRqLl0M9fXsDTqVmjiMJ4j7IiZVwDHIdEeIzcGkNgOsnMtbE5lE&_nc_zt=23&_nc_ht=scontent-dfw5-2.xx&_nc_gid=01t7Tx-doxOResU34ygiHw&_nc_ss=7f289&oh=00_AQSnq1lE5bgaX_yfcyczIDoI-nQqepJBoOV2x6ZUL6VeFg&oe=6AEB29FF",
       "source_id": "guild-wars",
       "source_name": "Guild Wars",
       "platform": "facebook"
