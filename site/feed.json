@@ -2,16 +2,16 @@
   "version": 1,
   "title": "Social Feed",
   "description": "Un seul fil pour suivre les sources qui comptent.",
-  "generated_at": "2026-10-31T02:26:45.610515+00:00",
+  "generated_at": "2026-10-31T09:42:54.513257+00:00",
   "sources": [
     {
       "id": "eco-en-batons",
       "name": "Éco en bâtons",
       "platform": "youtube",
       "url": "https://www.youtube.com/@Eco_en_batons",
-      "status": "error",
-      "error": "HTTPError: HTTP Error 404: Not Found",
-      "last_success_at": "2026-10-30T22:59:56.586894+00:00",
+      "status": "ok",
+      "error": null,
+      "last_success_at": "2026-10-31T09:42:54.513257+00:00",
       "item_count": 20
     },
     {
@@ -19,19 +19,19 @@
       "name": "Investi QC",
       "platform": "youtube",
       "url": "https://www.youtube.com/@investi-qc",
-      "status": "error",
-      "error": "HTTPError: HTTP Error 404: Not Found",
-      "last_success_at": "2026-10-30T22:59:56.586894+00:00",
-      "item_count": 23
+      "status": "ok",
+      "error": null,
+      "last_success_at": "2026-10-31T09:42:54.513257+00:00",
+      "item_count": 24
     },
     {
       "id": "hugo-lisoir",
       "name": "Hugo Lisoir",
       "platform": "youtube",
       "url": "https://www.youtube.com/@hugolisoiryoutube",
-      "status": "error",
-      "error": "HTTPError: HTTP Error 500: Internal Server Error",
-      "last_success_at": "2026-10-30T22:59:56.586894+00:00",
+      "status": "ok",
+      "error": null,
+      "last_success_at": "2026-10-31T09:42:54.513257+00:00",
       "item_count": 17
     },
     {
@@ -39,9 +39,9 @@
       "name": "Alex Demers — Finance 360",
       "platform": "youtube",
       "url": "https://www.youtube.com/@alexdemers-finance360",
-      "status": "error",
-      "error": "HTTPError: HTTP Error 404: Not Found",
-      "last_success_at": "2026-10-30T22:59:56.586894+00:00",
+      "status": "ok",
+      "error": null,
+      "last_success_at": "2026-10-31T09:42:54.513257+00:00",
       "item_count": 16
     },
     {
@@ -51,7 +51,7 @@
       "url": "https://www.facebook.com/GuildWars/",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-10-31T02:26:45.610515+00:00",
+      "last_success_at": "2026-10-31T09:42:54.513257+00:00",
       "item_count": 4
     },
     {
@@ -61,7 +61,7 @@
       "url": "https://www.facebook.com/LOTRO/",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-10-31T02:26:45.610515+00:00",
+      "last_success_at": "2026-10-31T09:42:54.513257+00:00",
       "item_count": 10
     },
     {
@@ -71,7 +71,7 @@
       "url": "https://www.facebook.com/VilleDeLavaltrie/",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-10-31T02:26:45.610515+00:00",
+      "last_success_at": "2026-10-31T09:42:54.513257+00:00",
       "item_count": 9
     },
     {
@@ -81,7 +81,7 @@
       "url": "https://www.facebook.com/firmetraders360/",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-10-31T02:26:45.610515+00:00",
+      "last_success_at": "2026-10-31T09:42:54.513257+00:00",
       "item_count": 10
     }
   ],
@@ -93,10 +93,22 @@
       "published_at": "2026-10-31T02:10:15+00:00",
       "updated_at": "2026-10-31T02:10:15+00:00",
       "description": "LOTRO Bonus Days bring you a +25% XP Boost, now through November 1st! #LOTRO",
-      "image_url": "https://scontent-dfw5-2.xx.fbcdn.net/v/t39.99422-6/871625128_1138989118677456_7835791901728497558_n.png?stp=dst-jpg_tt6&cstp=mx1920x1080&ctp=s960x960&_nc_cat=107&ccb=1-7&_nc_sid=127cfc&_nc_ohc=iFxCjebEHnUQ7kNvwFOS_PJ&_nc_oc=AdrzVZpRhz5k8E397TbUOhZ8Wh8U9w9LFcj0bNR-UljKo2Ugk7o1I_SBu3A7xrLDpKU&_nc_zt=14&_nc_ht=scontent-dfw5-2.xx&_nc_gid=b58EExkFG64aYAJnPBWxqw&_nc_ss=7f289&oh=00_AQTvVinvzRKpq_hc9iGb8BVqKBcDMvcZuMGHIFV6FmTXbA&oe=6AEB3EB4",
+      "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.99422-6/871625128_1138989118677456_7835791901728497558_n.png?stp=dst-jpg_tt6&cstp=mx1920x1080&ctp=s960x960&_nc_cat=107&ccb=1-7&_nc_sid=127cfc&_nc_ohc=iFxCjebEHnUQ7kNvwFx_eE7&_nc_oc=AdrqC96SUbgk97cIBli3gLQD6LiQwNqOHc1357v-XSI4eY-KrL4J9oAgvcqRI8FAIkg&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=fGSRuvnOWaJ4SfNuzvdFBQ&_nc_ss=7f289&oh=00_AQTgjNyDSSkkOBBlRM4RiUcwkobyzhUXfAfhqCSyuq5OXw&oe=6AEB76F4",
       "source_id": "lotro",
       "source_name": "The Lord of the Rings Online",
       "platform": "facebook"
+    },
+    {
+      "id": "youtube:__fK9WfyIcs",
+      "title": "Le marché a le don de nous donner espoir avant le début du weekend",
+      "url": "https://www.youtube.com/watch?v=__fK9WfyIcs",
+      "published_at": "2026-10-30T23:39:11+00:00",
+      "updated_at": "2026-10-31T09:42:26+00:00",
+      "description": "Le marché a le don de nous donner espoir avant le début du weekend",
+      "image_url": "https://i4.ytimg.com/vi/__fK9WfyIcs/hqdefault.jpg",
+      "source_id": "investi-qc",
+      "source_name": "Investi QC",
+      "platform": "youtube"
     },
     {
       "id": "facebook:100064792208382:1632573725579019",
@@ -117,7 +129,7 @@
       "published_at": "2026-10-30T21:00:00+00:00",
       "updated_at": "2026-10-30T21:00:00+00:00",
       "description": "❄️ 𝐋’𝐢𝐧𝐬𝐭𝐚𝐥𝐥𝐚𝐭𝐢𝐨𝐧 𝐝𝐞𝐬 𝐚𝐛𝐫𝐢𝐬 𝐝’𝐡𝐢𝐯𝐞𝐫 : 𝐪𝐮𝐞𝐥𝐪𝐮𝐞𝐬 𝐫𝐞̀𝐠𝐥𝐞𝐬 𝐚̀ 𝐫𝐞𝐬𝐩𝐞𝐜𝐭𝐞𝐫!\n\nAvec l’arrivée de la saison froide, plusieurs ont procédé à l'installation de leur abris temporaire, mais connaissez-vous bien la réglementation la concernant? 🚗\n\nVoici q",
-      "image_url": "https://scontent-dfw5-2.xx.fbcdn.net/v/t39.99422-6/855109209_1624855622432675_4755121690779818882_n.png?stp=dst-jpg_tt6&cstp=mx1080x1080&ctp=p526x296&_nc_cat=107&ccb=1-7&_nc_sid=127cfc&_nc_ohc=Y68_mmSS8t0Q7kNvwGRuHQg&_nc_oc=AdpdGwhZEUXFR-nRc6Lim0EfiUiM0u34hwhL-i4t6YxoX8vDt_bYfzlKn74nLfro93o&_nc_zt=14&_nc_ht=scontent-dfw5-2.xx&_nc_gid=UWBDTZQepASoJKdMYspK1Q&_nc_ss=7f289&oh=00_AQTKFKCfz8gYJRCdCENfgllDu-TxMLr7lUQvrW3bMJYJ6w&oe=6AEB0D6D",
+      "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.99422-6/855109209_1624855622432675_4755121690779818882_n.png?stp=dst-jpg_tt6&cstp=mx1080x1080&ctp=p526x296&_nc_cat=107&ccb=1-7&_nc_sid=127cfc&_nc_ohc=Y68_mmSS8t0Q7kNvwFPlyrs&_nc_oc=AdociIeUUCdA0n5fuQXVfR8b6k7lQR9q7WA-cs57P5VUdlcFz5uZnkAc0Ab28flOA3E&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=tiw09Xi0CpavUIK4_TseDw&_nc_ss=7f289&oh=00_AQRVJHIjBDhgeN0GwFSTnjlbd176xfLGlybMi2014Iy2XQ&oe=6AEB7DED",
       "source_id": "ville-de-lavaltrie",
       "source_name": "Ville de Lavaltrie",
       "platform": "facebook"
@@ -139,7 +151,7 @@
       "title": "La fable de mes fonds damn!",
       "url": "https://www.youtube.com/watch?v=DE_6A_mi4SE",
       "published_at": "2026-10-30T19:39:00+00:00",
-      "updated_at": "2026-10-30T19:56:51+00:00",
+      "updated_at": "2026-10-31T09:22:44+00:00",
       "description": "La fable de mes fonds damn!",
       "image_url": "https://i1.ytimg.com/vi/DE_6A_mi4SE/hqdefault.jpg",
       "source_id": "investi-qc",
@@ -165,7 +177,7 @@
       "published_at": "2026-10-30T18:01:06+00:00",
       "updated_at": "2026-10-30T18:01:06+00:00",
       "description": "👑 TOMORROW, Mad King Thorn takes the stage every 3 hours in Lion's Arch and Kamadan. Don't miss it!\n\n👀 Plus, here's more from last Sunday's Halloween meetup. Do you spot yourself?\n\nMore info: https://www.guildwars.com/en/events/halloween\n\n#",
-      "image_url": "https://scontent-dfw5-2.xx.fbcdn.net/v/t15.5256-10/882253362_1781314296455565_6935996203357576136_n.jpg?stp=dst-jpg_tt6&cstp=mx1920x1080&ctp=s960x960&_nc_cat=100&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=L6ZsyfjkE7EQ7kNvwH--kxz&_nc_oc=AdqgyRtIuApaqbGYZRqLl0M9fXsDTqVmjiMJ4j7IiZVwDHIdEeIzcGkNgOsnMtbE5lE&_nc_zt=23&_nc_ht=scontent-dfw5-2.xx&_nc_gid=01t7Tx-doxOResU34ygiHw&_nc_ss=7f289&oh=00_AQSnq1lE5bgaX_yfcyczIDoI-nQqepJBoOV2x6ZUL6VeFg&oe=6AEB29FF",
+      "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t15.5256-10/882253362_1781314296455565_6935996203357576136_n.jpg?stp=dst-jpg_tt6&cstp=mx1920x1080&ctp=s960x960&_nc_cat=100&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=L6ZsyfjkE7EQ7kNvwHFSweh&_nc_oc=AdpE7_u9x6-28wngH6FsI1D9bDJ0-AM4fa2j_LEF2BTdQBPY2yXmzKYCM6i8NZE7_PA&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&_nc_gid=sJaEaX2GHh0vMj7Kyx9eqQ&_nc_ss=7f289&oh=00_AQQ57Ey7RP_9lU_AzfVuhD4wqpmPWWzjWeo_uBJSzJe_9Q&oe=6AEB9A7F",
       "source_id": "guild-wars",
       "source_name": "Guild Wars",
       "platform": "facebook"
@@ -199,7 +211,7 @@
       "title": "La correction des techs est favorable aux valeurs refuge comme Dollorama",
       "url": "https://www.youtube.com/watch?v=a5IK_0_U0MU",
       "published_at": "2026-10-30T15:37:26+00:00",
-      "updated_at": "2026-10-30T16:27:25+00:00",
+      "updated_at": "2026-10-31T09:20:42+00:00",
       "description": "La correction des techs est favorable aux valeurs refuge comme Dollorama",
       "image_url": "https://i2.ytimg.com/vi/a5IK_0_U0MU/hqdefault.jpg",
       "source_id": "investi-qc",
@@ -237,7 +249,7 @@
       "published_at": "2026-10-29T23:08:17+00:00",
       "updated_at": "2026-10-29T23:08:17+00:00",
       "description": "Derrière le boom de l’IA, beaucoup d’entreprises comptent sur les dépenses des 4 mêmes clients.\n\nSelon moi, le plus gros risque du trade sur l’IA, c’est que la croissance anticipée des différents fournisseurs dépend essentiellement des inve",
-      "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t51.82787-10/877719665_18134458594669293_3398550933648319796_n.jpg?stp=dst-jpg_tt6&cstp=mx720x1280&ctp=s960x960&_nc_cat=107&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=cuiJC3FEw6IQ7kNvwESrl3T&_nc_oc=AdqzKLs7xCoWCV75SUa85Y9dw0niUtd2k5i2ageuupp3X4dIi_LKMrxXUysbvbOUc0Y&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&_nc_gid=ww9C8qeNPPmX-6hEkvCyVg&_nc_ss=7f289&oh=00_AQQoSkbztYhgYjGe_q45-5wU-zcadpQqJkVyJsiamncv2g&oe=6AEA7A76",
+      "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t51.82787-10/877719665_18134458594669293_3398550933648319796_n.jpg?stp=dst-jpg_tt6&cstp=mx720x1280&ctp=s960x960&_nc_cat=107&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=effZDcEw21UQ7kNvwHvGKjv&_nc_oc=Adqbz7N-W-QDf0i8y_YRZP8aIWfqaLwwFqEuFNPhiqDQ__IXYD8Y76vOn5RZTFa-Nz8&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&_nc_gid=Jia_LbWLPPt1mM_1sAxLBw&_nc_ss=7f289&oh=00_AQSAudUljJ-nAKPODsD7uzYeWKancVK0S_QGGhKVo1UbJg&oe=6AEB93B6",
       "source_id": "traders-360",
       "source_name": "Traders 360",
       "platform": "facebook"
