@@ -2,7 +2,7 @@
   "version": 1,
   "title": "Social Feed",
   "description": "Un seul fil pour suivre les sources qui comptent.",
-  "generated_at": "2026-10-31T09:42:54.513257+00:00",
+  "generated_at": "2026-10-31T15:46:12.579323+00:00",
   "sources": [
     {
       "id": "eco-en-batons",
@@ -11,8 +11,8 @@
       "url": "https://www.youtube.com/@Eco_en_batons",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-10-31T09:42:54.513257+00:00",
-      "item_count": 20
+      "last_success_at": "2026-10-31T15:46:12.579323+00:00",
+      "item_count": 21
     },
     {
       "id": "investi-qc",
@@ -21,7 +21,7 @@
       "url": "https://www.youtube.com/@investi-qc",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-10-31T09:42:54.513257+00:00",
+      "last_success_at": "2026-10-31T15:46:12.579323+00:00",
       "item_count": 24
     },
     {
@@ -31,7 +31,7 @@
       "url": "https://www.youtube.com/@hugolisoiryoutube",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-10-31T09:42:54.513257+00:00",
+      "last_success_at": "2026-10-31T15:46:12.579323+00:00",
       "item_count": 17
     },
     {
@@ -41,7 +41,7 @@
       "url": "https://www.youtube.com/@alexdemers-finance360",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-10-31T09:42:54.513257+00:00",
+      "last_success_at": "2026-10-31T15:46:12.579323+00:00",
       "item_count": 16
     },
     {
@@ -51,7 +51,7 @@
       "url": "https://www.facebook.com/GuildWars/",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-10-31T09:42:54.513257+00:00",
+      "last_success_at": "2026-10-31T15:46:12.579323+00:00",
       "item_count": 4
     },
     {
@@ -61,8 +61,8 @@
       "url": "https://www.facebook.com/LOTRO/",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-10-31T09:42:54.513257+00:00",
-      "item_count": 10
+      "last_success_at": "2026-10-31T15:46:12.579323+00:00",
+      "item_count": 11
     },
     {
       "id": "ville-de-lavaltrie",
@@ -71,7 +71,7 @@
       "url": "https://www.facebook.com/VilleDeLavaltrie/",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-10-31T09:42:54.513257+00:00",
+      "last_success_at": "2026-10-31T15:46:12.579323+00:00",
       "item_count": 9
     },
     {
@@ -81,11 +81,35 @@
       "url": "https://www.facebook.com/firmetraders360/",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-10-31T09:42:54.513257+00:00",
+      "last_success_at": "2026-10-31T15:46:12.579323+00:00",
       "item_count": 10
     }
   ],
   "items": [
+    {
+      "id": "facebook:100064792208382:1633259548843770",
+      "title": "Mary's Extraordinary Scary Jam takes place today on Meriadoc! Learn more about this player-run event starting at 2p East",
+      "url": "https://www.facebook.com/LOTRO/posts/pfbid0Qra9biV7GjYSB8cgUadoXuRrg88cmafFWVgnNWgbaKMDfxpqLGSMkQjVuFyypB5al",
+      "published_at": "2026-10-31T13:45:25+00:00",
+      "updated_at": "2026-10-31T13:45:25+00:00",
+      "description": "Mary's Extraordinary Scary Jam takes place today on Meriadoc! Learn more about this player-run event starting at 2p Eastern (-4 GMT) in the LOTRO Forums: https://forums.lotro.com/index.php?threads/event-marys-extraordinary-scary-jam-october",
+      "image_url": null,
+      "source_id": "lotro",
+      "source_name": "The Lord of the Rings Online",
+      "platform": "facebook"
+    },
+    {
+      "id": "youtube:ud_UalTxL1w",
+      "title": "Le SMIC expliqué en 1 minute (qui le fixe, pourquoi il monte ?)",
+      "url": "https://www.youtube.com/watch?v=ud_UalTxL1w",
+      "published_at": "2026-10-31T12:00:07+00:00",
+      "updated_at": "2026-10-31T12:59:39+00:00",
+      "description": "Le SMIC est le salaire minimum légal des salariés du privé en France. Depuis le 1er juin 2026, il est de 12,31 € brut de l'heure, soit 1 867,02 € brut par mois pour 35 heures par semaine, environ 1 480 € net avant impôt.\nPourquoi il monte : chaque 1er janvier, l'État le relève selon l'inflation des 20 % de ménages aux revenus les plus faibles, en y ajoutant au moins la moitié du gain de pouvoir d'achat du salaire horaire moyen. En cours d'année, dès que l'inflation atteint 2 % depuis la dernière hausse, il monte d'autant : c'est ce qui s'est passé le 1er juin 2026 (de 12,02 € à 12,31 €, soit 29 centimes de plus par heure).\nCe qui étonne : la revalorisation de novembre 2024 a relevé la paie de 2,2 millions de salariés du privé, environ un sur huit, selon l'INSEE.\nMais un salaire au-dessus du SMIC ne monte pas automatiquement avec lui.\n\n👉 Quel concept d'économie voulez-vous voir demain ? Dites-le en commentaire. Un concept d'économie par jour, expliqué en bâtons.\n\nSources (lues le 19/10/2026) :\n- Service-public.fr, SMIC (fiche F2300) : https://www.service-public.gouv.fr/particuliers/vosdroits/F2300\n- INSEE, Salaire minimum de croissance (Insee Références, éd. 2026) : https://www.insee.fr/fr/statistiques/8733087?sommaire=8733125\n- Arrêté du 22 mai 2026 relatif au relèvement du salaire minimum de croissance (JO du 24 mai 2026)\nMontants en vigueur depuis le 1er juin 2026 ; le SMIC sera revalorisé au 1er janvier 2027 (montant non connu). Le net est indicatif. Ceci n'est pas un conseil financier.\n\nMusique : composée avec ElevenLabs Music pour la chaîne.\n\n#SMIC #économie #salaire #pouvoirdachat #apprendre #Shorts",
+      "image_url": "https://i2.ytimg.com/vi/ud_UalTxL1w/hqdefault.jpg",
+      "source_id": "eco-en-batons",
+      "source_name": "Éco en bâtons",
+      "platform": "youtube"
+    },
     {
       "id": "facebook:100064792208382:1632712195565172",
       "title": "LOTRO Bonus Days bring you a +25% XP Boost, now through November 1st! #LOTRO",
@@ -129,7 +153,7 @@
       "published_at": "2026-10-30T21:00:00+00:00",
       "updated_at": "2026-10-30T21:00:00+00:00",
       "description": "❄️ 𝐋’𝐢𝐧𝐬𝐭𝐚𝐥𝐥𝐚𝐭𝐢𝐨𝐧 𝐝𝐞𝐬 𝐚𝐛𝐫𝐢𝐬 𝐝’𝐡𝐢𝐯𝐞𝐫 : 𝐪𝐮𝐞𝐥𝐪𝐮𝐞𝐬 𝐫𝐞̀𝐠𝐥𝐞𝐬 𝐚̀ 𝐫𝐞𝐬𝐩𝐞𝐜𝐭𝐞𝐫!\n\nAvec l’arrivée de la saison froide, plusieurs ont procédé à l'installation de leur abris temporaire, mais connaissez-vous bien la réglementation la concernant? 🚗\n\nVoici q",
-      "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.99422-6/855109209_1624855622432675_4755121690779818882_n.png?stp=dst-jpg_tt6&cstp=mx1080x1080&ctp=p526x296&_nc_cat=107&ccb=1-7&_nc_sid=127cfc&_nc_ohc=Y68_mmSS8t0Q7kNvwFPlyrs&_nc_oc=AdociIeUUCdA0n5fuQXVfR8b6k7lQR9q7WA-cs57P5VUdlcFz5uZnkAc0Ab28flOA3E&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=tiw09Xi0CpavUIK4_TseDw&_nc_ss=7f289&oh=00_AQRVJHIjBDhgeN0GwFSTnjlbd176xfLGlybMi2014Iy2XQ&oe=6AEB7DED",
+      "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.99422-6/855109209_1624855622432675_4755121690779818882_n.png?stp=dst-jpg_tt6&cstp=mx1080x1080&ctp=p526x296&_nc_cat=107&ccb=1-7&_nc_sid=127cfc&_nc_ohc=Y68_mmSS8t0Q7kNvwHQ1Uau&_nc_oc=AdpL6TpJ3bgX8GQw_I75wGPHcQSo4ZXM5PAIgWnd9LGyqnFagiUxbQMSDE77VHK6Vjc&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=FUe5yxxBepPBvYvMYwRqRA&_nc_ss=7f289&oh=00_AQTylbJ90sJ-FfunwDBQBtWIVmq5C7Fqcxa1q9LWdHKAIg&oe=6AEBEE6D",
       "source_id": "ville-de-lavaltrie",
       "source_name": "Ville de Lavaltrie",
       "platform": "facebook"
@@ -137,11 +161,11 @@
     {
       "id": "facebook:100063889127390:1662081432598145",
       "title": "Le Nasdaq frôle les -3% aujourd’hui mais mes actions pharma semblent vivre dans un autre marché. D’où l’importance de la",
-      "url": "https://www.facebook.com/firmetraders360/posts/pfbid0hBJHTrKZRJeLUWc4SX6kz7T9q4HqLk5hRg5YoNV52zFdQ81Usrk5RKJrgdYH2svl",
+      "url": "https://www.facebook.com/firmetraders360/posts/pfbid025Yd1U8n9QrmucdXGqiaj8f9eRfL76ckL6Cbiroi63Xgxa1jz8JQBTYHg1QnkCboWl",
       "published_at": "2026-10-30T20:36:34+00:00",
       "updated_at": "2026-10-30T20:36:34+00:00",
       "description": "Le Nasdaq frôle les -3% aujourd’hui mais mes actions pharma semblent vivre dans un autre marché. D’où l’importance de la diversification sectorielle dans un portefeuille.\n\nJe suis actionnaire de Johnson & Johnson, Merck et Bristol-Myers. En",
-      "image_url": "https://scontent-dfw6-1.xx.fbcdn.net/v/t39.99422-6/870394323_1008624818923770_4764982688495605997_n.png?stp=dst-jpg_tt6&cstp=mx1488x1056&ctp=s720x720&_nc_cat=101&ccb=1-7&_nc_sid=127cfc&_nc_ohc=UGS8dZjSSJkQ7kNvwF6ldnJ&_nc_oc=Adp7deE8v0xs-BdwARlJm6ZChCYIrf4SUc39RuGuwn8MpAhpduK9MythYSTD8BRDQF4&_nc_zt=14&_nc_ht=scontent-dfw6-1.xx&_nc_gid=rQa5NzZVePDwkuLRPFV-QQ&_nc_ss=7f289&oh=00_AQRwFLAR78PCq6ImE2iDW3GNabqer2enKHsnP31nuN6kSw&oe=6AEB08ED",
+      "image_url": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.99422-6/870394323_1008624818923770_4764982688495605997_n.png?stp=dst-jpg_tt6&cstp=mx1488x1056&ctp=s720x720&_nc_cat=101&ccb=1-7&_nc_sid=127cfc&_nc_ohc=8p-OI_V-juMQ7kNvwHWN2Qt&_nc_oc=AdrSo1MvNsEYwfE0_2iO2iZ2oX8eCN9q1OGjOsMeFSnxzsp0_UPbseZbKPpi911U0VU&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=Qg2tSekQGbwlzXEjO8O0Zg&_nc_ss=7f289&oh=00_AQQoi-eXTJ3hl3T1qNxA2jZ55eOCfXLvWMBwcn5Ptju7qg&oe=6AEBE9ED",
       "source_id": "traders-360",
       "source_name": "Traders 360",
       "platform": "facebook"
@@ -177,7 +201,7 @@
       "published_at": "2026-10-30T18:01:06+00:00",
       "updated_at": "2026-10-30T18:01:06+00:00",
       "description": "👑 TOMORROW, Mad King Thorn takes the stage every 3 hours in Lion's Arch and Kamadan. Don't miss it!\n\n👀 Plus, here's more from last Sunday's Halloween meetup. Do you spot yourself?\n\nMore info: https://www.guildwars.com/en/events/halloween\n\n#",
-      "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t15.5256-10/882253362_1781314296455565_6935996203357576136_n.jpg?stp=dst-jpg_tt6&cstp=mx1920x1080&ctp=s960x960&_nc_cat=100&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=L6ZsyfjkE7EQ7kNvwHFSweh&_nc_oc=AdpE7_u9x6-28wngH6FsI1D9bDJ0-AM4fa2j_LEF2BTdQBPY2yXmzKYCM6i8NZE7_PA&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&_nc_gid=sJaEaX2GHh0vMj7Kyx9eqQ&_nc_ss=7f289&oh=00_AQQ57Ey7RP_9lU_AzfVuhD4wqpmPWWzjWeo_uBJSzJe_9Q&oe=6AEB9A7F",
+      "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t15.5256-10/882253362_1781314296455565_6935996203357576136_n.jpg?stp=dst-jpg_tt6&cstp=mx1920x1080&ctp=s960x960&_nc_cat=100&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=L6ZsyfjkE7EQ7kNvwE529wv&_nc_oc=AdqiveuFQpS5nphgmIgnoVaGBYIbN1P9zKaFaV8k_aBLJwGo6dvbZz85qccsb88yKw0&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&_nc_gid=gm9plOMtBwYEHd5RUOZTbQ&_nc_ss=7f289&oh=00_AQQCQ4deG3GBx9wNdfjoqKrYulVITMAzItlCcHydo1-aJw&oe=6AEBD2BF",
       "source_id": "guild-wars",
       "source_name": "Guild Wars",
       "platform": "facebook"
@@ -292,10 +316,10 @@
     },
     {
       "id": "youtube:7hvHYM3XFtk",
-      "title": "Histoires d'horreurs en bourse | Investi - Spécial Halloween (Ép. 71)",
+      "title": "Top 10 des Histoires d'horreurs en bourse | Investi - Spécial Halloween (Ép. 71)",
       "url": "https://www.youtube.com/watch?v=7hvHYM3XFtk",
       "published_at": "2026-10-29T19:00:04+00:00",
-      "updated_at": "2026-10-30T13:15:13+00:00",
+      "updated_at": "2026-10-31T13:54:02+00:00",
       "description": "🎃 SPÉCIAL HALLOWEEN : Vincent et Marc vous présentent les pires histoires d’horreur en investissement, choisies par notre communauté! \n\nAu menu, 11 entreprises et scandales financiers qui ont marqué les investisseurs :\n\n- Prime Drink Group (PRME)\n- Lion Électrique (LEV)\n- Nemaska Lithium (NMX)\n- Norbourg\n- Nortel\n- AMC Entertainment (AMC)\n- Bre-X\n- The Green Organic Dutchman (TGOD)\n- Prometic Life Sciences (PLI)\n- Xebec Adsorption (XBC)\n- Transat (TRZ)\n\nDes faillites spectaculaires, des fraudes financières, des promesses de croissance jamais réalisées et des investisseurs qui ont perdu des fortunes.\n\nMais derrière chaque histoire d’horreur, une question revient : aurait-on pu voir les signes avant-coureurs?\n\nOn décortique les décisions, les événements et les erreurs qui ont transformé des investissements prometteurs en véritables cauchemars financiers.\n\n👻 Et vous, quelle est votre pire histoire d’horreur en bourse? Racontez-la dans les commentaires!\n\nFaites confiance à une plateforme de courtage qui vous montre la vraie histoire derrière celle qu'on vous raconte. Aucun frais de transaction sur les actions et FNB : https://bncd.ca/podcast-investi\n\nBanque Nationale Courtage Direct offre l’exécution d’ordres sans conseils. Vous êtes responsables de vos décisions de placement.\n\n🎭 Vincent est ici un personnage interprété pour l’Halloween. Le véritable Vincent Lacroix ne participe pas à cet épisode.\n\n⚠️ Les informations partagées dans cette vidéo sont fournies à des fins éducatives et de divertissement seulement. Elles ne constituent pas des conseils financiers ni des recommandations d’achat ou de vente.\n\nCHAPITRES:\n00:00 Prime Drink Group : Les pièges de l'endettement excessif\n11:58 Lion Électrique : Quand les promesses dépassent la réalité\n22:20 Nemaska Lithium : Les pièges de l'investissement thématique\n25:54 Nortel : Quand la bulle éclate et les dirigeants vendent\n30:14 Bre-X : Le plus grand scandale aurifère jamais vu\n35:17 Norbourg : 130 millions disparus et les leçons pour les investisseurs\n41:12 AMC : Comment la dilution a sauvé l'entreprise du désastre\n48:25 TGOD : Les défis du marché du cannabis et les stop-loss\n56:10 Éviter les erreurs : Concentration, levier et évitement d'information\n1:04:45 Prometic Life Sciences : Les retards de la FDA et la dilution massive\n1:10:07 Xebec Adsorption : L'engouement pour l'énergie verte et la dette\n1:11:56 Transat : L'impact de la pandémie et les rumeurs d'acquisition\n1:14:11 Synthèse : Les 5 pièges des histoires d'horreur en bourse",
       "image_url": "https://i4.ytimg.com/vi/7hvHYM3XFtk/hqdefault.jpg",
       "source_id": "investi-qc",
