@@ -2,7 +2,7 @@
   "version": 1,
   "title": "Social Feed",
   "description": "Un seul fil pour suivre les sources qui comptent.",
-  "generated_at": "2026-10-31T15:46:12.579323+00:00",
+  "generated_at": "2026-10-31T20:00:35.006072+00:00",
   "sources": [
     {
       "id": "eco-en-batons",
@@ -11,7 +11,7 @@
       "url": "https://www.youtube.com/@Eco_en_batons",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-10-31T15:46:12.579323+00:00",
+      "last_success_at": "2026-10-31T20:00:35.006072+00:00",
       "item_count": 21
     },
     {
@@ -21,8 +21,8 @@
       "url": "https://www.youtube.com/@investi-qc",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-10-31T15:46:12.579323+00:00",
-      "item_count": 24
+      "last_success_at": "2026-10-31T20:00:35.006072+00:00",
+      "item_count": 25
     },
     {
       "id": "hugo-lisoir",
@@ -31,7 +31,7 @@
       "url": "https://www.youtube.com/@hugolisoiryoutube",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-10-31T15:46:12.579323+00:00",
+      "last_success_at": "2026-10-31T20:00:35.006072+00:00",
       "item_count": 17
     },
     {
@@ -41,7 +41,7 @@
       "url": "https://www.youtube.com/@alexdemers-finance360",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-10-31T15:46:12.579323+00:00",
+      "last_success_at": "2026-10-31T20:00:35.006072+00:00",
       "item_count": 16
     },
     {
@@ -51,8 +51,8 @@
       "url": "https://www.facebook.com/GuildWars/",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-10-31T15:46:12.579323+00:00",
-      "item_count": 4
+      "last_success_at": "2026-10-31T20:00:35.006072+00:00",
+      "item_count": 5
     },
     {
       "id": "lotro",
@@ -61,8 +61,8 @@
       "url": "https://www.facebook.com/LOTRO/",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-10-31T15:46:12.579323+00:00",
-      "item_count": 11
+      "last_success_at": "2026-10-31T20:00:35.006072+00:00",
+      "item_count": 12
     },
     {
       "id": "ville-de-lavaltrie",
@@ -71,8 +71,8 @@
       "url": "https://www.facebook.com/VilleDeLavaltrie/",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-10-31T15:46:12.579323+00:00",
-      "item_count": 9
+      "last_success_at": "2026-10-31T20:00:35.006072+00:00",
+      "item_count": 10
     },
     {
       "id": "traders-360",
@@ -81,11 +81,59 @@
       "url": "https://www.facebook.com/firmetraders360/",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-10-31T15:46:12.579323+00:00",
+      "last_success_at": "2026-10-31T20:00:35.006072+00:00",
       "item_count": 10
     }
   ],
   "items": [
+    {
+      "id": "facebook:100064792208382:1633530438816681",
+      "title": "The Wolves of Mordor brings new threats to Middle-earth! Learn more about the Feared Beasts of Draugardh on LOTRO.com: h",
+      "url": "https://www.facebook.com/LOTRO/posts/pfbid0353F42PrcFMw1BPpQuzdgyhX3yRg2VURjx61PkkUeiwSU9XzAVMb1AnfinAZ1YHndl",
+      "published_at": "2026-10-31T19:15:16+00:00",
+      "updated_at": "2026-10-31T19:15:16+00:00",
+      "description": "The Wolves of Mordor brings new threats to Middle-earth! Learn more about the Feared Beasts of Draugardh on LOTRO.com: https://www.lotro.com/news/lotro-beasts-of-draugardh-en #LOTRO",
+      "image_url": null,
+      "source_id": "lotro",
+      "source_name": "The Lord of the Rings Online",
+      "platform": "facebook"
+    },
+    {
+      "id": "facebook:100069958479615:1428069706201632",
+      "title": "Happy Halloween, my loyal subjects! 👑🎃",
+      "url": "https://www.facebook.com/reel/2268357994064267/",
+      "published_at": "2026-10-31T18:01:04+00:00",
+      "updated_at": "2026-10-31T18:01:04+00:00",
+      "description": "Happy Halloween, my loyal subjects! 👑🎃\n\nYour Mad King performs every 3 hours in Lion's Arch and Kamadan. Attendance is... strongly encouraged. 😈\n\nMore Halloween event information: https://www.guildwars.com/en/events/halloween\n\n#GuildWarsRef",
+      "image_url": "https://scontent-ord5-2.xx.fbcdn.net/v/t15.5256-10/883339107_1490073016298890_8389313595929799298_n.jpg?stp=dst-jpg_tt6&cstp=mx1920x1080&ctp=s960x960&_nc_cat=107&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=vZb7Pgpgp2QQ7kNvwFle0eM&_nc_oc=AdoV58JqSfAgM8YJg-uZhNqLK70dO4vTUvg5Fd7jIqDmk4Ztv4Xy9m1oNsyJnpQmytU&_nc_zt=23&_nc_ht=scontent-ord5-2.xx&_nc_gid=wkSRxhPVE9voxzTvKwIInw&_nc_ss=7f289&oh=00_AQS3Utpo0DFPwZuuZOdY-P9BLgUEh9vRO8rr7ARYPVCXIw&oe=6AEC1CC6",
+      "source_id": "guild-wars",
+      "source_name": "Guild Wars",
+      "platform": "facebook"
+    },
+    {
+      "id": "facebook:100064655653099:1570801225085051",
+      "title": "🎃👻 𝗟’𝗛𝗮𝗹𝗹𝗼𝘄𝗲𝗲𝗻, 𝗰’𝗲𝘀𝘁 𝗰𝗲 𝘀𝗼𝗶𝗿 𝗮̀ 𝗟𝗮𝘃𝗮𝗹𝘁𝗿𝗶𝗲!",
+      "url": "https://www.facebook.com/VilleDeLavaltrie/posts/pfbid0Amu8RQDYmLX3vdy7vMZtJ6u2GVVXr88BAhizsrVPbK1MKrj13FTrp5ZmqBhhRqBFl",
+      "published_at": "2026-10-31T16:51:29+00:00",
+      "updated_at": "2026-10-31T16:51:29+00:00",
+      "description": "🎃👻 𝗟’𝗛𝗮𝗹𝗹𝗼𝘄𝗲𝗲𝗻, 𝗰’𝗲𝘀𝘁 𝗰𝗲 𝘀𝗼𝗶𝗿 𝗮̀ 𝗟𝗮𝘃𝗮𝗹𝘁𝗿𝗶𝗲!\n\nPréparez vos costumes et venez faire le plein de frissons! Deux activités gratuites vous attendent 𝗱𝗲̀𝘀 𝟭𝟴 𝗵 pour célébrer l’Halloween comme il se doit! 🕸️\n\n🍬 𝗣𝗮𝗿𝗰𝗼𝘂𝗿𝘀 𝗵𝗮𝗻𝘁𝗲́ \nOsez vous aventurer",
+      "image_url": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.99422-6/845530552_2031607657517354_5907981725303614601_n.png?stp=c198.0.1054.550a_dst-jpg_tt6&cstp=mx1054x550&ctp=s526x296&_nc_cat=104&ccb=1-7&_nc_sid=1abd25&_nc_ohc=bAOEklXoANMQ7kNvwGlhrY-&_nc_oc=Ado4JqIQWFI3-K141OgCHth_tYH-pYNO42Dnad-2ZZFcIUQvYN_yNAQ4O09N94lYZKQ&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=xzb5PqZDmYcA3-qM0ClYlQ&_nc_ss=7f289&oh=00_AQQhwQefDB7ntkJONf1vxIY_lwYXEeh8YXZqRdvmnrZDHg&oe=6AEC05BC",
+      "source_id": "ville-de-lavaltrie",
+      "source_name": "Ville de Lavaltrie",
+      "platform": "facebook"
+    },
+    {
+      "id": "youtube:-74PgBcsq94",
+      "title": "Les bonnes compagnies se font rares au Canada, ce qui aide les multiples de Dollorama",
+      "url": "https://www.youtube.com/watch?v=-74PgBcsq94",
+      "published_at": "2026-10-31T15:40:42+00:00",
+      "updated_at": "2026-10-31T16:28:33+00:00",
+      "description": "Les bonnes compagnies se font rares au Canada, ce qui aide les multiples de Dollorama",
+      "image_url": "https://i2.ytimg.com/vi/-74PgBcsq94/hqdefault.jpg",
+      "source_id": "investi-qc",
+      "source_name": "Investi QC",
+      "platform": "youtube"
+    },
     {
       "id": "facebook:100064792208382:1633259548843770",
       "title": "Mary's Extraordinary Scary Jam takes place today on Meriadoc! Learn more about this player-run event starting at 2p East",
@@ -165,7 +213,7 @@
       "published_at": "2026-10-30T20:36:34+00:00",
       "updated_at": "2026-10-30T20:36:34+00:00",
       "description": "Le Nasdaq frôle les -3% aujourd’hui mais mes actions pharma semblent vivre dans un autre marché. D’où l’importance de la diversification sectorielle dans un portefeuille.\n\nJe suis actionnaire de Johnson & Johnson, Merck et Bristol-Myers. En",
-      "image_url": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.99422-6/870394323_1008624818923770_4764982688495605997_n.png?stp=dst-jpg_tt6&cstp=mx1488x1056&ctp=s720x720&_nc_cat=101&ccb=1-7&_nc_sid=127cfc&_nc_ohc=8p-OI_V-juMQ7kNvwHWN2Qt&_nc_oc=AdrSo1MvNsEYwfE0_2iO2iZ2oX8eCN9q1OGjOsMeFSnxzsp0_UPbseZbKPpi911U0VU&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=Qg2tSekQGbwlzXEjO8O0Zg&_nc_ss=7f289&oh=00_AQQoi-eXTJ3hl3T1qNxA2jZ55eOCfXLvWMBwcn5Ptju7qg&oe=6AEBE9ED",
+      "image_url": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.99422-6/870394323_1008624818923770_4764982688495605997_n.png?stp=dst-jpg_tt6&cstp=mx1488x1056&ctp=s720x720&_nc_cat=101&ccb=1-7&_nc_sid=127cfc&_nc_ohc=8p-OI_V-juMQ7kNvwEfRU6D&_nc_oc=AdpWQJlnXahkbfMkXK0fxv5NmcPpFO5nji0YUTGuPQdeneVQULrel4bbmXJiFahkGCM&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=UWo7WiufnQVquu7_7bDBZA&_nc_ss=7f289&oh=00_AQSZo8eulaXB57o0R-1iEXl7ddmoF99bPF2OdLmYyG5-Rg&oe=6AEC222D",
       "source_id": "traders-360",
       "source_name": "Traders 360",
       "platform": "facebook"
