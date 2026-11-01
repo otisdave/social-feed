@@ -2,7 +2,7 @@
   "version": 1,
   "title": "Social Feed",
   "description": "Un seul fil pour suivre les sources qui comptent.",
-  "generated_at": "2026-11-01T13:30:41.923817+00:00",
+  "generated_at": "2026-11-01T18:58:01.821998+00:00",
   "sources": [
     {
       "id": "eco-en-batons",
@@ -11,7 +11,7 @@
       "url": "https://www.youtube.com/@Eco_en_batons",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-01T13:30:41.923817+00:00",
+      "last_success_at": "2026-11-01T18:58:01.821998+00:00",
       "item_count": 21
     },
     {
@@ -21,8 +21,8 @@
       "url": "https://www.youtube.com/@investi-qc",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-01T13:30:41.923817+00:00",
-      "item_count": 26
+      "last_success_at": "2026-11-01T18:58:01.821998+00:00",
+      "item_count": 27
     },
     {
       "id": "hugo-lisoir",
@@ -31,8 +31,8 @@
       "url": "https://www.youtube.com/@hugolisoiryoutube",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-01T13:30:41.923817+00:00",
-      "item_count": 17
+      "last_success_at": "2026-11-01T18:58:01.821998+00:00",
+      "item_count": 18
     },
     {
       "id": "alex-demers-finance360",
@@ -41,7 +41,7 @@
       "url": "https://www.youtube.com/@alexdemers-finance360",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-01T13:30:41.923817+00:00",
+      "last_success_at": "2026-11-01T18:58:01.821998+00:00",
       "item_count": 16
     },
     {
@@ -51,7 +51,7 @@
       "url": "https://www.facebook.com/GuildWars/",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-01T13:30:41.923817+00:00",
+      "last_success_at": "2026-11-01T18:58:01.821998+00:00",
       "item_count": 5
     },
     {
@@ -61,8 +61,8 @@
       "url": "https://www.facebook.com/LOTRO/",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-01T13:30:41.923817+00:00",
-      "item_count": 14
+      "last_success_at": "2026-11-01T18:58:01.821998+00:00",
+      "item_count": 15
     },
     {
       "id": "ville-de-lavaltrie",
@@ -71,7 +71,7 @@
       "url": "https://www.facebook.com/VilleDeLavaltrie/",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-01T13:30:41.923817+00:00",
+      "last_success_at": "2026-11-01T18:58:01.821998+00:00",
       "item_count": 10
     },
     {
@@ -81,11 +81,47 @@
       "url": "https://www.facebook.com/firmetraders360/",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-01T13:30:41.923817+00:00",
+      "last_success_at": "2026-11-01T18:58:01.821998+00:00",
       "item_count": 10
     }
   ],
   "items": [
+    {
+      "id": "youtube:_B8tkKWzajM",
+      "title": "L’Europe veut sa Falcon 9… mais Themis ne décolle toujours pas !",
+      "url": "https://www.youtube.com/watch?v=_B8tkKWzajM",
+      "published_at": "2026-11-01T16:59:43+00:00",
+      "updated_at": "2026-11-01T16:59:43+00:00",
+      "description": "Pourquoi Themis, le démonstrateur européen de premier étage réutilisable, met-il autant de temps à décoller ? De son moteur Prometheus aux futurs essais en vol, retour sur les ambitions et les retards d’un programme dont les technologies pourraient bénéficier à Maia, préparer l’après-Ariane 6 et ouvrir la voie à des boosters récupérables.\n\nSources :\nhttps://www.esa.int/Enabling_Support/Space_Transportation/Themis\nhttps://cnes.fr/projets/themis-lanceur\nhttps://www.esa.int/Enabling_Support/Space_Transportation/Future_space_transportation/Prometheus\nhttps://www.esa.int/Enabling_Support/Space_Transportation/Future_space_transportation/Themis_completes_second_fuelling_rehearsal\nhttps://cordis.europa.eu/project/id/101082007/reporting\nhttps://www.ariane.group/en/news/launcher-reuse-technologies-prometheus-themis/\nhttps://www.maia-space.com/\nhttps://www.ariane.group/en/news/ariane-6-a-launcher-designed-to-evolve/\n\nMusiques : Pedro Macedo Camacho / Star Citizen, Utho Riley et Gérald M. Dorai\nImages : ESA, ArianeGroup, CNES, MaiaSpace, SSC Space, DLR\nMoteur 3D : Space Engine Pro",
+      "image_url": "https://i4.ytimg.com/vi/_B8tkKWzajM/hqdefault.jpg",
+      "source_id": "hugo-lisoir",
+      "source_name": "Hugo Lisoir",
+      "platform": "youtube"
+    },
+    {
+      "id": "youtube:IV2lgzWTAgw",
+      "title": "Bien négocier ses fournisseurs est la clé pour Dollorama",
+      "url": "https://www.youtube.com/watch?v=IV2lgzWTAgw",
+      "published_at": "2026-11-01T16:41:40+00:00",
+      "updated_at": "2026-11-01T17:49:01+00:00",
+      "description": "Bien négocier ses fournisseurs est la clé pour Dollorama",
+      "image_url": "https://i2.ytimg.com/vi/IV2lgzWTAgw/hqdefault.jpg",
+      "source_id": "investi-qc",
+      "source_name": "Investi QC",
+      "platform": "youtube"
+    },
+    {
+      "id": "facebook:100064792208382:1634413728728352",
+      "title": "The Hard Tack Crafting Event is back in-game through November 7th! Get started with the event in our guide on LOTRO.com:",
+      "url": "https://www.facebook.com/LOTRO/posts/pfbid0LwdjZonXxensRtaQWxTdDsayKLW6D9j9VYVqtnPptYEWKU8RPykEfWsMjgbYpE18l",
+      "published_at": "2026-11-01T14:02:22+00:00",
+      "updated_at": "2026-11-01T14:02:22+00:00",
+      "description": "The Hard Tack Crafting Event is back in-game through November 7th! Get started with the event in our guide on LOTRO.com: https://www.lotro.com/guides/lotro-hard-tack-guide-en #LOTRO",
+      "image_url": null,
+      "source_id": "lotro",
+      "source_name": "The Lord of the Rings Online",
+      "platform": "facebook"
+    },
     {
       "id": "facebook:100064792208382:1634334058736319",
       "title": "The player-run concert called \"In the Hall of the Goblin King\" will be performed today featuring the music of Scandinavi",
@@ -141,7 +177,7 @@
       "published_at": "2026-10-31T18:01:04+00:00",
       "updated_at": "2026-10-31T18:01:04+00:00",
       "description": "Happy Halloween, my loyal subjects! 👑🎃\n\nYour Mad King performs every 3 hours in Lion's Arch and Kamadan. Attendance is... strongly encouraged. 😈\n\nMore Halloween event information: https://www.guildwars.com/en/events/halloween\n\n#GuildWarsRef",
-      "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t15.5256-10/883339107_1490073016298890_8389313595929799298_n.jpg?stp=dst-jpg_tt6&cstp=mx1920x1080&ctp=s960x960&_nc_cat=107&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=_harSMfz85cQ7kNvwEP2_Ns&_nc_oc=AdpF88jIPPuIWlWOldgYtSGvp-hjTTvjLqYDT9VN2_k_njeucb3f_-bKZxjTfqbUeUA&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&_nc_gid=MOm69zlAHejD8obtzMR5Vw&_nc_ss=7f289&oh=00_AQRbmOsQeZtDAMVb1R68BdcU5CTmke0bFgU078U2DT-UMw&oe=6AECFDC6",
+      "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t15.5256-10/883339107_1490073016298890_8389313595929799298_n.jpg?stp=dst-jpg_tt6&cstp=mx1920x1080&ctp=s960x960&_nc_cat=107&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=_harSMfz85cQ7kNvwEXPXJS&_nc_oc=Adpqirv-NQanUCMq1GbwX_x3GU-oKWFy3KaqdulA8aWpPvhGoHopxGIv5PYCSylxr3Y&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&_nc_gid=HWwYafIaynAXR7BFleLqJQ&_nc_ss=7f289&oh=00_AQRW1ZCOxyaHcdsrjdxDAShTF9g-FRCn9ebyUhfrHSoSDQ&oe=6AED6E46",
       "source_id": "guild-wars",
       "source_name": "Guild Wars",
       "platform": "facebook"
@@ -153,7 +189,7 @@
       "published_at": "2026-10-31T16:51:29+00:00",
       "updated_at": "2026-10-31T16:51:29+00:00",
       "description": "🎃👻 𝗟’𝗛𝗮𝗹𝗹𝗼𝘄𝗲𝗲𝗻, 𝗰’𝗲𝘀𝘁 𝗰𝗲 𝘀𝗼𝗶𝗿 𝗮̀ 𝗟𝗮𝘃𝗮𝗹𝘁𝗿𝗶𝗲!\n\nPréparez vos costumes et venez faire le plein de frissons! Deux activités gratuites vous attendent 𝗱𝗲̀𝘀 𝟭𝟴 𝗵 pour célébrer l’Halloween comme il se doit! 🕸️\n\n🍬 𝗣𝗮𝗿𝗰𝗼𝘂𝗿𝘀 𝗵𝗮𝗻𝘁𝗲́ \nOsez vous aventurer",
-      "image_url": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.99422-6/845530552_2031607657517354_5907981725303614601_n.png?stp=c198.0.1054.550a_dst-jpg_tt6&cstp=mx1054x550&ctp=s526x296&_nc_cat=104&ccb=1-7&_nc_sid=1abd25&_nc_ohc=bAOEklXoANMQ7kNvwE84e4Z&_nc_oc=AdpeA-nRGJn-AiiE7TqFmqUMxAbhr6q-nExEMF8PocOPtmYpLg7mBQUpvsN9krdKjQ8&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=BGNcuPJlL09GJyfLuqPUWg&_nc_ss=7f289&oh=00_AQQymCoA_aEaw3u17Rx95W9-yitHdeUGlxu1c-nILpNXnQ&oe=6AECAE7C",
+      "image_url": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.99422-6/845530552_2031607657517354_5907981725303614601_n.png?stp=c198.0.1054.550a_dst-jpg_tt6&cstp=mx1054x550&ctp=s526x296&_nc_cat=104&ccb=1-7&_nc_sid=1abd25&_nc_ohc=bAOEklXoANMQ7kNvwEYouk-&_nc_oc=Adrkkyaq0Ryd-Yn20uqzRxY6vVmVz-z24CCs_X85InoDRLOwCxS0wlr6dAHqJC39mME&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=-my7Uatk5jARvHpNP7zP3A&_nc_ss=7f289&oh=00_AQSBGKQRaLBO4PdaNDcqGKmGj9RziLz-M47teFHQH32LsA&oe=6AED573C",
       "source_id": "ville-de-lavaltrie",
       "source_name": "Ville de Lavaltrie",
       "platform": "facebook"
@@ -249,7 +285,7 @@
       "published_at": "2026-10-30T20:36:34+00:00",
       "updated_at": "2026-10-30T20:36:34+00:00",
       "description": "Le Nasdaq frôle les -3% aujourd’hui mais mes actions pharma semblent vivre dans un autre marché. D’où l’importance de la diversification sectorielle dans un portefeuille.\n\nJe suis actionnaire de Johnson & Johnson, Merck et Bristol-Myers. En",
-      "image_url": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.99422-6/870394323_1008624818923770_4764982688495605997_n.png?stp=dst-jpg_tt6&cstp=mx1488x1056&ctp=s720x720&_nc_cat=101&ccb=1-7&_nc_sid=127cfc&_nc_ohc=8p-OI_V-juMQ7kNvwFWS5yT&_nc_oc=AdozMO7RSfTMAGVdvkLpDLCU3FwEZ5Wekuv-4Hcb98yNs2S63gEx9gih1fvOkkbB4zU&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=RpTRHPSsHwy6akdQ-i_u-g&_nc_ss=7f289&oh=00_AQTgVonO6CP73v222Aeqw6WYVL4yIYiGtjrw7E6vTEUVNA&oe=6AED032D",
+      "image_url": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.99422-6/870394323_1008624818923770_4764982688495605997_n.png?stp=dst-jpg_tt6&cstp=mx1488x1056&ctp=s720x720&_nc_cat=101&ccb=1-7&_nc_sid=127cfc&_nc_ohc=8p-OI_V-juMQ7kNvwFNhSZx&_nc_oc=Ado6IMqj20CE7E6Koh5TjGTI5bUzeTd57ftvTIl4RqMmCwsnVpPDP2hPf3nElLZVrIo&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=u2xt0yF-bOxkfw5_Nc18Dg&_nc_ss=7f289&oh=00_AQSFjFw85OhPPzYG7qfe93EEciB4h7i3X1UJ8n0hDXi8FA&oe=6AED73AD",
       "source_id": "traders-360",
       "source_name": "Traders 360",
       "platform": "facebook"
