@@ -2,7 +2,7 @@
   "version": 1,
   "title": "Social Feed",
   "description": "Un seul fil pour suivre les sources qui comptent.",
-  "generated_at": "2026-11-01T18:58:01.821998+00:00",
+  "generated_at": "2026-11-01T22:52:31.896318+00:00",
   "sources": [
     {
       "id": "eco-en-batons",
@@ -11,7 +11,7 @@
       "url": "https://www.youtube.com/@Eco_en_batons",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-01T18:58:01.821998+00:00",
+      "last_success_at": "2026-11-01T22:52:31.896318+00:00",
       "item_count": 21
     },
     {
@@ -21,8 +21,8 @@
       "url": "https://www.youtube.com/@investi-qc",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-01T18:58:01.821998+00:00",
-      "item_count": 27
+      "last_success_at": "2026-11-01T22:52:31.896318+00:00",
+      "item_count": 28
     },
     {
       "id": "hugo-lisoir",
@@ -31,7 +31,7 @@
       "url": "https://www.youtube.com/@hugolisoiryoutube",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-01T18:58:01.821998+00:00",
+      "last_success_at": "2026-11-01T22:52:31.896318+00:00",
       "item_count": 18
     },
     {
@@ -41,7 +41,7 @@
       "url": "https://www.youtube.com/@alexdemers-finance360",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-01T18:58:01.821998+00:00",
+      "last_success_at": "2026-11-01T22:52:31.896318+00:00",
       "item_count": 16
     },
     {
@@ -51,7 +51,7 @@
       "url": "https://www.facebook.com/GuildWars/",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-01T18:58:01.821998+00:00",
+      "last_success_at": "2026-11-01T22:52:31.896318+00:00",
       "item_count": 5
     },
     {
@@ -61,7 +61,7 @@
       "url": "https://www.facebook.com/LOTRO/",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-01T18:58:01.821998+00:00",
+      "last_success_at": "2026-11-01T22:52:31.896318+00:00",
       "item_count": 15
     },
     {
@@ -71,7 +71,7 @@
       "url": "https://www.facebook.com/VilleDeLavaltrie/",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-01T18:58:01.821998+00:00",
+      "last_success_at": "2026-11-01T22:52:31.896318+00:00",
       "item_count": 10
     },
     {
@@ -81,11 +81,23 @@
       "url": "https://www.facebook.com/firmetraders360/",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-01T18:58:01.821998+00:00",
+      "last_success_at": "2026-11-01T22:52:31.896318+00:00",
       "item_count": 10
     }
   ],
   "items": [
+    {
+      "id": "youtube:ZQHSQjMMy10",
+      "title": "Pourquoi deux FNB similaires ont des écarts aussi important de frais de gestion?",
+      "url": "https://www.youtube.com/watch?v=ZQHSQjMMy10",
+      "published_at": "2026-11-01T20:39:12+00:00",
+      "updated_at": "2026-11-01T20:57:44+00:00",
+      "description": "Pourquoi deux FNB similaires ont des écarts aussi important de frais de gestion?",
+      "image_url": "https://i3.ytimg.com/vi/ZQHSQjMMy10/hqdefault.jpg",
+      "source_id": "investi-qc",
+      "source_name": "Investi QC",
+      "platform": "youtube"
+    },
     {
       "id": "youtube:_B8tkKWzajM",
       "title": "L’Europe veut sa Falcon 9… mais Themis ne décolle toujours pas !",
@@ -113,7 +125,7 @@
     {
       "id": "facebook:100064792208382:1634413728728352",
       "title": "The Hard Tack Crafting Event is back in-game through November 7th! Get started with the event in our guide on LOTRO.com:",
-      "url": "https://www.facebook.com/LOTRO/posts/pfbid0LwdjZonXxensRtaQWxTdDsayKLW6D9j9VYVqtnPptYEWKU8RPykEfWsMjgbYpE18l",
+      "url": "https://www.facebook.com/LOTRO/posts/pfbid02Qo5SkUiMp794gwQDzHBKWHUVec3nV7SyCh2Fr6iw2pD3YK9Z3s1LkxdekgPWJytil",
       "published_at": "2026-11-01T14:02:22+00:00",
       "updated_at": "2026-11-01T14:02:22+00:00",
       "description": "The Hard Tack Crafting Event is back in-game through November 7th! Get started with the event in our guide on LOTRO.com: https://www.lotro.com/guides/lotro-hard-tack-guide-en #LOTRO",
@@ -177,7 +189,7 @@
       "published_at": "2026-10-31T18:01:04+00:00",
       "updated_at": "2026-10-31T18:01:04+00:00",
       "description": "Happy Halloween, my loyal subjects! 👑🎃\n\nYour Mad King performs every 3 hours in Lion's Arch and Kamadan. Attendance is... strongly encouraged. 😈\n\nMore Halloween event information: https://www.guildwars.com/en/events/halloween\n\n#GuildWarsRef",
-      "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t15.5256-10/883339107_1490073016298890_8389313595929799298_n.jpg?stp=dst-jpg_tt6&cstp=mx1920x1080&ctp=s960x960&_nc_cat=107&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=_harSMfz85cQ7kNvwEXPXJS&_nc_oc=Adpqirv-NQanUCMq1GbwX_x3GU-oKWFy3KaqdulA8aWpPvhGoHopxGIv5PYCSylxr3Y&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&_nc_gid=HWwYafIaynAXR7BFleLqJQ&_nc_ss=7f289&oh=00_AQRW1ZCOxyaHcdsrjdxDAShTF9g-FRCn9ebyUhfrHSoSDQ&oe=6AED6E46",
+      "image_url": "https://scontent-lga3-2.xx.fbcdn.net/v/t15.5256-10/883339107_1490073016298890_8389313595929799298_n.jpg?stp=dst-jpg_tt6&cstp=mx1920x1080&ctp=s960x960&_nc_cat=107&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=_harSMfz85cQ7kNvwEfuhyW&_nc_oc=AdonO6J3uNx3DW20utU8OumzB0ZZjidVGVieWjdyKLHlwtfXIvRhGl-yUJgPOFVoK30&_nc_zt=23&_nc_ht=scontent-lga3-2.xx&_nc_gid=OOpqOnfQdlFEZznLeMvNFw&_nc_ss=7f289&oh=00_AQQoFaSANfn7CyStI0zbSwpj5tx2AHmzf1TR2w37D2qcTg&oe=6AEDA686",
       "source_id": "guild-wars",
       "source_name": "Guild Wars",
       "platform": "facebook"
@@ -185,11 +197,11 @@
     {
       "id": "facebook:100064655653099:1570801225085051",
       "title": "🎃👻 𝗟’𝗛𝗮𝗹𝗹𝗼𝘄𝗲𝗲𝗻, 𝗰’𝗲𝘀𝘁 𝗰𝗲 𝘀𝗼𝗶𝗿 𝗮̀ 𝗟𝗮𝘃𝗮𝗹𝘁𝗿𝗶𝗲!",
-      "url": "https://www.facebook.com/VilleDeLavaltrie/posts/pfbid0Amu8RQDYmLX3vdy7vMZtJ6u2GVVXr88BAhizsrVPbK1MKrj13FTrp5ZmqBhhRqBFl",
+      "url": "https://www.facebook.com/VilleDeLavaltrie/posts/pfbid02EdLqc59NcfPYgHWEEcXpwHL6EiSsBYzncTQbkXkwTMYRTd8dkdRT1rymse8fmrehl",
       "published_at": "2026-10-31T16:51:29+00:00",
       "updated_at": "2026-10-31T16:51:29+00:00",
       "description": "🎃👻 𝗟’𝗛𝗮𝗹𝗹𝗼𝘄𝗲𝗲𝗻, 𝗰’𝗲𝘀𝘁 𝗰𝗲 𝘀𝗼𝗶𝗿 𝗮̀ 𝗟𝗮𝘃𝗮𝗹𝘁𝗿𝗶𝗲!\n\nPréparez vos costumes et venez faire le plein de frissons! Deux activités gratuites vous attendent 𝗱𝗲̀𝘀 𝟭𝟴 𝗵 pour célébrer l’Halloween comme il se doit! 🕸️\n\n🍬 𝗣𝗮𝗿𝗰𝗼𝘂𝗿𝘀 𝗵𝗮𝗻𝘁𝗲́ \nOsez vous aventurer",
-      "image_url": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.99422-6/845530552_2031607657517354_5907981725303614601_n.png?stp=c198.0.1054.550a_dst-jpg_tt6&cstp=mx1054x550&ctp=s526x296&_nc_cat=104&ccb=1-7&_nc_sid=1abd25&_nc_ohc=bAOEklXoANMQ7kNvwEYouk-&_nc_oc=Adrkkyaq0Ryd-Yn20uqzRxY6vVmVz-z24CCs_X85InoDRLOwCxS0wlr6dAHqJC39mME&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=-my7Uatk5jARvHpNP7zP3A&_nc_ss=7f289&oh=00_AQSBGKQRaLBO4PdaNDcqGKmGj9RziLz-M47teFHQH32LsA&oe=6AED573C",
+      "image_url": "https://scontent-lga3-3.xx.fbcdn.net/v/t39.99422-6/845530552_2031607657517354_5907981725303614601_n.png?stp=c198.0.1054.550a_dst-jpg_tt6&cstp=mx1054x550&ctp=s526x296&_nc_cat=104&ccb=1-7&_nc_sid=1abd25&_nc_ohc=bAOEklXoANMQ7kNvwEsHaJd&_nc_oc=AdpxJz0eKPqCiBnVOiv1c3CTfJfG4dyybJVE8qjSjiYQGt8WGiB3dWia1AR8FN5FvGU&_nc_zt=14&_nc_ht=scontent-lga3-3.xx&_nc_gid=Fcky1hVb0HiB68XmKHXEqQ&_nc_ss=7f289&oh=00_AQQkY8XU34hBLjPM5dLkfjg-5tf2QVNjflKsEJsG3-0HNg&oe=6AED8F7C",
       "source_id": "ville-de-lavaltrie",
       "source_name": "Ville de Lavaltrie",
       "platform": "facebook"
@@ -285,7 +297,7 @@
       "published_at": "2026-10-30T20:36:34+00:00",
       "updated_at": "2026-10-30T20:36:34+00:00",
       "description": "Le Nasdaq frôle les -3% aujourd’hui mais mes actions pharma semblent vivre dans un autre marché. D’où l’importance de la diversification sectorielle dans un portefeuille.\n\nJe suis actionnaire de Johnson & Johnson, Merck et Bristol-Myers. En",
-      "image_url": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.99422-6/870394323_1008624818923770_4764982688495605997_n.png?stp=dst-jpg_tt6&cstp=mx1488x1056&ctp=s720x720&_nc_cat=101&ccb=1-7&_nc_sid=127cfc&_nc_ohc=8p-OI_V-juMQ7kNvwFNhSZx&_nc_oc=Ado6IMqj20CE7E6Koh5TjGTI5bUzeTd57ftvTIl4RqMmCwsnVpPDP2hPf3nElLZVrIo&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=u2xt0yF-bOxkfw5_Nc18Dg&_nc_ss=7f289&oh=00_AQSFjFw85OhPPzYG7qfe93EEciB4h7i3X1UJ8n0hDXi8FA&oe=6AED73AD",
+      "image_url": "https://scontent-lga3-2.xx.fbcdn.net/v/t39.99422-6/870394323_1008624818923770_4764982688495605997_n.png?stp=dst-jpg_tt6&cstp=mx1488x1056&ctp=s720x720&_nc_cat=101&ccb=1-7&_nc_sid=127cfc&_nc_ohc=8p-OI_V-juMQ7kNvwGZNJDB&_nc_oc=AdrN30oWqhIafrmyqTfMZTlTmqOS6vGsKO7MoS1gWqLivjlYWgdYujO4XADapQpnSNU&_nc_zt=14&_nc_ht=scontent-lga3-2.xx&_nc_gid=cCjLHPiLiOIeGb6x7NEg-A&_nc_ss=7f289&oh=00_AQSoLNy7Bn2r59ZPqlONIqdt8KbYKPbtTEGzHNyOiBXb-g&oe=6AEDABED",
       "source_id": "traders-360",
       "source_name": "Traders 360",
       "platform": "facebook"
