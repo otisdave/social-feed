@@ -2,16 +2,16 @@
   "version": 1,
   "title": "Social Feed",
   "description": "Un seul fil pour suivre les sources qui comptent.",
-  "generated_at": "2026-11-01T06:12:55.092393+00:00",
+  "generated_at": "2026-11-01T13:30:41.923817+00:00",
   "sources": [
     {
       "id": "eco-en-batons",
       "name": "Éco en bâtons",
       "platform": "youtube",
       "url": "https://www.youtube.com/@Eco_en_batons",
-      "status": "error",
-      "error": "HTTPError: HTTP Error 404: Not Found",
-      "last_success_at": "2026-10-31T20:00:35.006072+00:00",
+      "status": "ok",
+      "error": null,
+      "last_success_at": "2026-11-01T13:30:41.923817+00:00",
       "item_count": 21
     },
     {
@@ -19,19 +19,19 @@
       "name": "Investi QC",
       "platform": "youtube",
       "url": "https://www.youtube.com/@investi-qc",
-      "status": "error",
-      "error": "HTTPError: HTTP Error 404: Not Found",
-      "last_success_at": "2026-10-31T20:00:35.006072+00:00",
-      "item_count": 25
+      "status": "ok",
+      "error": null,
+      "last_success_at": "2026-11-01T13:30:41.923817+00:00",
+      "item_count": 26
     },
     {
       "id": "hugo-lisoir",
       "name": "Hugo Lisoir",
       "platform": "youtube",
       "url": "https://www.youtube.com/@hugolisoiryoutube",
-      "status": "error",
-      "error": "HTTPError: HTTP Error 404: Not Found",
-      "last_success_at": "2026-10-31T20:00:35.006072+00:00",
+      "status": "ok",
+      "error": null,
+      "last_success_at": "2026-11-01T13:30:41.923817+00:00",
       "item_count": 17
     },
     {
@@ -39,9 +39,9 @@
       "name": "Alex Demers — Finance 360",
       "platform": "youtube",
       "url": "https://www.youtube.com/@alexdemers-finance360",
-      "status": "error",
-      "error": "HTTPError: HTTP Error 404: Not Found",
-      "last_success_at": "2026-10-31T20:00:35.006072+00:00",
+      "status": "ok",
+      "error": null,
+      "last_success_at": "2026-11-01T13:30:41.923817+00:00",
       "item_count": 16
     },
     {
@@ -51,7 +51,7 @@
       "url": "https://www.facebook.com/GuildWars/",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-01T06:12:55.092393+00:00",
+      "last_success_at": "2026-11-01T13:30:41.923817+00:00",
       "item_count": 5
     },
     {
@@ -61,8 +61,8 @@
       "url": "https://www.facebook.com/LOTRO/",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-01T06:12:55.092393+00:00",
-      "item_count": 13
+      "last_success_at": "2026-11-01T13:30:41.923817+00:00",
+      "item_count": 14
     },
     {
       "id": "ville-de-lavaltrie",
@@ -71,7 +71,7 @@
       "url": "https://www.facebook.com/VilleDeLavaltrie/",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-01T06:12:55.092393+00:00",
+      "last_success_at": "2026-11-01T13:30:41.923817+00:00",
       "item_count": 10
     },
     {
@@ -81,11 +81,23 @@
       "url": "https://www.facebook.com/firmetraders360/",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-01T06:12:55.092393+00:00",
+      "last_success_at": "2026-11-01T13:30:41.923817+00:00",
       "item_count": 10
     }
   ],
   "items": [
+    {
+      "id": "facebook:100064792208382:1634334058736319",
+      "title": "The player-run concert called \"In the Hall of the Goblin King\" will be performed today featuring the music of Scandinavi",
+      "url": "https://www.facebook.com/LOTRO/posts/pfbid029Ns6uoJcUzgijrX8sL9thEyJa1GhRPixBTqywh7NrgUiwpXSTXyBLxNE8JtAE3Fwl",
+      "published_at": "2026-11-01T12:40:24+00:00",
+      "updated_at": "2026-11-01T12:40:24+00:00",
+      "description": "The player-run concert called \"In the Hall of the Goblin King\" will be performed today featuring the music of Scandinavia! Learn more about this event in the Rivendell Homesteads of Meriadoc starting at 1p Eastern (-4 GMT) in the LOTRO Foru",
+      "image_url": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.99422-6/873947741_1036462999495573_9117375430743206120_n.png?stp=dst-jpg_tt6&cstp=mx1024x642&ctp=p843x403&_nc_cat=101&ccb=1-7&_nc_sid=127cfc&_nc_ohc=pkpwdZ-INLEQ7kNvwF0ajIw&_nc_oc=Adp17423su-dX0jrVI_CAdIp_GNzKKoFIhmQfBpT2eB8v_oX5ivgixiXhiTuWok3IxU&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=duSMdKAlqPHORG5-DRYByw&_nc_ss=7f289&oh=00_AQRF50Impe28AXxEk0hxdTImvYOLc2qUnZpFBSz8-bjILg&oe=6AED1A23",
+      "source_id": "lotro",
+      "source_name": "The Lord of the Rings Online",
+      "platform": "facebook"
+    },
     {
       "id": "facebook:100064792208382:1633599345476457",
       "title": "This is your final weekend to get the Patron's Coffer of Promised Allies in the LOTRO Store! Available through November ",
@@ -97,6 +109,18 @@
       "source_id": "lotro",
       "source_name": "The Lord of the Rings Online",
       "platform": "facebook"
+    },
+    {
+      "id": "youtube:zK0rnQofQm4",
+      "title": "Un déguisement à 130 millions",
+      "url": "https://www.youtube.com/watch?v=zK0rnQofQm4",
+      "published_at": "2026-10-31T20:40:27+00:00",
+      "updated_at": "2026-11-01T07:47:00+00:00",
+      "description": "Un déguisement à 130 millions",
+      "image_url": "https://i3.ytimg.com/vi/zK0rnQofQm4/hqdefault.jpg",
+      "source_id": "investi-qc",
+      "source_name": "Investi QC",
+      "platform": "youtube"
     },
     {
       "id": "facebook:100064792208382:1633530438816681",
@@ -117,7 +141,7 @@
       "published_at": "2026-10-31T18:01:04+00:00",
       "updated_at": "2026-10-31T18:01:04+00:00",
       "description": "Happy Halloween, my loyal subjects! 👑🎃\n\nYour Mad King performs every 3 hours in Lion's Arch and Kamadan. Attendance is... strongly encouraged. 😈\n\nMore Halloween event information: https://www.guildwars.com/en/events/halloween\n\n#GuildWarsRef",
-      "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t15.5256-10/883339107_1490073016298890_8389313595929799298_n.jpg?stp=dst-jpg_tt6&cstp=mx1920x1080&ctp=s960x960&_nc_cat=107&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=vZb7Pgpgp2QQ7kNvwHo0fL-&_nc_oc=AdrlKZyDrAnqV6_pZM0-efVApHlSdLFuUT6izGqx-b3GNH599-G190HnViN4iXs23RA&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&_nc_gid=9nYhgxTfwKHkvktdooPRLQ&_nc_ss=7f289&oh=00_AQQlPYY5YYLp0B2l7Xb8BTEQnXuurJnkdb_f7elGfpm3kA&oe=6AECC586",
+      "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t15.5256-10/883339107_1490073016298890_8389313595929799298_n.jpg?stp=dst-jpg_tt6&cstp=mx1920x1080&ctp=s960x960&_nc_cat=107&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=_harSMfz85cQ7kNvwEP2_Ns&_nc_oc=AdpF88jIPPuIWlWOldgYtSGvp-hjTTvjLqYDT9VN2_k_njeucb3f_-bKZxjTfqbUeUA&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&_nc_gid=MOm69zlAHejD8obtzMR5Vw&_nc_ss=7f289&oh=00_AQRbmOsQeZtDAMVb1R68BdcU5CTmke0bFgU078U2DT-UMw&oe=6AECFDC6",
       "source_id": "guild-wars",
       "source_name": "Guild Wars",
       "platform": "facebook"
@@ -139,7 +163,7 @@
       "title": "Les bonnes compagnies se font rares au Canada, ce qui aide les multiples de Dollorama",
       "url": "https://www.youtube.com/watch?v=-74PgBcsq94",
       "published_at": "2026-10-31T15:40:42+00:00",
-      "updated_at": "2026-10-31T16:28:33+00:00",
+      "updated_at": "2026-11-01T07:30:18+00:00",
       "description": "Les bonnes compagnies se font rares au Canada, ce qui aide les multiples de Dollorama",
       "image_url": "https://i2.ytimg.com/vi/-74PgBcsq94/hqdefault.jpg",
       "source_id": "investi-qc",
@@ -209,11 +233,11 @@
     {
       "id": "facebook:100064655653099:1569781128520394",
       "title": "❄️ 𝐋’𝐢𝐧𝐬𝐭𝐚𝐥𝐥𝐚𝐭𝐢𝐨𝐧 𝐝𝐞𝐬 𝐚𝐛𝐫𝐢𝐬 𝐝’𝐡𝐢𝐯𝐞𝐫 : 𝐪𝐮𝐞𝐥𝐪𝐮𝐞𝐬 𝐫𝐞̀𝐠𝐥𝐞𝐬 𝐚̀ 𝐫𝐞𝐬𝐩𝐞𝐜𝐭𝐞𝐫!",
-      "url": "https://www.facebook.com/VilleDeLavaltrie/posts/pfbid034gPDughevrBDs1Au1dsXnqec6ceHE24k7tn6eZvZzNi7QLjL8YaC2evDxZVAhWhal",
+      "url": "https://www.facebook.com/VilleDeLavaltrie/posts/pfbid0218k2zX5J5WXLgV8CvUSuAXogAmZA8HCRAEA5yge1h4eUWSKy8EdM3S5e1nH9yJ7Bl",
       "published_at": "2026-10-30T21:00:00+00:00",
       "updated_at": "2026-10-30T21:00:00+00:00",
       "description": "❄️ 𝐋’𝐢𝐧𝐬𝐭𝐚𝐥𝐥𝐚𝐭𝐢𝐨𝐧 𝐝𝐞𝐬 𝐚𝐛𝐫𝐢𝐬 𝐝’𝐡𝐢𝐯𝐞𝐫 : 𝐪𝐮𝐞𝐥𝐪𝐮𝐞𝐬 𝐫𝐞̀𝐠𝐥𝐞𝐬 𝐚̀ 𝐫𝐞𝐬𝐩𝐞𝐜𝐭𝐞𝐫!\n\nAvec l’arrivée de la saison froide, plusieurs ont procédé à l'installation de leur abris temporaire, mais connaissez-vous bien la réglementation la concernant? 🚗\n\nVoici q",
-      "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.99422-6/855109209_1624855622432675_4755121690779818882_n.png?stp=dst-jpg_tt6&cstp=mx1080x1080&ctp=p526x296&_nc_cat=107&ccb=1-7&_nc_sid=127cfc&_nc_ohc=Y68_mmSS8t0Q7kNvwHQ1Uau&_nc_oc=AdpL6TpJ3bgX8GQw_I75wGPHcQSo4ZXM5PAIgWnd9LGyqnFagiUxbQMSDE77VHK6Vjc&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=FUe5yxxBepPBvYvMYwRqRA&_nc_ss=7f289&oh=00_AQTylbJ90sJ-FfunwDBQBtWIVmq5C7Fqcxa1q9LWdHKAIg&oe=6AEBEE6D",
+      "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.99422-6/855109209_1624855622432675_4755121690779818882_n.png?stp=dst-jpg_tt6&cstp=mx1080x1080&ctp=p526x296&_nc_cat=107&ccb=1-7&_nc_sid=127cfc&_nc_ohc=XOrz3OdGrOMQ7kNvwEfFA5M&_nc_oc=AdoYhqGenfzIXONmkrELRWrZXz5nDiEOnCY3fyS335bMdCkpKXswNPGrbQscLTCqxcc&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=jaRnLL2IaKsMoTVm6K1iCA&_nc_ss=7f289&oh=00_AQTNW7aboE5IuBwZepM20kJArNftVM977ZRUCkdO1fA7ZA&oe=6AED07AD",
       "source_id": "ville-de-lavaltrie",
       "source_name": "Ville de Lavaltrie",
       "platform": "facebook"
@@ -221,11 +245,11 @@
     {
       "id": "facebook:100063889127390:1662081432598145",
       "title": "Le Nasdaq frôle les -3% aujourd’hui mais mes actions pharma semblent vivre dans un autre marché. D’où l’importance de la",
-      "url": "https://www.facebook.com/firmetraders360/posts/pfbid025Yd1U8n9QrmucdXGqiaj8f9eRfL76ckL6Cbiroi63Xgxa1jz8JQBTYHg1QnkCboWl",
+      "url": "https://www.facebook.com/firmetraders360/posts/pfbid0X2HzKaajt5snMGqpq5qJuKTjDcHGihUdaWf2FDRpsWf6eRgZjZ3i8YJDdSY95nTl",
       "published_at": "2026-10-30T20:36:34+00:00",
       "updated_at": "2026-10-30T20:36:34+00:00",
       "description": "Le Nasdaq frôle les -3% aujourd’hui mais mes actions pharma semblent vivre dans un autre marché. D’où l’importance de la diversification sectorielle dans un portefeuille.\n\nJe suis actionnaire de Johnson & Johnson, Merck et Bristol-Myers. En",
-      "image_url": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.99422-6/870394323_1008624818923770_4764982688495605997_n.png?stp=dst-jpg_tt6&cstp=mx1488x1056&ctp=s720x720&_nc_cat=101&ccb=1-7&_nc_sid=127cfc&_nc_ohc=8p-OI_V-juMQ7kNvwFOzCVU&_nc_oc=AdrGY8NsZ2PpbukEAFItbRchDLp2n0DqF2ReyU-fLU01XeVJ9Ov_MGQdLXCyVi_btmA&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=mWYUHy1p4q8Ns4AJQmMQjQ&_nc_ss=7f289&oh=00_AQQMZ-eY68vbuOO2G4PFBVfdwk0UcMf9u1cI_OlwsLvKmg&oe=6AEC92AD",
+      "image_url": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.99422-6/870394323_1008624818923770_4764982688495605997_n.png?stp=dst-jpg_tt6&cstp=mx1488x1056&ctp=s720x720&_nc_cat=101&ccb=1-7&_nc_sid=127cfc&_nc_ohc=8p-OI_V-juMQ7kNvwFWS5yT&_nc_oc=AdozMO7RSfTMAGVdvkLpDLCU3FwEZ5Wekuv-4Hcb98yNs2S63gEx9gih1fvOkkbB4zU&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=RpTRHPSsHwy6akdQ-i_u-g&_nc_ss=7f289&oh=00_AQTgVonO6CP73v222Aeqw6WYVL4yIYiGtjrw7E6vTEUVNA&oe=6AED032D",
       "source_id": "traders-360",
       "source_name": "Traders 360",
       "platform": "facebook"
@@ -379,7 +403,7 @@
       "title": "Top 10 des Histoires d'horreurs en bourse | Investi - Spécial Halloween (Ép. 71)",
       "url": "https://www.youtube.com/watch?v=7hvHYM3XFtk",
       "published_at": "2026-10-29T19:00:04+00:00",
-      "updated_at": "2026-10-31T13:54:02+00:00",
+      "updated_at": "2026-11-01T12:48:47+00:00",
       "description": "🎃 SPÉCIAL HALLOWEEN : Vincent et Marc vous présentent les pires histoires d’horreur en investissement, choisies par notre communauté! \n\nAu menu, 11 entreprises et scandales financiers qui ont marqué les investisseurs :\n\n- Prime Drink Group (PRME)\n- Lion Électrique (LEV)\n- Nemaska Lithium (NMX)\n- Norbourg\n- Nortel\n- AMC Entertainment (AMC)\n- Bre-X\n- The Green Organic Dutchman (TGOD)\n- Prometic Life Sciences (PLI)\n- Xebec Adsorption (XBC)\n- Transat (TRZ)\n\nDes faillites spectaculaires, des fraudes financières, des promesses de croissance jamais réalisées et des investisseurs qui ont perdu des fortunes.\n\nMais derrière chaque histoire d’horreur, une question revient : aurait-on pu voir les signes avant-coureurs?\n\nOn décortique les décisions, les événements et les erreurs qui ont transformé des investissements prometteurs en véritables cauchemars financiers.\n\n👻 Et vous, quelle est votre pire histoire d’horreur en bourse? Racontez-la dans les commentaires!\n\nFaites confiance à une plateforme de courtage qui vous montre la vraie histoire derrière celle qu'on vous raconte. Aucun frais de transaction sur les actions et FNB : https://bncd.ca/podcast-investi\n\nBanque Nationale Courtage Direct offre l’exécution d’ordres sans conseils. Vous êtes responsables de vos décisions de placement.\n\n🎭 Vincent est ici un personnage interprété pour l’Halloween. Le véritable Vincent Lacroix ne participe pas à cet épisode.\n\n⚠️ Les informations partagées dans cette vidéo sont fournies à des fins éducatives et de divertissement seulement. Elles ne constituent pas des conseils financiers ni des recommandations d’achat ou de vente.\n\nCHAPITRES:\n00:00 Prime Drink Group : Les pièges de l'endettement excessif\n11:58 Lion Électrique : Quand les promesses dépassent la réalité\n22:20 Nemaska Lithium : Les pièges de l'investissement thématique\n25:54 Nortel : Quand la bulle éclate et les dirigeants vendent\n30:14 Bre-X : Le plus grand scandale aurifère jamais vu\n35:17 Norbourg : 130 millions disparus et les leçons pour les investisseurs\n41:12 AMC : Comment la dilution a sauvé l'entreprise du désastre\n48:25 TGOD : Les défis du marché du cannabis et les stop-loss\n56:10 Éviter les erreurs : Concentration, levier et évitement d'information\n1:04:45 Prometic Life Sciences : Les retards de la FDA et la dilution massive\n1:10:07 Xebec Adsorption : L'engouement pour l'énergie verte et la dette\n1:11:56 Transat : L'impact de la pandémie et les rumeurs d'acquisition\n1:14:11 Synthèse : Les 5 pièges des histoires d'horreur en bourse",
       "image_url": "https://i4.ytimg.com/vi/7hvHYM3XFtk/hqdefault.jpg",
       "source_id": "investi-qc",
@@ -415,7 +439,7 @@
       "title": "Des fnb avec levier modéré à 1.25x",
       "url": "https://www.youtube.com/watch?v=q6xh8GBWFtQ",
       "published_at": "2026-10-29T15:40:40+00:00",
-      "updated_at": "2026-10-30T06:53:59+00:00",
+      "updated_at": "2026-10-30T19:19:05+00:00",
       "description": "Des fnb avec levier modéré à 1.25x",
       "image_url": "https://i2.ytimg.com/vi/q6xh8GBWFtQ/hqdefault.jpg",
       "source_id": "investi-qc",
@@ -475,7 +499,7 @@
       "title": "C’est quoi un FNB activement géré?",
       "url": "https://www.youtube.com/watch?v=wiOB9cWh-PU",
       "published_at": "2026-10-28T23:38:28+00:00",
-      "updated_at": "2026-10-29T06:49:30+00:00",
+      "updated_at": "2026-10-30T19:14:13+00:00",
       "description": "C’est quoi un FNB activement géré?",
       "image_url": "https://i4.ytimg.com/vi/wiOB9cWh-PU/hqdefault.jpg",
       "source_id": "investi-qc",
@@ -571,7 +595,7 @@
       "title": "Quand Global X lance un nouveau FNB",
       "url": "https://www.youtube.com/watch?v=cEVc0I-wjA8",
       "published_at": "2026-10-28T15:38:27+00:00",
-      "updated_at": "2026-10-29T07:15:16+00:00",
+      "updated_at": "2026-10-30T19:12:10+00:00",
       "description": "Quand Global X lance un nouveau FNB",
       "image_url": "https://i4.ytimg.com/vi/cEVc0I-wjA8/hqdefault.jpg",
       "source_id": "investi-qc",
@@ -691,7 +715,7 @@
       "title": "Quelque chose a explosé deux fois dans l’univers… de deux façons différentes ! DNDE",
       "url": "https://www.youtube.com/watch?v=Rq_a_LLLKtE",
       "published_at": "2026-10-27T17:00:19+00:00",
-      "updated_at": "2026-10-28T10:54:25+00:00",
+      "updated_at": "2026-10-31T04:27:53+00:00",
       "description": "Dernières Nouvelles des Étoiles (DNDE) est un format hebdomadaire qui fait le tour de l’actualité spatiale. SpaceX, NASA, ESA, Chine : quels seront les prochains grands défis de l’humanité en matière d’exploration de l’espace ?\nAu programme cette semaine : un mystérieux double sursaut gamma qui pourrait révéler un phénomène astrophysique encore inconnu, la NASA qui rebat les cartes du programme Artemis en remettant SpaceX et Blue Origin en concurrence pour le retour sur la Lune, et les avancées du programme lunaire chinois qui pourrait bien prendre de vitesse les Américains.\n\nRetrouvez les podcasts sur Spotify : https://open.spotify.com/show/4tSLoAKS8jh4mVftHpkkb3\nSources :\nLe mystérieux double sursaut gamma GRB 160425A :\nhttps://www.nature.com/articles/s41550-026-03007-0\nLa NASA bouleverse le programme Artemis :\nhttps://www.nasa.gov/missions/artemis/nasa-partners-accelerate-lander-development-for-2028-moon-missions/\nLa Chine poursuit son programme lunaire habité :\nhttps://www.cmse.gov.cn/\n\nMusiques : Pedro Macedo Camacho / Star Citizen, Utho Riley et Gérald M. Dorai\nImages : NASA, NASA Goddard, SpaceX, Blue Origin, CNSA, CMSA\nMoteur 3D : Space Engine Pro",
       "image_url": "https://i3.ytimg.com/vi/Rq_a_LLLKtE/hqdefault.jpg",
       "source_id": "hugo-lisoir",
@@ -703,7 +727,7 @@
       "title": "C’est quoi la titrisation?",
       "url": "https://www.youtube.com/watch?v=iUDsAY-BXFk",
       "published_at": "2026-10-27T15:37:00+00:00",
-      "updated_at": "2026-10-28T17:26:23+00:00",
+      "updated_at": "2026-10-31T04:29:51+00:00",
       "description": "C’est quoi la titrisation?",
       "image_url": "https://i2.ytimg.com/vi/iUDsAY-BXFk/hqdefault.jpg",
       "source_id": "investi-qc",
@@ -727,7 +751,7 @@
       "title": "Le Livret A expliqué en 1 minute (qui fixe son taux ?)",
       "url": "https://www.youtube.com/watch?v=3TXu9sRJD9Q",
       "published_at": "2026-10-27T12:00:22+00:00",
-      "updated_at": "2026-10-27T12:00:23+00:00",
+      "updated_at": "2026-10-31T04:31:59+00:00",
       "description": "Le Livret A est un compte d'épargne dont le taux n'est pas libre : il est fixé par l'État. Depuis le 1er août 2026, il rapporte 1,7 % par an, sans impôt. On n'a droit qu'à un seul Livret A par personne, plafonné à 22 950 € de dépôts.\nLe taux ne sort pas d'un chapeau : le gouverneur de la Banque de France propose une formule fondée sur la moyenne de l'inflation et du taux des banques entre elles (€STR). Au 15 juillet 2026 : inflation 1,52 %, €STR 1,95 %, soit 1,7 % après arrondi. Le ministre de l'Économie décide ensuite.\nCe qui étonne : plus de la moitié de l'épargne des Livrets A et LDDS (59,5 %) est centralisée à la Caisse des Dépôts. En 2025, le Fonds d'épargne a financé 123 036 logements sociaux.\nPour vous : 10 000 € sur un Livret A rapporteraient environ 170 € en un an si le taux restait à 1,7 %. Le taux est révisé chaque 1er février et 1er août.\n\n👉 Quel concept d'économie voulez-vous voir demain ? Dites-le en commentaire. Un concept d'économie par jour, expliqué en bâtons.\n\nSources (lues le 18/10/2026) :\n- Service-public.fr, Livret A (fiche F2365) : https://www.service-public.gouv.fr/particuliers/vosdroits/F2365\n- Banque de France, taux du Livret A et proposition du gouverneur, 15/07/2026\n- Caisse des Dépôts, Fonds d'épargne : encours centralisé (18/05/2026) et logements sociaux financés en 2025\nLe taux du Livret A peut changer à chaque révision. Ceci n'est pas un conseil financier.\n\nMusique : composée avec ElevenLabs Music pour la chaîne.\n\n#LivretA #économie #épargne #taux #apprendre #Shorts",
       "image_url": "https://i4.ytimg.com/vi/3TXu9sRJD9Q/hqdefault.jpg",
       "source_id": "eco-en-batons",
@@ -751,7 +775,7 @@
       "title": "Est-ce que Nike a fini sa chute?",
       "url": "https://www.youtube.com/watch?v=kNLZH1T2y4E",
       "published_at": "2026-10-26T22:40:53+00:00",
-      "updated_at": "2026-10-28T17:28:17+00:00",
+      "updated_at": "2026-10-30T10:06:51+00:00",
       "description": "Est-ce que Nike a fini sa chute?",
       "image_url": "https://i4.ytimg.com/vi/kNLZH1T2y4E/hqdefault.jpg",
       "source_id": "investi-qc",
@@ -787,7 +811,7 @@
       "title": "Mes actions BMO me rapportent 6,6% par année en dividendes (yield on cost)",
       "url": "https://www.youtube.com/watch?v=tfH37hvQwos",
       "published_at": "2026-10-26T21:50:38+00:00",
-      "updated_at": "2026-10-27T14:09:06+00:00",
+      "updated_at": "2026-10-30T10:01:09+00:00",
       "description": "Ce rendement est calculé sur mon coût d'achat moyen de 103$ par action. Quelqu'un qui achète l'action au prix d'aujourd'hui obtiendrait un rendement autour de 2,9%.\n\nIl ne faut pas oublier le fait que le montant du dividende trimestriel a grimpé de 60% depuis 2020.",
       "image_url": "https://i1.ytimg.com/vi/tfH37hvQwos/hqdefault.jpg",
       "source_id": "alex-demers-finance360",
@@ -823,7 +847,7 @@
       "title": "Question du public: Si vous recommenciez à zéro, que feriez-vous différemment?",
       "url": "https://www.youtube.com/watch?v=65LA-y56cus",
       "published_at": "2026-10-26T15:37:13+00:00",
-      "updated_at": "2026-10-27T07:40:35+00:00",
+      "updated_at": "2026-10-30T10:07:50+00:00",
       "description": "Question du public: Si vous recommenciez à zéro, que feriez-vous différemment?",
       "image_url": "https://i3.ytimg.com/vi/65LA-y56cus/hqdefault.jpg",
       "source_id": "investi-qc",
@@ -847,7 +871,7 @@
       "title": "Le taux directeur expliqué en 1 minute (pourquoi il touche votre crédit)",
       "url": "https://www.youtube.com/watch?v=raE_2QSxr0k",
       "published_at": "2026-10-26T12:00:23+00:00",
-      "updated_at": "2026-10-26T12:00:28+00:00",
+      "updated_at": "2026-10-30T10:03:49+00:00",
       "description": "Le taux directeur est le taux d'intérêt fixé par la banque centrale : c'est son principal outil. Dans la zone euro, le taux de dépôt de la BCE, celui que les banques reçoivent quand elles placent leur argent chez elle, est le plus suivi des trois taux directeurs. Depuis le 16 septembre 2026, il est de 2,5 %.\nPourquoi il vous touche : quand il monte, les banques relèvent le coût du crédit, on emprunte moins, on dépense moins, et l'inflation ralentit, au bout de plusieurs mois. Exemple (calcul illustratif, hors assurance) : sur un crédit de 200 000 € sur 20 ans, un point de taux en plus coûte environ 100 € de plus par mois.\nCe qui étonne : jusqu'en juillet 2022, ce taux était négatif. La BCE l'a ensuite relevé dix fois de suite, jusqu'à 4 % en septembre 2023.\nMais votre taux de crédit ne suit pas mécaniquement le taux directeur : il dépend aussi des taux à long terme, de la concurrence entre banques et de votre dossier.\n\n👉 Quel concept d'économie voulez-vous voir demain ? Dites-le en commentaire. Un concept d'économie par jour, expliqué en bâtons.\n\nSources (lues le 18/10/2026) :\n- BCE, décisions de politique monétaire du 10/09/2026 : https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.mp260910~314e508016.en.html\n- BCE, taux directeurs (historique) : https://www.ecb.europa.eu/stats/policy_and_exchange_rates/key_ecb_interest_rates/html/index.en.html\n- Banque de France, La transmission de la politique monétaire : https://www.banque-france.fr/fr/publications-et-statistiques/publications/la-transmission-de-la-politique-monetaire\n- Banque de France, Crédits aux particuliers, août 2026 (taux moyen des nouveaux crédits à l'habitat : 3,32 %) : https://www.banque-france.fr/fr/statistiques/credit/credits-aux-particuliers-2026-08\nLe taux de la BCE est revu à chaque réunion de son Conseil des gouverneurs : les chiffres ci-dessus sont ceux de septembre 2026. Ceci n'est pas un conseil financier.\n\nMusique : composée avec ElevenLabs Music pour la chaîne.\n\n#tauxdirecteur #BCE #économie #crédit #apprendre #Shorts",
       "image_url": "https://i3.ytimg.com/vi/raE_2QSxr0k/hqdefault.jpg",
       "source_id": "eco-en-batons",
@@ -1399,7 +1423,7 @@
       "title": "Je surveille le prix des actions de Home Depot (HD) qui continue de baisser #bourse",
       "url": "https://www.youtube.com/watch?v=FPFddWz-kuk",
       "published_at": "2026-09-28T22:13:57+00:00",
-      "updated_at": "2026-10-02T08:19:33+00:00",
+      "updated_at": "2026-10-30T19:23:04+00:00",
       "description": "Je suis déjà actionnaire d'Home Depot et je considère que le titre est temporairement sous-évalué.\n\nSelon moi, le fort ralentissement de l'immobilier aux États-Unis pèse sur les perspectives de l'entreprise etsur le prix que les investisseurs sont prêts à payer.\n\nMa thèse c'est que les difficultés actuelles ne dureront pas éternellement. Une reprise des transactions et des rénovations pourrait redonner de l'élan à Home Depot.\n\nReste à voir combien de temps il faudra patienter.",
       "image_url": "https://i3.ytimg.com/vi/FPFddWz-kuk/hqdefault.jpg",
       "source_id": "alex-demers-finance360",
