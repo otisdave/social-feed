@@ -2,16 +2,16 @@
   "version": 1,
   "title": "Social Feed",
   "description": "Un seul fil pour suivre les sources qui comptent.",
-  "generated_at": "2026-11-02T02:33:55.903625+00:00",
+  "generated_at": "2026-11-02T11:15:47.390100+00:00",
   "sources": [
     {
       "id": "eco-en-batons",
       "name": "Éco en bâtons",
       "platform": "youtube",
       "url": "https://www.youtube.com/@Eco_en_batons",
-      "status": "error",
-      "error": "HTTPError: HTTP Error 404: Not Found",
-      "last_success_at": "2026-11-01T22:52:31.896318+00:00",
+      "status": "ok",
+      "error": null,
+      "last_success_at": "2026-11-02T11:15:47.390100+00:00",
       "item_count": 21
     },
     {
@@ -19,19 +19,19 @@
       "name": "Investi QC",
       "platform": "youtube",
       "url": "https://www.youtube.com/@investi-qc",
-      "status": "error",
-      "error": "HTTPError: HTTP Error 404: Not Found",
-      "last_success_at": "2026-11-01T22:52:31.896318+00:00",
-      "item_count": 28
+      "status": "ok",
+      "error": null,
+      "last_success_at": "2026-11-02T11:15:47.390100+00:00",
+      "item_count": 29
     },
     {
       "id": "hugo-lisoir",
       "name": "Hugo Lisoir",
       "platform": "youtube",
       "url": "https://www.youtube.com/@hugolisoiryoutube",
-      "status": "error",
-      "error": "HTTPError: HTTP Error 404: Not Found",
-      "last_success_at": "2026-11-01T22:52:31.896318+00:00",
+      "status": "ok",
+      "error": null,
+      "last_success_at": "2026-11-02T11:15:47.390100+00:00",
       "item_count": 18
     },
     {
@@ -39,10 +39,10 @@
       "name": "Alex Demers — Finance 360",
       "platform": "youtube",
       "url": "https://www.youtube.com/@alexdemers-finance360",
-      "status": "error",
-      "error": "HTTPError: HTTP Error 404: Not Found",
-      "last_success_at": "2026-11-01T22:52:31.896318+00:00",
-      "item_count": 16
+      "status": "ok",
+      "error": null,
+      "last_success_at": "2026-11-02T11:15:47.390100+00:00",
+      "item_count": 17
     },
     {
       "id": "guild-wars",
@@ -51,7 +51,7 @@
       "url": "https://www.facebook.com/GuildWars/",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-02T02:33:55.903625+00:00",
+      "last_success_at": "2026-11-02T11:15:47.390100+00:00",
       "item_count": 5
     },
     {
@@ -61,7 +61,7 @@
       "url": "https://www.facebook.com/LOTRO/",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-02T02:33:55.903625+00:00",
+      "last_success_at": "2026-11-02T11:15:47.390100+00:00",
       "item_count": 15
     },
     {
@@ -71,7 +71,7 @@
       "url": "https://www.facebook.com/VilleDeLavaltrie/",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-02T02:33:55.903625+00:00",
+      "last_success_at": "2026-11-02T11:15:47.390100+00:00",
       "item_count": 10
     },
     {
@@ -81,11 +81,35 @@
       "url": "https://www.facebook.com/firmetraders360/",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-02T02:33:55.903625+00:00",
+      "last_success_at": "2026-11-02T11:15:47.390100+00:00",
       "item_count": 11
     }
   ],
   "items": [
+    {
+      "id": "youtube:nMwyfG7QhAU",
+      "title": "Tout est moins cher chez Dollorama?",
+      "url": "https://www.youtube.com/watch?v=nMwyfG7QhAU",
+      "published_at": "2026-11-02T00:39:43+00:00",
+      "updated_at": "2026-11-02T05:49:59+00:00",
+      "description": "Tout est moins cher chez Dollorama?",
+      "image_url": "https://i3.ytimg.com/vi/nMwyfG7QhAU/hqdefault.jpg",
+      "source_id": "investi-qc",
+      "source_name": "Investi QC",
+      "platform": "youtube"
+    },
+    {
+      "id": "youtube:GCAxkoGrGLQ",
+      "title": "Derrière le boom de l'IA, beaucoup de fournisseurs comptent sur les dépenses des hyperscalers #capex",
+      "url": "https://www.youtube.com/watch?v=GCAxkoGrGLQ",
+      "published_at": "2026-11-02T00:00:47+00:00",
+      "updated_at": "2026-11-02T03:29:35+00:00",
+      "description": "Derrière le boom de l'IA, beaucoup d'entreprises comptent sur les dépenses des 4 mêmes clients.\nSelon moi, le plus gros risque du trade sur l'IA, c'est que la croissance anticipée des différents fournisseurs dépend essentiellement des investissements de Meta, Google, Microsoft et Amazon dans leurs infrastructures.",
+      "image_url": "https://i4.ytimg.com/vi/GCAxkoGrGLQ/hqdefault.jpg",
+      "source_id": "alex-demers-finance360",
+      "source_name": "Alex Demers — Finance 360",
+      "platform": "youtube"
+    },
     {
       "id": "facebook:100063889127390:1664399055699716",
       "title": "Une 3e semaine consécutive de résultats financiers.",
@@ -93,7 +117,7 @@
       "published_at": "2026-11-01T23:54:33+00:00",
       "updated_at": "2026-11-01T23:54:33+00:00",
       "description": "Une 3e semaine consécutive de résultats financiers.\n\nEncore une fois, je vous partage les entreprises dont je suis actinnaire qui vont publier leurs earnings dans les prochains jours.\n\nJe me dis que ça ne peut pas être pire que la semaine p",
-      "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.99422-6/883002873_1907448090463242_5127865771509976087_n.png?stp=dst-jpg_tt6&cstp=mx1680x960&ctp=p180x540&_nc_cat=107&ccb=1-7&_nc_sid=127cfc&_nc_ohc=OQR2HjdgA1MQ7kNvwE4bKqY&_nc_oc=Ado8CSdI0V6O8RYHPKBJGFyBniNRUrpsOpI7aHr2VYCDXoKJyu5Y_VYBXWI5IAitT0o&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=Re5ruv7XFQEYR4nr7dBOTg&_nc_ss=7f289&oh=00_AQSgf5qmwNi8h7QM5OBRQXjyil9-rV9XXvVF66NbYYcE_g&oe=6AEDC105",
+      "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.99422-6/883002873_1907448090463242_5127865771509976087_n.png?stp=dst-jpg_tt6&cstp=mx1680x960&ctp=p180x540&_nc_cat=107&ccb=1-7&_nc_sid=127cfc&_nc_ohc=OQR2HjdgA1MQ7kNvwEz97aD&_nc_oc=AdpdDqt0fFxhsm70fFzXxMzyxIdO9_Ulp9p_wZ-OCgp443PVEa3hYAky8Rqe6lvnHBs&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=ZMf0VuelkGFBLk9NMd1-rQ&_nc_ss=7f289&oh=00_AQQDn84vmSkwgmR52nE6XVSRIPLXrwO3aYk03HK1P1QXNg&oe=6AEE3185",
       "source_id": "traders-360",
       "source_name": "Traders 360",
       "platform": "facebook"
@@ -103,7 +127,7 @@
       "title": "Pourquoi deux FNB similaires ont des écarts aussi important de frais de gestion?",
       "url": "https://www.youtube.com/watch?v=ZQHSQjMMy10",
       "published_at": "2026-11-01T20:39:12+00:00",
-      "updated_at": "2026-11-01T20:57:44+00:00",
+      "updated_at": "2026-11-01T23:53:11+00:00",
       "description": "Pourquoi deux FNB similaires ont des écarts aussi important de frais de gestion?",
       "image_url": "https://i3.ytimg.com/vi/ZQHSQjMMy10/hqdefault.jpg",
       "source_id": "investi-qc",
@@ -201,7 +225,7 @@
       "published_at": "2026-10-31T18:01:04+00:00",
       "updated_at": "2026-10-31T18:01:04+00:00",
       "description": "Happy Halloween, my loyal subjects! 👑🎃\n\nYour Mad King performs every 3 hours in Lion's Arch and Kamadan. Attendance is... strongly encouraged. 😈\n\nMore Halloween event information: https://www.guildwars.com/en/events/halloween\n\n#GuildWarsRef",
-      "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t15.5256-10/883339107_1490073016298890_8389313595929799298_n.jpg?stp=dst-jpg_tt6&cstp=mx1920x1080&ctp=s960x960&_nc_cat=107&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=_harSMfz85cQ7kNvwFXs_A2&_nc_oc=AdrHv0IYUeXw1AC2bsYaHUrNDi89XP8hcXjeS9oI8GpDeUrh5atl2UkB4PUfiB3e1ng&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&_nc_gid=1GV8XIj0kdABUo4IupiFqw&_nc_ss=7f289&oh=00_AQRdkSSuQWX_RbiHgBDOJfT84l23IFX5nOUbfMW8ra4D5Q&oe=6AEDDEC6",
+      "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t15.5256-10/883339107_1490073016298890_8389313595929799298_n.jpg?stp=dst-jpg_tt6&cstp=mx1920x1080&ctp=s960x960&_nc_cat=107&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=_harSMfz85cQ7kNvwFqAm77&_nc_oc=Adoe960ml5Alv45YpU0wNINB3n_TdXT74O1rv0ueMw5ra_JD1lxu5Gvo7KInidBsyVI&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&_nc_gid=2JeAscLbv3rFZVbA0bk78A&_nc_ss=7f289&oh=00_AQRnCSzp5G5ZQo2D6wmmqgtCsLTAWOvVKweLuSpdozKTjg&oe=6AEE4F46",
       "source_id": "guild-wars",
       "source_name": "Guild Wars",
       "platform": "facebook"
@@ -293,11 +317,11 @@
     {
       "id": "facebook:100064655653099:1569781128520394",
       "title": "❄️ 𝐋’𝐢𝐧𝐬𝐭𝐚𝐥𝐥𝐚𝐭𝐢𝐨𝐧 𝐝𝐞𝐬 𝐚𝐛𝐫𝐢𝐬 𝐝’𝐡𝐢𝐯𝐞𝐫 : 𝐪𝐮𝐞𝐥𝐪𝐮𝐞𝐬 𝐫𝐞̀𝐠𝐥𝐞𝐬 𝐚̀ 𝐫𝐞𝐬𝐩𝐞𝐜𝐭𝐞𝐫!",
-      "url": "https://www.facebook.com/VilleDeLavaltrie/posts/pfbid0218k2zX5J5WXLgV8CvUSuAXogAmZA8HCRAEA5yge1h4eUWSKy8EdM3S5e1nH9yJ7Bl",
+      "url": "https://www.facebook.com/VilleDeLavaltrie/posts/pfbid034zBkBC17w6HBu53QRq9o2WvQ2YmdMUPDgvVb6mLSLtyoxtnzcCmsYmZMSoXNpG98l",
       "published_at": "2026-10-30T21:00:00+00:00",
       "updated_at": "2026-10-30T21:00:00+00:00",
       "description": "❄️ 𝐋’𝐢𝐧𝐬𝐭𝐚𝐥𝐥𝐚𝐭𝐢𝐨𝐧 𝐝𝐞𝐬 𝐚𝐛𝐫𝐢𝐬 𝐝’𝐡𝐢𝐯𝐞𝐫 : 𝐪𝐮𝐞𝐥𝐪𝐮𝐞𝐬 𝐫𝐞̀𝐠𝐥𝐞𝐬 𝐚̀ 𝐫𝐞𝐬𝐩𝐞𝐜𝐭𝐞𝐫!\n\nAvec l’arrivée de la saison froide, plusieurs ont procédé à l'installation de leur abris temporaire, mais connaissez-vous bien la réglementation la concernant? 🚗\n\nVoici q",
-      "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.99422-6/855109209_1624855622432675_4755121690779818882_n.png?stp=dst-jpg_tt6&cstp=mx1080x1080&ctp=p526x296&_nc_cat=107&ccb=1-7&_nc_sid=127cfc&_nc_ohc=XOrz3OdGrOMQ7kNvwEfFA5M&_nc_oc=AdoYhqGenfzIXONmkrELRWrZXz5nDiEOnCY3fyS335bMdCkpKXswNPGrbQscLTCqxcc&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=jaRnLL2IaKsMoTVm6K1iCA&_nc_ss=7f289&oh=00_AQTNW7aboE5IuBwZepM20kJArNftVM977ZRUCkdO1fA7ZA&oe=6AED07AD",
+      "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.99422-6/855109209_1624855622432675_4755121690779818882_n.png?stp=dst-jpg_tt6&cstp=mx1080x1080&ctp=p526x296&_nc_cat=107&ccb=1-7&_nc_sid=127cfc&_nc_ohc=XOrz3OdGrOMQ7kNvwGYrkZ7&_nc_oc=Adp-gdtIFuuBBrmJfA6eWANivF6cV8JE0qex9JfO6Y4GHtmE0NIG_Ip-J9Q0UI5rCy4&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=bpikbva8dgj1pkt1YxhvPQ&_nc_ss=7f289&oh=00_AQS1TZl_XpU0ookMJnQjdKSph37y7p55SpU2YjvsJ-5Jow&oe=6AEE592D",
       "source_id": "ville-de-lavaltrie",
       "source_name": "Ville de Lavaltrie",
       "platform": "facebook"
