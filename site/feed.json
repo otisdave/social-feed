@@ -2,7 +2,7 @@
   "version": 1,
   "title": "Social Feed",
   "description": "Un seul fil pour suivre les sources qui comptent.",
-  "generated_at": "2026-11-02T11:15:47.390100+00:00",
+  "generated_at": "2026-11-02T20:49:20.081040+00:00",
   "sources": [
     {
       "id": "eco-en-batons",
@@ -11,8 +11,8 @@
       "url": "https://www.youtube.com/@Eco_en_batons",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-02T11:15:47.390100+00:00",
-      "item_count": 21
+      "last_success_at": "2026-11-02T20:49:20.081040+00:00",
+      "item_count": 22
     },
     {
       "id": "investi-qc",
@@ -21,8 +21,8 @@
       "url": "https://www.youtube.com/@investi-qc",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-02T11:15:47.390100+00:00",
-      "item_count": 29
+      "last_success_at": "2026-11-02T20:49:20.081040+00:00",
+      "item_count": 30
     },
     {
       "id": "hugo-lisoir",
@@ -31,7 +31,7 @@
       "url": "https://www.youtube.com/@hugolisoiryoutube",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-02T11:15:47.390100+00:00",
+      "last_success_at": "2026-11-02T20:49:20.081040+00:00",
       "item_count": 18
     },
     {
@@ -41,7 +41,7 @@
       "url": "https://www.youtube.com/@alexdemers-finance360",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-02T11:15:47.390100+00:00",
+      "last_success_at": "2026-11-02T20:49:20.081040+00:00",
       "item_count": 17
     },
     {
@@ -51,8 +51,8 @@
       "url": "https://www.facebook.com/GuildWars/",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-02T11:15:47.390100+00:00",
-      "item_count": 5
+      "last_success_at": "2026-11-02T20:49:20.081040+00:00",
+      "item_count": 6
     },
     {
       "id": "lotro",
@@ -61,7 +61,7 @@
       "url": "https://www.facebook.com/LOTRO/",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-02T11:15:47.390100+00:00",
+      "last_success_at": "2026-11-02T20:49:20.081040+00:00",
       "item_count": 15
     },
     {
@@ -71,8 +71,8 @@
       "url": "https://www.facebook.com/VilleDeLavaltrie/",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-02T11:15:47.390100+00:00",
-      "item_count": 10
+      "last_success_at": "2026-11-02T20:49:20.081040+00:00",
+      "item_count": 11
     },
     {
       "id": "traders-360",
@@ -81,11 +81,71 @@
       "url": "https://www.facebook.com/firmetraders360/",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-02T11:15:47.390100+00:00",
-      "item_count": 11
+      "last_success_at": "2026-11-02T20:49:20.081040+00:00",
+      "item_count": 12
     }
   ],
   "items": [
+    {
+      "id": "facebook:100063889127390:1665347672271521",
+      "title": "Berkshire Hathaway vient d’atteindre un nouveau sommet historique. ",
+      "url": "https://www.facebook.com/firmetraders360/posts/pfbid0zL7MyDSdWGVaB42ByAdrnFV6HrUHSDBoVbGKduHWQHX2koqqMaBSP9nkXUMtegsNl",
+      "published_at": "2026-11-02T19:28:46+00:00",
+      "updated_at": "2026-11-02T19:28:46+00:00",
+      "description": "Berkshire Hathaway vient d’atteindre un nouveau sommet historique. \n\nAprès plusieurs mois de stagnation, la 5e plus grosse position de mon portefeuille recommence à avancer pendant que plusieurs gros titres du Nasdaq reculent fortement. \n\nC",
+      "image_url": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.99422-6/886225457_1664278088501298_1155130064280364114_n.png?stp=dst-jpg_tt6&cstp=mx1728x912&ctp=s960x960&_nc_cat=111&ccb=1-7&_nc_sid=127cfc&_nc_ohc=Pl9JXG70BuoQ7kNvwGM7Pmu&_nc_oc=AdoCqeGddgKpqzM_gw0zEwE07MHkPElCbhOkc-O0fAwy5bAiOrsXrhM_ws3rpl62_tc&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=0W44eTbJoiIqjxPcN2wwKw&_nc_ss=7f289&oh=00_AQQn5dEG7XUxqO2WJHLmaIftcvyUI6h3Rg2k-7tv8x4z8Q&oe=6AEEB2C3",
+      "source_id": "traders-360",
+      "source_name": "Traders 360",
+      "platform": "facebook"
+    },
+    {
+      "id": "facebook:100069958479615:1430029432672326",
+      "title": "🎃 We hope you had a spooktacular Halloween!",
+      "url": "https://www.facebook.com/reel/1098314789489467/",
+      "published_at": "2026-11-02T19:01:16+00:00",
+      "updated_at": "2026-11-02T19:01:16+00:00",
+      "description": "🎃 We hope you had a spooktacular Halloween!\n\nHere's one last look at some of the amazing players who showed up to our Kamadan meetup. Thank you for making it so much fun! 👻\n\n#GuildWarsReforged #GuildWars",
+      "image_url": "https://scontent-iad3-1.xx.fbcdn.net/v/t15.5256-10/884929060_3104655723203248_5422962918921061434_n.jpg?stp=dst-jpg_tt6&cstp=mx1920x1080&ctp=s960x960&_nc_cat=104&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=RNl09Wr1HfMQ7kNvwFyrHKr&_nc_oc=AdqDi3t2-ydf5y6FK9iO3CDnx1ORgZHs_2XtnJI66mErjeFxG8SWSSieR0Kt3J-wAUE&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&_nc_gid=53IahCSxFW7ua0uLzPr8Zg&_nc_ss=7f289&oh=00_AQTsmkRY5dQKvZVuXwHGw5_6km-wyUGLkXzxk13BSoagAg&oe=6AEEC367",
+      "source_id": "guild-wars",
+      "source_name": "Guild Wars",
+      "platform": "facebook"
+    },
+    {
+      "id": "youtube:12GNSXyGFqw",
+      "title": "Il y a environ 2000 FNB au Canada",
+      "url": "https://www.youtube.com/watch?v=12GNSXyGFqw",
+      "published_at": "2026-11-02T16:45:51+00:00",
+      "updated_at": "2026-11-02T17:14:04+00:00",
+      "description": "Il y a environ 2000 FNB au Canada. Trop ou pas assez?",
+      "image_url": "https://i2.ytimg.com/vi/12GNSXyGFqw/hqdefault.jpg",
+      "source_id": "investi-qc",
+      "source_name": "Investi QC",
+      "platform": "youtube"
+    },
+    {
+      "id": "youtube:PZ3JWONt0gM",
+      "title": "Le choc pétrolier de 1973, expliqué comme si vous aviez 5 ans",
+      "url": "https://www.youtube.com/watch?v=PZ3JWONt0gM",
+      "published_at": "2026-11-02T15:00:31+00:00",
+      "updated_at": "2026-11-02T15:00:33+00:00",
+      "description": "Le choc pétrolier de 1973, expliqué comme si vous aviez 5 ans. En octobre 1973, les pays arabes producteurs réduisent leur offre et le baril passe de moins de 3 $ à près de 12 $ en quelques mois. De 1973 à 1982, on suit le chemin d'un baril plus cher jusqu'à la pompe, au salaire, aux prix, au crédit, puis la réponse de la France (plan Messmer, nucléaire, chasse au gaspi) et les taux de Paul Volcker. Une seule idée : un pétrole à peine plus rare a fini par coûter des points de croissance et des années de crédit cher.\n\n⏱️ Chapitres\n0:00 1973 : le jour où l'essence a disparu\n1:34 Partie 1 — Le robinet\n3:40 Partie 2 — Le plein\n5:57 Partie 3 — Les deux maux\n8:14 Partie 4 — Pas de pétrole, des idées\n10:08 Partie 5 — Le prix de l'argent\n12:28 Ce qu'il en reste\n\n📌 Sources (pages lues en octobre 2026)\n- Prix du baril, chaîne de transmission, stagflation, débat sur ses causes : Federal Reserve History, « Oil Shock of 1973–74 » (M. Corbett, 2013) et « The Great Inflation » (M. Bryan, 2013) ; Wikipedia, « 1973 oil crisis », « Stagflation »\n- Guerre d'octobre 1973 : Office of the Historian, « The Arab-Israeli War of 1973 »\n- Récession américaine 1973-1975 : Congressional Research Service (R40198, 2010) ; NBER (dates du cycle) ; F. Mishkin, Brookings Papers on Economic Activity (1977)\n- Inflation, chômage et croissance (États-Unis) : FRED (BLS, BEA), Minneapolis Fed ; énergie et électricité : EIA, Annual Energy Review 2011\n- Inflation, croissance et chômage en France : INSEE (Focus n° 87, 2017 ; Tableaux de l'économie française 2015 et 2019 ; « Évolution du chômage », 2025) ; Banque mondiale (série FP.CPI.TOTL.ZG)\n- Part du pétrole dans l'énergie française : Assemblée nationale, réponse à la question écrite n° 65601 (JO du 22/02/1993) ; Larousse, Journal de l'année 1974 et 1980\n- Plan Messmer, « on n'a pas de pétrole, mais on a des idées », chasse au gaspi, limitations de vitesse, heure d'été, nucléaire : Larousse (archives), INA, Sénat, Connaissance des énergies, RTE, SFEN, ministère de la Transition écologique\n- Second choc de 1979, discours de Carter du 15 juillet 1979 : Federal Reserve History, The American Presidency Project (UCSB), EIA\n- Volcker, taux directeur et taux immobiliers : Federal Reserve History, FRED\n- France 1981-1983 (dévaluations, rigueur) : Hérodote.net, Universalis, INSEE\n- Contre-choc de 1986 et Agence internationale de l'énergie : EIA, Wikipedia\n\n🎞️ Photos et crédits\n- Le roi Fayçal d'Arabie saoudite à la Maison-Blanche, 27 mai 1971 : Robert L. Knudsen, White House Photo Office / Wikimedia Commons, domaine public\n- Richard Nixon, Golda Meir et Henry Kissinger, novembre 1973 : White House Photo Office (Nixon Library) / Wikimedia Commons, domaine public\n- Ministres du pétrole ; installation pétrolière en Libye : Central Intelligence Agency / Wikimedia Commons, domaine public\n- Jimmy Carter, portrait officiel (1977) : The White House / Library of Congress / Wikimedia Commons, domaine public\n- Milton Friedman : The Friedman Foundation for Educational Choice / Wikimedia Commons, CC0\n- Pierre Messmer (1988) : Roland Godefroy / Wikimedia Commons, CC BY 3.0 (https://creativecommons.org/licenses/by/3.0/)\n- Raymond Barre, 18 mars 1980 : Koen Suyk / Anefo (Nationaal Archief, Pays-Bas) / Wikimedia Commons, CC0\n- Paul Volcker (1989) : Universitätsarchiv St.Gallen (HSG) / Wikimedia Commons, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)\n- Dimanche sans voiture aux Pays-Bas (1973) : Rob Mieremet / Anefo (Nationaal Archief) / Wikimedia Commons, CC0\n- Cuves du port d'Amsterdam : Anefo (Nationaal Archief) / Wikimedia Commons, CC0\n- Panneaux d'un magasin néerlandais : Rob Croes / Anefo (Nationaal Archief) / Wikimedia Commons, CC0\n- File d'attente devant une station-service, circulation alternée, vitesse réduite et bois de chauffage, Oregon, 1973-1974 : David Falconer, EPA Documerica / NARA / Wikimedia Commons, domaine public\n- Tickets de rationnement d'essence américains (1974) : Warren K. Leffler, U.S. News & World Report / Wikimedia Commons, domaine public\n- Document : tapuscrit du discours du 15 juillet 1979, Office of the Chief of Staff, Jimmy Carter Library / NARA (DPLA), Wikimedia Commons, domaine public\n- Cartes : Natural Earth (domaine public)\nMusique : bibliothèque audio YouTube.\nLes dessins sont des illustrations. Les montants sont datés, en dollars de l'époque. Explication générale, pas un conseil en investissement.",
+      "image_url": "https://i1.ytimg.com/vi/PZ3JWONt0gM/hqdefault.jpg",
+      "source_id": "eco-en-batons",
+      "source_name": "Éco en bâtons",
+      "platform": "youtube"
+    },
+    {
+      "id": "facebook:100064655653099:1572766651555175",
+      "title": "𝗦𝗲́𝗮𝗻𝗰𝗲 𝐨𝐫𝐝𝐢𝐧𝐚𝐢𝐫𝐞 𝗱𝘂 𝗰𝗼𝗻𝘀𝗲𝗶𝗹 𝗺𝘂𝗻𝗶𝗰𝗶𝗽𝗮𝗹 🗓️",
+      "url": "https://www.facebook.com/VilleDeLavaltrie/posts/pfbid0Exg3qAdeNRt6g8cR9oL5kLZ9aW7pSGBRqX88Pxz51UCP5azMQGP3Vf75WwVF78mjl",
+      "published_at": "2026-11-02T13:46:21+00:00",
+      "updated_at": "2026-11-02T13:46:21+00:00",
+      "description": "𝗦𝗲́𝗮𝗻𝗰𝗲 𝐨𝐫𝐝𝐢𝐧𝐚𝐢𝐫𝐞 𝗱𝘂 𝗰𝗼𝗻𝘀𝗲𝗶𝗹 𝗺𝘂𝗻𝗶𝗰𝗶𝗽𝗮𝗹 🗓️\n\nUne séance ordinaire du conseil municipal se tiendra ce 𝐥𝐮𝐧𝐝𝐢 𝟐 𝐧𝐨𝐯𝐞𝐦𝐛𝐫𝐞, 𝗮̀ 𝟭𝟵𝗵, à l’hôtel de ville (1370, rue Notre-Dame).\n\nCelle-ci sera également présentée en direct sur Facebook. 💻\n\n𝗣𝗼𝘂𝗿 𝗽𝗹𝘂𝘀 ",
+      "image_url": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.99422-6/877397706_2239176223688159_2482534293894066601_n.png?stp=dst-jpg_tt6&cstp=mx1080x1080&ctp=p526x296&_nc_cat=110&ccb=1-7&_nc_sid=127cfc&_nc_ohc=8muXh0Vbdj0Q7kNvwEe7Rdc&_nc_oc=AdqVrEDVK9MlJ1isXyR4uS56t4z6wA7wmx0Zrjy9DVwQbzEa5ZFfllCd_X_ocr3rJuc&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=tcMKYd1bkfMeRCSCOi35-g&_nc_ss=7f289&oh=00_AQS05fs18XWZd3Qkk3xpj7g1nbdtCuit3Ce1heqaRfZRDQ&oe=6AEEBB0C",
+      "source_id": "ville-de-lavaltrie",
+      "source_name": "Ville de Lavaltrie",
+      "platform": "facebook"
+    },
     {
       "id": "youtube:nMwyfG7QhAU",
       "title": "Tout est moins cher chez Dollorama?",
@@ -511,7 +571,7 @@
       "title": "Il y a un bruit de fond qui fait trembler l’espace-temps ! (et on essaye de le comprendre)",
       "url": "https://www.youtube.com/watch?v=SbS3jv8JjHw",
       "published_at": "2026-10-29T17:00:06+00:00",
-      "updated_at": "2026-10-30T06:23:00+00:00",
+      "updated_at": "2026-11-02T00:38:07+00:00",
       "description": "Un immense murmure gravitationnel traverse l’Univers. Décelé grâce au chronométrage des pulsars, ce bruit de fond pourrait nous renseigner sur l’origine des trous noirs supermassifs. Et si certains de leurs ancêtres étaient des « étoiles noires », alimentées par l’annihilation de matière noire ? Des premières détections d’ondes gravitationnelles à cette hypothèse encore spéculative, partons sur la piste des premiers géants du cosmos.\n\nSources :\nhttps://journals.aps.org/prd/abstract/10.1103/hvfd-8fkr\nhttps://arxiv.org/abs/2507.06163\nhttps://arxiv.org/abs/2511.08578\nhttps://arxiv.org/abs/1002.2233\nhttps://nanograv.org/15yr/Summary/Background\nhttps://arxiv.org/abs/2306.16213\nhttps://ligo.org/science-summaries/gw150914/\n\nMusiques : Pedro Macedo Camacho / Star Citizen, Utho Riley et Gérald M. Dorai\nImages : LIGO / Caltech / MIT, NANOGrav / Aurore Simonnet, NASA, ESA, Sohan Ghodla et Cosmin Ilie\nMoteur 3D : Space Engine Pro",
       "image_url": "https://i4.ytimg.com/vi/SbS3jv8JjHw/hqdefault.jpg",
       "source_id": "hugo-lisoir",
