@@ -2,15 +2,15 @@
   "version": 1,
   "title": "Social Feed",
   "description": "Un seul fil pour suivre les sources qui comptent.",
-  "generated_at": "2026-11-01T22:52:31.896318+00:00",
+  "generated_at": "2026-11-02T02:33:55.903625+00:00",
   "sources": [
     {
       "id": "eco-en-batons",
       "name": "Éco en bâtons",
       "platform": "youtube",
       "url": "https://www.youtube.com/@Eco_en_batons",
-      "status": "ok",
-      "error": null,
+      "status": "error",
+      "error": "HTTPError: HTTP Error 404: Not Found",
       "last_success_at": "2026-11-01T22:52:31.896318+00:00",
       "item_count": 21
     },
@@ -19,8 +19,8 @@
       "name": "Investi QC",
       "platform": "youtube",
       "url": "https://www.youtube.com/@investi-qc",
-      "status": "ok",
-      "error": null,
+      "status": "error",
+      "error": "HTTPError: HTTP Error 404: Not Found",
       "last_success_at": "2026-11-01T22:52:31.896318+00:00",
       "item_count": 28
     },
@@ -29,8 +29,8 @@
       "name": "Hugo Lisoir",
       "platform": "youtube",
       "url": "https://www.youtube.com/@hugolisoiryoutube",
-      "status": "ok",
-      "error": null,
+      "status": "error",
+      "error": "HTTPError: HTTP Error 404: Not Found",
       "last_success_at": "2026-11-01T22:52:31.896318+00:00",
       "item_count": 18
     },
@@ -39,8 +39,8 @@
       "name": "Alex Demers — Finance 360",
       "platform": "youtube",
       "url": "https://www.youtube.com/@alexdemers-finance360",
-      "status": "ok",
-      "error": null,
+      "status": "error",
+      "error": "HTTPError: HTTP Error 404: Not Found",
       "last_success_at": "2026-11-01T22:52:31.896318+00:00",
       "item_count": 16
     },
@@ -51,7 +51,7 @@
       "url": "https://www.facebook.com/GuildWars/",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-01T22:52:31.896318+00:00",
+      "last_success_at": "2026-11-02T02:33:55.903625+00:00",
       "item_count": 5
     },
     {
@@ -61,7 +61,7 @@
       "url": "https://www.facebook.com/LOTRO/",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-01T22:52:31.896318+00:00",
+      "last_success_at": "2026-11-02T02:33:55.903625+00:00",
       "item_count": 15
     },
     {
@@ -71,7 +71,7 @@
       "url": "https://www.facebook.com/VilleDeLavaltrie/",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-01T22:52:31.896318+00:00",
+      "last_success_at": "2026-11-02T02:33:55.903625+00:00",
       "item_count": 10
     },
     {
@@ -81,11 +81,23 @@
       "url": "https://www.facebook.com/firmetraders360/",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-01T22:52:31.896318+00:00",
-      "item_count": 10
+      "last_success_at": "2026-11-02T02:33:55.903625+00:00",
+      "item_count": 11
     }
   ],
   "items": [
+    {
+      "id": "facebook:100063889127390:1664399055699716",
+      "title": "Une 3e semaine consécutive de résultats financiers.",
+      "url": "https://www.facebook.com/firmetraders360/posts/pfbid024x17zMonoDpWXNgrdbGGGbqFC6EC9x1TZJUbUhciexV4wnnNwVAbR5z8TW9cxfYkl",
+      "published_at": "2026-11-01T23:54:33+00:00",
+      "updated_at": "2026-11-01T23:54:33+00:00",
+      "description": "Une 3e semaine consécutive de résultats financiers.\n\nEncore une fois, je vous partage les entreprises dont je suis actinnaire qui vont publier leurs earnings dans les prochains jours.\n\nJe me dis que ça ne peut pas être pire que la semaine p",
+      "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.99422-6/883002873_1907448090463242_5127865771509976087_n.png?stp=dst-jpg_tt6&cstp=mx1680x960&ctp=p180x540&_nc_cat=107&ccb=1-7&_nc_sid=127cfc&_nc_ohc=OQR2HjdgA1MQ7kNvwE4bKqY&_nc_oc=Ado8CSdI0V6O8RYHPKBJGFyBniNRUrpsOpI7aHr2VYCDXoKJyu5Y_VYBXWI5IAitT0o&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=Re5ruv7XFQEYR4nr7dBOTg&_nc_ss=7f289&oh=00_AQSgf5qmwNi8h7QM5OBRQXjyil9-rV9XXvVF66NbYYcE_g&oe=6AEDC105",
+      "source_id": "traders-360",
+      "source_name": "Traders 360",
+      "platform": "facebook"
+    },
     {
       "id": "youtube:ZQHSQjMMy10",
       "title": "Pourquoi deux FNB similaires ont des écarts aussi important de frais de gestion?",
@@ -189,7 +201,7 @@
       "published_at": "2026-10-31T18:01:04+00:00",
       "updated_at": "2026-10-31T18:01:04+00:00",
       "description": "Happy Halloween, my loyal subjects! 👑🎃\n\nYour Mad King performs every 3 hours in Lion's Arch and Kamadan. Attendance is... strongly encouraged. 😈\n\nMore Halloween event information: https://www.guildwars.com/en/events/halloween\n\n#GuildWarsRef",
-      "image_url": "https://scontent-lga3-2.xx.fbcdn.net/v/t15.5256-10/883339107_1490073016298890_8389313595929799298_n.jpg?stp=dst-jpg_tt6&cstp=mx1920x1080&ctp=s960x960&_nc_cat=107&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=_harSMfz85cQ7kNvwEfuhyW&_nc_oc=AdonO6J3uNx3DW20utU8OumzB0ZZjidVGVieWjdyKLHlwtfXIvRhGl-yUJgPOFVoK30&_nc_zt=23&_nc_ht=scontent-lga3-2.xx&_nc_gid=OOpqOnfQdlFEZznLeMvNFw&_nc_ss=7f289&oh=00_AQQoFaSANfn7CyStI0zbSwpj5tx2AHmzf1TR2w37D2qcTg&oe=6AEDA686",
+      "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t15.5256-10/883339107_1490073016298890_8389313595929799298_n.jpg?stp=dst-jpg_tt6&cstp=mx1920x1080&ctp=s960x960&_nc_cat=107&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=_harSMfz85cQ7kNvwFXs_A2&_nc_oc=AdrHv0IYUeXw1AC2bsYaHUrNDi89XP8hcXjeS9oI8GpDeUrh5atl2UkB4PUfiB3e1ng&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&_nc_gid=1GV8XIj0kdABUo4IupiFqw&_nc_ss=7f289&oh=00_AQRdkSSuQWX_RbiHgBDOJfT84l23IFX5nOUbfMW8ra4D5Q&oe=6AEDDEC6",
       "source_id": "guild-wars",
       "source_name": "Guild Wars",
       "platform": "facebook"
@@ -201,7 +213,7 @@
       "published_at": "2026-10-31T16:51:29+00:00",
       "updated_at": "2026-10-31T16:51:29+00:00",
       "description": "🎃👻 𝗟’𝗛𝗮𝗹𝗹𝗼𝘄𝗲𝗲𝗻, 𝗰’𝗲𝘀𝘁 𝗰𝗲 𝘀𝗼𝗶𝗿 𝗮̀ 𝗟𝗮𝘃𝗮𝗹𝘁𝗿𝗶𝗲!\n\nPréparez vos costumes et venez faire le plein de frissons! Deux activités gratuites vous attendent 𝗱𝗲̀𝘀 𝟭𝟴 𝗵 pour célébrer l’Halloween comme il se doit! 🕸️\n\n🍬 𝗣𝗮𝗿𝗰𝗼𝘂𝗿𝘀 𝗵𝗮𝗻𝘁𝗲́ \nOsez vous aventurer",
-      "image_url": "https://scontent-lga3-3.xx.fbcdn.net/v/t39.99422-6/845530552_2031607657517354_5907981725303614601_n.png?stp=c198.0.1054.550a_dst-jpg_tt6&cstp=mx1054x550&ctp=s526x296&_nc_cat=104&ccb=1-7&_nc_sid=1abd25&_nc_ohc=bAOEklXoANMQ7kNvwEsHaJd&_nc_oc=AdpxJz0eKPqCiBnVOiv1c3CTfJfG4dyybJVE8qjSjiYQGt8WGiB3dWia1AR8FN5FvGU&_nc_zt=14&_nc_ht=scontent-lga3-3.xx&_nc_gid=Fcky1hVb0HiB68XmKHXEqQ&_nc_ss=7f289&oh=00_AQQkY8XU34hBLjPM5dLkfjg-5tf2QVNjflKsEJsG3-0HNg&oe=6AED8F7C",
+      "image_url": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.99422-6/845530552_2031607657517354_5907981725303614601_n.png?stp=c198.0.1054.550a_dst-jpg_tt6&cstp=mx1054x550&ctp=s526x296&_nc_cat=104&ccb=1-7&_nc_sid=1abd25&_nc_ohc=bAOEklXoANMQ7kNvwGXWrPL&_nc_oc=Adox09A-Phbx6bMRRoeq-LKnbPcptc8NUm8tZ7LXWSaHMt6H5La_ZOUb9i2fDT5qkgw&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=zjvnx7ylAPb7ceU7nyf2Dg&_nc_ss=7f289&oh=00_AQQLpdj8MV-sv8-H6kkK5dNQdmcV_HKYygOjDWwBPQ7qTw&oe=6AEDC7BC",
       "source_id": "ville-de-lavaltrie",
       "source_name": "Ville de Lavaltrie",
       "platform": "facebook"
