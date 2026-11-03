@@ -2,7 +2,7 @@
   "version": 1,
   "title": "Social Feed",
   "description": "Un seul fil pour suivre les sources qui comptent.",
-  "generated_at": "2026-11-03T02:56:17.132271+00:00",
+  "generated_at": "2026-11-03T10:56:46.958386+00:00",
   "sources": [
     {
       "id": "eco-en-batons",
@@ -11,27 +11,27 @@
       "url": "https://www.youtube.com/@Eco_en_batons",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-03T02:56:17.132271+00:00",
-      "item_count": 22
+      "last_success_at": "2026-11-03T10:56:46.958386+00:00",
+      "item_count": 24
     },
     {
       "id": "investi-qc",
       "name": "Investi QC",
       "platform": "youtube",
       "url": "https://www.youtube.com/@investi-qc",
-      "status": "error",
-      "error": "HTTPError: HTTP Error 404: Not Found",
-      "last_success_at": "2026-11-02T20:49:20.081040+00:00",
-      "item_count": 30
+      "status": "ok",
+      "error": null,
+      "last_success_at": "2026-11-03T10:56:46.958386+00:00",
+      "item_count": 31
     },
     {
       "id": "hugo-lisoir",
       "name": "Hugo Lisoir",
       "platform": "youtube",
       "url": "https://www.youtube.com/@hugolisoiryoutube",
-      "status": "error",
-      "error": "HTTPError: HTTP Error 404: Not Found",
-      "last_success_at": "2026-11-02T20:49:20.081040+00:00",
+      "status": "ok",
+      "error": null,
+      "last_success_at": "2026-11-03T10:56:46.958386+00:00",
       "item_count": 18
     },
     {
@@ -39,10 +39,10 @@
       "name": "Alex Demers — Finance 360",
       "platform": "youtube",
       "url": "https://www.youtube.com/@alexdemers-finance360",
-      "status": "error",
-      "error": "HTTPError: HTTP Error 404: Not Found",
-      "last_success_at": "2026-11-02T20:49:20.081040+00:00",
-      "item_count": 17
+      "status": "ok",
+      "error": null,
+      "last_success_at": "2026-11-03T10:56:46.958386+00:00",
+      "item_count": 18
     },
     {
       "id": "guild-wars",
@@ -51,7 +51,7 @@
       "url": "https://www.facebook.com/GuildWars/",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-03T02:56:17.132271+00:00",
+      "last_success_at": "2026-11-03T10:56:46.958386+00:00",
       "item_count": 6
     },
     {
@@ -61,7 +61,7 @@
       "url": "https://www.facebook.com/LOTRO/",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-03T02:56:17.132271+00:00",
+      "last_success_at": "2026-11-03T10:56:46.958386+00:00",
       "item_count": 15
     },
     {
@@ -71,7 +71,7 @@
       "url": "https://www.facebook.com/VilleDeLavaltrie/",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-03T02:56:17.132271+00:00",
+      "last_success_at": "2026-11-03T10:56:46.958386+00:00",
       "item_count": 12
     },
     {
@@ -81,11 +81,35 @@
       "url": "https://www.facebook.com/firmetraders360/",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-03T02:56:17.132271+00:00",
+      "last_success_at": "2026-11-03T10:56:46.958386+00:00",
       "item_count": 13
     }
   ],
   "items": [
+    {
+      "id": "youtube:vLsrNRl5h-Y",
+      "title": "Plan Messmer (6 mars 1974) : pourquoi la France a misé sur le nucléaire après le choc pétrolier",
+      "url": "https://www.youtube.com/watch?v=vLsrNRl5h-Y",
+      "published_at": "2026-11-03T10:30:33+00:00",
+      "updated_at": "2026-11-03T10:30:38+00:00",
+      "description": "En 1973, la France produit moins du quart de l'énergie qu'elle consomme. Elle réagit d'abord sur la route : en décembre 1973, la vitesse est limitée à 120 km/h sur autoroute et à 90 km/h sur les autres routes. Puis, le 6 mars 1974, à la télévision, le Premier ministre Pierre Messmer annonce : « Nous avons pris la décision de réaliser en 1974 et 1975 le lancement de treize centrales nucléaires. » Treize centrales à lancer en deux ans, puis six à sept réacteurs par an : c'est le plan Messmer, le pari du nucléaire pour moins dépendre du pétrole.\nLes dessins sont des illustrations.\nPhoto de Pierre Messmer (1988) : Roland Godefroy / Wikimedia Commons, CC BY 3.0 (https://creativecommons.org/licenses/by/3.0/), https://commons.wikimedia.org/wiki/File:Pierre_Messmer01_(cropped_2).JPG\nPhoto d'archive (route en Oregon, novembre 1973) : David Falconer, EPA Documerica / NARA, domaine public.\n#Shorts #nucléaire #planMessmer #chocpétrolier\n\nVidéo complète : https://youtu.be/PZ3JWONt0gM",
+      "image_url": "https://i3.ytimg.com/vi/vLsrNRl5h-Y/hqdefault.jpg",
+      "source_id": "eco-en-batons",
+      "source_name": "Éco en bâtons",
+      "platform": "youtube"
+    },
+    {
+      "id": "youtube:mvMwJESl82o",
+      "title": "Choc pétrolier de 1973 : il ne manquait que 7 à 9 % du pétrole, et pourtant les pompes étaient vides",
+      "url": "https://www.youtube.com/watch?v=mvMwJESl82o",
+      "published_at": "2026-11-03T08:00:34+00:00",
+      "updated_at": "2026-11-03T08:00:37+00:00",
+      "description": "Hiver 1973, aux États-Unis : plusieurs États n'autorisent plus le plein qu'un jour sur deux, selon le dernier chiffre de la plaque. En moins de trois mois, le baril de pétrole est devenu presque quatre fois plus cher. Pour un ouvrier américain moyen, un plein de 15 gallons (environ 57 litres) passe en un an d'une heure et demie de travail à presque deux heures. En octobre 1973, Fayçal, roi d'Arabie saoudite, annonce l'embargo total du pétrole vers les États-Unis. Pourtant, le monde n'a pas manqué de pétrole : il en manquait 7 à 9 %. Ce sont la peur et des prix plafonnés par l'État américain qui ont changé ce manque en files d'attente.\nLes dessins sont des illustrations.\nPhoto d'archive (file d'attente à une station-service, Oregon, décembre 1973) : David Falconer, EPA Documerica / NARA, domaine public.\nRoi Fayçal (27 mai 1971) : Robert L. Knudsen, White House Photo Office / Wikimedia Commons, domaine public.\nTickets de rationnement d'essence américains (1974) : Warren K. Leffler, U.S. News & World Report / Wikimedia Commons, domaine public.\n#Shorts #chocpétrolier #pétrole #économie\n\nVidéo complète : https://youtu.be/PZ3JWONt0gM",
+      "image_url": "https://i2.ytimg.com/vi/mvMwJESl82o/hqdefault.jpg",
+      "source_id": "eco-en-batons",
+      "source_name": "Éco en bâtons",
+      "platform": "youtube"
+    },
     {
       "id": "facebook:100064655653099:1176625832038898",
       "title": "[Séance du conseil municipal – En direct] 🎥",
@@ -93,10 +117,22 @@
       "published_at": "2026-11-02T23:57:40+00:00",
       "updated_at": "2026-11-02T23:57:40+00:00",
       "description": "[Séance du conseil municipal – En direct] 🎥\n\nLes séances du conseil municipal sont présentées en public et en direct sur la page Facebook de la Ville, afin de rendre plus accessible la prise de décisions des élus municipaux. Les élus n’inte",
-      "image_url": "https://scontent-dfw5-2.xx.fbcdn.net/v/t15.5256-10/885252483_1175620658755462_7802656497908029449_n.jpg?stp=dst-jpg_tt6&cstp=mx1920x1080&ctp=s960x960&_nc_cat=107&ccb=1-7&_nc_sid=032300&_nc_ohc=ytsdFZ58TlgQ7kNvwEq4yKR&_nc_oc=AdpqWXfrKro3H09L8Cu27Gqe5oNSCPHjatsIVo4IomdlKh09EiedwJkusAgieVn5Tz8&_nc_zt=23&_nc_ht=scontent-dfw5-2.xx&_nc_gid=z0JQaJsr5m1QrzRa0knstw&_nc_ss=7f289&oh=00_AQSTvsXBNFHLOFIko6Jxj6bQxh_fI0sSYomBwfx3Q2wTrg&oe=6AEF070B",
+      "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t15.5256-10/885252483_1175620658755462_7802656497908029449_n.jpg?stp=dst-jpg_tt6&cstp=mx1920x1080&ctp=s960x960&_nc_cat=107&ccb=1-7&_nc_sid=032300&_nc_ohc=ytsdFZ58TlgQ7kNvwE2leYa&_nc_oc=Adp8SZRQJ0KaocrodxI_PTv0wU2thpNn8oZgJjCmFCra0V_bf2oFpxjwa1sMU7y9bRw&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&_nc_gid=VdzRkz84SN1-qKrk_x6pWw&_nc_ss=7f289&oh=00_AQSGRjrmklQgsSxhLA7SjqC4vtVNMDoxCqEQx9pOAMB8xw&oe=6AEF778B",
       "source_id": "ville-de-lavaltrie",
       "source_name": "Ville de Lavaltrie",
       "platform": "facebook"
+    },
+    {
+      "id": "youtube:9u_0gqGsb30",
+      "title": "Meta est la plus grosse position de mon portefeuille avec un prix d'achat moyen de 326$ #bourse",
+      "url": "https://www.youtube.com/watch?v=9u_0gqGsb30",
+      "published_at": "2026-11-02T23:07:15+00:00",
+      "updated_at": "2026-11-03T06:44:30+00:00",
+      "description": "Je suis conscient que le capex est astronomique et que le free cash flow est dans le négatif, mais je reste confiant sur le long terme.\n\nPour moi, l'IA pour Meta ne sera pas un metaverse 2.0",
+      "image_url": "https://i2.ytimg.com/vi/9u_0gqGsb30/hqdefault.jpg",
+      "source_id": "alex-demers-finance360",
+      "source_name": "Alex Demers — Finance 360",
+      "platform": "youtube"
     },
     {
       "id": "facebook:100063889127390:1665491678923787",
@@ -105,10 +141,22 @@
       "published_at": "2026-11-02T23:02:35+00:00",
       "updated_at": "2026-11-02T23:02:35+00:00",
       "description": "Oracle a perdu plus de la moitié de sa valeur en un an.\n\nAujourd’hui, la compagnie retourne encore chercher du financement pour son pari sur l’IA.\n\nOracle vient d’émettre 10 milliards de nouvelles obligations et a aussi déposé des documents",
-      "image_url": "https://scontent-dfw5-1.xx.fbcdn.net/v/t39.99422-6/886577253_1656184619353059_6091897597533011378_n.png?stp=dst-jpg_tt6&cstp=mx1680x960&ctp=p180x540&_nc_cat=105&ccb=1-7&_nc_sid=127cfc&_nc_ohc=YegBh03RxYAQ7kNvwEPNazA&_nc_oc=Adr2WmyWC0FmUfHrkqvqIKqLz0AdMgdkYe0ZDz4eQjpYRjuR8I11AifOoCLeV57I00c&_nc_zt=14&_nc_ht=scontent-dfw5-1.xx&_nc_gid=e5Dmoqj9U5umfqjwgNvXmg&_nc_ss=7f289&oh=00_AQS6mmJqX-NxVBj_71F43kgFl9ZKsTcn-zClrIXbOh1YOw&oe=6AEF10AE",
+      "image_url": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.99422-6/886577253_1656184619353059_6091897597533011378_n.png?stp=dst-jpg_tt6&cstp=mx1680x960&ctp=p180x540&_nc_cat=105&ccb=1-7&_nc_sid=127cfc&_nc_ohc=YegBh03RxYAQ7kNvwHAcfJY&_nc_oc=AdoEiT5wfiel1-nOi_fdSoG2J8zRRgkPbTgwJCI5VwBjg_k3nl2sWa3CmliCdTA-WsU&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=btGcRPyeg5np_r4GlEC43Q&_nc_ss=7f289&oh=00_AQQ8Ra_2einWxq511HBg11ZmCK0xtIjM-ZJzZjArOmVH5A&oe=6AEF812E",
       "source_id": "traders-360",
       "source_name": "Traders 360",
       "platform": "facebook"
+    },
+    {
+      "id": "youtube:AOI8ac8iQck",
+      "title": "Comprendre le ratio P/E dans un environnement d’investissements massifs en IA",
+      "url": "https://www.youtube.com/watch?v=AOI8ac8iQck",
+      "published_at": "2026-11-02T21:41:07+00:00",
+      "updated_at": "2026-11-03T09:38:55+00:00",
+      "description": "Comprendre le ratio P/E dans un environnement d’investissements massifs en IA",
+      "image_url": "https://i2.ytimg.com/vi/AOI8ac8iQck/hqdefault.jpg",
+      "source_id": "investi-qc",
+      "source_name": "Investi QC",
+      "platform": "youtube"
     },
     {
       "id": "facebook:100063889127390:1665347672271521",
@@ -129,7 +177,7 @@
       "published_at": "2026-11-02T19:01:16+00:00",
       "updated_at": "2026-11-02T19:01:16+00:00",
       "description": "🎃 We hope you had a spooktacular Halloween!\n\nHere's one last look at some of the amazing players who showed up to our Kamadan meetup. Thank you for making it so much fun! 👻\n\n#GuildWarsReforged #GuildWars",
-      "image_url": "https://scontent-dfw5-2.xx.fbcdn.net/v/t15.5256-10/884929060_3104655723203248_5422962918921061434_n.jpg?stp=dst-jpg_tt6&cstp=mx1920x1080&ctp=s960x960&_nc_cat=104&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=RNl09Wr1HfMQ7kNvwGPjjzV&_nc_oc=AdpKDfXX-8S3-tkdQrsBJJcqg206Qj5St8GTi_ZC5gXjykD3Nes6DEp7yQTQ00nUoVc&_nc_zt=23&_nc_ht=scontent-dfw5-2.xx&_nc_gid=XFqThdw0cO0M3s0GalFBqg&_nc_ss=7f289&oh=00_AQQJYwTubHLx_qzUDV2FhYFXkxWS2_Fj4h3l9Y78pwvaaQ&oe=6AEF33E7",
+      "image_url": "https://scontent-iad3-1.xx.fbcdn.net/v/t15.5256-10/884929060_3104655723203248_5422962918921061434_n.jpg?stp=dst-jpg_tt6&cstp=mx1920x1080&ctp=s960x960&_nc_cat=104&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=RNl09Wr1HfMQ7kNvwGBlyfg&_nc_oc=Adp5rlq86rmxpYwvX4GWL_LIpFyb-Iyo1slyZVtENx7OittTEIEkC97FIS9k6JJWzEA&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&_nc_gid=258JPC-xfZVjZx42wNvMLw&_nc_ss=7f289&oh=00_AQQAFHdCeTCzGahHUAddPIee-KrPzugyiSS12rNwo5U2iA&oe=6AEFA467",
       "source_id": "guild-wars",
       "source_name": "Guild Wars",
       "platform": "facebook"
@@ -331,7 +379,7 @@
       "title": "Les bonnes compagnies se font rares au Canada, ce qui aide les multiples de Dollorama",
       "url": "https://www.youtube.com/watch?v=-74PgBcsq94",
       "published_at": "2026-10-31T15:40:42+00:00",
-      "updated_at": "2026-11-01T07:30:18+00:00",
+      "updated_at": "2026-11-01T16:25:32+00:00",
       "description": "Les bonnes compagnies se font rares au Canada, ce qui aide les multiples de Dollorama",
       "image_url": "https://i2.ytimg.com/vi/-74PgBcsq94/hqdefault.jpg",
       "source_id": "investi-qc",
@@ -427,7 +475,7 @@
       "title": "La fable de mes fonds damn!",
       "url": "https://www.youtube.com/watch?v=DE_6A_mi4SE",
       "published_at": "2026-10-30T19:39:00+00:00",
-      "updated_at": "2026-10-31T09:22:44+00:00",
+      "updated_at": "2026-11-01T16:32:46+00:00",
       "description": "La fable de mes fonds damn!",
       "image_url": "https://i1.ytimg.com/vi/DE_6A_mi4SE/hqdefault.jpg",
       "source_id": "investi-qc",
@@ -559,7 +607,7 @@
       "title": "Épisode 71 🎃 10 Histoires d’horreur en bourse pour l’Halloween",
       "url": "https://www.youtube.com/watch?v=-9RXoaI34Po",
       "published_at": "2026-10-29T20:37:20+00:00",
-      "updated_at": "2026-10-30T07:31:17+00:00",
+      "updated_at": "2026-11-02T00:41:03+00:00",
       "description": "Épisode 71 🎃 10 Histoires d’horreur en bourse pour l’Halloween. À écouter sur le Youtube de Investi.",
       "image_url": "https://i2.ytimg.com/vi/-9RXoaI34Po/hqdefault.jpg",
       "source_id": "investi-qc",
@@ -607,7 +655,7 @@
       "title": "Des fnb avec levier modéré à 1.25x",
       "url": "https://www.youtube.com/watch?v=q6xh8GBWFtQ",
       "published_at": "2026-10-29T15:40:40+00:00",
-      "updated_at": "2026-10-30T19:19:05+00:00",
+      "updated_at": "2026-11-02T00:35:29+00:00",
       "description": "Des fnb avec levier modéré à 1.25x",
       "image_url": "https://i2.ytimg.com/vi/q6xh8GBWFtQ/hqdefault.jpg",
       "source_id": "investi-qc",
@@ -631,7 +679,7 @@
       "title": "La bulle spéculative expliquée en 1 minute (pourquoi finit-elle par éclater ?)",
       "url": "https://www.youtube.com/watch?v=iusdR9trVoo",
       "published_at": "2026-10-29T12:00:04+00:00",
-      "updated_at": "2026-10-29T20:01:03+00:00",
+      "updated_at": "2026-11-02T00:35:31+00:00",
       "description": "Une bulle spéculative, c'est quand le prix d'un actif (actions, immobilier...) monte de manière excessive, au-delà de sa valeur réelle, porté par des acheteurs qui comptent le revendre plus cher. Chaque achat fait monter le cours, ce qui attire d'autres acheteurs. Quand les acheteurs manquent, certains vendent, la panique gagne et le cours s'effondre.\nLa crise de 2008 est née d'une bulle de l'immobilier américain.\nCe qui étonne : le Nasdaq Composite a perdu près de 78 % entre son sommet du 10 mars 2000 et son creux du 9 octobre 2002. Il lui a fallu 15 ans pour retrouver ce sommet (23 avril 2015). Exemple (calcul, indice de prix, sans dividendes) : 10 000 € placés au sommet valaient environ 2 200 € au creux.\nUne bulle ne se reconnaît avec certitude qu'après coup. Le test à vous poser : j'achète parce que ça monte, ou parce que ça rapporte ?\n\n👉 Quel concept d'économie voulez-vous voir demain ? Dites-le en commentaire. Un concept d'économie par jour, expliqué en bâtons.\n\nSources (lues le 18/10/2026) :\n- Banque de France, ABC de l'économie : la bulle spéculative : https://www.banque-france.fr/fr/publications-et-statistiques/publications/bulle-speculative\n- Réserve fédérale de Saint-Louis (FRED), Nasdaq Composite, clôtures quotidiennes : https://fred.stlouisfed.org/series/NASDAQCOM\nLes performances passées ne préjugent pas des performances futures. Ceci n'est pas un conseil financier.\n\nMusique : composée avec ElevenLabs Music pour la chaîne.\n\n#bullespéculative #économie #bourse #krach #apprendre #Shorts",
       "image_url": "https://i2.ytimg.com/vi/iusdR9trVoo/hqdefault.jpg",
       "source_id": "eco-en-batons",
@@ -667,7 +715,7 @@
       "title": "C’est quoi un FNB activement géré?",
       "url": "https://www.youtube.com/watch?v=wiOB9cWh-PU",
       "published_at": "2026-10-28T23:38:28+00:00",
-      "updated_at": "2026-10-30T19:14:13+00:00",
+      "updated_at": "2026-11-02T00:35:13+00:00",
       "description": "C’est quoi un FNB activement géré?",
       "image_url": "https://i4.ytimg.com/vi/wiOB9cWh-PU/hqdefault.jpg",
       "source_id": "investi-qc",
@@ -715,7 +763,7 @@
       "title": "Donald Trump : Le secret derrière l'empire du président des Etats-Unis",
       "url": "https://www.youtube.com/watch?v=IkflPXCa2CM",
       "published_at": "2026-10-28T21:54:34+00:00",
-      "updated_at": "2026-10-28T21:54:35+00:00",
+      "updated_at": "2026-11-02T00:39:54+00:00",
       "description": "Le secret derrière l'empire Trump. Avec un appartement acheté avec dix pour cent d'apport, on comprend comment Donald Trump a bâti son empire avec l'argent des banques, traversé les dépôts de bilan de ses casinos d'Atlantic City, puis rebondi grâce à sa marque. Une seule idée : quand vous devez peu à la banque, c'est votre problème ; quand vous lui devez énormément, c'est le sien.\n\nEt vous : achèteriez-vous avec 10 % d'apport ? Dites-le en commentaire.\n\n⏱️ Chapitres\n0:00 Le roi de la dette\n1:27 Partie 1 — Le fils du promoteur\n2:59 Partie 2 — La recette\n5:34 Partie 3 — Atlantic City\n7:16 Partie 4 — L'homme qui avait fait le calcul\n9:06 Partie 5 — Trop gros pour tomber\n12:52 Ce qu'il en reste\n\n📌 Sources (pages lues en octobre 2026)\n- Argent reçu de Fred Trump : enquête du New York Times du 02/10/2018 (reprise par Boston.com et le Boston Globe) ; TIME, 26/10/2015 (« un petit prêt d'un million de dollars »)\n- Grand Hyatt et Trump Tower : Commercial Observer (03/2020), Mother Jones (08/2020), Wikipedia (Trump Tower, Business career of Donald Trump)\n- Atlantic City, Plaza Hotel, Trump Shuttle, Taj Mahal : PolitiFact (21/06/2016), Mother Jones (20/01/2016), Philadelphia Magazine (16/08/2015), Wikipedia\n- La dette de 1990 et la tutelle des banques : Reuters (17/07/2016, via Raw Story), Newsweek\n- Les faillites (chapitre 11) : PolitiFact, Deseret News / AP (22/11/2004), NBC News (2004, 2009), dépôt SEC de Trump Entertainment Resorts (2010) ; fermeture du Taj Mahal : AP (10/10/2016)\n- Marvin Roffman : WFAE (10/10/2016), Deseret News (11/07/1990)\n- Pertes et revenus selon le New York Times : WDBJ7 (05/2019), CBS News (28/09/2020), Reality Blurred (27/09/2020)\n- Deutsche Bank : Fortune (21/03/2016, 19/03/2019), ABA Journal\n- Trump University : KQED (31/03/2017), ABA Journal ; fondation Trump : KSL (07/11/2019) ; Trump Organization : procureur de Manhattan (06/12/2022) ; fraude civile à New York (non définitif) : ABC News\n- Trump Media : dépôt SEC (03/2024) ; $TRUMP et World Liberty Financial : The Block (01/2025, 09/2025)\n- « Si vous devez 100 dollars à la banque… » : Quote Investigator (23/04/2019) ; « king of debt » : The Blaze, Fox News (05/2016) ; Bloomberg Law, PolitiFact (27/09/2016)\n\n🎞️ Photos et crédits\n- Donald Trump et Ronald Reagan, Maison-Blanche, 3 novembre 1987 : White House Photographic Office / Ronald Reagan Library, domaine public (Wikimedia Commons)\n- Fred Trump, vers 1986 : Bernard Gotfryd / Library of Congress, domaine public (Wikimedia Commons)\n- Hôtel Commodore, New York, 1919 : Rijksmuseum / Wikimedia Commons, CC0\n- Grand Hyatt New York (ex-hôtel Commodore) : Jhw57 / Wikimedia Commons, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)\n- Trump Tower, Cinquième Avenue : Jorge Láscar from Australia / Wikimedia Commons, CC BY 2.0 (https://creativecommons.org/licenses/by/2.0)\n- Trump Plaza Hotel and Casino, Atlantic City (2003) : Tom in NYC / Wikimedia Commons, CC BY 2.0 (https://creativecommons.org/licenses/by/2.0)\n- Trump Taj Mahal, Atlantic City (2007) : Kevin Wong / Wikimedia Commons, domaine public\n- Carte : © les contributeurs d'OpenStreetMap\nMusique : bibliothèque audio YouTube.\nLes dessins sont des illustrations. Les montants sont datés ; ceux qui viennent d'enquêtes de presse sont donnés « selon » leur source. Explication générale, pas un conseil en investissement.",
       "image_url": "https://i2.ytimg.com/vi/IkflPXCa2CM/hqdefault.jpg",
       "source_id": "eco-en-batons",
@@ -763,7 +811,7 @@
       "title": "Quand Global X lance un nouveau FNB",
       "url": "https://www.youtube.com/watch?v=cEVc0I-wjA8",
       "published_at": "2026-10-28T15:38:27+00:00",
-      "updated_at": "2026-10-30T19:12:10+00:00",
+      "updated_at": "2026-11-02T00:39:43+00:00",
       "description": "Quand Global X lance un nouveau FNB",
       "image_url": "https://i4.ytimg.com/vi/cEVc0I-wjA8/hqdefault.jpg",
       "source_id": "investi-qc",
@@ -775,7 +823,7 @@
       "title": "Le coût d'opportunité expliqué en 1 minute (à quoi renoncez-vous ?)",
       "url": "https://www.youtube.com/watch?v=8ozL_uOz7SY",
       "published_at": "2026-10-28T12:00:31+00:00",
-      "updated_at": "2026-10-28T20:36:27+00:00",
+      "updated_at": "2026-11-02T00:41:10+00:00",
       "description": "Le coût d'opportunité d'un choix, c'est la valeur de la meilleure autre option à laquelle on renonce. Votre argent et votre temps sont limités : choisir, c'est renoncer, et même ce qui semble gratuit a un coût.\nExemple en chiffres (calcul illustratif) : 10 000 € laissés un an sur un compte courant rapportent environ 4 € (0,04 %), contre 170 € sur un Livret A à 1,70 %. Vous renoncez donc à 166 € par an : c'est le coût d'opportunité. Même un film en a un : le livre que vous n'avez pas lu.\nCe qui étonne : selon la Banque de France, les ménages gardaient en août 2026 environ 555 milliards d'euros sur leurs comptes courants, rémunérés en moyenne 0,04 % par an.\nMais attention : un compte courant sert à payer vos dépenses et vos imprévus. Le coût d'opportunité n'est pas un ordre de placer tout votre argent, c'est une question à vous poser avant chaque choix : à quoi je renonce ?\n\n👉 Quel concept d'économie voulez-vous voir demain ? Dites-le en commentaire. Un concept d'économie par jour, expliqué en bâtons.\n\nSources (lues le 18/10/2026) :\n- Library of Economics and Liberty (Econlib), « Opportunity Cost » : https://www.econlib.org/library/Enc/OpportunityCost.html\n- Banque de France, Taux de rémunération des dépôts bancaires, août 2026 : https://www.banque-france.fr/fr/statistiques/epargne/taux-de-remuneration-des-depots-bancaires-2026-08\n- Service-public.fr, Livret A (fiche F2365) : https://www.service-public.gouv.fr/particuliers/vosdroits/F2365\nLe taux du Livret A (1,70 % jusqu'au 31/01/2027) peut être modifié. Ceci n'est pas un conseil financier.\n\nMusique : composée avec ElevenLabs Music pour la chaîne.\n\n#coûtdopportunité #économie #épargne #LivretA #apprendre #Shorts",
       "image_url": "https://i1.ytimg.com/vi/8ozL_uOz7SY/hqdefault.jpg",
       "source_id": "eco-en-batons",
