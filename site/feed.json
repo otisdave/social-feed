@@ -2,7 +2,7 @@
   "version": 1,
   "title": "Social Feed",
   "description": "Un seul fil pour suivre les sources qui comptent.",
-  "generated_at": "2026-11-04T15:28:39.215309+00:00",
+  "generated_at": "2026-11-04T21:54:57.470064+00:00",
   "sources": [
     {
       "id": "eco-en-batons",
@@ -11,8 +11,8 @@
       "url": "https://www.youtube.com/@Eco_en_batons",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-04T15:28:39.215309+00:00",
-      "item_count": 30
+      "last_success_at": "2026-11-04T21:54:57.470064+00:00",
+      "item_count": 32
     },
     {
       "id": "investi-qc",
@@ -21,8 +21,8 @@
       "url": "https://www.youtube.com/@investi-qc",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-04T15:28:39.215309+00:00",
-      "item_count": 34
+      "last_success_at": "2026-11-04T21:54:57.470064+00:00",
+      "item_count": 36
     },
     {
       "id": "hugo-lisoir",
@@ -31,7 +31,7 @@
       "url": "https://www.youtube.com/@hugolisoiryoutube",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-04T15:28:39.215309+00:00",
+      "last_success_at": "2026-11-04T21:54:57.470064+00:00",
       "item_count": 20
     },
     {
@@ -41,7 +41,7 @@
       "url": "https://www.youtube.com/@alexdemers-finance360",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-04T15:28:39.215309+00:00",
+      "last_success_at": "2026-11-04T21:54:57.470064+00:00",
       "item_count": 19
     },
     {
@@ -49,29 +49,29 @@
       "name": "Guild Wars",
       "platform": "facebook",
       "url": "https://www.facebook.com/GuildWars/",
-      "status": "error",
-      "error": "RuntimeError: Facebook requires authentication or a challenge; no bypass attempted.",
-      "last_success_at": "2026-11-04T06:30:32.626965+00:00",
-      "item_count": 7
+      "status": "ok",
+      "error": null,
+      "last_success_at": "2026-11-04T21:54:57.470064+00:00",
+      "item_count": 8
     },
     {
       "id": "lotro",
       "name": "The Lord of the Rings Online",
       "platform": "facebook",
       "url": "https://www.facebook.com/LOTRO/",
-      "status": "error",
-      "error": "RuntimeError: Facebook requires authentication or a challenge; no bypass attempted.",
-      "last_success_at": "2026-11-04T06:30:32.626965+00:00",
-      "item_count": 16
+      "status": "ok",
+      "error": null,
+      "last_success_at": "2026-11-04T21:54:57.470064+00:00",
+      "item_count": 17
     },
     {
       "id": "ville-de-lavaltrie",
       "name": "Ville de Lavaltrie",
       "platform": "facebook",
       "url": "https://www.facebook.com/VilleDeLavaltrie/",
-      "status": "error",
-      "error": "RuntimeError: Facebook requires authentication or a challenge; no bypass attempted.",
-      "last_success_at": "2026-11-04T06:30:32.626965+00:00",
+      "status": "ok",
+      "error": null,
+      "last_success_at": "2026-11-04T21:54:57.470064+00:00",
       "item_count": 13
     },
     {
@@ -79,13 +79,97 @@
       "name": "Traders 360",
       "platform": "facebook",
       "url": "https://www.facebook.com/firmetraders360/",
-      "status": "error",
-      "error": "RuntimeError: Facebook requires authentication or a challenge; no bypass attempted.",
-      "last_success_at": "2026-11-04T06:30:32.626965+00:00",
-      "item_count": 16
+      "status": "ok",
+      "error": null,
+      "last_success_at": "2026-11-04T21:54:57.470064+00:00",
+      "item_count": 17
     }
   ],
   "items": [
+    {
+      "id": "youtube:C5Jxm4V912w",
+      "title": "Hydro-Québec vit la même réalité que Microsoft",
+      "url": "https://www.youtube.com/watch?v=C5Jxm4V912w",
+      "published_at": "2026-11-04T20:41:25+00:00",
+      "updated_at": "2026-11-04T21:01:38+00:00",
+      "description": "Hydro-Québec vit la même réalité que Microsoft",
+      "image_url": "https://i4.ytimg.com/vi/C5Jxm4V912w/hqdefault.jpg",
+      "source_id": "investi-qc",
+      "source_name": "Investi QC",
+      "platform": "youtube"
+    },
+    {
+      "id": "facebook:100069958479615:1432027965805806",
+      "title": "ICYMI: The Mists have opened. 🌫️ Watch the Afterlife trailer, the first new Guild Wars DLC in 20 years, arriving January",
+      "url": "https://www.facebook.com/reel/5107619129464797/",
+      "published_at": "2026-11-04T19:01:25+00:00",
+      "updated_at": "2026-11-04T19:01:25+00:00",
+      "description": "ICYMI: The Mists have opened. 🌫️ Watch the Afterlife trailer, the first new Guild Wars DLC in 20 years, arriving January 13.\n\n▶️ https://youtu.be/yaHUtkayKzk\n\n#GWAfterlife #GuildWarsReforged #GuildWars #Gaming #mmorpggames",
+      "image_url": "https://scontent-ord5-2.xx.fbcdn.net/v/t15.5256-10/890603161_2113603566212877_3702430383455999726_n.jpg?stp=dst-jpg_tt6&cstp=mx1440x1440&ctp=s960x960&_nc_cat=103&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=LPccUmpiwCUQ7kNvwFIplSB&_nc_oc=Adq-yLk9q_IO0pC9KGhGC5LlMPaZi3xhFF8DONL5KaEt2Lp1MajnuFzXrfLB9mZXY0A&_nc_zt=23&_nc_ht=scontent-ord5-2.xx&_nc_gid=Ib54L6htDfFSt2UWOnV-Cg&_nc_ss=7f289&oh=00_AQQx-owM3lY3fjqS2eaUkJSC_pwTRET8VuwaLIRUtyuCNQ&oe=6AF17B06",
+      "source_id": "guild-wars",
+      "source_name": "Guild Wars",
+      "platform": "facebook"
+    },
+    {
+      "id": "facebook:100064792208382:1638093791693679",
+      "title": "New items are now available with Filbert Fig and in Adventurer’s and Traveller’s Steel-bound Lootboxes! Find the list an",
+      "url": "https://www.facebook.com/LOTRO/posts/pfbid0gm59KpvtQZxk1xrGRomeFQoZX2XnN3pnsnXLFvXFoQNWJKZRpurVVRPYBrBZAUU7l",
+      "published_at": "2026-11-04T18:33:55+00:00",
+      "updated_at": "2026-11-04T18:33:55+00:00",
+      "description": "New items are now available with Filbert Fig and in Adventurer’s and Traveller’s Steel-bound Lootboxes! Find the list and see some rewards on LOTRO.com: https://www.lotro.com/news/lotro-filbert-fig-update-nov-26-en #LOTRO",
+      "image_url": null,
+      "source_id": "lotro",
+      "source_name": "The Lord of the Rings Online",
+      "platform": "facebook"
+    },
+    {
+      "id": "youtube:FJx5enS21IM",
+      "title": "Après le choc pétrolier : le baril s'effondre en 1986, et le pari nucléaire de la France paie",
+      "url": "https://www.youtube.com/watch?v=FJx5enS21IM",
+      "published_at": "2026-11-04T18:00:12+00:00",
+      "updated_at": "2026-11-04T18:00:17+00:00",
+      "description": "En 1986, l'Arabie saoudite change de stratégie pour reprendre ses clients, et le baril tombe d'environ 25 dollars à 10 ou 12 dollars en quelques mois. En France, le pari du plan Messmer a changé la donne : le nucléaire fournissait environ 8 % de l'électricité française en 1973, et environ 68 % de la production d'électricité en 2025. En 2024, la France produit un peu plus de 60 % de l'énergie qu'elle consomme, contre moins du quart en 1973.\nLes dessins sont des illustrations.\nMontants datés, en dollars de l'époque.\n#Shorts #nucléaire #énergie #chocpétrolier\n\nVidéo complète : https://youtu.be/PZ3JWONt0gM",
+      "image_url": "https://i3.ytimg.com/vi/FJx5enS21IM/hqdefault.jpg",
+      "source_id": "eco-en-batons",
+      "source_name": "Éco en bâtons",
+      "platform": "youtube"
+    },
+    {
+      "id": "facebook:100063889127390:1667475665392055",
+      "title": "Bonne nouvelle, je n’aurai finalement pas besoin de refaire mon CV.",
+      "url": "https://www.facebook.com/firmetraders360/posts/pfbid0ajkk9oKfKHbn9WDtnXvbv2NS1iKfkxc2oCdc95JEqFCzoExxgbGFu8Cgc8wFQxpl",
+      "published_at": "2026-11-04T17:58:17+00:00",
+      "updated_at": "2026-11-04T17:58:17+00:00",
+      "description": "Bonne nouvelle, je n’aurai finalement pas besoin de refaire mon CV.\n\nAvec la journée d’aujourd’hui, mon retour sur le marché du travail est officiellement annulé.\n\nDu moins jusqu’à demain matin, 9h30.",
+      "image_url": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.99422-6/892009636_1628181158717161_7508654708542144676_n.png?stp=dst-jpg_tt6&cstp=mx1296x1728&ctp=p526x296&_nc_cat=104&ccb=1-7&_nc_sid=127cfc&_nc_ohc=dwbxpefG-RwQ7kNvwFf2-tB&_nc_oc=AdpvyhIz4E6aMMaoF0JvpZMYuQJcGpAg8cLg_hq9Qd4rdXh9oq4udMWeZoAM4CYJAcE&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=e19KhFZeOfd1La8aPD3yPw&_nc_ss=7f289&oh=00_AQTAQ3jjUdM1E1z6Ae9-bRs3BrB0zY7azXQaihw6tU4n-g&oe=6AF1831C",
+      "source_id": "traders-360",
+      "source_name": "Traders 360",
+      "platform": "facebook"
+    },
+    {
+      "id": "youtube:EVbCWrKM-Lw",
+      "title": "Duolingo (DUOL) vient de surprendre Wall Street 📈",
+      "url": "https://www.youtube.com/watch?v=EVbCWrKM-Lw",
+      "published_at": "2026-11-04T15:38:58+00:00",
+      "updated_at": "2026-11-04T16:45:20+00:00",
+      "description": "Duolingo (DUOL) vient de surprendre Wall Street 📈",
+      "image_url": "https://i2.ytimg.com/vi/EVbCWrKM-Lw/hqdefault.jpg",
+      "source_id": "investi-qc",
+      "source_name": "Investi QC",
+      "platform": "youtube"
+    },
+    {
+      "id": "youtube:5KUPjImkPdk",
+      "title": "« En France, on n'a pas de pétrole, mais on a des idées » : chasse au gaspi et heure d'été",
+      "url": "https://www.youtube.com/watch?v=5KUPjImkPdk",
+      "published_at": "2026-11-04T15:30:08+00:00",
+      "updated_at": "2026-11-04T15:30:09+00:00",
+      "description": "Une centrale nucléaire prend des années, donc chaque litre économisé compte tout de suite : l'État crée l'Agence pour les économies d'énergie, celle de la chasse au gaspi. Au milieu des années 1970, une de ses campagnes trouve la formule qui reste : « En France, on n'a pas de pétrole, mais on a des idées ». Une de ces idées touche même votre montre : en 1976, pour économiser l'éclairage du soir, la France applique l'heure d'été. Ce que la France a choisi : rouler moins vite, économiser, et miser sur le nucléaire.\nLes dessins sont des illustrations.\n#Shorts #heuredété #économiesdénergie #chocpétrolier\n\nVidéo complète : https://youtu.be/PZ3JWONt0gM",
+      "image_url": "https://i2.ytimg.com/vi/5KUPjImkPdk/hqdefault.jpg",
+      "source_id": "eco-en-batons",
+      "source_name": "Éco en bâtons",
+      "platform": "youtube"
+    },
     {
       "id": "youtube:EA2GBwKm-x8",
       "title": "La stagflation expliquée : du chômage ET de l'inflation après le choc pétrolier (1974-1975)",
@@ -127,7 +211,7 @@
       "title": "Octobre 1973 : la guerre, l'embargo arabe, et un baril près de quatre fois plus cher",
       "url": "https://www.youtube.com/watch?v=-8nVSKfsv50",
       "published_at": "2026-11-04T08:00:31+00:00",
-      "updated_at": "2026-11-04T08:00:32+00:00",
+      "updated_at": "2026-11-04T19:11:29+00:00",
       "description": "Le 6 octobre 1973, l'Égypte et la Syrie attaquent Israël. Dix jours plus tard, six pays du Golfe relèvent seuls de 70 % le prix de référence du baril, à plus de 5 dollars. Le lendemain, les pays arabes annoncent une baisse de leur production de 5 % par mois. Le 19 octobre, le président américain Richard Nixon demande 2,2 milliards de dollars d'aide pour Israël ; le roi Fayçal annonce alors l'embargo total, c'est-à-dire l'interdiction de vendre du pétrole aux États-Unis, une mesure qui vise aussi les Pays-Bas. Pourtant, le pétrole ne disparaît pas : dans le monde, plus de neuf barils sur dix continuent d'arriver, mais de plus en plus cher. Au 1er janvier 1974, le baril est affiché à 11,65 dollars, près de quatre fois son prix d'avant.\nFaits rapportés et datés, sans prendre parti. Les dessins sont des illustrations.\nMontants datés, en dollars de l'époque.\nMinistres du pétrole : Central Intelligence Agency / Wikimedia Commons, domaine public.\nRichard Nixon, Golda Meir et Henry Kissinger (novembre 1973) : White House Photo Office (Nixon Library), domaine public.\nDimanche sans voiture aux Pays-Bas (4 novembre 1973) : Rob Mieremet / Anefo (Nationaal Archief), CC0 ; cuves du port d'Amsterdam (2 novembre 1973) : Anefo (Nationaal Archief), CC0.\n#Shorts #chocpétrolier #OPEP #histoire\n\nVidéo complète : https://youtu.be/PZ3JWONt0gM",
       "image_url": "https://i2.ytimg.com/vi/-8nVSKfsv50/hqdefault.jpg",
       "source_id": "eco-en-batons",
@@ -209,7 +293,7 @@
     {
       "id": "facebook:100064655653099:1574101024755071",
       "title": "𝐔𝐧𝐞 𝐛𝐞𝐥𝐥𝐞 𝐫𝐞𝐜𝐨𝐧𝐧𝐚𝐢𝐬𝐬𝐚𝐧𝐜𝐞 𝐩𝐨𝐮𝐫 𝐧𝐨𝐭𝐫𝐞 𝐩𝐚𝐫𝐭𝐞𝐧𝐚𝐢𝐫𝐞 Récréonature Repentigny!💙 ",
-      "url": "https://www.facebook.com/VilleDeLavaltrie/posts/pfbid0ftBPW9aowvoeM3HQfR4TvfCpUxAPxCsbP84wRR7ULfgEV4LfnGWHLtSfxRjhmKt6l",
+      "url": "https://www.facebook.com/VilleDeLavaltrie/posts/pfbid02jjd6gpWdoQY84GkR9GNkLBicz9LohvaWrGZC3ympweejdXzkMxjbdJ828Ao1Dbcrl",
       "published_at": "2026-11-03T19:37:27+00:00",
       "updated_at": "2026-11-03T19:37:27+00:00",
       "description": "𝐔𝐧𝐞 𝐛𝐞𝐥𝐥𝐞 𝐫𝐞𝐜𝐨𝐧𝐧𝐚𝐢𝐬𝐬𝐚𝐧𝐜𝐞 𝐩𝐨𝐮𝐫 𝐧𝐨𝐭𝐫𝐞 𝐩𝐚𝐫𝐭𝐞𝐧𝐚𝐢𝐫𝐞 Récréonature Repentigny!💙 \n\nFélicitations à toute l’équipe, qui a reçu le 𝗣𝗿𝗶𝘅 𝗱𝘂 𝗠𝗲́𝗿𝗶𝘁𝗲 𝗹𝗮𝗻𝗮𝘂𝗱𝗼𝗶𝘀 𝟮𝟬𝟮𝟲 – 𝗢𝗿𝗴𝗮𝗻𝗶𝘀𝗺𝗲 𝗱𝗲 𝗹’𝗮𝗻𝗻𝗲́𝗲, présenté par Loisir et Sport Lanaudière! 👏\n\nCette reconnaissanc",
