@@ -2,15 +2,15 @@
   "version": 1,
   "title": "Social Feed",
   "description": "Un seul fil pour suivre les sources qui comptent.",
-  "generated_at": "2026-11-03T18:28:07.397617+00:00",
+  "generated_at": "2026-11-04T00:00:08.910268+00:00",
   "sources": [
     {
       "id": "eco-en-batons",
       "name": "Éco en bâtons",
       "platform": "youtube",
       "url": "https://www.youtube.com/@Eco_en_batons",
-      "status": "ok",
-      "error": null,
+      "status": "error",
+      "error": "HTTPError: HTTP Error 404: Not Found",
       "last_success_at": "2026-11-03T18:28:07.397617+00:00",
       "item_count": 27
     },
@@ -19,8 +19,8 @@
       "name": "Investi QC",
       "platform": "youtube",
       "url": "https://www.youtube.com/@investi-qc",
-      "status": "ok",
-      "error": null,
+      "status": "error",
+      "error": "HTTPError: HTTP Error 404: Not Found",
       "last_success_at": "2026-11-03T18:28:07.397617+00:00",
       "item_count": 32
     },
@@ -29,8 +29,8 @@
       "name": "Hugo Lisoir",
       "platform": "youtube",
       "url": "https://www.youtube.com/@hugolisoiryoutube",
-      "status": "ok",
-      "error": null,
+      "status": "error",
+      "error": "HTTPError: HTTP Error 404: Not Found",
       "last_success_at": "2026-11-03T18:28:07.397617+00:00",
       "item_count": 19
     },
@@ -39,8 +39,8 @@
       "name": "Alex Demers — Finance 360",
       "platform": "youtube",
       "url": "https://www.youtube.com/@alexdemers-finance360",
-      "status": "ok",
-      "error": null,
+      "status": "error",
+      "error": "HTTPError: HTTP Error 404: Not Found",
       "last_success_at": "2026-11-03T18:28:07.397617+00:00",
       "item_count": 18
     },
@@ -51,7 +51,7 @@
       "url": "https://www.facebook.com/GuildWars/",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-03T18:28:07.397617+00:00",
+      "last_success_at": "2026-11-04T00:00:08.910268+00:00",
       "item_count": 7
     },
     {
@@ -61,8 +61,8 @@
       "url": "https://www.facebook.com/LOTRO/",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-03T18:28:07.397617+00:00",
-      "item_count": 15
+      "last_success_at": "2026-11-04T00:00:08.910268+00:00",
+      "item_count": 16
     },
     {
       "id": "ville-de-lavaltrie",
@@ -71,8 +71,8 @@
       "url": "https://www.facebook.com/VilleDeLavaltrie/",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-03T18:28:07.397617+00:00",
-      "item_count": 12
+      "last_success_at": "2026-11-04T00:00:08.910268+00:00",
+      "item_count": 13
     },
     {
       "id": "traders-360",
@@ -81,11 +81,47 @@
       "url": "https://www.facebook.com/firmetraders360/",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-03T18:28:07.397617+00:00",
-      "item_count": 14
+      "last_success_at": "2026-11-04T00:00:08.910268+00:00",
+      "item_count": 15
     }
   ],
   "items": [
+    {
+      "id": "facebook:100064792208382:1637171188452606",
+      "title": "Team Standing Stone Games is back for Extra Life! Learn more about this annual fundraiser for the Children’s Miracle Net",
+      "url": "https://www.facebook.com/LOTRO/posts/pfbid026oMgA3zT4ZxijCYTg7wReUzqCu3MmNzuSAbK2xB67TF6VUecWmdbF7EJZpBSCoGHl",
+      "published_at": "2026-11-03T23:44:58+00:00",
+      "updated_at": "2026-11-03T23:44:58+00:00",
+      "description": "Team Standing Stone Games is back for Extra Life! Learn more about this annual fundraiser for the Children’s Miracle Network of hospitals on LOTRO.com: https://www.lotro.com/news/lotro-extra-life-2026-en #LOTRO",
+      "image_url": null,
+      "source_id": "lotro",
+      "source_name": "The Lord of the Rings Online",
+      "platform": "facebook"
+    },
+    {
+      "id": "facebook:100063889127390:1666612658811689",
+      "title": "La Banque du Canada risque-t-elle de provoquer une récession au Québec?",
+      "url": "https://www.facebook.com/firmetraders360/posts/pfbid02sdyetBVeKrvTUh63nG88hrYHbhdmtuQRNs3MCkJFeYg1qSZcM5YzmswnMWy2WRrPl",
+      "published_at": "2026-11-03T23:15:57+00:00",
+      "updated_at": "2026-11-03T23:15:57+00:00",
+      "description": "La Banque du Canada risque-t-elle de provoquer une récession au Québec?\n\nPendant que les tarifs douaniers américains fragilisent déjà plusieurs industries québécoises, la Banque du Canada a décidé de remonter son taux directeur.\n\nAvec une i",
+      "image_url": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.99422-6/888089591_2062109721858780_1160102114847797487_n.png?stp=dst-jpg_tt6&cstp=mx1672x941&ctp=s960x960&_nc_cat=101&ccb=1-7&_nc_sid=127cfc&_nc_ohc=7lpASa0FD4QQ7kNvwFdGE-_&_nc_oc=AdqEokUy8M3coF6qR-XT7yhWORfa95E-Kb--J2tymSqgNeOkdO7CCcJ-vfDO62lpUM0&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=NjktuzubU73685fqTw4utQ&_nc_ss=7f289&oh=00_AQSauOpRj9XKtxd2N6C9zz49f3AHr48CDyw-nTcKndf0AQ&oe=6AF054E5",
+      "source_id": "traders-360",
+      "source_name": "Traders 360",
+      "platform": "facebook"
+    },
+    {
+      "id": "facebook:100064655653099:1574101024755071",
+      "title": "𝐔𝐧𝐞 𝐛𝐞𝐥𝐥𝐞 𝐫𝐞𝐜𝐨𝐧𝐧𝐚𝐢𝐬𝐬𝐚𝐧𝐜𝐞 𝐩𝐨𝐮𝐫 𝐧𝐨𝐭𝐫𝐞 𝐩𝐚𝐫𝐭𝐞𝐧𝐚𝐢𝐫𝐞 Récréonature Repentigny!💙 ",
+      "url": "https://www.facebook.com/VilleDeLavaltrie/posts/pfbid0ftBPW9aowvoeM3HQfR4TvfCpUxAPxCsbP84wRR7ULfgEV4LfnGWHLtSfxRjhmKt6l",
+      "published_at": "2026-11-03T19:37:27+00:00",
+      "updated_at": "2026-11-03T19:37:27+00:00",
+      "description": "𝐔𝐧𝐞 𝐛𝐞𝐥𝐥𝐞 𝐫𝐞𝐜𝐨𝐧𝐧𝐚𝐢𝐬𝐬𝐚𝐧𝐜𝐞 𝐩𝐨𝐮𝐫 𝐧𝐨𝐭𝐫𝐞 𝐩𝐚𝐫𝐭𝐞𝐧𝐚𝐢𝐫𝐞 Récréonature Repentigny!💙 \n\nFélicitations à toute l’équipe, qui a reçu le 𝗣𝗿𝗶𝘅 𝗱𝘂 𝗠𝗲́𝗿𝗶𝘁𝗲 𝗹𝗮𝗻𝗮𝘂𝗱𝗼𝗶𝘀 𝟮𝟬𝟮𝟲 – 𝗢𝗿𝗴𝗮𝗻𝗶𝘀𝗺𝗲 𝗱𝗲 𝗹’𝗮𝗻𝗻𝗲́𝗲, présenté par Loisir et Sport Lanaudière! 👏\n\nCette reconnaissanc",
+      "image_url": null,
+      "source_id": "ville-de-lavaltrie",
+      "source_name": "Ville de Lavaltrie",
+      "platform": "facebook"
+    },
     {
       "id": "facebook:100063889127390:1666397035499918",
       "title": "J’ai déjà réalisé un rendement de 23% juste en attendant qu’une compagnie se fasse acheter par une autre.",
@@ -105,7 +141,7 @@
       "published_at": "2026-11-03T18:02:37+00:00",
       "updated_at": "2026-11-03T18:02:37+00:00",
       "description": "⚔️Guild Wars Afterlife, the first new Guild Wars DLC in 20 years, arrives January 13. Prepurchase today at store.guildwars.com\n\nJourney to the ancient ruins of Xotecha, join the Order of the Moonless Night, and guide lost spirits through th",
-      "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t15.5256-10/886852394_2893757944357192_3474656742006615802_n.jpg?stp=dst-jpg_tt6&cstp=mx1920x1080&ctp=s960x960&_nc_cat=109&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=aLqg2MtxSUwQ7kNvwH6Wqt2&_nc_oc=AdqtmMIsIThC8ErP92iyohk6cbTRnR6GL32itWCpaiYFBSIz-CqyrineveFjCOS7dv8&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&_nc_gid=pAaW-5SmNQLss1kUpn-lVQ&_nc_ss=7f289&oh=00_AQSn-U0wn2o8v26nDRbZ6aNB3DYmOK4Wv6KeHbFseTHXoA&oe=6AF013B7",
+      "image_url": "https://scontent-sea5-1.xx.fbcdn.net/v/t15.5256-10/886852394_2893757944357192_3474656742006615802_n.jpg?stp=dst-jpg_tt6&cstp=mx1920x1080&ctp=s960x960&_nc_cat=109&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=aLqg2MtxSUwQ7kNvwEz_UWq&_nc_oc=Adr_LWmV40q_HUWIhtk5lka6iX5-77ntHtFJ1JSpVU7Xq7pkOU_f4zUhFwM-q2cw1Ns&_nc_zt=23&_nc_ht=scontent-sea5-1.xx&_nc_gid=Rndp5cD7PYDlIRfijRxYOQ&_nc_ss=7f289&oh=00_AQTtzIrA0hV7_zdrCz27JZmmQoEa3wrbni0kMhe7x63AhA&oe=6AF04BF7",
       "source_id": "guild-wars",
       "source_name": "Guild Wars",
       "platform": "facebook"
