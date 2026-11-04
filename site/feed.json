@@ -2,7 +2,7 @@
   "version": 1,
   "title": "Social Feed",
   "description": "Un seul fil pour suivre les sources qui comptent.",
-  "generated_at": "2026-11-04T00:00:08.910268+00:00",
+  "generated_at": "2026-11-04T06:30:32.626965+00:00",
   "sources": [
     {
       "id": "eco-en-batons",
@@ -51,7 +51,7 @@
       "url": "https://www.facebook.com/GuildWars/",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-04T00:00:08.910268+00:00",
+      "last_success_at": "2026-11-04T06:30:32.626965+00:00",
       "item_count": 7
     },
     {
@@ -61,7 +61,7 @@
       "url": "https://www.facebook.com/LOTRO/",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-04T00:00:08.910268+00:00",
+      "last_success_at": "2026-11-04T06:30:32.626965+00:00",
       "item_count": 16
     },
     {
@@ -71,7 +71,7 @@
       "url": "https://www.facebook.com/VilleDeLavaltrie/",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-04T00:00:08.910268+00:00",
+      "last_success_at": "2026-11-04T06:30:32.626965+00:00",
       "item_count": 13
     },
     {
@@ -81,15 +81,27 @@
       "url": "https://www.facebook.com/firmetraders360/",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-04T00:00:08.910268+00:00",
-      "item_count": 15
+      "last_success_at": "2026-11-04T06:30:32.626965+00:00",
+      "item_count": 16
     }
   ],
   "items": [
     {
+      "id": "facebook:100063889127390:1666659042140384",
+      "title": "L’essence et le diesel coûte plus cher. La solution de la Banque du Canada: monter les taux d’intérêt.",
+      "url": "https://www.facebook.com/reel/1653164796605517/",
+      "published_at": "2026-11-04T00:31:42+00:00",
+      "updated_at": "2026-11-04T00:31:42+00:00",
+      "description": "L’essence et le diesel coûte plus cher. La solution de la Banque du Canada: monter les taux d’intérêt.\n\nIls risquent de provoquer une récession en essayant de combattre la hausse du pétrole avec des coûts d’emprunt plus élevé.",
+      "image_url": "https://scontent-iad3-2.xx.fbcdn.net/v/t51.82787-10/875732367_18134956060669293_1738174977211836075_n.jpg?stp=dst-jpg_tt6&cstp=mx720x1280&ctp=s960x960&_nc_cat=111&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=fiLkErEn0GkQ7kNvwGXwsBO&_nc_oc=Adr9XIjvckQq12v9Zp0d8YV947Vlw-h8ggfnnLBfOOLxEYWQhDJdF5H_3C1mqaDGzdM&_nc_zt=23&_nc_ht=scontent-iad3-2.xx&_nc_gid=Oy5Ik9KqPMcqQXgiufst0g&_nc_ss=7f289&oh=00_AQTFpnV8D_oEInRwKmJzyN5pyQYFiHfEqqEuoC5iEniATw&oe=6AF08874",
+      "source_id": "traders-360",
+      "source_name": "Traders 360",
+      "platform": "facebook"
+    },
+    {
       "id": "facebook:100064792208382:1637171188452606",
       "title": "Team Standing Stone Games is back for Extra Life! Learn more about this annual fundraiser for the Children’s Miracle Net",
-      "url": "https://www.facebook.com/LOTRO/posts/pfbid026oMgA3zT4ZxijCYTg7wReUzqCu3MmNzuSAbK2xB67TF6VUecWmdbF7EJZpBSCoGHl",
+      "url": "https://www.facebook.com/LOTRO/posts/pfbid03FiVEtN6DKC9EMKcx5DUjyu7G6WP5KKRphqvrDLW8yatoh6nvRmgjiaaAhjBifkWl",
       "published_at": "2026-11-03T23:44:58+00:00",
       "updated_at": "2026-11-03T23:44:58+00:00",
       "description": "Team Standing Stone Games is back for Extra Life! Learn more about this annual fundraiser for the Children’s Miracle Network of hospitals on LOTRO.com: https://www.lotro.com/news/lotro-extra-life-2026-en #LOTRO",
@@ -141,7 +153,7 @@
       "published_at": "2026-11-03T18:02:37+00:00",
       "updated_at": "2026-11-03T18:02:37+00:00",
       "description": "⚔️Guild Wars Afterlife, the first new Guild Wars DLC in 20 years, arrives January 13. Prepurchase today at store.guildwars.com\n\nJourney to the ancient ruins of Xotecha, join the Order of the Moonless Night, and guide lost spirits through th",
-      "image_url": "https://scontent-sea5-1.xx.fbcdn.net/v/t15.5256-10/886852394_2893757944357192_3474656742006615802_n.jpg?stp=dst-jpg_tt6&cstp=mx1920x1080&ctp=s960x960&_nc_cat=109&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=aLqg2MtxSUwQ7kNvwEz_UWq&_nc_oc=Adr_LWmV40q_HUWIhtk5lka6iX5-77ntHtFJ1JSpVU7Xq7pkOU_f4zUhFwM-q2cw1Ns&_nc_zt=23&_nc_ht=scontent-sea5-1.xx&_nc_gid=Rndp5cD7PYDlIRfijRxYOQ&_nc_ss=7f289&oh=00_AQTtzIrA0hV7_zdrCz27JZmmQoEa3wrbni0kMhe7x63AhA&oe=6AF04BF7",
+      "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t15.5256-10/886852394_2893757944357192_3474656742006615802_n.jpg?stp=dst-jpg_tt6&cstp=mx1920x1080&ctp=s960x960&_nc_cat=109&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=aLqg2MtxSUwQ7kNvwED9u7q&_nc_oc=Ado-bfpRqJUT3khRepqzxeE3JPW-4TfZh47gwtcjFUysQPbWo0LpEq1KndBTV4-Lzvs&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&_nc_gid=v9aQ3iy8hL49Om4unn0o3Q&_nc_ss=7f289&oh=00_AQS3-FHapWGnthdM_PkKAiZOKxVWis-8-VeTAk8SFrxfIA&oe=6AF0BC77",
       "source_id": "guild-wars",
       "source_name": "Guild Wars",
       "platform": "facebook"
