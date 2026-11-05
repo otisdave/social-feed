@@ -2,7 +2,7 @@
   "version": 1,
   "title": "Social Feed",
   "description": "Un seul fil pour suivre les sources qui comptent.",
-  "generated_at": "2026-11-05T10:59:54.868915+00:00",
+  "generated_at": "2026-11-05T18:47:16.742469+00:00",
   "sources": [
     {
       "id": "eco-en-batons",
@@ -11,7 +11,7 @@
       "url": "https://www.youtube.com/@Eco_en_batons",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-05T10:59:54.868915+00:00",
+      "last_success_at": "2026-11-05T18:47:16.742469+00:00",
       "item_count": 32
     },
     {
@@ -21,8 +21,8 @@
       "url": "https://www.youtube.com/@investi-qc",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-05T10:59:54.868915+00:00",
-      "item_count": 37
+      "last_success_at": "2026-11-05T18:47:16.742469+00:00",
+      "item_count": 39
     },
     {
       "id": "hugo-lisoir",
@@ -31,8 +31,8 @@
       "url": "https://www.youtube.com/@hugolisoiryoutube",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-05T10:59:54.868915+00:00",
-      "item_count": 20
+      "last_success_at": "2026-11-05T18:47:16.742469+00:00",
+      "item_count": 21
     },
     {
       "id": "alex-demers-finance360",
@@ -41,7 +41,7 @@
       "url": "https://www.youtube.com/@alexdemers-finance360",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-05T10:59:54.868915+00:00",
+      "last_success_at": "2026-11-05T18:47:16.742469+00:00",
       "item_count": 19
     },
     {
@@ -51,7 +51,7 @@
       "url": "https://www.facebook.com/GuildWars/",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-05T10:59:54.868915+00:00",
+      "last_success_at": "2026-11-05T18:47:16.742469+00:00",
       "item_count": 8
     },
     {
@@ -61,8 +61,8 @@
       "url": "https://www.facebook.com/LOTRO/",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-05T10:59:54.868915+00:00",
-      "item_count": 18
+      "last_success_at": "2026-11-05T18:47:16.742469+00:00",
+      "item_count": 19
     },
     {
       "id": "ville-de-lavaltrie",
@@ -71,8 +71,8 @@
       "url": "https://www.facebook.com/VilleDeLavaltrie/",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-05T10:59:54.868915+00:00",
-      "item_count": 14
+      "last_success_at": "2026-11-05T18:47:16.742469+00:00",
+      "item_count": 15
     },
     {
       "id": "traders-360",
@@ -81,17 +81,89 @@
       "url": "https://www.facebook.com/firmetraders360/",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-05T10:59:54.868915+00:00",
-      "item_count": 18
+      "last_success_at": "2026-11-05T18:47:16.742469+00:00",
+      "item_count": 19
     }
   ],
   "items": [
+    {
+      "id": "facebook:100064792208382:1639288551574203",
+      "title": "Unleash Your Potential! Get 20% off:",
+      "url": "https://www.facebook.com/LOTRO/posts/pfbid02yvQucBxspM8YyMrZNCmMM45S1KGvTipRppsiL2Bj4G6UgHFTfMhKGhyz1ENFKEhGl",
+      "published_at": "2026-11-05T18:40:24+00:00",
+      "updated_at": "2026-11-05T18:40:24+00:00",
+      "description": "Unleash Your Potential! Get 20% off:\nDeed Boosts\nUniversal Solvents\nUniversal Morale and Power Potions\nNow through November 12th! #LOTRO",
+      "image_url": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.99422-6/886936983_1139451465164634_6312737492779021912_n.png?stp=dst-jpg_tt6&cstp=mx1920x1080&ctp=s960x960&_nc_cat=107&ccb=1-7&_nc_sid=127cfc&_nc_ohc=KCOUtIP1DWgQ7kNvwFXMfv0&_nc_oc=Ado9BucK61CuNBsuumNwtarRKDyPFAiDVBrOibrmeeM_l1Tb6Gr9Vdq6JhukAha9XZM&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=ITi1Ax7tUZADE0nDZH1Ufg&_nc_ss=7f289&oh=00_AQRC0KZzy71TNCNjTscsVEYQzRFkUVD4vB5-5UsHpZhtbg&oe=6AF28999",
+      "source_id": "lotro",
+      "source_name": "The Lord of the Rings Online",
+      "platform": "facebook"
+    },
+    {
+      "id": "facebook:100063889127390:1668536741952614",
+      "title": "Ceux qui ont acheté le dip dans XQQ et qui découvrent que le dip avait un sous-sol.",
+      "url": "https://www.facebook.com/firmetraders360/posts/pfbid026Rqtcbb3rMXEXbsRyAwt1Bw49wPoJKk6prydLizxETmWEtqE4CdHQXLmLgj9js9Ml",
+      "published_at": "2026-11-05T17:42:52+00:00",
+      "updated_at": "2026-11-05T17:42:52+00:00",
+      "description": "Ceux qui ont acheté le dip dans XQQ et qui découvrent que le dip avait un sous-sol.\n\nMes prières accompagnent les investisseurs dans le secteur de la mémoire et des semi-conducteurs.",
+      "image_url": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.99422-6/890492715_1120601667434724_5311448408295416002_n.png?stp=dst-jpg_tt6&cstp=mx1536x1024&ctp=p180x540&_nc_cat=104&ccb=1-7&_nc_sid=127cfc&_nc_ohc=FchgLywXE8MQ7kNvwHG4F_1&_nc_oc=Adqszl0xc5FGJ-5y_JTcx2PcT6pPctvag_8uMIWxbmQLn_cbQq-Zjqg4_RDjTjb03yo&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=EjH1BuAsuE9lTgh39OmBjA&_nc_ss=7f289&oh=00_AQSwaTOwte-T9rtt_Y0PjGFqI4T62DhZq_OMqQ1_aR1GcA&oe=6AF2AE83",
+      "source_id": "traders-360",
+      "source_name": "Traders 360",
+      "platform": "facebook"
+    },
+    {
+      "id": "youtube:oKmFzcw1oQI",
+      "title": "La vague bleue ou la vague rouge?",
+      "url": "https://www.youtube.com/watch?v=oKmFzcw1oQI",
+      "published_at": "2026-11-05T17:42:00+00:00",
+      "updated_at": "2026-11-05T18:09:35+00:00",
+      "description": "La vague bleue ou la vague rouge?",
+      "image_url": "https://i4.ytimg.com/vi/oKmFzcw1oQI/hqdefault.jpg",
+      "source_id": "investi-qc",
+      "source_name": "Investi QC",
+      "platform": "youtube"
+    },
+    {
+      "id": "youtube:bQQJet5No90",
+      "title": "Ce caillou suit la Terre depuis 100 ans… et personne ne sait D’OÙ il vient !",
+      "url": "https://www.youtube.com/watch?v=bQQJet5No90",
+      "published_at": "2026-11-05T17:00:14+00:00",
+      "updated_at": "2026-11-05T17:00:14+00:00",
+      "description": "La Terre possède-t-elle une deuxième Lune ? Depuis sa découverte en 2016, l'astéroïde Kamoʻoalewa intrigue les astronomes. Ce petit objet, qui accompagne notre planète autour du Soleil, pourrait être un fragment de la Lune arraché à sa surface lors d'une gigantesque collision, il y a plusieurs millions d'années. \n\nSources :\nhttps://arxiv.org/abs/2111.06372\nhttps://news.arizona.edu/news/near-earth-asteroid-was-blasted-crater-moon-study-finds\nhttps://www.nature.com/articles/s41467-026-73284-w\nhttps://doi.org/10.3847/2041-8213/aea6b6\nhttps://spacenews.com/tianwen-2-arrives-at-asteroid-kamooalewa-first-image-revealed/\nhttps://skyandtelescope.org/astronomy-news/tianwen-2-arrives-at-quasi-moon-kamo%CA%BBoalewa-returns-images/\n\nMusiques : Pedro Macedo Camacho (Star Citizen), Utho Riley, Gérald M. Dorai\nImages : CNSA, NASA, JAXA, ESA\nMoteur 3D : Space Engine Pro",
+      "image_url": "https://i3.ytimg.com/vi/bQQJet5No90/hqdefault.jpg",
+      "source_id": "hugo-lisoir",
+      "source_name": "Hugo Lisoir",
+      "platform": "youtube"
+    },
+    {
+      "id": "youtube:BCcI_dLPT2c",
+      "title": "La répartition d’un portefeuille boursier",
+      "url": "https://www.youtube.com/watch?v=BCcI_dLPT2c",
+      "published_at": "2026-11-05T16:42:33+00:00",
+      "updated_at": "2026-11-05T17:17:39+00:00",
+      "description": "La répartition d’un portefeuille boursier",
+      "image_url": "https://i3.ytimg.com/vi/BCcI_dLPT2c/hqdefault.jpg",
+      "source_id": "investi-qc",
+      "source_name": "Investi QC",
+      "platform": "youtube"
+    },
+    {
+      "id": "facebook:100064655653099:1576150381216802",
+      "title": "Le 25 octobre dernier, la Ville de Lavaltrie et la Société d’histoire et du patrimoine de Lavaltrie ont procédé à l’𝗶𝗻𝗮𝘂",
+      "url": "https://www.facebook.com/VilleDeLavaltrie/posts/pfbid02Xw6ShjUNckebYMEYxyiyHKLeaxtNbxRXfgF2Hvo1LQXGZiDB2KUumsjrvNawTFbRl",
+      "published_at": "2026-11-05T16:37:01+00:00",
+      "updated_at": "2026-11-05T16:37:01+00:00",
+      "description": "Le 25 octobre dernier, la Ville de Lavaltrie et la Société d’histoire et du patrimoine de Lavaltrie ont procédé à l’𝗶𝗻𝗮𝘂𝗴𝘂𝗿𝗮𝘁𝗶𝗼𝗻 𝗼𝗳𝗳𝗶𝗰𝗶𝗲𝗹𝗹𝗲 𝗱𝘂 𝗠𝗼𝗻𝘂𝗺𝗲𝗻𝘁 𝗮𝘂𝘅 𝘀𝗼𝗹𝗱𝗮𝘁𝗲𝘀 𝗲𝘁 𝘀𝗼𝗹𝗱𝗮𝘁𝘀 𝗱𝗲 𝗟𝗮𝘃𝗮𝗹𝘁𝗿𝗶𝗲, à la Place du 350e. \n\nVétérans, militaires, cadets",
+      "image_url": null,
+      "source_id": "ville-de-lavaltrie",
+      "source_name": "Ville de Lavaltrie",
+      "platform": "facebook"
+    },
     {
       "id": "youtube:-UhfrFzVFnU",
       "title": "Investis tes futurs rendement de novembre sur le pochesetfils.com Jusqu’à 30% de rabais 📈",
       "url": "https://www.youtube.com/watch?v=-UhfrFzVFnU",
       "published_at": "2026-11-05T00:44:10+00:00",
-      "updated_at": "2026-11-05T06:56:59+00:00",
+      "updated_at": "2026-11-05T14:02:12+00:00",
       "description": "Investis tes futurs rendement de novembre sur le pochesetfils.com Jusqu’à 30% de rabais 📈",
       "image_url": "https://i2.ytimg.com/vi/-UhfrFzVFnU/hqdefault.jpg",
       "source_id": "investi-qc",
@@ -153,7 +225,7 @@
       "published_at": "2026-11-04T19:01:25+00:00",
       "updated_at": "2026-11-04T19:01:25+00:00",
       "description": "ICYMI: The Mists have opened. 🌫️ Watch the Afterlife trailer, the first new Guild Wars DLC in 20 years, arriving January 13.\n\n▶️ https://youtu.be/yaHUtkayKzk\n\n#GWAfterlife #GuildWarsReforged #GuildWars #Gaming #mmorpggames",
-      "image_url": "https://scontent-ord5-2.xx.fbcdn.net/v/t15.5256-10/890603161_2113603566212877_3702430383455999726_n.jpg?stp=dst-jpg_tt6&cstp=mx1440x1440&ctp=s960x960&_nc_cat=103&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=LPccUmpiwCUQ7kNvwFwRV7Z&_nc_oc=AdpP3WjG8LFMHOuLN9KI52bTOGf_VVModfBn1ZAv8Zm4K_RJ1-DEeVOCpCtLbBkRRP0&_nc_zt=23&_nc_ht=scontent-ord5-2.xx&_nc_gid=awzo2uD7T9R1C5Dc_dah8w&_nc_ss=7f289&oh=00_AQSDj4AiALjGowaT6auJ6-EIGITyrePp3tKTkmKJOGSLrw&oe=6AF223C6",
+      "image_url": "https://scontent-ord5-2.xx.fbcdn.net/v/t15.5256-10/890603161_2113603566212877_3702430383455999726_n.jpg?stp=dst-jpg_tt6&cstp=mx1440x1440&ctp=s960x960&_nc_cat=103&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=LPccUmpiwCUQ7kNvwHQQ09I&_nc_oc=AdoU7FZBfpUMnxb379JSncMIWoseOCVOifsDqpgc4tippSbeAqmWKrMOZD_B1JMZHT0&_nc_zt=23&_nc_ht=scontent-ord5-2.xx&_nc_gid=qgMzdIc6i_VjBiGQbehK7w&_nc_ss=7f289&oh=00_AQToXo96-mgbny3BYEIPoqbC8ywSEaGrrjmJk5GEJFwlTw&oe=6AF29446",
       "source_id": "guild-wars",
       "source_name": "Guild Wars",
       "platform": "facebook"
@@ -175,7 +247,7 @@
       "title": "Après le choc pétrolier : le baril s'effondre en 1986, et le pari nucléaire de la France paie",
       "url": "https://www.youtube.com/watch?v=FJx5enS21IM",
       "published_at": "2026-11-04T18:00:12+00:00",
-      "updated_at": "2026-11-05T09:19:40+00:00",
+      "updated_at": "2026-11-05T11:12:15+00:00",
       "description": "En 1986, l'Arabie saoudite change de stratégie pour reprendre ses clients, et le baril tombe d'environ 25 dollars à 10 ou 12 dollars en quelques mois. En France, le pari du plan Messmer a changé la donne : le nucléaire fournissait environ 8 % de l'électricité française en 1973, et environ 68 % de la production d'électricité en 2025. En 2024, la France produit un peu plus de 60 % de l'énergie qu'elle consomme, contre moins du quart en 1973.\nLes dessins sont des illustrations.\nMontants datés, en dollars de l'époque.\n#Shorts #nucléaire #énergie #chocpétrolier\n\nVidéo complète : https://youtu.be/PZ3JWONt0gM",
       "image_url": "https://i3.ytimg.com/vi/FJx5enS21IM/hqdefault.jpg",
       "source_id": "eco-en-batons",
@@ -271,7 +343,7 @@
       "title": "Microsoft offre un package de départ à 60 000 travailleurs",
       "url": "https://www.youtube.com/watch?v=u3HGE3UyXKU",
       "published_at": "2026-11-04T00:40:19+00:00",
-      "updated_at": "2026-11-04T10:54:07+00:00",
+      "updated_at": "2026-11-05T11:10:05+00:00",
       "description": "Microsoft offre un package de départ à 60 000 travailleurs",
       "image_url": "https://i2.ytimg.com/vi/u3HGE3UyXKU/hqdefault.jpg",
       "source_id": "investi-qc",
@@ -415,7 +487,7 @@
       "title": "1981 : un crédit immobilier à 18,6 % aux États-Unis, ce que l'argent cher a coûté aux familles",
       "url": "https://www.youtube.com/watch?v=PXJGviVtFkQ",
       "published_at": "2026-11-03T15:30:17+00:00",
-      "updated_at": "2026-11-05T01:44:52+00:00",
+      "updated_at": "2026-11-05T09:19:05+00:00",
       "description": "En octobre 1981, aux États-Unis, un crédit immobilier à 30 ans coûte en moyenne 18,6 % par an. Sur 100 000 dollars empruntés à ce taux, on paie environ 18 600 dollars d'intérêts la première année, et presque rien du prêt lui-même. L'emploi paie aussi : fin 1982, le chômage américain atteint 10,8 %, le plus haut de l'après-guerre. Et pourtant, en 1981, le baril vaut encore plus de 35 dollars, alors que l'inflation américaine tombe de près de 15 % à moins de 4 % : ce n'est donc pas le pétrole qui a cédé, c'est l'argent cher qui a cassé les prix.\nLes dessins sont des illustrations.\nMontants datés, en dollars de l'époque.\nExplication générale, pas un conseil en investissement.\n#Shorts #crédit #inflation #économie\n\nVidéo complète : https://youtu.be/PZ3JWONt0gM",
       "image_url": "https://i1.ytimg.com/vi/PXJGviVtFkQ/hqdefault.jpg",
       "source_id": "eco-en-batons",
@@ -439,7 +511,7 @@
       "title": "Plan Messmer (6 mars 1974) : pourquoi la France a misé sur le nucléaire après le choc pétrolier",
       "url": "https://www.youtube.com/watch?v=vLsrNRl5h-Y",
       "published_at": "2026-11-03T10:30:33+00:00",
-      "updated_at": "2026-11-03T10:30:38+00:00",
+      "updated_at": "2026-11-05T09:14:14+00:00",
       "description": "En 1973, la France produit moins du quart de l'énergie qu'elle consomme. Elle réagit d'abord sur la route : en décembre 1973, la vitesse est limitée à 120 km/h sur autoroute et à 90 km/h sur les autres routes. Puis, le 6 mars 1974, à la télévision, le Premier ministre Pierre Messmer annonce : « Nous avons pris la décision de réaliser en 1974 et 1975 le lancement de treize centrales nucléaires. » Treize centrales à lancer en deux ans, puis six à sept réacteurs par an : c'est le plan Messmer, le pari du nucléaire pour moins dépendre du pétrole.\nLes dessins sont des illustrations.\nPhoto de Pierre Messmer (1988) : Roland Godefroy / Wikimedia Commons, CC BY 3.0 (https://creativecommons.org/licenses/by/3.0/), https://commons.wikimedia.org/wiki/File:Pierre_Messmer01_(cropped_2).JPG\nPhoto d'archive (route en Oregon, novembre 1973) : David Falconer, EPA Documerica / NARA, domaine public.\n#Shorts #nucléaire #planMessmer #chocpétrolier\n\nVidéo complète : https://youtu.be/PZ3JWONt0gM",
       "image_url": "https://i3.ytimg.com/vi/vLsrNRl5h-Y/hqdefault.jpg",
       "source_id": "eco-en-batons",
@@ -451,7 +523,7 @@
       "title": "Choc pétrolier de 1973 : il ne manquait que 7 à 9 % du pétrole, et pourtant les pompes étaient vides",
       "url": "https://www.youtube.com/watch?v=mvMwJESl82o",
       "published_at": "2026-11-03T08:00:34+00:00",
-      "updated_at": "2026-11-05T09:21:42+00:00",
+      "updated_at": "2026-11-05T13:13:21+00:00",
       "description": "Hiver 1973, aux États-Unis : plusieurs États n'autorisent plus le plein qu'un jour sur deux, selon le dernier chiffre de la plaque. En moins de trois mois, le baril de pétrole est devenu presque quatre fois plus cher. Pour un ouvrier américain moyen, un plein de 15 gallons (environ 57 litres) passe en un an d'une heure et demie de travail à presque deux heures. En octobre 1973, Fayçal, roi d'Arabie saoudite, annonce l'embargo total du pétrole vers les États-Unis. Pourtant, le monde n'a pas manqué de pétrole : il en manquait 7 à 9 %. Ce sont la peur et des prix plafonnés par l'État américain qui ont changé ce manque en files d'attente.\nLes dessins sont des illustrations.\nPhoto d'archive (file d'attente à une station-service, Oregon, décembre 1973) : David Falconer, EPA Documerica / NARA, domaine public.\nRoi Fayçal (27 mai 1971) : Robert L. Knudsen, White House Photo Office / Wikimedia Commons, domaine public.\nTickets de rationnement d'essence américains (1974) : Warren K. Leffler, U.S. News & World Report / Wikimedia Commons, domaine public.\n#Shorts #chocpétrolier #pétrole #économie\n\nVidéo complète : https://youtu.be/PZ3JWONt0gM",
       "image_url": "https://i2.ytimg.com/vi/mvMwJESl82o/hqdefault.jpg",
       "source_id": "eco-en-batons",
@@ -499,7 +571,7 @@
       "title": "Comprendre le ratio P/E dans un environnement d’investissements massifs en IA",
       "url": "https://www.youtube.com/watch?v=AOI8ac8iQck",
       "published_at": "2026-11-02T21:41:07+00:00",
-      "updated_at": "2026-11-03T21:14:13+00:00",
+      "updated_at": "2026-11-05T11:20:45+00:00",
       "description": "Comprendre le ratio P/E dans un environnement d’investissements massifs en IA",
       "image_url": "https://i2.ytimg.com/vi/AOI8ac8iQck/hqdefault.jpg",
       "source_id": "investi-qc",
