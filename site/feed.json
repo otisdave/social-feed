@@ -2,15 +2,15 @@
   "version": 1,
   "title": "Social Feed",
   "description": "Un seul fil pour suivre les sources qui comptent.",
-  "generated_at": "2026-11-04T21:54:57.470064+00:00",
+  "generated_at": "2026-11-05T02:30:47.061785+00:00",
   "sources": [
     {
       "id": "eco-en-batons",
       "name": "Éco en bâtons",
       "platform": "youtube",
       "url": "https://www.youtube.com/@Eco_en_batons",
-      "status": "ok",
-      "error": null,
+      "status": "error",
+      "error": "HTTPError: HTTP Error 404: Not Found",
       "last_success_at": "2026-11-04T21:54:57.470064+00:00",
       "item_count": 32
     },
@@ -19,8 +19,8 @@
       "name": "Investi QC",
       "platform": "youtube",
       "url": "https://www.youtube.com/@investi-qc",
-      "status": "ok",
-      "error": null,
+      "status": "error",
+      "error": "HTTPError: HTTP Error 404: Not Found",
       "last_success_at": "2026-11-04T21:54:57.470064+00:00",
       "item_count": 36
     },
@@ -29,8 +29,8 @@
       "name": "Hugo Lisoir",
       "platform": "youtube",
       "url": "https://www.youtube.com/@hugolisoiryoutube",
-      "status": "ok",
-      "error": null,
+      "status": "error",
+      "error": "HTTPError: HTTP Error 404: Not Found",
       "last_success_at": "2026-11-04T21:54:57.470064+00:00",
       "item_count": 20
     },
@@ -39,8 +39,8 @@
       "name": "Alex Demers — Finance 360",
       "platform": "youtube",
       "url": "https://www.youtube.com/@alexdemers-finance360",
-      "status": "ok",
-      "error": null,
+      "status": "error",
+      "error": "HTTPError: HTTP Error 404: Not Found",
       "last_success_at": "2026-11-04T21:54:57.470064+00:00",
       "item_count": 19
     },
@@ -51,7 +51,7 @@
       "url": "https://www.facebook.com/GuildWars/",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-04T21:54:57.470064+00:00",
+      "last_success_at": "2026-11-05T02:30:47.061785+00:00",
       "item_count": 8
     },
     {
@@ -61,8 +61,8 @@
       "url": "https://www.facebook.com/LOTRO/",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-04T21:54:57.470064+00:00",
-      "item_count": 17
+      "last_success_at": "2026-11-05T02:30:47.061785+00:00",
+      "item_count": 18
     },
     {
       "id": "ville-de-lavaltrie",
@@ -71,8 +71,8 @@
       "url": "https://www.facebook.com/VilleDeLavaltrie/",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-04T21:54:57.470064+00:00",
-      "item_count": 13
+      "last_success_at": "2026-11-05T02:30:47.061785+00:00",
+      "item_count": 14
     },
     {
       "id": "traders-360",
@@ -81,11 +81,47 @@
       "url": "https://www.facebook.com/firmetraders360/",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-04T21:54:57.470064+00:00",
-      "item_count": 17
+      "last_success_at": "2026-11-05T02:30:47.061785+00:00",
+      "item_count": 18
     }
   ],
   "items": [
+    {
+      "id": "facebook:100063889127390:1667726508700304",
+      "title": "La Banque du Canada ne contrôle pas le prix à la pompe. ",
+      "url": "https://www.facebook.com/reel/1642202917255882/",
+      "published_at": "2026-11-05T00:15:33+00:00",
+      "updated_at": "2026-11-05T00:15:33+00:00",
+      "description": "La Banque du Canada ne contrôle pas le prix à la pompe. \n\nQuand la hausse du pétrole est le principal moteur de l’inflation, augmenter les taux d’intérêt risque surtout d’alourdir les paiements des consommateurs et de freiner l’économie. \n\n",
+      "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t51.82787-10/883416033_18135047176669293_5734995661599187379_n.jpg?stp=dst-jpg_tt6&cstp=mx720x1280&ctp=s960x960&_nc_cat=107&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=lDowWz7h-TYQ7kNvwHMI8UF&_nc_oc=AdrJoBz7VrvrENK46vQID67cGyK5Uri2Y0FCiVesLCkW008cH_DxtTfcIh2FTaE0BKk&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&_nc_gid=9TJY1aPYzq2rD3FVoECF2w&_nc_ss=7f289&oh=00_AQSaBvU3D_ToqTWHUXiFY8v3ZnNXt3Q2t9rFWq_GnwbxVg&oe=6AF1D331",
+      "source_id": "traders-360",
+      "source_name": "Traders 360",
+      "platform": "facebook"
+    },
+    {
+      "id": "facebook:100064792208382:1638357665000625",
+      "title": "Time is almost up to Determine Your Discount!",
+      "url": "https://www.facebook.com/LOTRO/posts/pfbid0Enr3gddELQvZRjEMBTdQenx91cqccgcVFtzKR2J5cQmWJ44JFsGU7XK62pkb8Ukwl",
+      "published_at": "2026-11-04T23:55:23+00:00",
+      "updated_at": "2026-11-04T23:55:23+00:00",
+      "description": "Time is almost up to Determine Your Discount!\nUse HOWL15 - 15% off 1 item (5/account)\nHOWL20 for 20% off one item (3/account)\nHOWL30 for 30% off one item (1/account)!\nNow through November 5th!",
+      "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.99422-6/887604362_1645469207316071_5215002112699746007_n.png?stp=dst-jpg_tt6&cstp=mx1920x1080&ctp=s960x960&_nc_cat=109&ccb=1-7&_nc_sid=127cfc&_nc_ohc=DYzuFpRpGL4Q7kNvwE1TDYH&_nc_oc=AdoKg6GRzdl5LphnquS7cfbu0HPScnDIpIOJBzMODG7s0f5JujSuTyBvi0tfXYZG8EU&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=eLZ_YyqLprNRLlJvYBBHGw&_nc_ss=7f289&oh=00_AQRIADSBIAsBRZKUtQNeunMMyhKgchxbwaFk2lUwAJ5IYg&oe=6AF1D303",
+      "source_id": "lotro",
+      "source_name": "The Lord of the Rings Online",
+      "platform": "facebook"
+    },
+    {
+      "id": "facebook:100064655653099:1575290454636128",
+      "title": "Vous avez été nombreux à oser vous aventurer dans notre parcours hanté! 😱 On vous laisse revivre la soirée en images! 🎬",
+      "url": "https://www.facebook.com/reel/1854731162628258/",
+      "published_at": "2026-11-04T22:02:18+00:00",
+      "updated_at": "2026-11-04T22:02:18+00:00",
+      "description": "Vous avez été nombreux à oser vous aventurer dans notre parcours hanté! 😱 On vous laisse revivre la soirée en images! 🎬\n\n🧡 Un immense merci à tous les bénévoles qui ont mis la main à la pâte pour donner vie au parcours hanté! Votre créativi",
+      "image_url": "https://scontent-iad3-1.xx.fbcdn.net/v/t15.5256-10/885745192_1571130631726054_2083867449851670724_n.jpg?stp=dst-jpg_tt6&cstp=mx1080x1920&ctp=s960x960&_nc_cat=104&ccb=1-7&_nc_sid=d2b52d&_nc_ohc=UM7inxDnJNkQ7kNvwEf4A2N&_nc_oc=Adp_uRf9lhaWsZcucW0aHkKaOmkNAz5fp0uToDnCwzkyLmGf5JYuyb30o_ZIiiirIjc&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&_nc_gid=GpR3di3dozD5k28v--t-4g&_nc_ss=7f289&oh=00_AQS3-Q7EYfvBjQiRKSBKH3kaCobinfhpep-7c8cKzi-GFA&oe=6AF1A9A2",
+      "source_id": "ville-de-lavaltrie",
+      "source_name": "Ville de Lavaltrie",
+      "platform": "facebook"
+    },
     {
       "id": "youtube:C5Jxm4V912w",
       "title": "Hydro-Québec vit la même réalité que Microsoft",
@@ -105,7 +141,7 @@
       "published_at": "2026-11-04T19:01:25+00:00",
       "updated_at": "2026-11-04T19:01:25+00:00",
       "description": "ICYMI: The Mists have opened. 🌫️ Watch the Afterlife trailer, the first new Guild Wars DLC in 20 years, arriving January 13.\n\n▶️ https://youtu.be/yaHUtkayKzk\n\n#GWAfterlife #GuildWarsReforged #GuildWars #Gaming #mmorpggames",
-      "image_url": "https://scontent-ord5-2.xx.fbcdn.net/v/t15.5256-10/890603161_2113603566212877_3702430383455999726_n.jpg?stp=dst-jpg_tt6&cstp=mx1440x1440&ctp=s960x960&_nc_cat=103&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=LPccUmpiwCUQ7kNvwFIplSB&_nc_oc=Adq-yLk9q_IO0pC9KGhGC5LlMPaZi3xhFF8DONL5KaEt2Lp1MajnuFzXrfLB9mZXY0A&_nc_zt=23&_nc_ht=scontent-ord5-2.xx&_nc_gid=Ib54L6htDfFSt2UWOnV-Cg&_nc_ss=7f289&oh=00_AQQx-owM3lY3fjqS2eaUkJSC_pwTRET8VuwaLIRUtyuCNQ&oe=6AF17B06",
+      "image_url": "https://scontent-iad3-2.xx.fbcdn.net/v/t15.5256-10/890603161_2113603566212877_3702430383455999726_n.jpg?stp=dst-jpg_tt6&cstp=mx1440x1440&ctp=s960x960&_nc_cat=103&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=LPccUmpiwCUQ7kNvwFGLAFj&_nc_oc=Ado1RIfsSXiKvdnZ4t9LTK8t4FiJLFAYXFvOxkICMIv7y1JJAk6SzqSBwUqik3JHXV0&_nc_zt=23&_nc_ht=scontent-iad3-2.xx&_nc_gid=R0vw85GFS0EeafCau2E94g&_nc_ss=7f289&oh=00_AQTJsPVmmsTVbMStNuANA3BXZY-wt31S476Wbmk8Grn9NQ&oe=6AF1B346",
       "source_id": "guild-wars",
       "source_name": "Guild Wars",
       "platform": "facebook"
