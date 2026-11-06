@@ -2,7 +2,7 @@
   "version": 1,
   "title": "Social Feed",
   "description": "Un seul fil pour suivre les sources qui comptent.",
-  "generated_at": "2026-11-06T15:57:21.445105+00:00",
+  "generated_at": "2026-11-06T21:31:30.037233+00:00",
   "sources": [
     {
       "id": "eco-en-batons",
@@ -11,7 +11,7 @@
       "url": "https://www.youtube.com/@Eco_en_batons",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-06T15:57:21.445105+00:00",
+      "last_success_at": "2026-11-06T21:31:30.037233+00:00",
       "item_count": 33
     },
     {
@@ -21,8 +21,8 @@
       "url": "https://www.youtube.com/@investi-qc",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-06T15:57:21.445105+00:00",
-      "item_count": 43
+      "last_success_at": "2026-11-06T21:31:30.037233+00:00",
+      "item_count": 44
     },
     {
       "id": "hugo-lisoir",
@@ -31,7 +31,7 @@
       "url": "https://www.youtube.com/@hugolisoiryoutube",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-06T15:57:21.445105+00:00",
+      "last_success_at": "2026-11-06T21:31:30.037233+00:00",
       "item_count": 21
     },
     {
@@ -41,7 +41,7 @@
       "url": "https://www.youtube.com/@alexdemers-finance360",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-06T15:57:21.445105+00:00",
+      "last_success_at": "2026-11-06T21:31:30.037233+00:00",
       "item_count": 19
     },
     {
@@ -51,8 +51,8 @@
       "url": "https://www.facebook.com/GuildWars/",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-06T15:57:21.445105+00:00",
-      "item_count": 8
+      "last_success_at": "2026-11-06T21:31:30.037233+00:00",
+      "item_count": 9
     },
     {
       "id": "lotro",
@@ -61,8 +61,8 @@
       "url": "https://www.facebook.com/LOTRO/",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-06T15:57:21.445105+00:00",
-      "item_count": 20
+      "last_success_at": "2026-11-06T21:31:30.037233+00:00",
+      "item_count": 21
     },
     {
       "id": "ville-de-lavaltrie",
@@ -71,8 +71,8 @@
       "url": "https://www.facebook.com/VilleDeLavaltrie/",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-06T15:57:21.445105+00:00",
-      "item_count": 17
+      "last_success_at": "2026-11-06T21:31:30.037233+00:00",
+      "item_count": 18
     },
     {
       "id": "traders-360",
@@ -81,17 +81,77 @@
       "url": "https://www.facebook.com/firmetraders360/",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-06T15:57:21.445105+00:00",
-      "item_count": 21
+      "last_success_at": "2026-11-06T21:31:30.037233+00:00",
+      "item_count": 22
     }
   ],
   "items": [
+    {
+      "id": "facebook:100063889127390:1669818788491076",
+      "title": "Le Canada a perdu 4,700 emplois juste en octobre, après déjà 68,000 pertes en septembre et 42,000 en août. Le taux de ch",
+      "url": "https://www.facebook.com/firmetraders360/posts/pfbid02rrYjNp5oUxSYbgex7RPVxM8Vp4RcjPKKMfV5nno43my2V2683zQo9AGE5UuWpu14l",
+      "published_at": "2026-11-06T21:24:59+00:00",
+      "updated_at": "2026-11-06T21:24:59+00:00",
+      "description": "Le Canada a perdu 4,700 emplois juste en octobre, après déjà 68,000 pertes en septembre et 42,000 en août. Le taux de chômage dans le pays est remonté à 6,7%.\n\nAu Québec, le taux de chômage a baissé à 5,7% mais c’est parce qu’il y avait moi",
+      "image_url": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.99422-6/892457222_2005525123473901_2193695722427967062_n.png?stp=dst-jpg_tt6&cstp=mx1680x960&ctp=p180x540&_nc_cat=102&ccb=1-7&_nc_sid=127cfc&_nc_ohc=A1KKxym3Tf8Q7kNvwHxjXD0&_nc_oc=Adr8mNm9u5kQXOfv9_5pNgP9dFQ5Qr9jUwnyvzU0KjDaOztfa4UGscxkG7Vxh-SubyI&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=iGOtTdzGW_G8Moo-2mGnqg&_nc_ss=7f289&oh=00_AQTGGOZNZcSyK56s_VxRMx_rhFAPSvSl_zIyiI3GCCmAfQ&oe=6AF421CB",
+      "source_id": "traders-360",
+      "source_name": "Traders 360",
+      "platform": "facebook"
+    },
+    {
+      "id": "youtube:XSG9M3UUtjw",
+      "title": "1 seule tasse disponible",
+      "url": "https://www.youtube.com/watch?v=XSG9M3UUtjw",
+      "published_at": "2026-11-06T20:40:53+00:00",
+      "updated_at": "2026-11-06T20:55:46+00:00",
+      "description": "1 seule tasse disponible. L’encan commence à 500$/épisode (chaque épisode est écouté par plus de 20 000 amateurs de bourse, et chaque épisode inclut 14 clips sur nos réseaux sociaux qui rejoignent plus de 300 000 Québécois chaque semaine).",
+      "image_url": "https://i1.ytimg.com/vi/XSG9M3UUtjw/hqdefault.jpg",
+      "source_id": "investi-qc",
+      "source_name": "Investi QC",
+      "platform": "youtube"
+    },
+    {
+      "id": "facebook:100064792208382:1640548684781523",
+      "title": "Schedule update for Angmar and Mordor: We are increasing wraith spawns, adding new rewards, and shifting free transfers ",
+      "url": "https://www.facebook.com/LOTRO/posts/pfbid02TqzzwSrxeST2nCtaKqvuYN9W1aHCP9K1RbCYmwFvuFGKt2Ekik18aXGYWDRqVXctl",
+      "published_at": "2026-11-06T19:09:58+00:00",
+      "updated_at": "2026-11-06T19:09:58+00:00",
+      "description": "Schedule update for Angmar and Mordor: We are increasing wraith spawns, adding new rewards, and shifting free transfers to January. Read more on https://ow.ly/8H3e5104EKv: https://ow.ly/Zah45104EKw #LOTRO",
+      "image_url": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.99422-6/860730951_1127204086510395_3717084933827259569_n.png?stp=dst-jpg_tt6&cstp=mx1920x1080&ctp=s960x960&_nc_cat=100&ccb=1-7&_nc_sid=127cfc&_nc_ohc=U7dE7RA04nUQ7kNvwEsxu27&_nc_oc=AdoMwu1CKDJkew29nJ5jsnTYhA88WyOIy3UiWFW-DqUCGsSxP3m0esHGWTxi1uv8tZk&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=QeWmeBqqjQy0j4LA7NXLrg&_nc_ss=7f289&oh=00_AQTuyHFM89_oIwEur73x-UgnLfdGbineRsAuACdZ4OLNpg&oe=6AF4079D",
+      "source_id": "lotro",
+      "source_name": "The Lord of the Rings Online",
+      "platform": "facebook"
+    },
+    {
+      "id": "facebook:100069958479615:1434079915600611",
+      "title": "\"Running to Droks, 1k each, pay half at Rankor.\"",
+      "url": "https://www.facebook.com/reel/1150657013954320/",
+      "published_at": "2026-11-06T19:01:06+00:00",
+      "updated_at": "2026-11-06T19:01:06+00:00",
+      "description": "\"Running to Droks, 1k each, pay half at Rankor.\"\n\nIf you know, you know. 🏔️\n\nDid you pay for the run, or were you the one running it? Tell us your Droknar's Run story 👇\n\n#MMORPG #GuildWarsReforged #GuildWars #Gaming #mmorpggames",
+      "image_url": "https://scontent-ord5-1.xx.fbcdn.net/v/t15.5256-10/884042340_1522470236595790_7468783753837623358_n.jpg?stp=dst-jpg_tt6&cstp=mx1920x1080&ctp=s960x960&_nc_cat=108&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=jxvPnsQCaxIQ7kNvwFbLAV7&_nc_oc=AdrxN2WCZPNhZi9nO9AzmuPgjkN6kJ3ekQDoPeWoH9aWr3J9NjDNYLsvxpZYUmVxxOg&_nc_zt=23&_nc_ht=scontent-ord5-1.xx&_nc_gid=JbvN1yt9LJS69Yl5fGBQ6g&_nc_ss=7f289&oh=00_AQSlcUKTDmKZIYmkBclzQsOgZuzOcX4NRFe1dn0bIUbhUA&oe=6AF41A6D",
+      "source_id": "guild-wars",
+      "source_name": "Guild Wars",
+      "platform": "facebook"
+    },
+    {
+      "id": "facebook:100064655653099:1577256974439476",
+      "title": "🫶🎄𝗚𝘂𝗶𝗴𝗻𝗼𝗹𝗲́𝗲 𝟮𝟬𝟮𝟲 | 𝗘𝗻𝘀𝗲𝗺𝗯𝗹𝗲, 𝗳𝗮𝗶𝘀𝗼𝗻𝘀 𝗹𝗮 𝗱𝗶𝗳𝗳𝗲́𝗿𝗲𝗻𝗰𝗲",
+      "url": "https://www.facebook.com/VilleDeLavaltrie/posts/pfbid027zAK4g2sHvzgXeYwtmyKRPbUZeRuat3WtCajSxPKxJFeV4zTubFPhdZJxwgaoDNCl",
+      "published_at": "2026-11-06T17:12:02+00:00",
+      "updated_at": "2026-11-06T17:12:02+00:00",
+      "description": "🫶🎄𝗚𝘂𝗶𝗴𝗻𝗼𝗹𝗲́𝗲 𝟮𝟬𝟮𝟲 | 𝗘𝗻𝘀𝗲𝗺𝗯𝗹𝗲, 𝗳𝗮𝗶𝘀𝗼𝗻𝘀 𝗹𝗮 𝗱𝗶𝗳𝗳𝗲́𝗿𝗲𝗻𝗰𝗲\n\nDéposez vos denrées non périssables (pâtes, conserves, etc.) et produits d’hygiène (savon, shampoing, produits pour bébé…) dans l’un des points de collecte à Lavaltrie : \n\n🏫 Écoles et CP",
+      "image_url": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.99422-6/854412095_2184968669111167_3584087757912582424_n.png?stp=dst-jpg_tt6&cstp=mx2048x2048&ctp=p526x296&_nc_cat=104&ccb=1-7&_nc_sid=127cfc&_nc_ohc=gMxQdp33hx4Q7kNvwEm6_0x&_nc_oc=AdpCZAyHQE-qrO_hEd5_pwc5K7bW9MPPOvoaYVSvyhU8OxpE5mrhIjmLH7Y6lfVe3Fg&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=a4IZ2hJ2KnMeLlDRFeCkCA&_nc_ss=7f289&oh=00_AQTb0OBbpgi8VQ5ndiLRVL68GZHah32ougB3OXaza5MJRw&oe=6AF40D5E",
+      "source_id": "ville-de-lavaltrie",
+      "source_name": "Ville de Lavaltrie",
+      "platform": "facebook"
+    },
     {
       "id": "youtube:mROhxUdtoeM",
       "title": "J’ai peut-être une idée…",
       "url": "https://www.youtube.com/watch?v=mROhxUdtoeM",
       "published_at": "2026-11-06T15:41:46+00:00",
-      "updated_at": "2026-11-06T15:45:03+00:00",
+      "updated_at": "2026-11-06T18:19:09+00:00",
       "description": "J’ai peut-être une idée…",
       "image_url": "https://i2.ytimg.com/vi/mROhxUdtoeM/hqdefault.jpg",
       "source_id": "investi-qc",
