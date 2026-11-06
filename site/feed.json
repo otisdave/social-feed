@@ -2,15 +2,15 @@
   "version": 1,
   "title": "Social Feed",
   "description": "Un seul fil pour suivre les sources qui comptent.",
-  "generated_at": "2026-11-05T18:47:16.742469+00:00",
+  "generated_at": "2026-11-06T00:18:47.634959+00:00",
   "sources": [
     {
       "id": "eco-en-batons",
       "name": "Éco en bâtons",
       "platform": "youtube",
       "url": "https://www.youtube.com/@Eco_en_batons",
-      "status": "ok",
-      "error": null,
+      "status": "error",
+      "error": "HTTPError: HTTP Error 404: Not Found",
       "last_success_at": "2026-11-05T18:47:16.742469+00:00",
       "item_count": 32
     },
@@ -19,8 +19,8 @@
       "name": "Investi QC",
       "platform": "youtube",
       "url": "https://www.youtube.com/@investi-qc",
-      "status": "ok",
-      "error": null,
+      "status": "error",
+      "error": "HTTPError: HTTP Error 404: Not Found",
       "last_success_at": "2026-11-05T18:47:16.742469+00:00",
       "item_count": 39
     },
@@ -29,8 +29,8 @@
       "name": "Hugo Lisoir",
       "platform": "youtube",
       "url": "https://www.youtube.com/@hugolisoiryoutube",
-      "status": "ok",
-      "error": null,
+      "status": "error",
+      "error": "HTTPError: HTTP Error 404: Not Found",
       "last_success_at": "2026-11-05T18:47:16.742469+00:00",
       "item_count": 21
     },
@@ -39,8 +39,8 @@
       "name": "Alex Demers — Finance 360",
       "platform": "youtube",
       "url": "https://www.youtube.com/@alexdemers-finance360",
-      "status": "ok",
-      "error": null,
+      "status": "error",
+      "error": "HTTPError: HTTP Error 404: Not Found",
       "last_success_at": "2026-11-05T18:47:16.742469+00:00",
       "item_count": 19
     },
@@ -51,7 +51,7 @@
       "url": "https://www.facebook.com/GuildWars/",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-05T18:47:16.742469+00:00",
+      "last_success_at": "2026-11-06T00:18:47.634959+00:00",
       "item_count": 8
     },
     {
@@ -61,8 +61,8 @@
       "url": "https://www.facebook.com/LOTRO/",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-05T18:47:16.742469+00:00",
-      "item_count": 19
+      "last_success_at": "2026-11-06T00:18:47.634959+00:00",
+      "item_count": 20
     },
     {
       "id": "ville-de-lavaltrie",
@@ -71,8 +71,8 @@
       "url": "https://www.facebook.com/VilleDeLavaltrie/",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-05T18:47:16.742469+00:00",
-      "item_count": 15
+      "last_success_at": "2026-11-06T00:18:47.634959+00:00",
+      "item_count": 16
     },
     {
       "id": "traders-360",
@@ -81,11 +81,47 @@
       "url": "https://www.facebook.com/firmetraders360/",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-05T18:47:16.742469+00:00",
-      "item_count": 19
+      "last_success_at": "2026-11-06T00:18:47.634959+00:00",
+      "item_count": 20
     }
   ],
   "items": [
+    {
+      "id": "facebook:100063889127390:1668792755260346",
+      "title": "J’ai pas besoin de prédire la date de la prochaine récession pour investir en bourse.",
+      "url": "https://www.facebook.com/reel/1063365890081092/",
+      "published_at": "2026-11-06T00:09:58+00:00",
+      "updated_at": "2026-11-06T00:09:58+00:00",
+      "description": "J’ai pas besoin de prédire la date de la prochaine récession pour investir en bourse.\n\nMa job d’investisseur autonome c’est de devenir actionnaire d’entreprises assez solides pour traverser les périodes difficiles, peu importe la direction ",
+      "image_url": "https://scontent-sea5-1.xx.fbcdn.net/v/t51.82787-10/883416013_18135148168669293_5891781629926800827_n.jpg?stp=dst-jpg_tt6&cstp=mx674x1198&ctp=s960x960&_nc_cat=105&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=95gz8gPW_r8Q7kNvwHjYvOm&_nc_oc=AdqpfRlrDp21VbqItP_iEQF1hU6-JqEe5dIZA1zhbnDPmq45iQiDfTtZ7JXVvNsYtfU&_nc_zt=23&_nc_ht=scontent-sea5-1.xx&_nc_gid=U6MAF8ilNXqZofgWJq7kVg&_nc_ss=7f289&oh=00_AQRV77zZplMLJOvRH2MlevgO28iIPmacpVZ_AH7_x7OhkQ&oe=6AF2D452",
+      "source_id": "traders-360",
+      "source_name": "Traders 360",
+      "platform": "facebook"
+    },
+    {
+      "id": "facebook:100064655653099:1576407467857760",
+      "title": "Quoi faire ce weekend 🌤🍂",
+      "url": "https://www.facebook.com/VilleDeLavaltrie/posts/pfbid0vbz8aK29TkJKwihZxs8DDXWAVDR78iT53dLCvv27Z1yr5eAU55qt5UvWLVgk3eYwl",
+      "published_at": "2026-11-05T22:35:01+00:00",
+      "updated_at": "2026-11-05T22:35:01+00:00",
+      "description": "Quoi faire ce weekend 🌤🍂\n\n𝗚𝘂𝗶𝗴𝗻𝗼𝗹𝗲́𝗲 𝗱𝗲 𝗟𝗮𝘃𝗮𝗹𝘁𝗿𝗶𝗲 🫶💰\n📍 Au coin des rues  Saint-Antoine et Tricentenaire\n🗓️ Samedi, 9 h à 16 h\n\n𝗣𝗼𝗿𝘁𝗲𝘀 𝗼𝘂𝘃𝗲𝗿𝘁𝗲𝘀 𝗱𝘂 𝗖𝗲𝗿𝗰𝗹𝗲 𝗱𝗲𝘀 𝗳𝗲𝗿𝗺𝗶𝗲̀𝗿𝗲𝘀 🧶🪡\n📍 1060, rue Notre-Dame\n🗓️ Samedi, 10 h à 12 h\n👩‍🦰 Pour les femmes de ",
+      "image_url": null,
+      "source_id": "ville-de-lavaltrie",
+      "source_name": "Ville de Lavaltrie",
+      "platform": "facebook"
+    },
+    {
+      "id": "facebook:100064792208382:1639372854899106",
+      "title": "Weekly Coupon:",
+      "url": "https://www.facebook.com/LOTRO/posts/pfbid0mXvMc4TmW82DAHUsPVQJuUhzzGVPYVVRDCSB61g2oAqpcMHqrzZiFcPVaZnAGHCnl",
+      "published_at": "2026-11-05T20:40:22+00:00",
+      "updated_at": "2026-11-05T20:40:22+00:00",
+      "description": "Weekly Coupon:\nBattle Potion of Restoration\nCoupon Code: WARMFEELING\nNow through November 12th! #LOTRO",
+      "image_url": null,
+      "source_id": "lotro",
+      "source_name": "The Lord of the Rings Online",
+      "platform": "facebook"
+    },
     {
       "id": "facebook:100064792208382:1639288551574203",
       "title": "Unleash Your Potential! Get 20% off:",
@@ -225,7 +261,7 @@
       "published_at": "2026-11-04T19:01:25+00:00",
       "updated_at": "2026-11-04T19:01:25+00:00",
       "description": "ICYMI: The Mists have opened. 🌫️ Watch the Afterlife trailer, the first new Guild Wars DLC in 20 years, arriving January 13.\n\n▶️ https://youtu.be/yaHUtkayKzk\n\n#GWAfterlife #GuildWarsReforged #GuildWars #Gaming #mmorpggames",
-      "image_url": "https://scontent-ord5-2.xx.fbcdn.net/v/t15.5256-10/890603161_2113603566212877_3702430383455999726_n.jpg?stp=dst-jpg_tt6&cstp=mx1440x1440&ctp=s960x960&_nc_cat=103&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=LPccUmpiwCUQ7kNvwHQQ09I&_nc_oc=AdoU7FZBfpUMnxb379JSncMIWoseOCVOifsDqpgc4tippSbeAqmWKrMOZD_B1JMZHT0&_nc_zt=23&_nc_ht=scontent-ord5-2.xx&_nc_gid=qgMzdIc6i_VjBiGQbehK7w&_nc_ss=7f289&oh=00_AQToXo96-mgbny3BYEIPoqbC8ywSEaGrrjmJk5GEJFwlTw&oe=6AF29446",
+      "image_url": "https://scontent-sea5-1.xx.fbcdn.net/v/t15.5256-10/890603161_2113603566212877_3702430383455999726_n.jpg?stp=dst-jpg_tt6&cstp=mx1440x1440&ctp=s960x960&_nc_cat=103&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=LPccUmpiwCUQ7kNvwFKOdaC&_nc_oc=AdrO_7AbeHNoFcAl5uL6wpLzqcRovTYgoz7QcPJhu8NRej6ffnvREeNTMsxJrpoT3BI&_nc_zt=23&_nc_ht=scontent-sea5-1.xx&_nc_gid=ENjJOEYvqRdSoje1UJDDUw&_nc_ss=7f289&oh=00_AQSgN0KjEgeLPX4dgbZgUm87mq-jOnHyBvcPr9b11Fj_GQ&oe=6AF304C6",
       "source_id": "guild-wars",
       "source_name": "Guild Wars",
       "platform": "facebook"
