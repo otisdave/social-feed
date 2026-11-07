@@ -2,15 +2,15 @@
   "version": 1,
   "title": "Social Feed",
   "description": "Un seul fil pour suivre les sources qui comptent.",
-  "generated_at": "2026-11-06T21:31:30.037233+00:00",
+  "generated_at": "2026-11-07T01:58:00.512599+00:00",
   "sources": [
     {
       "id": "eco-en-batons",
       "name": "Éco en bâtons",
       "platform": "youtube",
       "url": "https://www.youtube.com/@Eco_en_batons",
-      "status": "ok",
-      "error": null,
+      "status": "error",
+      "error": "HTTPError: HTTP Error 404: Not Found",
       "last_success_at": "2026-11-06T21:31:30.037233+00:00",
       "item_count": 33
     },
@@ -19,8 +19,8 @@
       "name": "Investi QC",
       "platform": "youtube",
       "url": "https://www.youtube.com/@investi-qc",
-      "status": "ok",
-      "error": null,
+      "status": "error",
+      "error": "HTTPError: HTTP Error 404: Not Found",
       "last_success_at": "2026-11-06T21:31:30.037233+00:00",
       "item_count": 44
     },
@@ -29,8 +29,8 @@
       "name": "Hugo Lisoir",
       "platform": "youtube",
       "url": "https://www.youtube.com/@hugolisoiryoutube",
-      "status": "ok",
-      "error": null,
+      "status": "error",
+      "error": "HTTPError: HTTP Error 404: Not Found",
       "last_success_at": "2026-11-06T21:31:30.037233+00:00",
       "item_count": 21
     },
@@ -39,8 +39,8 @@
       "name": "Alex Demers — Finance 360",
       "platform": "youtube",
       "url": "https://www.youtube.com/@alexdemers-finance360",
-      "status": "ok",
-      "error": null,
+      "status": "error",
+      "error": "HTTPError: HTTP Error 404: Not Found",
       "last_success_at": "2026-11-06T21:31:30.037233+00:00",
       "item_count": 19
     },
@@ -51,7 +51,7 @@
       "url": "https://www.facebook.com/GuildWars/",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-06T21:31:30.037233+00:00",
+      "last_success_at": "2026-11-07T01:58:00.512599+00:00",
       "item_count": 9
     },
     {
@@ -61,8 +61,8 @@
       "url": "https://www.facebook.com/LOTRO/",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-06T21:31:30.037233+00:00",
-      "item_count": 21
+      "last_success_at": "2026-11-07T01:58:00.512599+00:00",
+      "item_count": 22
     },
     {
       "id": "ville-de-lavaltrie",
@@ -71,8 +71,8 @@
       "url": "https://www.facebook.com/VilleDeLavaltrie/",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-06T21:31:30.037233+00:00",
-      "item_count": 18
+      "last_success_at": "2026-11-07T01:58:00.512599+00:00",
+      "item_count": 19
     },
     {
       "id": "traders-360",
@@ -81,11 +81,47 @@
       "url": "https://www.facebook.com/firmetraders360/",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-06T21:31:30.037233+00:00",
-      "item_count": 22
+      "last_success_at": "2026-11-07T01:58:00.512599+00:00",
+      "item_count": 23
     }
   ],
   "items": [
+    {
+      "id": "facebook:100063889127390:1669917475147874",
+      "title": "Une remontée des taux d’intérêt peut aussi faire des heureux. ",
+      "url": "https://www.facebook.com/reel/2270779613777590/",
+      "published_at": "2026-11-07T00:06:02+00:00",
+      "updated_at": "2026-11-07T00:06:02+00:00",
+      "description": "Une remontée des taux d’intérêt peut aussi faire des heureux. \n\nPour les épargnants, généralement les taux offerts sur les CPG et les comptes d’épargne augmentent aussi. \n\nSi tu as de l’argent de côté, ça peut vouloir dire plus d’intérêts d",
+      "image_url": "https://scontent-ord5-2.xx.fbcdn.net/v/t51.82787-10/884823114_18135246373669293_5844575209949718639_n.jpg?stp=dst-jpg_tt6&cstp=mx720x1280&ctp=s960x960&_nc_cat=110&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=U8WYGscg5OcQ7kNvwGuBYiS&_nc_oc=Ado3E9hzQw6Bl-J5AKlTahUhBR4TsslwF9h4y7rmtUt8vtIcoaoGyYFIamkM_NafCw8&_nc_zt=23&_nc_ht=scontent-ord5-2.xx&_nc_gid=OdQwgJBia0z7t1GHlf8kaw&_nc_ss=7f289&oh=00_AQR2Yn3eE8G2lkgnWHPPUkOFIlk3uLRIznQZwrBhrAG49Q&oe=6AF469AF",
+      "source_id": "traders-360",
+      "source_name": "Traders 360",
+      "platform": "facebook"
+    },
+    {
+      "id": "facebook:100064655653099:1577485921083248",
+      "title": "𝗨𝗻 𝗷𝗲𝘂𝗻𝗲 𝘁𝗮𝗹𝗲𝗻𝘁 𝗱𝗲 𝗟𝗮𝘃𝗮𝗹𝘁𝗿𝗶𝗲 𝗳𝗮𝗶𝘁 𝘀𝗮 𝗽𝗹𝗮𝗰𝗲 𝗱𝗮𝗻𝘀 𝗹𝗲 𝘀𝗼𝗰𝗰𝗲𝗿 𝗽𝗿𝗼𝗳𝗲𝘀𝘀𝗶𝗼𝗻𝗻𝗲𝗹! ⚽",
+      "url": "https://www.facebook.com/VilleDeLavaltrie/posts/pfbid02zsnN8BFiLX3FH5713qWZh8U1gttqpehByY6qcyvmcGVkwdZqD1Q2gWm9xBsJZedGl",
+      "published_at": "2026-11-06T23:00:02+00:00",
+      "updated_at": "2026-11-06T23:00:02+00:00",
+      "description": "𝗨𝗻 𝗷𝗲𝘂𝗻𝗲 𝘁𝗮𝗹𝗲𝗻𝘁 𝗱𝗲 𝗟𝗮𝘃𝗮𝗹𝘁𝗿𝗶𝗲 𝗳𝗮𝗶𝘁 𝘀𝗮 𝗽𝗹𝗮𝗰𝗲 𝗱𝗮𝗻𝘀 𝗹𝗲 𝘀𝗼𝗰𝗰𝗲𝗿 𝗽𝗿𝗼𝗳𝗲𝘀𝘀𝗶𝗼𝗻𝗻𝗲𝗹! ⚽\n\nLa Ville de Lavaltrie est fière de souligner le parcours du Lavaltrois 𝗘𝗹𝗶𝗮𝗸𝗶𝗺 𝗔𝘄𝗼𝗻𝗼𝗻𝗴𝗯𝗮𝗱𝗷𝗲, qui a fait ses débuts professionnels à seulement 17 ans avec le FC Supr",
+      "image_url": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.99422-6/890643146_1513547790985561_4746849673842540925_n.png?stp=dst-jpg_tt6&cstp=mx600x750&ctp=s640x640&_nc_cat=100&ccb=1-7&_nc_sid=127cfc&_nc_ohc=THsAUlfJ8TgQ7kNvwFcocfL&_nc_oc=AdppZ0O4kO7qNoAkBKMtmJ-zz7rjhc75Wiawp1D_bSrwkgFuOFctByf40kddwZXgMo4&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=WP8q_yGmZm2MuCnlqFXoHw&_nc_ss=7f289&oh=00_AQQ7vdG9p8rn9Wdcs06OS7lSzC30a0tsC6fUnvNlwpyfvQ&oe=6AF44233",
+      "source_id": "ville-de-lavaltrie",
+      "source_name": "Ville de Lavaltrie",
+      "platform": "facebook"
+    },
+    {
+      "id": "facebook:100064792208382:1640706698099055",
+      "title": "Update 50.1 was released this week with new Filbert Fig rewards, bug fixes and new Neighbours quests! Find our full rele",
+      "url": "https://www.facebook.com/LOTRO/posts/pfbid0rzCBeDpBuDxpUQSqxATs3Umswv7fZaEfkSrtZadPeN4ZoivTadxk9khncGYKxMTVl",
+      "published_at": "2026-11-06T22:28:10+00:00",
+      "updated_at": "2026-11-06T22:28:10+00:00",
+      "description": "Update 50.1 was released this week with new Filbert Fig rewards, bug fixes and new Neighbours quests! Find our full release notes on LOTRO.com: https://www.lotro.com/update-notes/lotro-update-50-1-release-notes-en #LOTRO",
+      "image_url": null,
+      "source_id": "lotro",
+      "source_name": "The Lord of the Rings Online",
+      "platform": "facebook"
+    },
     {
       "id": "facebook:100063889127390:1669818788491076",
       "title": "Le Canada a perdu 4,700 emplois juste en octobre, après déjà 68,000 pertes en septembre et 42,000 en août. Le taux de ch",
@@ -129,7 +165,7 @@
       "published_at": "2026-11-06T19:01:06+00:00",
       "updated_at": "2026-11-06T19:01:06+00:00",
       "description": "\"Running to Droks, 1k each, pay half at Rankor.\"\n\nIf you know, you know. 🏔️\n\nDid you pay for the run, or were you the one running it? Tell us your Droknar's Run story 👇\n\n#MMORPG #GuildWarsReforged #GuildWars #Gaming #mmorpggames",
-      "image_url": "https://scontent-ord5-1.xx.fbcdn.net/v/t15.5256-10/884042340_1522470236595790_7468783753837623358_n.jpg?stp=dst-jpg_tt6&cstp=mx1920x1080&ctp=s960x960&_nc_cat=108&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=jxvPnsQCaxIQ7kNvwFbLAV7&_nc_oc=AdrxN2WCZPNhZi9nO9AzmuPgjkN6kJ3ekQDoPeWoH9aWr3J9NjDNYLsvxpZYUmVxxOg&_nc_zt=23&_nc_ht=scontent-ord5-1.xx&_nc_gid=JbvN1yt9LJS69Yl5fGBQ6g&_nc_ss=7f289&oh=00_AQSlcUKTDmKZIYmkBclzQsOgZuzOcX4NRFe1dn0bIUbhUA&oe=6AF41A6D",
+      "image_url": "https://scontent-ord5-1.xx.fbcdn.net/v/t15.5256-10/884042340_1522470236595790_7468783753837623358_n.jpg?stp=dst-jpg_tt6&cstp=mx1920x1080&ctp=s960x960&_nc_cat=108&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=jxvPnsQCaxIQ7kNvwHCnI_Y&_nc_oc=Adop_6LAFZFRe-xB6k44xX584BpDCPn4TKtrXcarZLudon_BoUVE1OFmGG4YnIC60y0&_nc_zt=23&_nc_ht=scontent-ord5-1.xx&_nc_gid=BnLcxRq0wL8_UwBF7LPX8g&_nc_ss=7f289&oh=00_AQQF-keM6kp6Fq2f-MH05tO0LGx2XXJpwqBOUYrSEzx__w&oe=6AF452AD",
       "source_id": "guild-wars",
       "source_name": "Guild Wars",
       "platform": "facebook"
