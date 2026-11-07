@@ -2,7 +2,7 @@
   "version": 1,
   "title": "Social Feed",
   "description": "Un seul fil pour suivre les sources qui comptent.",
-  "generated_at": "2026-11-07T15:42:18.057804+00:00",
+  "generated_at": "2026-11-07T20:15:14.151535+00:00",
   "sources": [
     {
       "id": "eco-en-batons",
@@ -11,7 +11,7 @@
       "url": "https://www.youtube.com/@Eco_en_batons",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-07T15:42:18.057804+00:00",
+      "last_success_at": "2026-11-07T20:15:14.151535+00:00",
       "item_count": 34
     },
     {
@@ -21,8 +21,8 @@
       "url": "https://www.youtube.com/@investi-qc",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-07T15:42:18.057804+00:00",
-      "item_count": 45
+      "last_success_at": "2026-11-07T20:15:14.151535+00:00",
+      "item_count": 46
     },
     {
       "id": "hugo-lisoir",
@@ -31,7 +31,7 @@
       "url": "https://www.youtube.com/@hugolisoiryoutube",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-07T15:42:18.057804+00:00",
+      "last_success_at": "2026-11-07T20:15:14.151535+00:00",
       "item_count": 21
     },
     {
@@ -41,7 +41,7 @@
       "url": "https://www.youtube.com/@alexdemers-finance360",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-07T15:42:18.057804+00:00",
+      "last_success_at": "2026-11-07T20:15:14.151535+00:00",
       "item_count": 19
     },
     {
@@ -51,7 +51,7 @@
       "url": "https://www.facebook.com/GuildWars/",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-07T15:42:18.057804+00:00",
+      "last_success_at": "2026-11-07T20:15:14.151535+00:00",
       "item_count": 9
     },
     {
@@ -61,8 +61,8 @@
       "url": "https://www.facebook.com/LOTRO/",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-07T15:42:18.057804+00:00",
-      "item_count": 23
+      "last_success_at": "2026-11-07T20:15:14.151535+00:00",
+      "item_count": 24
     },
     {
       "id": "ville-de-lavaltrie",
@@ -71,7 +71,7 @@
       "url": "https://www.facebook.com/VilleDeLavaltrie/",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-07T15:42:18.057804+00:00",
+      "last_success_at": "2026-11-07T20:15:14.151535+00:00",
       "item_count": 20
     },
     {
@@ -81,11 +81,47 @@
       "url": "https://www.facebook.com/firmetraders360/",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-07T15:42:18.057804+00:00",
-      "item_count": 23
+      "last_success_at": "2026-11-07T20:15:14.151535+00:00",
+      "item_count": 24
     }
   ],
   "items": [
+    {
+      "id": "facebook:100064792208382:1641758471327211",
+      "title": "The Veil of the Nine worlds of Angmar and Mordor are getting more wraiths, new rewards, and more! Get the latest on our ",
+      "url": "https://www.facebook.com/LOTRO/posts/pfbid022QPSiimBr7hQmVo17iDXxamasUiTqSW42k7ECn8rghqv7DNZmm383ewVD3fhL3Rl",
+      "published_at": "2026-11-07T19:35:24+00:00",
+      "updated_at": "2026-11-07T19:35:24+00:00",
+      "description": "The Veil of the Nine worlds of Angmar and Mordor are getting more wraiths, new rewards, and more! Get the latest on our Legendary Worlds schedule for Angmar and Mordor on LOTRO.com: https://www.lotro.com/news/lotro-angmar-mordor-schedule-up",
+      "image_url": null,
+      "source_id": "lotro",
+      "source_name": "The Lord of the Rings Online",
+      "platform": "facebook"
+    },
+    {
+      "id": "youtube:W5QJIPj2Ivo",
+      "title": "Certains FNB sont des meilleurs produits marketing que de bons investissements?",
+      "url": "https://www.youtube.com/watch?v=W5QJIPj2Ivo",
+      "published_at": "2026-11-07T16:45:04+00:00",
+      "updated_at": "2026-11-07T17:11:05+00:00",
+      "description": "Certains FNB sont des meilleurs produits marketing que de bons investissements?",
+      "image_url": "https://i4.ytimg.com/vi/W5QJIPj2Ivo/hqdefault.jpg",
+      "source_id": "investi-qc",
+      "source_name": "Investi QC",
+      "platform": "youtube"
+    },
+    {
+      "id": "facebook:100063889127390:1670655801740708",
+      "title": "Voici les 10 plus grandes positions de mon portefeuille.",
+      "url": "https://www.facebook.com/firmetraders360/posts/pfbid02MNs51HM7hLXwFkvXsbYuqd5crpxhxXf8r7G1bk6Zq5P3HtkaYvfzvEzWMrgFPrwfl",
+      "published_at": "2026-11-07T16:16:47+00:00",
+      "updated_at": "2026-11-07T16:16:47+00:00",
+      "description": "Voici les 10 plus grandes positions de mon portefeuille.\n\nComme vous pouvez le voir, j’ai une surpondération importante dans les big tech américaines.\n\nComme je suis 100% investi en bourse (pas d’immobilier, pas de crypto ni gold) quand Met",
+      "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.99422-6/894505593_1636799267921363_6568875924599299174_n.png?stp=dst-jpg_tt6&cstp=mx1504x1056&ctp=s720x720&_nc_cat=106&ccb=1-7&_nc_sid=127cfc&_nc_ohc=t8Y5ZjpgwJUQ7kNvwG2IwDN&_nc_oc=AdpHyyKbbNVga6WNtXjKYztR32HE3GCX1YrJIyRPge8uVGFJ9de975IbuAlv6FhSEFE&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=K0MddUPjPMCr3oISoH94zw&_nc_ss=7f289&oh=00_AQTI3LPcGc2TgzitlncbN4hJex5ReE-LXYSPzRGmMdy8RA&oe=6AF54192",
+      "source_id": "traders-360",
+      "source_name": "Traders 360",
+      "platform": "facebook"
+    },
     {
       "id": "facebook:100064655653099:1578168144348359",
       "title": "🧥❄️ 𝗨𝗻 𝗴𝗲𝘀𝘁𝗲 𝗱𝗲 𝘀𝗼𝗹𝗶𝗱𝗮𝗿𝗶𝘁𝗲́ 𝗾𝘂𝗶 𝗿𝗲́𝗰𝗵𝗮𝘂𝗳𝗳𝗲 𝗹𝗲𝘀 𝗰œ𝘂𝗿𝘀!",
@@ -93,7 +129,7 @@
       "published_at": "2026-11-07T14:00:13+00:00",
       "updated_at": "2026-11-07T14:00:13+00:00",
       "description": "🧥❄️ 𝗨𝗻 𝗴𝗲𝘀𝘁𝗲 𝗱𝗲 𝘀𝗼𝗹𝗶𝗱𝗮𝗿𝗶𝘁𝗲́ 𝗾𝘂𝗶 𝗿𝗲́𝗰𝗵𝗮𝘂𝗳𝗳𝗲 𝗹𝗲𝘀 𝗰œ𝘂𝗿𝘀!\n\nEn octobre dernier, les Chevaliers-De Colomb Conseil De-Lavaltrie ont remis gratuitement 𝟭𝟮𝟰 𝗺𝗮𝗻𝘁𝗲𝗮𝘂𝘅 𝗲𝘁 𝟱𝟮 𝗽𝗮𝗶𝗿𝗲𝘀 𝗱𝗲 𝗯𝗼𝘁𝘁𝗲𝘀, 𝗲𝗻 𝗽𝗹𝘂𝘀 𝗱𝗲 𝘁𝘂𝗾𝘂𝗲𝘀 𝗲𝘁 𝗱𝗲 𝗺𝗶𝘁𝗮𝗶𝗻𝗲𝘀, pour permettre à des enfa",
-      "image_url": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.99422-6/888559357_1522728429696002_4461426673266504267_n.png?stp=dst-jpg_tt6&cstp=mx2048x1536&ctp=s720x720&_nc_cat=107&ccb=1-7&_nc_sid=127cfc&_nc_ohc=Rb-Y_24FxYAQ7kNvwG0NK66&_nc_oc=AdrWFqHWkdV1UJG-ZWr2Lxd5Z4dfwblmiSEuaspvLtqavCxbwPc09p4IrI6UbIl4oVE&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=AyopPB7t4wHNaNG7uyFtBA&_nc_ss=7f289&oh=00_AQQFIQt4kfaZVzmYvxQ0tbmO97Amq-xqdQ49bosKkiGwLQ&oe=6AF505A9",
+      "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.99422-6/888559357_1522728429696002_4461426673266504267_n.png?stp=dst-jpg_tt6&cstp=mx2048x1536&ctp=s720x720&_nc_cat=107&ccb=1-7&_nc_sid=127cfc&_nc_ohc=Rb-Y_24FxYAQ7kNvwFW-o0P&_nc_oc=AdonfRdW6UUfZIQBmyJ4x49_g9tCNBgqrBLZWF3AksJpGx1jq85TBAdRmCGqQOere9Q&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=7vZetf-jC97kb0IGNN3aXA&_nc_ss=7f289&oh=00_AQQTjJ-2qWRDiNSHmTmtJoV4t9nxIKq75L7-WiJPcIBSrw&oe=6AF53DE9",
       "source_id": "ville-de-lavaltrie",
       "source_name": "Ville de Lavaltrie",
       "platform": "facebook"
@@ -213,7 +249,7 @@
       "published_at": "2026-11-06T19:01:06+00:00",
       "updated_at": "2026-11-06T19:01:06+00:00",
       "description": "\"Running to Droks, 1k each, pay half at Rankor.\"\n\nIf you know, you know. 🏔️\n\nDid you pay for the run, or were you the one running it? Tell us your Droknar's Run story 👇\n\n#MMORPG #GuildWarsReforged #GuildWars #Gaming #mmorpggames",
-      "image_url": "https://scontent-sjc6-1.xx.fbcdn.net/v/t15.5256-10/884042340_1522470236595790_7468783753837623358_n.jpg?stp=dst-jpg_tt6&cstp=mx1920x1080&ctp=s960x960&_nc_cat=108&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=jxvPnsQCaxIQ7kNvwG594gH&_nc_oc=AdobfsmGmaix0lhbjaJWJSFUPzsI8EW1753gNL-lp_S6t_4wfkFnZyzaELGXYQSfRbQ&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=lBIYLxxqn90IqRrHM_hSpw&_nc_ss=7f289&oh=00_AQSPo7zAKCI3FnHw1ISnwZWXA2-uo5ccwUf9XQJnpG-SOA&oe=6AF533AD",
+      "image_url": "https://scontent-iad3-1.xx.fbcdn.net/v/t15.5256-10/884042340_1522470236595790_7468783753837623358_n.jpg?stp=dst-jpg_tt6&cstp=mx1920x1080&ctp=s960x960&_nc_cat=108&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=jxvPnsQCaxIQ7kNvwGTArdq&_nc_oc=AdrLl8Bpk6wM275TAPXkPPWKQaJ4hLIgQAzXK59JKX1LehIZ1o6Kroe9xsVa6Cvg8lY&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&_nc_gid=ejNmtDGRFtDVxWtc3ltr5w&_nc_ss=7f289&oh=00_AQRCCjW1KQk4nYxGZUJjHib9zv4I2ii1809NkrTdDbrImQ&oe=6AF56BED",
       "source_id": "guild-wars",
       "source_name": "Guild Wars",
       "platform": "facebook"
@@ -427,7 +463,7 @@
       "title": "Investis tes futurs rendement de novembre sur le pochesetfils.com Jusqu’à 30% de rabais 📈",
       "url": "https://www.youtube.com/watch?v=-UhfrFzVFnU",
       "published_at": "2026-11-05T00:44:10+00:00",
-      "updated_at": "2026-11-05T14:02:12+00:00",
+      "updated_at": "2026-11-05T23:42:12+00:00",
       "description": "Investis tes futurs rendement de novembre sur le pochesetfils.com Jusqu’à 30% de rabais 📈",
       "image_url": "https://i2.ytimg.com/vi/-UhfrFzVFnU/hqdefault.jpg",
       "source_id": "investi-qc",
@@ -535,7 +571,7 @@
       "title": "Duolingo (DUOL) vient de surprendre Wall Street 📈",
       "url": "https://www.youtube.com/watch?v=EVbCWrKM-Lw",
       "published_at": "2026-11-04T15:38:58+00:00",
-      "updated_at": "2026-11-05T09:57:36+00:00",
+      "updated_at": "2026-11-05T23:42:03+00:00",
       "description": "Duolingo (DUOL) vient de surprendre Wall Street 📈",
       "image_url": "https://i2.ytimg.com/vi/EVbCWrKM-Lw/hqdefault.jpg",
       "source_id": "investi-qc",
@@ -667,7 +703,7 @@
       "title": "Prototype d’un nouveau jeu pour les Earnings",
       "url": "https://www.youtube.com/watch?v=HxxLklFNflk",
       "published_at": "2026-11-03T20:43:52+00:00",
-      "updated_at": "2026-11-05T08:26:01+00:00",
+      "updated_at": "2026-11-05T23:49:20+00:00",
       "description": "Prototype d’un nouveau jeu pour les Earnings",
       "image_url": "https://i1.ytimg.com/vi/HxxLklFNflk/hqdefault.jpg",
       "source_id": "investi-qc",
@@ -739,7 +775,7 @@
       "title": "Par où passe la croissance de Dollorama",
       "url": "https://www.youtube.com/watch?v=Nwz71xN3768",
       "published_at": "2026-11-03T15:39:26+00:00",
-      "updated_at": "2026-11-05T08:24:33+00:00",
+      "updated_at": "2026-11-05T23:49:50+00:00",
       "description": "Par où passe la croissance de Dollorama",
       "image_url": "https://i3.ytimg.com/vi/Nwz71xN3768/hqdefault.jpg",
       "source_id": "investi-qc",
@@ -2251,7 +2287,7 @@
       "title": "J'ai multiplié mon investissement par 7 en 18 mois avec AMD #bourse",
       "url": "https://www.youtube.com/watch?v=7hg0wphh6KQ",
       "published_at": "2026-10-04T22:44:20+00:00",
-      "updated_at": "2026-10-09T09:29:41+00:00",
+      "updated_at": "2026-11-06T04:48:58+00:00",
       "description": "Un rendement de 600% aussi rapidement c'est exceptionnel. On ne peut pas bâtir sa stratégie de placements en espérant répéter ce genre d'exploit.\n\nEn bourse, notre plan d'investissement doit fonctionner même sans coup de circuit.",
       "image_url": "https://i4.ytimg.com/vi/7hg0wphh6KQ/hqdefault.jpg",
       "source_id": "alex-demers-finance360",
