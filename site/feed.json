@@ -2,7 +2,7 @@
   "version": 1,
   "title": "Social Feed",
   "description": "Un seul fil pour suivre les sources qui comptent.",
-  "generated_at": "2026-11-07T08:50:29.373776+00:00",
+  "generated_at": "2026-11-07T15:42:18.057804+00:00",
   "sources": [
     {
       "id": "eco-en-batons",
@@ -11,8 +11,8 @@
       "url": "https://www.youtube.com/@Eco_en_batons",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-07T08:50:29.373776+00:00",
-      "item_count": 33
+      "last_success_at": "2026-11-07T15:42:18.057804+00:00",
+      "item_count": 34
     },
     {
       "id": "investi-qc",
@@ -21,7 +21,7 @@
       "url": "https://www.youtube.com/@investi-qc",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-07T08:50:29.373776+00:00",
+      "last_success_at": "2026-11-07T15:42:18.057804+00:00",
       "item_count": 45
     },
     {
@@ -31,7 +31,7 @@
       "url": "https://www.youtube.com/@hugolisoiryoutube",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-07T08:50:29.373776+00:00",
+      "last_success_at": "2026-11-07T15:42:18.057804+00:00",
       "item_count": 21
     },
     {
@@ -41,7 +41,7 @@
       "url": "https://www.youtube.com/@alexdemers-finance360",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-07T08:50:29.373776+00:00",
+      "last_success_at": "2026-11-07T15:42:18.057804+00:00",
       "item_count": 19
     },
     {
@@ -51,7 +51,7 @@
       "url": "https://www.facebook.com/GuildWars/",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-07T08:50:29.373776+00:00",
+      "last_success_at": "2026-11-07T15:42:18.057804+00:00",
       "item_count": 9
     },
     {
@@ -61,8 +61,8 @@
       "url": "https://www.facebook.com/LOTRO/",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-07T08:50:29.373776+00:00",
-      "item_count": 22
+      "last_success_at": "2026-11-07T15:42:18.057804+00:00",
+      "item_count": 23
     },
     {
       "id": "ville-de-lavaltrie",
@@ -71,8 +71,8 @@
       "url": "https://www.facebook.com/VilleDeLavaltrie/",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-07T08:50:29.373776+00:00",
-      "item_count": 19
+      "last_success_at": "2026-11-07T15:42:18.057804+00:00",
+      "item_count": 20
     },
     {
       "id": "traders-360",
@@ -81,11 +81,47 @@
       "url": "https://www.facebook.com/firmetraders360/",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-07T08:50:29.373776+00:00",
+      "last_success_at": "2026-11-07T15:42:18.057804+00:00",
       "item_count": 23
     }
   ],
   "items": [
+    {
+      "id": "facebook:100064655653099:1578168144348359",
+      "title": "🧥❄️ 𝗨𝗻 𝗴𝗲𝘀𝘁𝗲 𝗱𝗲 𝘀𝗼𝗹𝗶𝗱𝗮𝗿𝗶𝘁𝗲́ 𝗾𝘂𝗶 𝗿𝗲́𝗰𝗵𝗮𝘂𝗳𝗳𝗲 𝗹𝗲𝘀 𝗰œ𝘂𝗿𝘀!",
+      "url": "https://www.facebook.com/VilleDeLavaltrie/posts/pfbid032wVC7crxH98UcZSqduZHJxPCgSnLwco4i3SYDNyufpmquVNGFgVrM8bYtJmubcpl",
+      "published_at": "2026-11-07T14:00:13+00:00",
+      "updated_at": "2026-11-07T14:00:13+00:00",
+      "description": "🧥❄️ 𝗨𝗻 𝗴𝗲𝘀𝘁𝗲 𝗱𝗲 𝘀𝗼𝗹𝗶𝗱𝗮𝗿𝗶𝘁𝗲́ 𝗾𝘂𝗶 𝗿𝗲́𝗰𝗵𝗮𝘂𝗳𝗳𝗲 𝗹𝗲𝘀 𝗰œ𝘂𝗿𝘀!\n\nEn octobre dernier, les Chevaliers-De Colomb Conseil De-Lavaltrie ont remis gratuitement 𝟭𝟮𝟰 𝗺𝗮𝗻𝘁𝗲𝗮𝘂𝘅 𝗲𝘁 𝟱𝟮 𝗽𝗮𝗶𝗿𝗲𝘀 𝗱𝗲 𝗯𝗼𝘁𝘁𝗲𝘀, 𝗲𝗻 𝗽𝗹𝘂𝘀 𝗱𝗲 𝘁𝘂𝗾𝘂𝗲𝘀 𝗲𝘁 𝗱𝗲 𝗺𝗶𝘁𝗮𝗶𝗻𝗲𝘀, pour permettre à des enfa",
+      "image_url": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.99422-6/888559357_1522728429696002_4461426673266504267_n.png?stp=dst-jpg_tt6&cstp=mx2048x1536&ctp=s720x720&_nc_cat=107&ccb=1-7&_nc_sid=127cfc&_nc_ohc=Rb-Y_24FxYAQ7kNvwG0NK66&_nc_oc=AdrWFqHWkdV1UJG-ZWr2Lxd5Z4dfwblmiSEuaspvLtqavCxbwPc09p4IrI6UbIl4oVE&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=AyopPB7t4wHNaNG7uyFtBA&_nc_ss=7f289&oh=00_AQQFIQt4kfaZVzmYvxQ0tbmO97Amq-xqdQ49bosKkiGwLQ&oe=6AF505A9",
+      "source_id": "ville-de-lavaltrie",
+      "source_name": "Ville de Lavaltrie",
+      "platform": "facebook"
+    },
+    {
+      "id": "facebook:100064792208382:1641439488025776",
+      "title": "This is a great weekend to get some Virtue XP! LOTRO Bonus Days bring you a +10% Virtue XP Boost, now through November 8",
+      "url": "https://www.facebook.com/LOTRO/posts/pfbid02QB9frStDFo9SjgUU5mrJtZhvPCo6gDSdj5QSp24ek9L48JNghd8WU81dMCX88vCjl",
+      "published_at": "2026-11-07T13:40:18+00:00",
+      "updated_at": "2026-11-07T13:40:18+00:00",
+      "description": "This is a great weekend to get some Virtue XP! LOTRO Bonus Days bring you a +10% Virtue XP Boost, now through November 8th! #LOTRO",
+      "image_url": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.99422-6/894929131_4752078038449772_5691403658112788634_n.png?stp=dst-jpg_tt6&cstp=mx1920x1080&ctp=s960x960&_nc_cat=106&ccb=1-7&_nc_sid=127cfc&_nc_ohc=vDFNc4hFeXAQ7kNvwEF4vC5&_nc_oc=AdqOJXsBYEtsfQFGylukeg1JKB1ZcrY9a6WMNf2tC8hX3zkwb-YfnPzwg9LiDZ_cn7c&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=4taKBzJLUi1wnZqH8I0Oyg&_nc_ss=7f289&oh=00_AQT2y33yEmEoQvR28xOdVEesDhr9Y2Fg5jCPMTOYjDcMpA&oe=6AF510CA",
+      "source_id": "lotro",
+      "source_name": "The Lord of the Rings Online",
+      "platform": "facebook"
+    },
+    {
+      "id": "youtube:CQkb8USMmw0",
+      "title": "La bulle de l'IA expliquée simplement",
+      "url": "https://www.youtube.com/watch?v=CQkb8USMmw0",
+      "published_at": "2026-11-07T11:26:01+00:00",
+      "updated_at": "2026-11-07T13:32:43+00:00",
+      "description": "La bulle de l'IA expliquée simplement, comme si vous aviez 5 ans. En septembre 2025, Nvidia promet jusqu'à 100 milliards de dollars à OpenAI, qui doit lui acheter ses puces ; ce n'était pas un engagement, et l'argent tourne en rond entre Nvidia, OpenAI et Microsoft. Puis on suit les chantiers géants, payés de plus en plus à crédit (218 milliards de dollars d'obligations en neuf mois, Oracle compris), et le parallèle avec les réseaux télécoms de 2000, où le Nasdaq a perdu 78 % entre mars 2000 et octobre 2002. Enfin, la chute récente des valeurs (au 2 novembre, le Nasdaq-100 avait perdu environ 10 % depuis son sommet du 6 octobre), le rôle réel de la Chine, et ce que cela change pour un épargnant français : sur 1 000 euros dans un fonds World, environ 250 euros dépendent de sept géants américains.\n\n📅 Vidéo bouclée avant le jeudi 5 novembre 2026 : le recul d'environ 4 % du S&P 500 (vers 9:57) date du lundi 2. Le jeudi 5 novembre, le Nasdaq-100 a perdu 6,36 % sur la séance et le S&P 500 a fini à 5,95 % sous son sommet.\n\n⏱️ Chapitres\n0:00 La bulle de l'IA : l'argent qui tourne en rond\n1:53 Partie 1 — Le billet qui revient\n3:55 Partie 2 — Les chantiers géants\n6:09 Partie 3 — Les câbles de l'an 2000\n8:10 Partie 4 — Le lundi rouge\n10:22 Partie 5 — Vos 1 000 euros\n12:47 Et aujourd'hui, en France\n\n📌 Sources (lues en novembre 2026)\n- Nvidia et OpenAI : Nvidia, « OpenAI and NVIDIA announce strategic partnership » (22/09/2025) ; Fortune, « Jensen Huang on Nvidia's OpenAI investment » (02/02/2026) ; OpenAI, « Scaling AI for everyone » (27/02/2026) ; SEC, Nvidia, Form 10-Q (clos le 26/07/2026)\n- Boucles de financement : Reuters via The Star, « CoreWeave, Nvidia sign $6.3 billion cloud computing capacity order » (15/09/2025) ; FMI, « Global financial markets face rising risks from AI » (13/10/2026) ; Nvidia, résultats du deuxième trimestre de l'exercice 2027 (26/08/2026)\n- Investissements et dette : Sherwood News, « Big Tech capital expenditure soared in 2025 » (06/02/2026) ; SEC, Alphabet, Form 8-K (28/10/2026) ; LSEG FTSE Russell, « AI's borrowing boom » (29/10/2026) ; SEC, Oracle, Form 10-Q (09/2026) ; Wikipedia, « Hyperion Data Center » (03/11/2026)\n- Précédent de 2000 : SEC, Lucent, Form 10-Q (clos le 31/12/1999) ; Wikipedia, « Dot-com bubble » (03/11/2026) ; DQYDJ, « NASDAQ Drawdown History » (03/11/2026) ; Encyclopædia Universalis, « 12 septembre 2002 : lourdes pertes pour France Télécom »\n- Valorisation : DoubleLine, « Diversifying U.S. Equity Exposure in a Concentrated Market » (10/2026)\n- Chute récente : Bloomberg, « Nasdaq 100 enters correction » (02/11/2026) ; CNBC, « CoreWeave credit default swaps hit distress levels » (15/10/2026) et « Oracle files to sell $20 billion in new stock, bonds » (02/11/2026)\n- Chine : Bloomberg via Insurance Journal (27/01/2026) ; Reuters via Yahoo Finance sur DeepSeek (27/04/2026) ; Journal du Geek, « La bulle de l'IA a déjà explosé en Chine » (02/11/2026)\n- Citation de Pichai : Reuters via Yahoo Finance, « No firm immune from AI bubble » (18/11/2025)\n- Fonds World, PEA, retraites : MSCI, fiche MSCI World (30/09/2026) ; Banque de France, « Plan d'épargne en actions - 2025 » (06/2026) ; BCE, blog (17/08/2026) ; Agirc-Arrco, résultats 2025 (31/03/2026)\n- France : France-Epargne sur Schneider Electric (16/10/2026) ; abcbourse sur Legrand (29/07/2026) ; RTE via les-energies-renouvelables.eu (28/07/2026) ; JeChange (11/09/2026) ; Banque de France, Bulletin n° 266 (2026) ; Maddyness sur le gouverneur Moulin (02/11/2026)\n\n🎞️ Photos, extraits et crédits\n- Jensen Huang à Stanford (30/04/2026) : Anderseidesvik, Wikimedia Commons, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)\n- Sam Altman à une conférence TED : Steve Jurvetson, Wikimedia Commons, CC BY 2.0 (https://creativecommons.org/licenses/by/2.0)\n- Sundar Pichai (2023) : Lukasz Kobus (European Commission), Wikimedia Commons, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0)\n- Emmanuel Moulin (Banque de France) : Thomas Padilla (Commission européenne), Wikimedia Commons, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0)\n- Dario Amodei au TechCrunch Disrupt 2023 : TechCrunch, Wikimedia Commons, CC BY 2.0 (https://creativecommons.org/licenses/by/2.0)\n- Dario Amodei, « Anthropic C.E.O.: Massive A.I. Spending Could Haunt Some Companies », The New York Times (DealBook Summit), 4:47 à 4:53, courte citation doublée en français\n- Sam Altman, « Sam Altman on Astra, AGI, and the future of OpenAI », Sources Podcast, 55:28 à 55:34, courte citation doublée en français\n- Sundar Pichai, « Google boss says trillion-dollar AI investment boom has 'elements of irrationality' », BBC News, 0:45 à 0:51, courte citation doublée en français\n\nMusique : bibliothèque audio YouTube.\nDessins d'illustration ; montants datés, en dollars ou euros courants. Explication générale, pas un conseil en investissement.",
+      "image_url": "https://i4.ytimg.com/vi/CQkb8USMmw0/hqdefault.jpg",
+      "source_id": "eco-en-batons",
+      "source_name": "Éco en bâtons",
+      "platform": "youtube"
+    },
     {
       "id": "youtube:1QiS-oityPI",
       "title": "Choisir son secteur là où il n’y a pas encore de FNB?",
@@ -105,7 +141,7 @@
       "published_at": "2026-11-07T00:06:02+00:00",
       "updated_at": "2026-11-07T00:06:02+00:00",
       "description": "Une remontée des taux d’intérêt peut aussi faire des heureux. \n\nPour les épargnants, généralement les taux offerts sur les CPG et les comptes d’épargne augmentent aussi. \n\nSi tu as de l’argent de côté, ça peut vouloir dire plus d’intérêts d",
-      "image_url": "https://scontent-ord5-2.xx.fbcdn.net/v/t51.82787-10/884823114_18135246373669293_5844575209949718639_n.jpg?stp=dst-jpg_tt6&cstp=mx720x1280&ctp=s960x960&_nc_cat=110&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=U8WYGscg5OcQ7kNvwGztff2&_nc_oc=AdpqT1tloaPNRcXDl0gKhhZe_BNoGUfTV85zkHKOvkxzIL01ELgXhLNizrA-COvE8NI&_nc_zt=23&_nc_ht=scontent-ord5-2.xx&_nc_gid=XyRvMNT_mzeB5cROpwDwig&_nc_ss=7f289&oh=00_AQTpI3nvm0_YssMulsvT9o3GcB5qBe9vCNVHUauzL4a7DA&oe=6AF4A1EF",
+      "image_url": "https://scontent-sjc3-1.xx.fbcdn.net/v/t51.82787-10/884823114_18135246373669293_5844575209949718639_n.jpg?stp=dst-jpg_tt6&cstp=mx720x1280&ctp=s960x960&_nc_cat=110&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=U8WYGscg5OcQ7kNvwG4LUEa&_nc_oc=Adp6A0PPd0dHbCJa7muxo-WbkdV5PCze6ODQNczAPeqU6U-HesStMOCQj9tq0RMl_bs&_nc_zt=23&_nc_ht=scontent-sjc3-1.xx&_nc_gid=JEHojIYSpQcUg0M842B0dw&_nc_ss=7f289&oh=00_AQSr1ARIpWVqA7sK60r9MfYVMVhXapEvH40I4vmmogOxNw&oe=6AF5126F",
       "source_id": "traders-360",
       "source_name": "Traders 360",
       "platform": "facebook"
@@ -177,7 +213,7 @@
       "published_at": "2026-11-06T19:01:06+00:00",
       "updated_at": "2026-11-06T19:01:06+00:00",
       "description": "\"Running to Droks, 1k each, pay half at Rankor.\"\n\nIf you know, you know. 🏔️\n\nDid you pay for the run, or were you the one running it? Tell us your Droknar's Run story 👇\n\n#MMORPG #GuildWarsReforged #GuildWars #Gaming #mmorpggames",
-      "image_url": "https://scontent-ord5-1.xx.fbcdn.net/v/t15.5256-10/884042340_1522470236595790_7468783753837623358_n.jpg?stp=dst-jpg_tt6&cstp=mx1920x1080&ctp=s960x960&_nc_cat=108&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=jxvPnsQCaxIQ7kNvwELthWg&_nc_oc=AdrCcK_DK8384XBAfm13C5Tv8tFyYuV9TT4lD7s_lj7FyfQYqsw6fa6Hnq6VOGGhyXk&_nc_zt=23&_nc_ht=scontent-ord5-1.xx&_nc_gid=Wq7s3dy6Lh5xMN6e6_sCUw&_nc_ss=7f289&oh=00_AQQ4xz2b7zX1iMwlsa83CI4psI73L5UlgN8jPXG0hQ5_VA&oe=6AF4C32D",
+      "image_url": "https://scontent-sjc6-1.xx.fbcdn.net/v/t15.5256-10/884042340_1522470236595790_7468783753837623358_n.jpg?stp=dst-jpg_tt6&cstp=mx1920x1080&ctp=s960x960&_nc_cat=108&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=jxvPnsQCaxIQ7kNvwG594gH&_nc_oc=AdobfsmGmaix0lhbjaJWJSFUPzsI8EW1753gNL-lp_S6t_4wfkFnZyzaELGXYQSfRbQ&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=lBIYLxxqn90IqRrHM_hSpw&_nc_ss=7f289&oh=00_AQSPo7zAKCI3FnHw1ISnwZWXA2-uo5ccwUf9XQJnpG-SOA&oe=6AF533AD",
       "source_id": "guild-wars",
       "source_name": "Guild Wars",
       "platform": "facebook"
@@ -439,7 +475,7 @@
       "title": "Hydro-Québec vit la même réalité que Microsoft",
       "url": "https://www.youtube.com/watch?v=C5Jxm4V912w",
       "published_at": "2026-11-04T20:41:25+00:00",
-      "updated_at": "2026-11-05T07:35:31+00:00",
+      "updated_at": "2026-11-05T23:47:52+00:00",
       "description": "Hydro-Québec vit la même réalité que Microsoft",
       "image_url": "https://i4.ytimg.com/vi/C5Jxm4V912w/hqdefault.jpg",
       "source_id": "investi-qc",
@@ -775,7 +811,7 @@
       "title": "Meta est la plus grosse position de mon portefeuille avec un prix d'achat moyen de 326$ #bourse",
       "url": "https://www.youtube.com/watch?v=9u_0gqGsb30",
       "published_at": "2026-11-02T23:07:15+00:00",
-      "updated_at": "2026-11-05T09:15:18+00:00",
+      "updated_at": "2026-11-06T01:47:51+00:00",
       "description": "Je suis conscient que le capex est astronomique et que le free cash flow est dans le négatif, mais je reste confiant sur le long terme.\n\nPour moi, l'IA pour Meta ne sera pas un metaverse 2.0",
       "image_url": "https://i2.ytimg.com/vi/9u_0gqGsb30/hqdefault.jpg",
       "source_id": "alex-demers-finance360",
@@ -799,7 +835,7 @@
       "title": "Comprendre le ratio P/E dans un environnement d’investissements massifs en IA",
       "url": "https://www.youtube.com/watch?v=AOI8ac8iQck",
       "published_at": "2026-11-02T21:41:07+00:00",
-      "updated_at": "2026-11-05T11:20:45+00:00",
+      "updated_at": "2026-11-06T01:45:00+00:00",
       "description": "Comprendre le ratio P/E dans un environnement d’investissements massifs en IA",
       "image_url": "https://i2.ytimg.com/vi/AOI8ac8iQck/hqdefault.jpg",
       "source_id": "investi-qc",
@@ -2203,7 +2239,7 @@
       "title": "1000$ par mois pendant 30 ans peut devenir plus de 2 millions #bourse",
       "url": "https://www.youtube.com/watch?v=sjxiOgDqg90",
       "published_at": "2026-10-05T22:04:04+00:00",
-      "updated_at": "2026-10-09T09:28:11+00:00",
+      "updated_at": "2026-11-06T04:47:56+00:00",
       "description": "Avec un rendement annuel moyen de 10%, le plus difficile c'est le début.\n\nIl faut près de 17 ans pour atteindre les premiers 500000$ puis seulement 6 ans de plus pour atteindre 1 million.",
       "image_url": "https://i4.ytimg.com/vi/sjxiOgDqg90/hqdefault.jpg",
       "source_id": "alex-demers-finance360",
