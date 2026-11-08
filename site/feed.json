@@ -2,7 +2,7 @@
   "version": 1,
   "title": "Social Feed",
   "description": "Un seul fil pour suivre les sources qui comptent.",
-  "generated_at": "2026-11-08T13:29:27.564763+00:00",
+  "generated_at": "2026-11-08T18:51:01.399998+00:00",
   "sources": [
     {
       "id": "eco-en-batons",
@@ -11,7 +11,7 @@
       "url": "https://www.youtube.com/@Eco_en_batons",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-08T13:29:27.564763+00:00",
+      "last_success_at": "2026-11-08T18:51:01.399998+00:00",
       "item_count": 34
     },
     {
@@ -21,8 +21,8 @@
       "url": "https://www.youtube.com/@investi-qc",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-08T13:29:27.564763+00:00",
-      "item_count": 48
+      "last_success_at": "2026-11-08T18:51:01.399998+00:00",
+      "item_count": 49
     },
     {
       "id": "hugo-lisoir",
@@ -31,8 +31,8 @@
       "url": "https://www.youtube.com/@hugolisoiryoutube",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-08T13:29:27.564763+00:00",
-      "item_count": 21
+      "last_success_at": "2026-11-08T18:51:01.399998+00:00",
+      "item_count": 22
     },
     {
       "id": "alex-demers-finance360",
@@ -41,7 +41,7 @@
       "url": "https://www.youtube.com/@alexdemers-finance360",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-08T13:29:27.564763+00:00",
+      "last_success_at": "2026-11-08T18:51:01.399998+00:00",
       "item_count": 19
     },
     {
@@ -51,7 +51,7 @@
       "url": "https://www.facebook.com/GuildWars/",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-08T13:29:27.564763+00:00",
+      "last_success_at": "2026-11-08T18:51:01.399998+00:00",
       "item_count": 9
     },
     {
@@ -61,8 +61,8 @@
       "url": "https://www.facebook.com/LOTRO/",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-08T13:29:27.564763+00:00",
-      "item_count": 25
+      "last_success_at": "2026-11-08T18:51:01.399998+00:00",
+      "item_count": 26
     },
     {
       "id": "ville-de-lavaltrie",
@@ -71,7 +71,7 @@
       "url": "https://www.facebook.com/VilleDeLavaltrie/",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-08T13:29:27.564763+00:00",
+      "last_success_at": "2026-11-08T18:51:01.399998+00:00",
       "item_count": 20
     },
     {
@@ -81,11 +81,47 @@
       "url": "https://www.facebook.com/firmetraders360/",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-08T13:29:27.564763+00:00",
+      "last_success_at": "2026-11-08T18:51:01.399998+00:00",
       "item_count": 24
     }
   ],
   "items": [
+    {
+      "id": "youtube:JCCFfTwNsc0",
+      "title": "La catastrophe des lunes de Neptune, un mystère toujours entier !",
+      "url": "https://www.youtube.com/watch?v=JCCFfTwNsc0",
+      "published_at": "2026-11-08T17:00:14+00:00",
+      "updated_at": "2026-11-08T17:00:14+00:00",
+      "description": "Une immense catastrophe a-t-elle bouleversé les lunes de Neptune ? Entre Triton qui tourne à contre-sens, l’orbite étrange de Néréide et les nouveaux indices chimiques relevés par James Webb, les astronomes tentent de reconstituer l’histoire d’un système qui pourrait s’être reconstruit sur les débris de mondes disparus.\n\nSources :\nhttps://arxiv.org/abs/2606.02818\nhttps://arxiv.org/abs/2607.27481\nhttps://pubmed.ncbi.nlm.nih.gov/16688170/\nhttps://arxiv.org/abs/astro-ph/0505235\nhttps://pmc.ncbi.nlm.nih.gov/articles/PMC6476549/\nhttps://nap.nationalacademies.org/resource/26522/interactive/\n\nMusiques : Pedro Macedo Camacho / Star Citizen, Utho Riley et Gérald M. Dorai\nImages : NASA, ESA, CSA, STScI, JPL-Caltech, Caltech, CNSA\nMoteur 3D : Space Engine Pro",
+      "image_url": "https://i3.ytimg.com/vi/JCCFfTwNsc0/hqdefault.jpg",
+      "source_id": "hugo-lisoir",
+      "source_name": "Hugo Lisoir",
+      "platform": "youtube"
+    },
+    {
+      "id": "youtube:U_3XNN90xOA",
+      "title": "Foodtastic veut acheter MTY pour environ 1 milliards de dollars",
+      "url": "https://www.youtube.com/watch?v=U_3XNN90xOA",
+      "published_at": "2026-11-08T15:40:05+00:00",
+      "updated_at": "2026-11-08T16:31:48+00:00",
+      "description": "Foodtastic veut acheter MTY pour environ 1 milliards de dollars",
+      "image_url": "https://i2.ytimg.com/vi/U_3XNN90xOA/hqdefault.jpg",
+      "source_id": "investi-qc",
+      "source_name": "Investi QC",
+      "platform": "youtube"
+    },
+    {
+      "id": "facebook:100064792208382:1642690657900659",
+      "title": "A LOTRO player named Eorlthain has put together a very comprehensive guide to our new Neighbours system! Find it on Eorl",
+      "url": "https://www.facebook.com/LOTRO/posts/pfbid0aPqQg21UdQ4jCzKUgr1jkAMfx3utS4uf1K2qz26jAxA3ukgTFhUkGPw5vuZN48YNl",
+      "published_at": "2026-11-08T15:30:30+00:00",
+      "updated_at": "2026-11-08T15:30:30+00:00",
+      "description": "A LOTRO player named Eorlthain has put together a very comprehensive guide to our new Neighbours system! Find it on Eorlthain's web site here: https://eorlthain.com/guides/neighbours/ #LOTRO",
+      "image_url": "https://external-iad6-1.xx.fbcdn.net/emg1/v/t13/6902275472219585842?url=https%3A%2F%2Feorlthain.com%2Fguides%2Fneighbours%2Fimages%2Fbrutha.webp&fb_obo=1&utld=eorlthain.com&_nc_sid=e17101&_nc_ht=external-iad6-1.xx.fbcdn.net&stp=c0.5000x0.5000f_dst-jpg_flffffff_p139x215_q75_tt6&ccb=18-1&_nc_gid=lXSTsPgNrXSqLyS0E6wY6w&_nc_zt=3&oh=06_Q3_FAcZxRUmV2qS6ARF7OKVG8X5LzNl5nqbems1uHlyma12e&oe=6AF2B8E2",
+      "source_id": "lotro",
+      "source_name": "The Lord of the Rings Online",
+      "platform": "facebook"
+    },
     {
       "id": "youtube:AzjR-jbLaus",
       "title": "Like si tu as buy the dip et commente quel stock 👇",
@@ -153,7 +189,7 @@
       "published_at": "2026-11-07T16:16:47+00:00",
       "updated_at": "2026-11-07T16:16:47+00:00",
       "description": "Voici les 10 plus grandes positions de mon portefeuille.\n\nComme vous pouvez le voir, j’ai une surpondération importante dans les big tech américaines.\n\nComme je suis 100% investi en bourse (pas d’immobilier, pas de crypto ni gold) quand Met",
-      "image_url": "https://scontent-dfw5-1.xx.fbcdn.net/v/t39.99422-6/894505593_1636799267921363_6568875924599299174_n.png?stp=dst-jpg_tt6&cstp=mx1504x1056&ctp=s720x720&_nc_cat=106&ccb=1-7&_nc_sid=127cfc&_nc_ohc=1cxyKmG8oGMQ7kNvwFqvvQC&_nc_oc=AdpYOvVqWmdS9kmHbDFhWh_p6vEbC_cBdUzPOSk2LlokXvPbREiqHjo2G4rCeMLBukQ&_nc_zt=14&_nc_ht=scontent-dfw5-1.xx&_nc_gid=k1DJ1TivVMtUXYWL9JDHgA&_nc_ss=7f289&oh=00_AQSUdIujhs1Uv2BuBpb9NjOQPhX1Pxaz45R-AWGLZp1XJg&oe=6AF65AD2",
+      "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.99422-6/894505593_1636799267921363_6568875924599299174_n.png?stp=dst-jpg_tt6&cstp=mx1504x1056&ctp=s720x720&_nc_cat=106&ccb=1-7&_nc_sid=127cfc&_nc_ohc=1cxyKmG8oGMQ7kNvwEgeRkA&_nc_oc=Adp6QhcUJcx-6u767tI6w7bNst9rLhrIQAr80mqq-twfYnYWWJ5kgQgmWdaubSk49aE&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=9hUllkEAhHvf0B1LFIG72Q&_nc_ss=7f289&oh=00_AQRVhPdVh6lUk2LPFXCtDRYM3lWvKVc_z8-ITBSteQphdA&oe=6AF69312",
       "source_id": "traders-360",
       "source_name": "Traders 360",
       "platform": "facebook"
@@ -165,7 +201,7 @@
       "published_at": "2026-11-07T14:00:13+00:00",
       "updated_at": "2026-11-07T14:00:13+00:00",
       "description": "🧥❄️ 𝗨𝗻 𝗴𝗲𝘀𝘁𝗲 𝗱𝗲 𝘀𝗼𝗹𝗶𝗱𝗮𝗿𝗶𝘁𝗲́ 𝗾𝘂𝗶 𝗿𝗲́𝗰𝗵𝗮𝘂𝗳𝗳𝗲 𝗹𝗲𝘀 𝗰œ𝘂𝗿𝘀!\n\nEn octobre dernier, les Chevaliers-De Colomb Conseil De-Lavaltrie ont remis gratuitement 𝟭𝟮𝟰 𝗺𝗮𝗻𝘁𝗲𝗮𝘂𝘅 𝗲𝘁 𝟱𝟮 𝗽𝗮𝗶𝗿𝗲𝘀 𝗱𝗲 𝗯𝗼𝘁𝘁𝗲𝘀, 𝗲𝗻 𝗽𝗹𝘂𝘀 𝗱𝗲 𝘁𝘂𝗾𝘂𝗲𝘀 𝗲𝘁 𝗱𝗲 𝗺𝗶𝘁𝗮𝗶𝗻𝗲𝘀, pour permettre à des enfa",
-      "image_url": "https://scontent-dfw5-2.xx.fbcdn.net/v/t39.99422-6/888559357_1522728429696002_4461426673266504267_n.png?stp=dst-jpg_tt6&cstp=mx2048x1536&ctp=s720x720&_nc_cat=107&ccb=1-7&_nc_sid=127cfc&_nc_ohc=Rb-Y_24FxYAQ7kNvwETaCFQ&_nc_oc=Ado-8azNLmcLgDeO0Js2x6TNOZUnKHh9SVKV9cLaqKLxSID8egoecpohRKWR7fqY3hs&_nc_zt=14&_nc_ht=scontent-dfw5-2.xx&_nc_gid=AQHyA19cY4yaR0G0MFq-DQ&_nc_ss=7f289&oh=00_AQT1IIkM957g5tyu2pyl8Nm9tGHybXkwsuxp-0ZrkT021g&oe=6AF65729",
+      "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.99422-6/888559357_1522728429696002_4461426673266504267_n.png?stp=dst-jpg_tt6&cstp=mx2048x1536&ctp=s720x720&_nc_cat=107&ccb=1-7&_nc_sid=127cfc&_nc_ohc=dIjp2Dc94NAQ7kNvwHRxc6K&_nc_oc=Adooy86iLn9fMgB7ABtzcfVEVz_oVhyrh1HVy4lG2acgBNxHCxYacyj1R7dfDCOrWnY&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=TVi2lOHZ39uEeSPnMwBwnQ&_nc_ss=7f289&oh=00_AQTocLx_7vVcoKG3_YkqGpjFUQNb-dTTBcxlX2loymoseA&oe=6AF68F69",
       "source_id": "ville-de-lavaltrie",
       "source_name": "Ville de Lavaltrie",
       "platform": "facebook"
@@ -285,7 +321,7 @@
       "published_at": "2026-11-06T19:01:06+00:00",
       "updated_at": "2026-11-06T19:01:06+00:00",
       "description": "\"Running to Droks, 1k each, pay half at Rankor.\"\n\nIf you know, you know. 🏔️\n\nDid you pay for the run, or were you the one running it? Tell us your Droknar's Run story 👇\n\n#MMORPG #GuildWarsReforged #GuildWars #Gaming #mmorpggames",
-      "image_url": "https://scontent-dfw6-2.xx.fbcdn.net/v/t15.5256-10/884042340_1522470236595790_7468783753837623358_n.jpg?stp=dst-jpg_tt6&cstp=mx1920x1080&ctp=s960x960&_nc_cat=108&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=jxvPnsQCaxIQ7kNvwEHIUNI&_nc_oc=AdqVr3m_4fU18eXRZGhLrCMPTnFLMTQ7xPoWssjLUGv0fxM5a-EonpQ-kfCVDqJr6BE&_nc_zt=23&_nc_ht=scontent-dfw6-2.xx&_nc_gid=P_cTJVVlBX5AVXj56cE04A&_nc_ss=7f289&oh=00_AQSR5msN3yGzTCI-VFX-rfMU793XjBZ4aq4z3qe652Kwkw&oe=6AF64CED",
+      "image_url": "https://scontent-iad3-1.xx.fbcdn.net/v/t15.5256-10/884042340_1522470236595790_7468783753837623358_n.jpg?stp=dst-jpg_tt6&cstp=mx1920x1080&ctp=s960x960&_nc_cat=108&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=4vnVoHypDpwQ7kNvwHyDNPg&_nc_oc=AdqQbFqlIUUVSgnkRP_aOsXII15bAdoIpU16qm_LaX7V4Rl7RREAwWv_dr_yYbE1_I0&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&_nc_gid=6s62otpavpuBj6LKyIBejQ&_nc_ss=7f289&oh=00_AQSLKRb1s8xLN9u6LXFtZ-ewDlaoG5CmszyWSugIOjR8qQ&oe=6AF6852D",
       "source_id": "guild-wars",
       "source_name": "Guild Wars",
       "platform": "facebook"
