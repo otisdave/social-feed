@@ -2,7 +2,7 @@
   "version": 1,
   "title": "Social Feed",
   "description": "Un seul fil pour suivre les sources qui comptent.",
-  "generated_at": "2026-11-08T18:51:01.399998+00:00",
+  "generated_at": "2026-11-08T22:55:34.031590+00:00",
   "sources": [
     {
       "id": "eco-en-batons",
@@ -11,7 +11,7 @@
       "url": "https://www.youtube.com/@Eco_en_batons",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-08T18:51:01.399998+00:00",
+      "last_success_at": "2026-11-08T22:55:34.031590+00:00",
       "item_count": 34
     },
     {
@@ -21,8 +21,8 @@
       "url": "https://www.youtube.com/@investi-qc",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-08T18:51:01.399998+00:00",
-      "item_count": 49
+      "last_success_at": "2026-11-08T22:55:34.031590+00:00",
+      "item_count": 50
     },
     {
       "id": "hugo-lisoir",
@@ -31,7 +31,7 @@
       "url": "https://www.youtube.com/@hugolisoiryoutube",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-08T18:51:01.399998+00:00",
+      "last_success_at": "2026-11-08T22:55:34.031590+00:00",
       "item_count": 22
     },
     {
@@ -41,7 +41,7 @@
       "url": "https://www.youtube.com/@alexdemers-finance360",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-08T18:51:01.399998+00:00",
+      "last_success_at": "2026-11-08T22:55:34.031590+00:00",
       "item_count": 19
     },
     {
@@ -51,7 +51,7 @@
       "url": "https://www.facebook.com/GuildWars/",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-08T18:51:01.399998+00:00",
+      "last_success_at": "2026-11-08T22:55:34.031590+00:00",
       "item_count": 9
     },
     {
@@ -61,8 +61,8 @@
       "url": "https://www.facebook.com/LOTRO/",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-08T18:51:01.399998+00:00",
-      "item_count": 26
+      "last_success_at": "2026-11-08T22:55:34.031590+00:00",
+      "item_count": 27
     },
     {
       "id": "ville-de-lavaltrie",
@@ -71,7 +71,7 @@
       "url": "https://www.facebook.com/VilleDeLavaltrie/",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-08T18:51:01.399998+00:00",
+      "last_success_at": "2026-11-08T22:55:34.031590+00:00",
       "item_count": 20
     },
     {
@@ -81,11 +81,35 @@
       "url": "https://www.facebook.com/firmetraders360/",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-08T18:51:01.399998+00:00",
+      "last_success_at": "2026-11-08T22:55:34.031590+00:00",
       "item_count": 24
     }
   ],
   "items": [
+    {
+      "id": "facebook:100064792208382:1642972374539154",
+      "title": "Team Standing Stone Games is once again raising funds for Extra Life! Join us on Saturday, November 14th on Twitch.tv/LO",
+      "url": "https://www.facebook.com/LOTRO/posts/pfbid0rZBjHWu6pmiqQTPUnoG7z4jB839UiaETtye3QyLGkXv8mvfX9XgGqGcc7YFnwJgTl",
+      "published_at": "2026-11-08T20:50:15+00:00",
+      "updated_at": "2026-11-08T20:50:15+00:00",
+      "description": "Team Standing Stone Games is once again raising funds for Extra Life! Join us on Saturday, November 14th on Twitch.tv/LOTROstream for our livestream marathon, and read more about this year's effort on LOTRO.com: https://www.lotro.com/news/l",
+      "image_url": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.99422-6/899279153_1710428967762435_481638506439328248_n.png?stp=dst-jpg_tt6&cstp=mx780x440&ctp=s780x440&_nc_cat=110&ccb=1-7&_nc_sid=127cfc&_nc_ohc=CGPZTu-lWyYQ7kNvwGnN6V1&_nc_oc=AdqetzFqGInz1JgOlKdF2SaRlCTtO6jElG3L-PRYaHHz9xG6JIKQbH13iLUy4479Blk&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=KL4p2LQZt_N6Ygl9oJQ6IA&_nc_ss=7f289&oh=00_AQSnOoE9K9-Lr5bHkD0nIvOifS94vOMeTKd9SPSoSOjk-Q&oe=6AF6C7AA",
+      "source_id": "lotro",
+      "source_name": "The Lord of the Rings Online",
+      "platform": "facebook"
+    },
+    {
+      "id": "youtube:Aen2tl5F61g",
+      "title": "Des gestes simples pour tous nous aider",
+      "url": "https://www.youtube.com/watch?v=Aen2tl5F61g",
+      "published_at": "2026-11-08T20:41:17+00:00",
+      "updated_at": "2026-11-08T20:59:49+00:00",
+      "description": "Des gestes simples pour tous nous aider",
+      "image_url": "https://i2.ytimg.com/vi/Aen2tl5F61g/hqdefault.jpg",
+      "source_id": "investi-qc",
+      "source_name": "Investi QC",
+      "platform": "youtube"
+    },
     {
       "id": "youtube:JCCFfTwNsc0",
       "title": "La catastrophe des lunes de Neptune, un mystère toujours entier !",
@@ -127,7 +151,7 @@
       "title": "Like si tu as buy the dip et commente quel stock 👇",
       "url": "https://www.youtube.com/watch?v=AzjR-jbLaus",
       "published_at": "2026-11-08T00:43:33+00:00",
-      "updated_at": "2026-11-08T01:00:29+00:00",
+      "updated_at": "2026-11-08T20:02:36+00:00",
       "description": "Like si tu as buy the dip et commente quel stock 👇",
       "image_url": "https://i2.ytimg.com/vi/AzjR-jbLaus/hqdefault.jpg",
       "source_id": "investi-qc",
@@ -151,7 +175,7 @@
       "title": "Une soirée romantique à la Casa Grecque pour notre ami Pierre-Olivier 🍷❤️",
       "url": "https://www.youtube.com/watch?v=1IkdGS2y2yk",
       "published_at": "2026-11-07T20:40:11+00:00",
-      "updated_at": "2026-11-07T21:39:18+00:00",
+      "updated_at": "2026-11-08T20:44:54+00:00",
       "description": "Une soirée romantique à la Casa Grecque pour notre ami Pierre-Olivier 🍷❤️",
       "image_url": "https://i2.ytimg.com/vi/1IkdGS2y2yk/hqdefault.jpg",
       "source_id": "investi-qc",
@@ -175,7 +199,7 @@
       "title": "Certains FNB sont des meilleurs produits marketing que de bons investissements?",
       "url": "https://www.youtube.com/watch?v=W5QJIPj2Ivo",
       "published_at": "2026-11-07T16:45:04+00:00",
-      "updated_at": "2026-11-07T17:11:05+00:00",
+      "updated_at": "2026-11-08T19:40:51+00:00",
       "description": "Certains FNB sont des meilleurs produits marketing que de bons investissements?",
       "image_url": "https://i4.ytimg.com/vi/W5QJIPj2Ivo/hqdefault.jpg",
       "source_id": "investi-qc",
@@ -189,7 +213,7 @@
       "published_at": "2026-11-07T16:16:47+00:00",
       "updated_at": "2026-11-07T16:16:47+00:00",
       "description": "Voici les 10 plus grandes positions de mon portefeuille.\n\nComme vous pouvez le voir, j’ai une surpondération importante dans les big tech américaines.\n\nComme je suis 100% investi en bourse (pas d’immobilier, pas de crypto ni gold) quand Met",
-      "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.99422-6/894505593_1636799267921363_6568875924599299174_n.png?stp=dst-jpg_tt6&cstp=mx1504x1056&ctp=s720x720&_nc_cat=106&ccb=1-7&_nc_sid=127cfc&_nc_ohc=1cxyKmG8oGMQ7kNvwEgeRkA&_nc_oc=Adp6QhcUJcx-6u767tI6w7bNst9rLhrIQAr80mqq-twfYnYWWJ5kgQgmWdaubSk49aE&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=9hUllkEAhHvf0B1LFIG72Q&_nc_ss=7f289&oh=00_AQRVhPdVh6lUk2LPFXCtDRYM3lWvKVc_z8-ITBSteQphdA&oe=6AF69312",
+      "image_url": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.99422-6/894505593_1636799267921363_6568875924599299174_n.png?stp=dst-jpg_tt6&cstp=mx1504x1056&ctp=s720x720&_nc_cat=106&ccb=1-7&_nc_sid=127cfc&_nc_ohc=1cxyKmG8oGMQ7kNvwG2wlc0&_nc_oc=AdrmtNI-hMRKHmKaLcnImBxBLDhIdlRHx-y_1K4hEynLrpWpOtoYbdlnIQyVHXB9S0U&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=9Uo851GYyRYGS1cHTCbK_A&_nc_ss=7f289&oh=00_AQS8IS8c_Kj0Ak-3N-5i9gxc7vm4S5gOlZLhw2j9cuEJ-w&oe=6AF6CB52",
       "source_id": "traders-360",
       "source_name": "Traders 360",
       "platform": "facebook"
@@ -197,11 +221,11 @@
     {
       "id": "facebook:100064655653099:1578168144348359",
       "title": "🧥❄️ 𝗨𝗻 𝗴𝗲𝘀𝘁𝗲 𝗱𝗲 𝘀𝗼𝗹𝗶𝗱𝗮𝗿𝗶𝘁𝗲́ 𝗾𝘂𝗶 𝗿𝗲́𝗰𝗵𝗮𝘂𝗳𝗳𝗲 𝗹𝗲𝘀 𝗰œ𝘂𝗿𝘀!",
-      "url": "https://www.facebook.com/VilleDeLavaltrie/posts/pfbid026tPCNnYgodFewyjC3vECzq8e748di19qZZAtSfgRpU22Ut5nU5QeaBWpj1uiZYSql",
+      "url": "https://www.facebook.com/VilleDeLavaltrie/posts/pfbid03Lk1TcvKxNxsEsZf5rqtV6stD3ebW1UnsEhPmAqrZ7gzMq5upCZtW6bnNyKuAhDxl",
       "published_at": "2026-11-07T14:00:13+00:00",
       "updated_at": "2026-11-07T14:00:13+00:00",
       "description": "🧥❄️ 𝗨𝗻 𝗴𝗲𝘀𝘁𝗲 𝗱𝗲 𝘀𝗼𝗹𝗶𝗱𝗮𝗿𝗶𝘁𝗲́ 𝗾𝘂𝗶 𝗿𝗲́𝗰𝗵𝗮𝘂𝗳𝗳𝗲 𝗹𝗲𝘀 𝗰œ𝘂𝗿𝘀!\n\nEn octobre dernier, les Chevaliers-De Colomb Conseil De-Lavaltrie ont remis gratuitement 𝟭𝟮𝟰 𝗺𝗮𝗻𝘁𝗲𝗮𝘂𝘅 𝗲𝘁 𝟱𝟮 𝗽𝗮𝗶𝗿𝗲𝘀 𝗱𝗲 𝗯𝗼𝘁𝘁𝗲𝘀, 𝗲𝗻 𝗽𝗹𝘂𝘀 𝗱𝗲 𝘁𝘂𝗾𝘂𝗲𝘀 𝗲𝘁 𝗱𝗲 𝗺𝗶𝘁𝗮𝗶𝗻𝗲𝘀, pour permettre à des enfa",
-      "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.99422-6/888559357_1522728429696002_4461426673266504267_n.png?stp=dst-jpg_tt6&cstp=mx2048x1536&ctp=s720x720&_nc_cat=107&ccb=1-7&_nc_sid=127cfc&_nc_ohc=dIjp2Dc94NAQ7kNvwHRxc6K&_nc_oc=Adooy86iLn9fMgB7ABtzcfVEVz_oVhyrh1HVy4lG2acgBNxHCxYacyj1R7dfDCOrWnY&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=TVi2lOHZ39uEeSPnMwBwnQ&_nc_ss=7f289&oh=00_AQTocLx_7vVcoKG3_YkqGpjFUQNb-dTTBcxlX2loymoseA&oe=6AF68F69",
+      "image_url": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.99422-6/888559357_1522728429696002_4461426673266504267_n.png?stp=dst-jpg_tt6&cstp=mx2048x1536&ctp=s720x720&_nc_cat=107&ccb=1-7&_nc_sid=127cfc&_nc_ohc=dIjp2Dc94NAQ7kNvwEE85EU&_nc_oc=AdpEvCjOn9Oh1spfLmtdzaDrf4M7Tc2TKWwCBLwYbTgggt_-sU7Os-DbDYaRzuDNNco&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=FLLyxXCGb-IhmF-FXuEOsQ&_nc_ss=7f289&oh=00_AQQoQQ0SHgomCjMS4MCcrvvVzzRWzTdtpNxFEb7cqK12mA&oe=6AF6C7A9",
       "source_id": "ville-de-lavaltrie",
       "source_name": "Ville de Lavaltrie",
       "platform": "facebook"
@@ -223,7 +247,7 @@
       "title": "La bulle de l'IA expliquée simplement",
       "url": "https://www.youtube.com/watch?v=CQkb8USMmw0",
       "published_at": "2026-11-07T11:26:01+00:00",
-      "updated_at": "2026-11-07T13:32:43+00:00",
+      "updated_at": "2026-11-08T21:37:32+00:00",
       "description": "La bulle de l'IA expliquée simplement, comme si vous aviez 5 ans. En septembre 2025, Nvidia promet jusqu'à 100 milliards de dollars à OpenAI, qui doit lui acheter ses puces ; ce n'était pas un engagement, et l'argent tourne en rond entre Nvidia, OpenAI et Microsoft. Puis on suit les chantiers géants, payés de plus en plus à crédit (218 milliards de dollars d'obligations en neuf mois, Oracle compris), et le parallèle avec les réseaux télécoms de 2000, où le Nasdaq a perdu 78 % entre mars 2000 et octobre 2002. Enfin, la chute récente des valeurs (au 2 novembre, le Nasdaq-100 avait perdu environ 10 % depuis son sommet du 6 octobre), le rôle réel de la Chine, et ce que cela change pour un épargnant français : sur 1 000 euros dans un fonds World, environ 250 euros dépendent de sept géants américains.\n\n📅 Vidéo bouclée avant le jeudi 5 novembre 2026 : le recul d'environ 4 % du S&P 500 (vers 9:57) date du lundi 2. Le jeudi 5 novembre, le Nasdaq-100 a perdu 6,36 % sur la séance et le S&P 500 a fini à 5,95 % sous son sommet.\n\n⏱️ Chapitres\n0:00 La bulle de l'IA : l'argent qui tourne en rond\n1:53 Partie 1 — Le billet qui revient\n3:55 Partie 2 — Les chantiers géants\n6:09 Partie 3 — Les câbles de l'an 2000\n8:10 Partie 4 — Le lundi rouge\n10:22 Partie 5 — Vos 1 000 euros\n12:47 Et aujourd'hui, en France\n\n📌 Sources (lues en novembre 2026)\n- Nvidia et OpenAI : Nvidia, « OpenAI and NVIDIA announce strategic partnership » (22/09/2025) ; Fortune, « Jensen Huang on Nvidia's OpenAI investment » (02/02/2026) ; OpenAI, « Scaling AI for everyone » (27/02/2026) ; SEC, Nvidia, Form 10-Q (clos le 26/07/2026)\n- Boucles de financement : Reuters via The Star, « CoreWeave, Nvidia sign $6.3 billion cloud computing capacity order » (15/09/2025) ; FMI, « Global financial markets face rising risks from AI » (13/10/2026) ; Nvidia, résultats du deuxième trimestre de l'exercice 2027 (26/08/2026)\n- Investissements et dette : Sherwood News, « Big Tech capital expenditure soared in 2025 » (06/02/2026) ; SEC, Alphabet, Form 8-K (28/10/2026) ; LSEG FTSE Russell, « AI's borrowing boom » (29/10/2026) ; SEC, Oracle, Form 10-Q (09/2026) ; Wikipedia, « Hyperion Data Center » (03/11/2026)\n- Précédent de 2000 : SEC, Lucent, Form 10-Q (clos le 31/12/1999) ; Wikipedia, « Dot-com bubble » (03/11/2026) ; DQYDJ, « NASDAQ Drawdown History » (03/11/2026) ; Encyclopædia Universalis, « 12 septembre 2002 : lourdes pertes pour France Télécom »\n- Valorisation : DoubleLine, « Diversifying U.S. Equity Exposure in a Concentrated Market » (10/2026)\n- Chute récente : Bloomberg, « Nasdaq 100 enters correction » (02/11/2026) ; CNBC, « CoreWeave credit default swaps hit distress levels » (15/10/2026) et « Oracle files to sell $20 billion in new stock, bonds » (02/11/2026)\n- Chine : Bloomberg via Insurance Journal (27/01/2026) ; Reuters via Yahoo Finance sur DeepSeek (27/04/2026) ; Journal du Geek, « La bulle de l'IA a déjà explosé en Chine » (02/11/2026)\n- Citation de Pichai : Reuters via Yahoo Finance, « No firm immune from AI bubble » (18/11/2025)\n- Fonds World, PEA, retraites : MSCI, fiche MSCI World (30/09/2026) ; Banque de France, « Plan d'épargne en actions - 2025 » (06/2026) ; BCE, blog (17/08/2026) ; Agirc-Arrco, résultats 2025 (31/03/2026)\n- France : France-Epargne sur Schneider Electric (16/10/2026) ; abcbourse sur Legrand (29/07/2026) ; RTE via les-energies-renouvelables.eu (28/07/2026) ; JeChange (11/09/2026) ; Banque de France, Bulletin n° 266 (2026) ; Maddyness sur le gouverneur Moulin (02/11/2026)\n\n🎞️ Photos, extraits et crédits\n- Jensen Huang à Stanford (30/04/2026) : Anderseidesvik, Wikimedia Commons, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)\n- Sam Altman à une conférence TED : Steve Jurvetson, Wikimedia Commons, CC BY 2.0 (https://creativecommons.org/licenses/by/2.0)\n- Sundar Pichai (2023) : Lukasz Kobus (European Commission), Wikimedia Commons, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0)\n- Emmanuel Moulin (Banque de France) : Thomas Padilla (Commission européenne), Wikimedia Commons, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0)\n- Dario Amodei au TechCrunch Disrupt 2023 : TechCrunch, Wikimedia Commons, CC BY 2.0 (https://creativecommons.org/licenses/by/2.0)\n- Dario Amodei, « Anthropic C.E.O.: Massive A.I. Spending Could Haunt Some Companies », The New York Times (DealBook Summit), 4:47 à 4:53, courte citation doublée en français\n- Sam Altman, « Sam Altman on Astra, AGI, and the future of OpenAI », Sources Podcast, 55:28 à 55:34, courte citation doublée en français\n- Sundar Pichai, « Google boss says trillion-dollar AI investment boom has 'elements of irrationality' », BBC News, 0:45 à 0:51, courte citation doublée en français\n\nMusique : bibliothèque audio YouTube.\nDessins d'illustration ; montants datés, en dollars ou euros courants. Explication générale, pas un conseil en investissement.",
       "image_url": "https://i4.ytimg.com/vi/CQkb8USMmw0/hqdefault.jpg",
       "source_id": "eco-en-batons",
@@ -235,7 +259,7 @@
       "title": "Choisir son secteur là où il n’y a pas encore de FNB?",
       "url": "https://www.youtube.com/watch?v=1QiS-oityPI",
       "published_at": "2026-11-07T00:42:49+00:00",
-      "updated_at": "2026-11-07T01:06:06+00:00",
+      "updated_at": "2026-11-08T20:18:20+00:00",
       "description": "Choisir son secteur là où il n’y a pas encore de FNB?",
       "image_url": "https://i2.ytimg.com/vi/1QiS-oityPI/hqdefault.jpg",
       "source_id": "investi-qc",
@@ -295,7 +319,7 @@
       "title": "1 seule tasse disponible",
       "url": "https://www.youtube.com/watch?v=XSG9M3UUtjw",
       "published_at": "2026-11-06T20:40:53+00:00",
-      "updated_at": "2026-11-06T20:55:46+00:00",
+      "updated_at": "2026-11-08T19:25:39+00:00",
       "description": "1 seule tasse disponible. L’encan commence à 500$/épisode (chaque épisode est écouté par plus de 20 000 amateurs de bourse, et chaque épisode inclut 14 clips sur nos réseaux sociaux qui rejoignent plus de 300 000 Québécois chaque semaine).",
       "image_url": "https://i1.ytimg.com/vi/XSG9M3UUtjw/hqdefault.jpg",
       "source_id": "investi-qc",
@@ -321,7 +345,7 @@
       "published_at": "2026-11-06T19:01:06+00:00",
       "updated_at": "2026-11-06T19:01:06+00:00",
       "description": "\"Running to Droks, 1k each, pay half at Rankor.\"\n\nIf you know, you know. 🏔️\n\nDid you pay for the run, or were you the one running it? Tell us your Droknar's Run story 👇\n\n#MMORPG #GuildWarsReforged #GuildWars #Gaming #mmorpggames",
-      "image_url": "https://scontent-iad3-1.xx.fbcdn.net/v/t15.5256-10/884042340_1522470236595790_7468783753837623358_n.jpg?stp=dst-jpg_tt6&cstp=mx1920x1080&ctp=s960x960&_nc_cat=108&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=4vnVoHypDpwQ7kNvwHyDNPg&_nc_oc=AdqQbFqlIUUVSgnkRP_aOsXII15bAdoIpU16qm_LaX7V4Rl7RREAwWv_dr_yYbE1_I0&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&_nc_gid=6s62otpavpuBj6LKyIBejQ&_nc_ss=7f289&oh=00_AQSLKRb1s8xLN9u6LXFtZ-ewDlaoG5CmszyWSugIOjR8qQ&oe=6AF6852D",
+      "image_url": "https://scontent-sjc6-1.xx.fbcdn.net/v/t15.5256-10/884042340_1522470236595790_7468783753837623358_n.jpg?stp=dst-jpg_tt6&cstp=mx1920x1080&ctp=s960x960&_nc_cat=108&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=4vnVoHypDpwQ7kNvwGrCAdZ&_nc_oc=AdqNJ2BHdgJwUAU2E0fQd00Qpn99G16Y4sieu6Y9QsD5gNdFxm8mGuHYcp2g9loo3J0&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=w5jqPRz9GlIE7mfk4zuxQQ&_nc_ss=7f289&oh=00_AQR4IFuuYB3oJjIf1mXrXlTAY6-9Aqa_RJKzROMMwqwrsw&oe=6AF6BD6D",
       "source_id": "guild-wars",
       "source_name": "Guild Wars",
       "platform": "facebook"
@@ -343,7 +367,7 @@
       "title": "J’ai peut-être une idée…",
       "url": "https://www.youtube.com/watch?v=mROhxUdtoeM",
       "published_at": "2026-11-06T15:41:46+00:00",
-      "updated_at": "2026-11-06T18:19:09+00:00",
+      "updated_at": "2026-11-08T20:29:22+00:00",
       "description": "J’ai peut-être une idée…",
       "image_url": "https://i2.ytimg.com/vi/mROhxUdtoeM/hqdefault.jpg",
       "source_id": "investi-qc",
@@ -760,10 +784,10 @@
     },
     {
       "id": "youtube:sNp-t_w294w",
-      "title": "La Banque du Canada Risque de Provoquer une Récession",
+      "title": "Le Pire Scénario pour l’Économie Québécoise",
       "url": "https://www.youtube.com/watch?v=sNp-t_w294w",
       "published_at": "2026-11-03T23:00:01+00:00",
-      "updated_at": "2026-11-05T10:20:40+00:00",
+      "updated_at": "2026-11-08T22:16:22+00:00",
       "description": "Abonnez-vous à mon infolettre Analyse360: \nhttps://traders360.ca/product/infolettre-analyse-360\n\nMa formation pour les investisseurs autonomes: \nhttps://formation-traders360.mykajabi.com/inscription\n\n\nÉp. 355\nLa Banque du Canada risque-t-elle de provoquer une récession au Québec? Pendant que les tarifs douaniers américains fragilisent déjà plusieurs industries québécoises, la Banque du Canada a décidé d'augmenter son taux directeur. Avec la hausse du prix du pétrole qui alimente l'inflation, est-ce qu'on risque de provoquer une récession sans régler le vrai problème? Dans cet épisode, je vous explique quelles pourraient être les conséquences sur vos finances personnelles et vos investissements.\n\nSuivez-moi sur Facebook, Instagram et Tiktok:\nhttps://www.facebook.com/firmetraders360/\nhttps://www.instagram.com/alextraders360\nhttps://www.tiktok.com/@alexdemers360\n\n\nAVIS LÉGAL: Les propos de l'animateur ne doivent en aucun cas être interprétés comme une recommandation d’achat d'une action sur les marchés boursiers. Alexandre Demers n'est pas un conseiller financier et toutes les informations partagées dans ce balado ne reflète que son opinion personnelle. Consultez un professionnel accrédité auprès de l'AMF pour obtenir des conseils appropriés à votre situation.\n\n\n00:00 Intro\n00:29 Taux directeur à 2,50%\n02:41 Hypothèque à taux variable \n04:35 CPG et compte d'épargne\n05:44 Économie québécoise\n07:57 Inflation et pétrole\n09:29 Gestion de portefeuille\n11:43 Conclusion",
       "image_url": "https://i4.ytimg.com/vi/sNp-t_w294w/hqdefault.jpg",
       "source_id": "alex-demers-finance360",
