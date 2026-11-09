@@ -2,7 +2,7 @@
   "version": 1,
   "title": "Social Feed",
   "description": "Un seul fil pour suivre les sources qui comptent.",
-  "generated_at": "2026-11-09T11:38:40.791820+00:00",
+  "generated_at": "2026-11-09T22:24:56.555597+00:00",
   "sources": [
     {
       "id": "eco-en-batons",
@@ -11,7 +11,7 @@
       "url": "https://www.youtube.com/@Eco_en_batons",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-09T11:38:40.791820+00:00",
+      "last_success_at": "2026-11-09T22:24:56.555597+00:00",
       "item_count": 34
     },
     {
@@ -21,8 +21,8 @@
       "url": "https://www.youtube.com/@investi-qc",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-09T11:38:40.791820+00:00",
-      "item_count": 51
+      "last_success_at": "2026-11-09T22:24:56.555597+00:00",
+      "item_count": 54
     },
     {
       "id": "hugo-lisoir",
@@ -31,7 +31,7 @@
       "url": "https://www.youtube.com/@hugolisoiryoutube",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-09T11:38:40.791820+00:00",
+      "last_success_at": "2026-11-09T22:24:56.555597+00:00",
       "item_count": 22
     },
     {
@@ -41,7 +41,7 @@
       "url": "https://www.youtube.com/@alexdemers-finance360",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-09T11:38:40.791820+00:00",
+      "last_success_at": "2026-11-09T22:24:56.555597+00:00",
       "item_count": 20
     },
     {
@@ -51,7 +51,7 @@
       "url": "https://www.facebook.com/GuildWars/",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-09T11:38:40.791820+00:00",
+      "last_success_at": "2026-11-09T22:24:56.555597+00:00",
       "item_count": 9
     },
     {
@@ -61,7 +61,7 @@
       "url": "https://www.facebook.com/LOTRO/",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-09T11:38:40.791820+00:00",
+      "last_success_at": "2026-11-09T22:24:56.555597+00:00",
       "item_count": 27
     },
     {
@@ -71,8 +71,8 @@
       "url": "https://www.facebook.com/VilleDeLavaltrie/",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-09T11:38:40.791820+00:00",
-      "item_count": 20
+      "last_success_at": "2026-11-09T22:24:56.555597+00:00",
+      "item_count": 21
     },
     {
       "id": "traders-360",
@@ -81,11 +81,71 @@
       "url": "https://www.facebook.com/firmetraders360/",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-09T11:38:40.791820+00:00",
-      "item_count": 24
+      "last_success_at": "2026-11-09T22:24:56.555597+00:00",
+      "item_count": 25
     }
   ],
   "items": [
+    {
+      "id": "facebook:100063889127390:1673179938154961",
+      "title": "Faut être prudent avant de célébrer la hausse de son portefeuille.",
+      "url": "https://www.facebook.com/firmetraders360/posts/pfbid026ifWBDewrsmqPUNRxDbrFyyBTZkNCimQCLFPpRpzPEjauyzVkJLP7u5L777mxV4al",
+      "published_at": "2026-11-09T21:54:59+00:00",
+      "updated_at": "2026-11-09T21:54:59+00:00",
+      "description": "Faut être prudent avant de célébrer la hausse de son portefeuille.\n\nLa dernière fois que j’ai publié ce genre de screenshot, le lendemain, le Nasdaq a planté de 5%.\n\nAujourd’hui, je vais juste dire que mes actions se portent bien, sans plus",
+      "image_url": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.99422-6/899273922_1751836589250175_682227664222764082_n.png?stp=dst-jpg_tt6&cstp=mx1328x1760&ctp=p526x296&_nc_cat=110&ccb=1-7&_nc_sid=127cfc&_nc_ohc=SE38GZ_phQwQ7kNvwFli1SL&_nc_oc=AdrwQHVp7Xe7RAbRfhOgYwZ4ttlBRUieRfazYsxd8laaLi0uWuHIuDwT3ZbXSBL4D9s&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=SHzFK8oBtyxTsbULIu5T5w&_nc_ss=7f289&oh=00_AQQGFmNsSCD2i6H5iDPVID19jkRopHEwhQHao4v4YKx3Qw&oe=6AF813FD",
+      "source_id": "traders-360",
+      "source_name": "Traders 360",
+      "platform": "facebook"
+    },
+    {
+      "id": "youtube:ipXPXWe0bFY",
+      "title": "Le volume de transactions des investisseurs autonomes au Canada",
+      "url": "https://www.youtube.com/watch?v=ipXPXWe0bFY",
+      "published_at": "2026-11-09T21:43:20+00:00",
+      "updated_at": "2026-11-09T22:13:52+00:00",
+      "description": "Le volume de transactions des investisseurs autonomes au Canada",
+      "image_url": "https://i2.ytimg.com/vi/ipXPXWe0bFY/hqdefault.jpg",
+      "source_id": "investi-qc",
+      "source_name": "Investi QC",
+      "platform": "youtube"
+    },
+    {
+      "id": "facebook:100064655653099:1580516447446862",
+      "title": "𝐅𝐞𝐫𝐦𝐞𝐭𝐮𝐫𝐞 𝐝𝐮 𝐪𝐮𝐚𝐢 𝐦𝐮𝐧𝐢𝐜𝐢𝐩𝐚𝐥 🚫",
+      "url": "https://www.facebook.com/VilleDeLavaltrie/posts/pfbid0H3nuiH2iKynAyR5CpDjT5fUBuFbTgeLdU1rqmiVjmx3WecomQa83St2LhTaAMyBul",
+      "published_at": "2026-11-09T20:00:04+00:00",
+      "updated_at": "2026-11-09T20:00:04+00:00",
+      "description": "𝐅𝐞𝐫𝐦𝐞𝐭𝐮𝐫𝐞 𝐝𝐮 𝐪𝐮𝐚𝐢 𝐦𝐮𝐧𝐢𝐜𝐢𝐩𝐚𝐥 🚫\n\nEn préparation de la saison hivernale, le retrait des quais débutera demain, 𝐦𝐚𝐫𝐝𝐢 𝟏𝟎 𝐧𝐨𝐯𝐞𝐦𝐛𝐫𝐞 2026. \n\nChers plaisanciers, on vous redonne rendez-vous au printemps 2027, pour une autre belle saison sur le fleu",
+      "image_url": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.99422-6/897720484_1490940906475828_3618213029528840229_n.png?stp=dst-jpg_tt6&cstp=mx1080x1080&ctp=p526x296&_nc_cat=105&ccb=1-7&_nc_sid=127cfc&_nc_ohc=kEN0tMvXMY4Q7kNvwFKM6qb&_nc_oc=AdocYS87j6zsPZRuL2tHciC_O3BME1Ycb969fEqzzl8jBuVsQn2L8UKiBR91_p9ngYA&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=zNC-8kAh18iZVU_gxk3DKw&_nc_ss=7f289&oh=00_AQQXibLXHVKeGRkUwARZfWZYuMPLaOXD06YpQJCDq9JrAg&oe=6AF83603",
+      "source_id": "ville-de-lavaltrie",
+      "source_name": "Ville de Lavaltrie",
+      "platform": "facebook"
+    },
+    {
+      "id": "youtube:Pw_zuWDi0F8",
+      "title": "Pourquoi MTY a perdu près de 40% en bourse dans les cinq dernières années?",
+      "url": "https://www.youtube.com/watch?v=Pw_zuWDi0F8",
+      "published_at": "2026-11-09T17:44:39+00:00",
+      "updated_at": "2026-11-09T21:21:13+00:00",
+      "description": "Pourquoi MTY a perdu près de 40% en bourse dans les cinq dernières années?",
+      "image_url": "https://i1.ytimg.com/vi/Pw_zuWDi0F8/hqdefault.jpg",
+      "source_id": "investi-qc",
+      "source_name": "Investi QC",
+      "platform": "youtube"
+    },
+    {
+      "id": "youtube:rjddQ0xcsPA",
+      "title": "Une chanson prémonitoire de Joseph Edgar? Nvidia a ouvert une enquête après que le PDG Jensen Huang",
+      "url": "https://www.youtube.com/watch?v=rjddQ0xcsPA",
+      "published_at": "2026-11-09T13:41:21+00:00",
+      "updated_at": "2026-11-09T13:54:03+00:00",
+      "description": "Une chanson prémonitoire de Joseph Edgar? Nvidia a ouvert une enquête après que le PDG Jensen Huang a admis avoir eu une relation extraconjugale avec une supposée agente des services de renseignement chinois. Est-ce que son aveu lui coûtera son poste de CEO? Le marché ne prend pas la nouvelle à la légère : NVDA chute de 6% avant l’ouverture.",
+      "image_url": "https://i3.ytimg.com/vi/rjddQ0xcsPA/hqdefault.jpg",
+      "source_id": "investi-qc",
+      "source_name": "Investi QC",
+      "platform": "youtube"
+    },
     {
       "id": "youtube:KQgLTfTLYd8",
       "title": "De plus en plus de gens investissent eux-mêmes, surtout quand ça va bien sur les marchés…",
@@ -113,11 +173,11 @@
     {
       "id": "facebook:100064792208382:1642972374539154",
       "title": "Team Standing Stone Games is once again raising funds for Extra Life! Join us on Saturday, November 14th on Twitch.tv/LO",
-      "url": "https://www.facebook.com/LOTRO/posts/pfbid0rZBjHWu6pmiqQTPUnoG7z4jB839UiaETtye3QyLGkXv8mvfX9XgGqGcc7YFnwJgTl",
+      "url": "https://www.facebook.com/LOTRO/posts/pfbid02uvfuuYFirLAHbQ6kqiDZSSjM5LNei8KLUX9nB1wzbNqiSG9LW54atgGC9Vzc3BjWl",
       "published_at": "2026-11-08T20:50:15+00:00",
       "updated_at": "2026-11-08T20:50:15+00:00",
       "description": "Team Standing Stone Games is once again raising funds for Extra Life! Join us on Saturday, November 14th on Twitch.tv/LOTROstream for our livestream marathon, and read more about this year's effort on LOTRO.com: https://www.lotro.com/news/l",
-      "image_url": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.99422-6/899279153_1710428967762435_481638506439328248_n.png?stp=dst-jpg_tt6&cstp=mx780x440&ctp=s780x440&_nc_cat=110&ccb=1-7&_nc_sid=127cfc&_nc_ohc=CGPZTu-lWyYQ7kNvwH9ijPi&_nc_oc=AdorNoWyqJUIl4gyW4SWtTsvLgMBJfklw20u-ugVAVirjEGck1PDZQo7H15lfu86wTQ&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=p8RJKDAwk5Aubf7ZaVKn8Q&_nc_ss=7f289&oh=00_AQQIyGs4w2RtGqjVugW9SvQ0JrD-87sI6w8Asw8f7TOkHA&oe=6AF7706A",
+      "image_url": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.99422-6/899279153_1710428967762435_481638506439328248_n.png?stp=dst-jpg_tt6&cstp=mx780x440&ctp=s780x440&_nc_cat=110&ccb=1-7&_nc_sid=127cfc&_nc_ohc=CGPZTu-lWyYQ7kNvwFpCHU1&_nc_oc=Adqx8y-vbdlC4UnTIi5G299lGa1OuN1aDRDTXGa7Uj8KtCiDDa7SZV6Ys0VRY11t2-0&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=EDeRv4jbvw5oWSbDUZjbnw&_nc_ss=7f289&oh=00_AQQS4NZR3e5AXvQg8i_Dy5d5-yPOET3sel7wSI6edyHKBA&oe=6AF8192A",
       "source_id": "lotro",
       "source_name": "The Lord of the Rings Online",
       "platform": "facebook"
@@ -369,7 +429,7 @@
       "published_at": "2026-11-06T19:01:06+00:00",
       "updated_at": "2026-11-06T19:01:06+00:00",
       "description": "\"Running to Droks, 1k each, pay half at Rankor.\"\n\nIf you know, you know. 🏔️\n\nDid you pay for the run, or were you the one running it? Tell us your Droknar's Run story 👇\n\n#MMORPG #GuildWarsReforged #GuildWars #Gaming #mmorpggames",
-      "image_url": "https://scontent-iad3-1.xx.fbcdn.net/v/t15.5256-10/884042340_1522470236595790_7468783753837623358_n.jpg?stp=dst-jpg_tt6&cstp=mx1920x1080&ctp=s960x960&_nc_cat=108&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=4vnVoHypDpwQ7kNvwF-n6XI&_nc_oc=AdpKR3cEU_dJDj98h-6BcNnNX_RsUCiIDRBjzt37AwEKEVmHZzmL1PD-lwoYYq5omIE&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&_nc_gid=180_RcXvyxlXGHTwgYdN2w&_nc_ss=7f289&oh=00_AQSDokc5unbbqoFYk-rdqygdpfpvQxAk2a3vFuX8IbNrxA&oe=6AF79E6D",
+      "image_url": "https://scontent-ord5-1.xx.fbcdn.net/v/t15.5256-10/884042340_1522470236595790_7468783753837623358_n.jpg?stp=dst-jpg_tt6&cstp=mx1920x1080&ctp=s960x960&_nc_cat=108&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=4vnVoHypDpwQ7kNvwFgEU5x&_nc_oc=AdpLf5vcIfz-66dwzHKqyI2iJChroiAT9dcaENrplPwHoguQeDHU6LrfUkJ1bUqVys4&_nc_zt=23&_nc_ht=scontent-ord5-1.xx&_nc_gid=S4jQ1fpBVq_3OEld3mEcSA&_nc_ss=7f289&oh=00_AQQ5VrxjtrK4FqtLceVtBw9SN5lg6S137jX_LUdGnU8zug&oe=6AF80EED",
       "source_id": "guild-wars",
       "source_name": "Guild Wars",
       "platform": "facebook"
@@ -499,8 +559,8 @@
       "title": "Comment investir en bourse? | Investi x Alex Demers, P-O Zappa, Cheval et Denis Bourque (Ép. 72)",
       "url": "https://www.youtube.com/watch?v=P2fMxhFsoGo",
       "published_at": "2026-11-05T20:00:26+00:00",
-      "updated_at": "2026-11-09T04:41:46+00:00",
-      "description": "Par où commencer pour investir soi-même? Faut-il acheter des FNB ou choisir ses propres actions? Et comment garder le cap quand les marchés chutent?\n\nEnregistré devant public le 18 septembre à Goodstock 2026, cet épisode réunit Pierre-Olivier Zappa, Alex Demers, Cheval l’investisseur et Denis Bourque pour discuter des décisions qui façonnent notre parcours d’investisseur.\n\nAu programme :\n- Par où commencer pour investir sans conseiller financier\n- FNB indiciels ou sélection d’actions : les connaissances, le temps et l’intérêt nécessaires\n- La panique, la peur de manquer une occasion et le rôle d’un conseiller\n- Pourquoi Alex Demers a vendu Telus malgré une importante perte\n- Comment distinguer une occasion d’achat d’une thèse d’investissement qui ne tient plus\n- Les options, la stratégie « wheel » et la protection d’un portefeuille\n- L’influence des médias, des réseaux sociaux et des nouvelles économiques sur nos décisions\n- Les conseils des invités et les questions du public\n\nQuelle est LA règle d’investissement que vous donneriez à quelqu’un qui débute? Écrivez-la en commentaire!\n\nVoyez plus loin avec Banque Nationale Courtage Direct et profitez de 0$ de commission sur actions et FNB : https://bncd.ca/podcast-investi\n\nBNCD offre l’exécution d’ordres sans conseils. Vous êtes responsables de vos décisions de placement.\n\nLes informations partagées dans cette vidéo sont fournies à des fins éducatives et de divertissement seulement. Elles ne constituent pas des conseils financiers ni des recommandations d’achat ou de vente.\n\nCHAPITRES :\n\n00:00 Par où commencer pour investir soi-même?\n02:19 FNB indiciels ou sélection d'actions?\n07:53 Gérer ses émotions et éviter les pièges en Bourse\n11:53 L'influence des nouvelles économiques sur les marchés\n19:38 Taux directeurs et stratégies d'options\n26:56 Tolérance au risque et thèse d'investissement\n33:32 Utiliser les options pour protéger son portefeuille\n42:57 Questions du public : IA, bulles et investissement",
+      "updated_at": "2026-11-09T16:07:21+00:00",
+      "description": "Par où commencer pour investir soi-même? Faut-il acheter des FNB ou choisir ses propres actions? Et comment garder le cap quand les marchés chutent?\n\nEnregistré devant public le 18 septembre à Goodstock 2026, cet épisode réunit Pierre-Olivier Zappa, Alex Demers, Cheval l’investisseur et Denis Bourque pour discuter des décisions qui façonnent notre parcours d’investisseur.\n\nAu programme :\n- Par où commencer pour investir sans conseiller financier\n- FNB indiciels ou sélection d’actions : les connaissances, le temps et l’intérêt nécessaires\n- La panique, la peur de manquer une occasion et le rôle d’un conseiller\n- Pourquoi Alex Demers a vendu Telus malgré une importante perte\n- Comment distinguer une occasion d’achat d’une thèse d’investissement qui ne tient plus\n- Les options, la stratégie « wheel » et la protection d’un portefeuille\n- L’influence des médias, des réseaux sociaux et des nouvelles économiques sur nos décisions\n- Les conseils des invités et les questions du public\n\nQuelle est LA règle d’investissement que vous donneriez à quelqu’un qui débute? Écrivez-la en commentaire!\n\nVoyez plus loin avec Banque Nationale Courtage Direct et profitez de 0$ de commission sur actions et FNB : https://www.nbc.ca/fr/courtage-direct/podcast-investi\n\nBNCD offre l’exécution d’ordres sans conseils. Vous êtes responsables de vos décisions de placement.\n\nLes informations partagées dans cette vidéo sont fournies à des fins éducatives et de divertissement seulement. Elles ne constituent pas des conseils financiers ni des recommandations d’achat ou de vente.\n\nCHAPITRES :\n\n00:00 Par où commencer pour investir soi-même?\n02:19 FNB indiciels ou sélection d'actions?\n07:53 Gérer ses émotions et éviter les pièges en Bourse\n11:53 L'influence des nouvelles économiques sur les marchés\n19:38 Taux directeurs et stratégies d'options\n26:56 Tolérance au risque et thèse d'investissement\n33:32 Utiliser les options pour protéger son portefeuille\n42:57 Questions du public : IA, bulles et investissement",
       "image_url": "https://i1.ytimg.com/vi/P2fMxhFsoGo/hqdefault.jpg",
       "source_id": "investi-qc",
       "source_name": "Investi QC",
