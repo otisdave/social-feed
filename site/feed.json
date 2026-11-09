@@ -2,15 +2,15 @@
   "version": 1,
   "title": "Social Feed",
   "description": "Un seul fil pour suivre les sources qui comptent.",
-  "generated_at": "2026-11-08T22:55:34.031590+00:00",
+  "generated_at": "2026-11-09T02:41:47.635640+00:00",
   "sources": [
     {
       "id": "eco-en-batons",
       "name": "Éco en bâtons",
       "platform": "youtube",
       "url": "https://www.youtube.com/@Eco_en_batons",
-      "status": "ok",
-      "error": null,
+      "status": "error",
+      "error": "HTTPError: HTTP Error 404: Not Found",
       "last_success_at": "2026-11-08T22:55:34.031590+00:00",
       "item_count": 34
     },
@@ -19,8 +19,8 @@
       "name": "Investi QC",
       "platform": "youtube",
       "url": "https://www.youtube.com/@investi-qc",
-      "status": "ok",
-      "error": null,
+      "status": "error",
+      "error": "HTTPError: HTTP Error 404: Not Found",
       "last_success_at": "2026-11-08T22:55:34.031590+00:00",
       "item_count": 50
     },
@@ -29,8 +29,8 @@
       "name": "Hugo Lisoir",
       "platform": "youtube",
       "url": "https://www.youtube.com/@hugolisoiryoutube",
-      "status": "ok",
-      "error": null,
+      "status": "error",
+      "error": "HTTPError: HTTP Error 404: Not Found",
       "last_success_at": "2026-11-08T22:55:34.031590+00:00",
       "item_count": 22
     },
@@ -39,8 +39,8 @@
       "name": "Alex Demers — Finance 360",
       "platform": "youtube",
       "url": "https://www.youtube.com/@alexdemers-finance360",
-      "status": "ok",
-      "error": null,
+      "status": "error",
+      "error": "HTTPError: HTTP Error 404: Not Found",
       "last_success_at": "2026-11-08T22:55:34.031590+00:00",
       "item_count": 19
     },
@@ -51,7 +51,7 @@
       "url": "https://www.facebook.com/GuildWars/",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-08T22:55:34.031590+00:00",
+      "last_success_at": "2026-11-09T02:41:47.635640+00:00",
       "item_count": 9
     },
     {
@@ -61,7 +61,7 @@
       "url": "https://www.facebook.com/LOTRO/",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-08T22:55:34.031590+00:00",
+      "last_success_at": "2026-11-09T02:41:47.635640+00:00",
       "item_count": 27
     },
     {
@@ -71,7 +71,7 @@
       "url": "https://www.facebook.com/VilleDeLavaltrie/",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-08T22:55:34.031590+00:00",
+      "last_success_at": "2026-11-09T02:41:47.635640+00:00",
       "item_count": 20
     },
     {
@@ -81,7 +81,7 @@
       "url": "https://www.facebook.com/firmetraders360/",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-08T22:55:34.031590+00:00",
+      "last_success_at": "2026-11-09T02:41:47.635640+00:00",
       "item_count": 24
     }
   ],
@@ -93,7 +93,7 @@
       "published_at": "2026-11-08T20:50:15+00:00",
       "updated_at": "2026-11-08T20:50:15+00:00",
       "description": "Team Standing Stone Games is once again raising funds for Extra Life! Join us on Saturday, November 14th on Twitch.tv/LOTROstream for our livestream marathon, and read more about this year's effort on LOTRO.com: https://www.lotro.com/news/l",
-      "image_url": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.99422-6/899279153_1710428967762435_481638506439328248_n.png?stp=dst-jpg_tt6&cstp=mx780x440&ctp=s780x440&_nc_cat=110&ccb=1-7&_nc_sid=127cfc&_nc_ohc=CGPZTu-lWyYQ7kNvwGnN6V1&_nc_oc=AdqetzFqGInz1JgOlKdF2SaRlCTtO6jElG3L-PRYaHHz9xG6JIKQbH13iLUy4479Blk&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=KL4p2LQZt_N6Ygl9oJQ6IA&_nc_ss=7f289&oh=00_AQSnOoE9K9-Lr5bHkD0nIvOifS94vOMeTKd9SPSoSOjk-Q&oe=6AF6C7AA",
+      "image_url": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.99422-6/899279153_1710428967762435_481638506439328248_n.png?stp=dst-jpg_tt6&cstp=mx780x440&ctp=s780x440&_nc_cat=110&ccb=1-7&_nc_sid=127cfc&_nc_ohc=CGPZTu-lWyYQ7kNvwFE8h94&_nc_oc=Adqyn_IVfulbvDz4Exd-G0Ce4v3CmSMGBaS74NOQh525CqIR9TKUKa0dKrjHBfSlbdk&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=jqOW9t9KBS9C-D8zcRAqiA&_nc_ss=7f289&oh=00_AQS9EbMXiI5kAJLPzttC3P2ngzZpjuWz-tsgHur_Hu6hpA&oe=6AF6FFEA",
       "source_id": "lotro",
       "source_name": "The Lord of the Rings Online",
       "platform": "facebook"
@@ -213,7 +213,7 @@
       "published_at": "2026-11-07T16:16:47+00:00",
       "updated_at": "2026-11-07T16:16:47+00:00",
       "description": "Voici les 10 plus grandes positions de mon portefeuille.\n\nComme vous pouvez le voir, j’ai une surpondération importante dans les big tech américaines.\n\nComme je suis 100% investi en bourse (pas d’immobilier, pas de crypto ni gold) quand Met",
-      "image_url": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.99422-6/894505593_1636799267921363_6568875924599299174_n.png?stp=dst-jpg_tt6&cstp=mx1504x1056&ctp=s720x720&_nc_cat=106&ccb=1-7&_nc_sid=127cfc&_nc_ohc=1cxyKmG8oGMQ7kNvwG2wlc0&_nc_oc=AdrmtNI-hMRKHmKaLcnImBxBLDhIdlRHx-y_1K4hEynLrpWpOtoYbdlnIQyVHXB9S0U&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=9Uo851GYyRYGS1cHTCbK_A&_nc_ss=7f289&oh=00_AQS8IS8c_Kj0Ak-3N-5i9gxc7vm4S5gOlZLhw2j9cuEJ-w&oe=6AF6CB52",
+      "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.99422-6/894505593_1636799267921363_6568875924599299174_n.png?stp=dst-jpg_tt6&cstp=mx1504x1056&ctp=s720x720&_nc_cat=106&ccb=1-7&_nc_sid=127cfc&_nc_ohc=1cxyKmG8oGMQ7kNvwHgCNHU&_nc_oc=Adogn8VbZMdwipVlK5I05A-1OubbVVZSA0HxKml4drniaXIZ91gGmX3HvzSdqdHa_QY&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=3rcMEvVkz7RMol273Ow9tA&_nc_ss=7f289&oh=00_AQQUwuIU2RmLopxbQ-FZqlYD8oXtBbfBsZVuJzM9noXBKA&oe=6AF70392",
       "source_id": "traders-360",
       "source_name": "Traders 360",
       "platform": "facebook"
@@ -225,7 +225,7 @@
       "published_at": "2026-11-07T14:00:13+00:00",
       "updated_at": "2026-11-07T14:00:13+00:00",
       "description": "🧥❄️ 𝗨𝗻 𝗴𝗲𝘀𝘁𝗲 𝗱𝗲 𝘀𝗼𝗹𝗶𝗱𝗮𝗿𝗶𝘁𝗲́ 𝗾𝘂𝗶 𝗿𝗲́𝗰𝗵𝗮𝘂𝗳𝗳𝗲 𝗹𝗲𝘀 𝗰œ𝘂𝗿𝘀!\n\nEn octobre dernier, les Chevaliers-De Colomb Conseil De-Lavaltrie ont remis gratuitement 𝟭𝟮𝟰 𝗺𝗮𝗻𝘁𝗲𝗮𝘂𝘅 𝗲𝘁 𝟱𝟮 𝗽𝗮𝗶𝗿𝗲𝘀 𝗱𝗲 𝗯𝗼𝘁𝘁𝗲𝘀, 𝗲𝗻 𝗽𝗹𝘂𝘀 𝗱𝗲 𝘁𝘂𝗾𝘂𝗲𝘀 𝗲𝘁 𝗱𝗲 𝗺𝗶𝘁𝗮𝗶𝗻𝗲𝘀, pour permettre à des enfa",
-      "image_url": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.99422-6/888559357_1522728429696002_4461426673266504267_n.png?stp=dst-jpg_tt6&cstp=mx2048x1536&ctp=s720x720&_nc_cat=107&ccb=1-7&_nc_sid=127cfc&_nc_ohc=dIjp2Dc94NAQ7kNvwEE85EU&_nc_oc=AdpEvCjOn9Oh1spfLmtdzaDrf4M7Tc2TKWwCBLwYbTgggt_-sU7Os-DbDYaRzuDNNco&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=FLLyxXCGb-IhmF-FXuEOsQ&_nc_ss=7f289&oh=00_AQQoQQ0SHgomCjMS4MCcrvvVzzRWzTdtpNxFEb7cqK12mA&oe=6AF6C7A9",
+      "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.99422-6/888559357_1522728429696002_4461426673266504267_n.png?stp=dst-jpg_tt6&cstp=mx2048x1536&ctp=s720x720&_nc_cat=107&ccb=1-7&_nc_sid=127cfc&_nc_ohc=dIjp2Dc94NAQ7kNvwGYYezq&_nc_oc=AdppOkPNHIGLYyEz0GxDTixnAumwAGmohJtvvnpPANU58yNm_HG_eSXAfl_rc4G00Cg&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=vtgMOs0D-sOrdraIAfJg-w&_nc_ss=7f289&oh=00_AQRqMrnPzhsKemfK-DYuRE_ALfBSbhhwHG5jLGRFQEvxcA&oe=6AF6FFE9",
       "source_id": "ville-de-lavaltrie",
       "source_name": "Ville de Lavaltrie",
       "platform": "facebook"
@@ -345,7 +345,7 @@
       "published_at": "2026-11-06T19:01:06+00:00",
       "updated_at": "2026-11-06T19:01:06+00:00",
       "description": "\"Running to Droks, 1k each, pay half at Rankor.\"\n\nIf you know, you know. 🏔️\n\nDid you pay for the run, or were you the one running it? Tell us your Droknar's Run story 👇\n\n#MMORPG #GuildWarsReforged #GuildWars #Gaming #mmorpggames",
-      "image_url": "https://scontent-sjc6-1.xx.fbcdn.net/v/t15.5256-10/884042340_1522470236595790_7468783753837623358_n.jpg?stp=dst-jpg_tt6&cstp=mx1920x1080&ctp=s960x960&_nc_cat=108&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=4vnVoHypDpwQ7kNvwGrCAdZ&_nc_oc=AdqNJ2BHdgJwUAU2E0fQd00Qpn99G16Y4sieu6Y9QsD5gNdFxm8mGuHYcp2g9loo3J0&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=w5jqPRz9GlIE7mfk4zuxQQ&_nc_ss=7f289&oh=00_AQR4IFuuYB3oJjIf1mXrXlTAY6-9Aqa_RJKzROMMwqwrsw&oe=6AF6BD6D",
+      "image_url": "https://scontent-iad3-1.xx.fbcdn.net/v/t15.5256-10/884042340_1522470236595790_7468783753837623358_n.jpg?stp=dst-jpg_tt6&cstp=mx1920x1080&ctp=s960x960&_nc_cat=108&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=4vnVoHypDpwQ7kNvwFkU3jr&_nc_oc=AdqueMydC1evcEQpalX-XGtVt4j6DLMvYpnqEs0hTd8NmwBn1ZAHubj0Sa2j3IaA7Ac&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&_nc_gid=C0NT2BCu7oa7lm93ITDjlQ&_nc_ss=7f289&oh=00_AQSwqoZiy1J0-FXrkakzLMAhHlxjTBfV4HIarhvcE7Melw&oe=6AF6F5AD",
       "source_id": "guild-wars",
       "source_name": "Guild Wars",
       "platform": "facebook"
