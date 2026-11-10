@@ -2,7 +2,7 @@
   "version": 1,
   "title": "Social Feed",
   "description": "Un seul fil pour suivre les sources qui comptent.",
-  "generated_at": "2026-11-09T22:24:56.555597+00:00",
+  "generated_at": "2026-11-10T04:38:42.861668+00:00",
   "sources": [
     {
       "id": "eco-en-batons",
@@ -11,7 +11,7 @@
       "url": "https://www.youtube.com/@Eco_en_batons",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-09T22:24:56.555597+00:00",
+      "last_success_at": "2026-11-10T04:38:42.861668+00:00",
       "item_count": 34
     },
     {
@@ -21,8 +21,8 @@
       "url": "https://www.youtube.com/@investi-qc",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-09T22:24:56.555597+00:00",
-      "item_count": 54
+      "last_success_at": "2026-11-10T04:38:42.861668+00:00",
+      "item_count": 55
     },
     {
       "id": "hugo-lisoir",
@@ -31,7 +31,7 @@
       "url": "https://www.youtube.com/@hugolisoiryoutube",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-09T22:24:56.555597+00:00",
+      "last_success_at": "2026-11-10T04:38:42.861668+00:00",
       "item_count": 22
     },
     {
@@ -39,8 +39,8 @@
       "name": "Alex Demers — Finance 360",
       "platform": "youtube",
       "url": "https://www.youtube.com/@alexdemers-finance360",
-      "status": "ok",
-      "error": null,
+      "status": "error",
+      "error": "HTTPError: HTTP Error 404: Not Found",
       "last_success_at": "2026-11-09T22:24:56.555597+00:00",
       "item_count": 20
     },
@@ -51,7 +51,7 @@
       "url": "https://www.facebook.com/GuildWars/",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-09T22:24:56.555597+00:00",
+      "last_success_at": "2026-11-10T04:38:42.861668+00:00",
       "item_count": 9
     },
     {
@@ -61,7 +61,7 @@
       "url": "https://www.facebook.com/LOTRO/",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-09T22:24:56.555597+00:00",
+      "last_success_at": "2026-11-10T04:38:42.861668+00:00",
       "item_count": 27
     },
     {
@@ -71,7 +71,7 @@
       "url": "https://www.facebook.com/VilleDeLavaltrie/",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-09T22:24:56.555597+00:00",
+      "last_success_at": "2026-11-10T04:38:42.861668+00:00",
       "item_count": 21
     },
     {
@@ -81,19 +81,31 @@
       "url": "https://www.facebook.com/firmetraders360/",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-09T22:24:56.555597+00:00",
+      "last_success_at": "2026-11-10T04:38:42.861668+00:00",
       "item_count": 25
     }
   ],
   "items": [
     {
+      "id": "youtube:DTJZ0m-ZKKI",
+      "title": "Est-ce que MTY manque d’appétit?",
+      "url": "https://www.youtube.com/watch?v=DTJZ0m-ZKKI",
+      "published_at": "2026-11-10T01:45:19+00:00",
+      "updated_at": "2026-11-10T02:32:21+00:00",
+      "description": "Est-ce que MTY manque d’appétit?",
+      "image_url": "https://i1.ytimg.com/vi/DTJZ0m-ZKKI/hqdefault.jpg",
+      "source_id": "investi-qc",
+      "source_name": "Investi QC",
+      "platform": "youtube"
+    },
+    {
       "id": "facebook:100063889127390:1673179938154961",
       "title": "Faut être prudent avant de célébrer la hausse de son portefeuille.",
-      "url": "https://www.facebook.com/firmetraders360/posts/pfbid026ifWBDewrsmqPUNRxDbrFyyBTZkNCimQCLFPpRpzPEjauyzVkJLP7u5L777mxV4al",
+      "url": "https://www.facebook.com/firmetraders360/posts/pfbid03B2KG42b1XJ867zrRYWwUYEN6CHAy2ubCJnCWGRZRLh54LK1ULTt1chEGcnasqvAl",
       "published_at": "2026-11-09T21:54:59+00:00",
       "updated_at": "2026-11-09T21:54:59+00:00",
       "description": "Faut être prudent avant de célébrer la hausse de son portefeuille.\n\nLa dernière fois que j’ai publié ce genre de screenshot, le lendemain, le Nasdaq a planté de 5%.\n\nAujourd’hui, je vais juste dire que mes actions se portent bien, sans plus",
-      "image_url": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.99422-6/899273922_1751836589250175_682227664222764082_n.png?stp=dst-jpg_tt6&cstp=mx1328x1760&ctp=p526x296&_nc_cat=110&ccb=1-7&_nc_sid=127cfc&_nc_ohc=SE38GZ_phQwQ7kNvwFli1SL&_nc_oc=AdrwQHVp7Xe7RAbRfhOgYwZ4ttlBRUieRfazYsxd8laaLi0uWuHIuDwT3ZbXSBL4D9s&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=SHzFK8oBtyxTsbULIu5T5w&_nc_ss=7f289&oh=00_AQQGFmNsSCD2i6H5iDPVID19jkRopHEwhQHao4v4YKx3Qw&oe=6AF813FD",
+      "image_url": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.99422-6/899273922_1751836589250175_682227664222764082_n.png?stp=dst-jpg_tt6&cstp=mx1328x1760&ctp=p526x296&_nc_cat=110&ccb=1-7&_nc_sid=127cfc&_nc_ohc=SE38GZ_phQwQ7kNvwFBYLyU&_nc_oc=AdpYc2Uatk_pKxcpyxGDZ86TulTW1cAR5ELsU2nJqIrKIxRhH-iahu_ZxtWiETmklJw&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=YhucRZRWYOLHZaKNh6UE7g&_nc_ss=7f289&oh=00_AQSxQ2ERBEC4sDiIADbUctGCOg5QbqNlJJVJ_2do53ZyVg&oe=6AF8847D",
       "source_id": "traders-360",
       "source_name": "Traders 360",
       "platform": "facebook"
@@ -103,7 +115,7 @@
       "title": "Le volume de transactions des investisseurs autonomes au Canada",
       "url": "https://www.youtube.com/watch?v=ipXPXWe0bFY",
       "published_at": "2026-11-09T21:43:20+00:00",
-      "updated_at": "2026-11-09T22:13:52+00:00",
+      "updated_at": "2026-11-10T00:52:01+00:00",
       "description": "Le volume de transactions des investisseurs autonomes au Canada",
       "image_url": "https://i2.ytimg.com/vi/ipXPXWe0bFY/hqdefault.jpg",
       "source_id": "investi-qc",
@@ -113,11 +125,11 @@
     {
       "id": "facebook:100064655653099:1580516447446862",
       "title": "𝐅𝐞𝐫𝐦𝐞𝐭𝐮𝐫𝐞 𝐝𝐮 𝐪𝐮𝐚𝐢 𝐦𝐮𝐧𝐢𝐜𝐢𝐩𝐚𝐥 🚫",
-      "url": "https://www.facebook.com/VilleDeLavaltrie/posts/pfbid0H3nuiH2iKynAyR5CpDjT5fUBuFbTgeLdU1rqmiVjmx3WecomQa83St2LhTaAMyBul",
+      "url": "https://www.facebook.com/VilleDeLavaltrie/posts/pfbid02LuEctwxYBPb2KvPrejv9ybpiyxEfWwpTD445PtGnD5aWkHbKCVjwpHitasCHzajcl",
       "published_at": "2026-11-09T20:00:04+00:00",
       "updated_at": "2026-11-09T20:00:04+00:00",
       "description": "𝐅𝐞𝐫𝐦𝐞𝐭𝐮𝐫𝐞 𝐝𝐮 𝐪𝐮𝐚𝐢 𝐦𝐮𝐧𝐢𝐜𝐢𝐩𝐚𝐥 🚫\n\nEn préparation de la saison hivernale, le retrait des quais débutera demain, 𝐦𝐚𝐫𝐝𝐢 𝟏𝟎 𝐧𝐨𝐯𝐞𝐦𝐛𝐫𝐞 2026. \n\nChers plaisanciers, on vous redonne rendez-vous au printemps 2027, pour une autre belle saison sur le fleu",
-      "image_url": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.99422-6/897720484_1490940906475828_3618213029528840229_n.png?stp=dst-jpg_tt6&cstp=mx1080x1080&ctp=p526x296&_nc_cat=105&ccb=1-7&_nc_sid=127cfc&_nc_ohc=kEN0tMvXMY4Q7kNvwFKM6qb&_nc_oc=AdocYS87j6zsPZRuL2tHciC_O3BME1Ycb969fEqzzl8jBuVsQn2L8UKiBR91_p9ngYA&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=zNC-8kAh18iZVU_gxk3DKw&_nc_ss=7f289&oh=00_AQQXibLXHVKeGRkUwARZfWZYuMPLaOXD06YpQJCDq9JrAg&oe=6AF83603",
+      "image_url": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.99422-6/897720484_1490940906475828_3618213029528840229_n.png?stp=dst-jpg_tt6&cstp=mx1080x1080&ctp=p526x296&_nc_cat=105&ccb=1-7&_nc_sid=127cfc&_nc_ohc=kEN0tMvXMY4Q7kNvwEjitiJ&_nc_oc=AdrS0ZucD17n-uO2QMoHgdmpHNVqKf_Ovo2c1Un3m_gJW68W51Wsr23mi8jZaAkXdaU&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=GpkeNDyO52RqxJqwrF1XLA&_nc_ss=7f289&oh=00_AQTVuviyi3KEidlagt6zUnqUQHVGQzdTQ_xgTnsFh4-Wkw&oe=6AF86E43",
       "source_id": "ville-de-lavaltrie",
       "source_name": "Ville de Lavaltrie",
       "platform": "facebook"
@@ -177,7 +189,7 @@
       "published_at": "2026-11-08T20:50:15+00:00",
       "updated_at": "2026-11-08T20:50:15+00:00",
       "description": "Team Standing Stone Games is once again raising funds for Extra Life! Join us on Saturday, November 14th on Twitch.tv/LOTROstream for our livestream marathon, and read more about this year's effort on LOTRO.com: https://www.lotro.com/news/l",
-      "image_url": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.99422-6/899279153_1710428967762435_481638506439328248_n.png?stp=dst-jpg_tt6&cstp=mx780x440&ctp=s780x440&_nc_cat=110&ccb=1-7&_nc_sid=127cfc&_nc_ohc=CGPZTu-lWyYQ7kNvwFpCHU1&_nc_oc=Adqx8y-vbdlC4UnTIi5G299lGa1OuN1aDRDTXGa7Uj8KtCiDDa7SZV6Ys0VRY11t2-0&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=EDeRv4jbvw5oWSbDUZjbnw&_nc_ss=7f289&oh=00_AQQS4NZR3e5AXvQg8i_Dy5d5-yPOET3sel7wSI6edyHKBA&oe=6AF8192A",
+      "image_url": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.99422-6/899279153_1710428967762435_481638506439328248_n.png?stp=dst-jpg_tt6&cstp=mx780x440&ctp=s780x440&_nc_cat=110&ccb=1-7&_nc_sid=127cfc&_nc_ohc=CGPZTu-lWyYQ7kNvwEKONLT&_nc_oc=Ado-XVVvNUbtBlzN4HEwDfaQ3UxtqipbJP4VyzSqIb2ndrDkQ0Ny_hSx0wc7TscUaks&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=RlF0IcRMH831BAZ5mwTf2w&_nc_ss=7f289&oh=00_AQTOwHc7fScxOb4HplsAfmQn9zbe6r4FxNQxFgHbunG8Aw&oe=6AF889AA",
       "source_id": "lotro",
       "source_name": "The Lord of the Rings Online",
       "platform": "facebook"
@@ -429,7 +441,7 @@
       "published_at": "2026-11-06T19:01:06+00:00",
       "updated_at": "2026-11-06T19:01:06+00:00",
       "description": "\"Running to Droks, 1k each, pay half at Rankor.\"\n\nIf you know, you know. 🏔️\n\nDid you pay for the run, or were you the one running it? Tell us your Droknar's Run story 👇\n\n#MMORPG #GuildWarsReforged #GuildWars #Gaming #mmorpggames",
-      "image_url": "https://scontent-ord5-1.xx.fbcdn.net/v/t15.5256-10/884042340_1522470236595790_7468783753837623358_n.jpg?stp=dst-jpg_tt6&cstp=mx1920x1080&ctp=s960x960&_nc_cat=108&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=4vnVoHypDpwQ7kNvwFgEU5x&_nc_oc=AdpLf5vcIfz-66dwzHKqyI2iJChroiAT9dcaENrplPwHoguQeDHU6LrfUkJ1bUqVys4&_nc_zt=23&_nc_ht=scontent-ord5-1.xx&_nc_gid=S4jQ1fpBVq_3OEld3mEcSA&_nc_ss=7f289&oh=00_AQQ5VrxjtrK4FqtLceVtBw9SN5lg6S137jX_LUdGnU8zug&oe=6AF80EED",
+      "image_url": "https://scontent-sjc6-1.xx.fbcdn.net/v/t15.5256-10/884042340_1522470236595790_7468783753837623358_n.jpg?stp=dst-jpg_tt6&cstp=mx1920x1080&ctp=s960x960&_nc_cat=108&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=4vnVoHypDpwQ7kNvwGtBPLX&_nc_oc=AdoFgcsRL6I31ljRaiMjm2U60CGwA5o6acXUo90d7M0T3x3hKqh47-7fIrfZ-OxDxSY&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=ehI1lkVFKD2RgNsFvwK3Cw&_nc_ss=7f289&oh=00_AQS1C8JUSozlHb2hoH6b4hgMwokZ6Q7M7OgINIvo_HQfWA&oe=6AF87F6D",
       "source_id": "guild-wars",
       "source_name": "Guild Wars",
       "platform": "facebook"
