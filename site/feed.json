@@ -2,16 +2,16 @@
   "version": 1,
   "title": "Social Feed",
   "description": "Un seul fil pour suivre les sources qui comptent.",
-  "generated_at": "2026-11-11T07:49:00.743962+00:00",
+  "generated_at": "2026-11-11T16:13:16.979849+00:00",
   "sources": [
     {
       "id": "eco-en-batons",
       "name": "Éco en bâtons",
       "platform": "youtube",
       "url": "https://www.youtube.com/@Eco_en_batons",
-      "status": "error",
-      "error": "HTTPError: HTTP Error 404: Not Found",
-      "last_success_at": "2026-11-10T20:51:25.025668+00:00",
+      "status": "ok",
+      "error": null,
+      "last_success_at": "2026-11-11T16:13:16.979849+00:00",
       "item_count": 34
     },
     {
@@ -19,30 +19,30 @@
       "name": "Investi QC",
       "platform": "youtube",
       "url": "https://www.youtube.com/@investi-qc",
-      "status": "error",
-      "error": "HTTPError: HTTP Error 404: Not Found",
-      "last_success_at": "2026-11-10T20:51:25.025668+00:00",
-      "item_count": 57
+      "status": "ok",
+      "error": null,
+      "last_success_at": "2026-11-11T16:13:16.979849+00:00",
+      "item_count": 58
     },
     {
       "id": "hugo-lisoir",
       "name": "Hugo Lisoir",
       "platform": "youtube",
       "url": "https://www.youtube.com/@hugolisoiryoutube",
-      "status": "error",
-      "error": "HTTPError: HTTP Error 404: Not Found",
-      "last_success_at": "2026-11-10T20:51:25.025668+00:00",
-      "item_count": 23
+      "status": "ok",
+      "error": null,
+      "last_success_at": "2026-11-11T16:13:16.979849+00:00",
+      "item_count": 24
     },
     {
       "id": "alex-demers-finance360",
       "name": "Alex Demers — Finance 360",
       "platform": "youtube",
       "url": "https://www.youtube.com/@alexdemers-finance360",
-      "status": "error",
-      "error": "HTTPError: HTTP Error 404: Not Found",
-      "last_success_at": "2026-11-10T20:51:25.025668+00:00",
-      "item_count": 21
+      "status": "ok",
+      "error": null,
+      "last_success_at": "2026-11-11T16:13:16.979849+00:00",
+      "item_count": 22
     },
     {
       "id": "guild-wars",
@@ -51,7 +51,7 @@
       "url": "https://www.facebook.com/GuildWars/",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-11T07:49:00.743962+00:00",
+      "last_success_at": "2026-11-11T16:13:16.979849+00:00",
       "item_count": 9
     },
     {
@@ -61,7 +61,7 @@
       "url": "https://www.facebook.com/LOTRO/",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-11T07:49:00.743962+00:00",
+      "last_success_at": "2026-11-11T16:13:16.979849+00:00",
       "item_count": 28
     },
     {
@@ -71,8 +71,8 @@
       "url": "https://www.facebook.com/VilleDeLavaltrie/",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-11T07:49:00.743962+00:00",
-      "item_count": 22
+      "last_success_at": "2026-11-11T16:13:16.979849+00:00",
+      "item_count": 23
     },
     {
       "id": "traders-360",
@@ -81,11 +81,47 @@
       "url": "https://www.facebook.com/firmetraders360/",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-11T07:49:00.743962+00:00",
+      "last_success_at": "2026-11-11T16:13:16.979849+00:00",
       "item_count": 27
     }
   ],
   "items": [
+    {
+      "id": "facebook:100064655653099:1582677677230739",
+      "title": "🕊️ 𝗝𝗼𝘂𝗿 𝗱𝘂 𝗦𝗼𝘂𝘃𝗲𝗻𝗶𝗿",
+      "url": "https://www.facebook.com/reel/1176012788095773/",
+      "published_at": "2026-11-11T14:49:39+00:00",
+      "updated_at": "2026-11-11T14:49:39+00:00",
+      "description": "🕊️ 𝗝𝗼𝘂𝗿 𝗱𝘂 𝗦𝗼𝘂𝘃𝗲𝗻𝗶𝗿\n\nEn cette journée de commémoration, nous rendons hommage à toutes les femmes et à tous les hommes qui ont servi notre pays, ainsi qu'à celles et ceux qui ont fait l'ultime sacrifice.\n\nÀ Lavaltrie, cet hommage prend désor",
+      "image_url": "https://scontent-iad3-1.xx.fbcdn.net/v/t15.5256-10/895287946_1870244157332085_8459685771527152125_n.jpg?stp=dst-jpg_tt6&cstp=mx1152x2048&ctp=s960x960&_nc_cat=100&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=d2b52d&_nc_ohc=zDgVPreyMBoQ7kNvwEIlaS5&_nc_oc=AdrxCjoeNEoTWGDlBGfQeeuWab_eCkmnbCPNtBblLbQ2Y6HJZqpvqlBsOQWQtPPRZdo&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&_nc_gid=zPsyVViEatXp6lE7c5Fqbw&_nc_ss=7f289&oh=00_AQQI2dpGcFZL6Knx2kD0qCTSMbSKpwjSRDxtjRxZNnUzZw&oe=6AFA5B2C",
+      "source_id": "ville-de-lavaltrie",
+      "source_name": "Ville de Lavaltrie",
+      "platform": "facebook"
+    },
+    {
+      "id": "youtube:SJUAg9yfA-8",
+      "title": "Ce rover de la NASA se COUPE EN DEUX ! #espace #science #insolite",
+      "url": "https://www.youtube.com/watch?v=SJUAg9yfA-8",
+      "published_at": "2026-11-11T09:36:54+00:00",
+      "updated_at": "2026-11-11T09:36:54+00:00",
+      "description": "DuAxel est un prototype de rover martien de la NASA (JPL) capable de se séparer en deux. L’arrière s’ancre au sommet d’une pente et l’avant descend en rappel au bout d’un câble, qui lui fournit à la fois l’énergie et la communication. Objectif : atteindre les parois abruptes des cratères martiens, inaccessibles à Curiosity et Perseverance. Sa cible idéale : les mystérieuses traînées sombres de Mars (RSL, Recurring Slope Lineae), soupçonnées depuis 2015 d’être liées à de l’eau liquide… ou simplement à du sable sec.\n\n🎥 Images : NASA/JPL-Caltech (tests dans le désert du Mojave, 2020)\nhttps://www.nasa.gov/centers-and-facilities/jpl/this-transforming-rover-can-explore-the-toughest-terrain\n\n#nasa #mars #rover",
+      "image_url": "https://i4.ytimg.com/vi/SJUAg9yfA-8/hqdefault.jpg",
+      "source_id": "hugo-lisoir",
+      "source_name": "Hugo Lisoir",
+      "platform": "youtube"
+    },
+    {
+      "id": "youtube:qPTLUGGFiw0",
+      "title": "À qui s’adresse les covered calls?",
+      "url": "https://www.youtube.com/watch?v=qPTLUGGFiw0",
+      "published_at": "2026-11-11T00:43:06+00:00",
+      "updated_at": "2026-11-11T01:57:19+00:00",
+      "description": "À qui s’adresse les covered calls?",
+      "image_url": "https://i2.ytimg.com/vi/qPTLUGGFiw0/hqdefault.jpg",
+      "source_id": "investi-qc",
+      "source_name": "Investi QC",
+      "platform": "youtube"
+    },
     {
       "id": "facebook:100063889127390:1674469531359335",
       "title": "Avec plus du tiers de mon portefeuille qui est déjà exposé au trade sur l’IA, je ne compte pas grossir davantage mon exp",
@@ -93,7 +129,7 @@
       "published_at": "2026-11-11T00:33:35+00:00",
       "updated_at": "2026-11-11T00:33:35+00:00",
       "description": "Avec plus du tiers de mon portefeuille qui est déjà exposé au trade sur l’IA, je ne compte pas grossir davantage mon exposition.\n\nMême après la récente chute du Nasdaq, je ne vois pas d’entreprises sous-évaluées par le marché dans le secteu",
-      "image_url": "https://scontent-iad3-2.xx.fbcdn.net/v/t51.82787-10/900955084_18135649777669293_303719147054200275_n.jpg?stp=dst-jpg_tt6&cstp=mx720x1280&ctp=s960x960&_nc_cat=111&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=xOaZOYsbMWIQ7kNvwFB2o5L&_nc_oc=Adpv57TDtjprjiG72T2yuEGATnD_XU72UfKEJWiANIBOk_cxrvDWjkyvzCWUlHEPDqM&_nc_zt=23&_nc_ht=scontent-iad3-2.xx&_nc_gid=sj28QQBVVBLhViwTJHQ_wg&_nc_ss=7f289&oh=00_AQQbo9TAabQarlEEuz4pXpyTHoDmjlfgjKVp29nAxUz6QA&oe=6AFA07DB",
+      "image_url": "https://scontent-iad3-2.xx.fbcdn.net/v/t51.82787-10/900955084_18135649777669293_303719147054200275_n.jpg?stp=dst-jpg_tt6&cstp=mx720x1280&ctp=s960x960&_nc_cat=111&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=Evnh29QU2AIQ7kNvwE7Pp_2&_nc_oc=AdoemJhnegvjtagovaj5RHe9xRpZFfN4nUhOUIOfOZ6dnb97yS0wPgi2afG1G0BfEFY&_nc_zt=23&_nc_ht=scontent-iad3-2.xx&_nc_gid=3wdndAN9KuOfc18_0Der_w&_nc_ss=7f289&oh=00_AQR67NuuJBE-E0NTeLDXjy6I8lCW73evCY_yZgVzFjZDTA&oe=6AFA785B",
       "source_id": "traders-360",
       "source_name": "Traders 360",
       "platform": "facebook"
@@ -111,11 +147,23 @@
       "platform": "facebook"
     },
     {
+      "id": "youtube:lyVImU8R9kc",
+      "title": "Le Trade sur l’IA | La Meilleure Opportunité de votre Vie?",
+      "url": "https://www.youtube.com/watch?v=lyVImU8R9kc",
+      "published_at": "2026-11-10T23:00:08+00:00",
+      "updated_at": "2026-11-10T23:00:10+00:00",
+      "description": "Abonnez-vous à mon infolettre Analyse360: \nhttps://traders360.ca/product/infolettre-analyse-360\n\nMa formation pour les investisseurs autonomes: \nhttps://formation-traders360.mykajabi.com/inscription\n\nÉp. 356\nL'IA peut changer le monde et quand même vous faire perdre de l'argent en bourse. Derrière les actions qui semblent en rabais, je vois un risque que l'enthousiasme des dernières années a fait oublier. Dans l’épisode, je vous explique ce que je fais avec mon portefeuille après la chute du Nasdaq suite aux élections de mi-mandat.\n\nSuivez-moi sur Facebook, Instagram et Tiktok:\nhttps://www.facebook.com/firmetraders360/\nhttps://www.instagram.com/alextraders360\nhttps://www.tiktok.com/@alexdemers360\n\n\nAVIS LÉGAL: Les propos de l'animateur ne doivent en aucun cas être interprétés comme une recommandation d’achat d'une action sur les marchés boursiers. Alexandre Demers n'est pas un conseiller financier et toutes les informations partagées dans ce balado ne reflète que son opinion personnelle. Consultez un professionnel accrédité auprès de l'AMF pour obtenir des conseils appropriés à votre situation.\n\n\n00:00 Intro\n00:16 Élection de mi-mandat\n01:45 Neoclouds\n04:34 Cycles de capex\n08:18 Mon portefeuille\n11:33 Conclusion",
+      "image_url": "https://i1.ytimg.com/vi/lyVImU8R9kc/hqdefault.jpg",
+      "source_id": "alex-demers-finance360",
+      "source_name": "Alex Demers — Finance 360",
+      "platform": "youtube"
+    },
+    {
       "id": "youtube:_ibn45ANdhw",
       "title": "Covered calls sur l’indice",
       "url": "https://www.youtube.com/watch?v=_ibn45ANdhw",
       "published_at": "2026-11-10T20:40:51+00:00",
-      "updated_at": "2026-11-10T20:43:31+00:00",
+      "updated_at": "2026-11-11T00:36:16+00:00",
       "description": "Covered calls sur l’indice",
       "image_url": "https://i4.ytimg.com/vi/_ibn45ANdhw/hqdefault.jpg",
       "source_id": "investi-qc",
@@ -391,7 +439,7 @@
       "title": "Certains FNB sont des meilleurs produits marketing que de bons investissements?",
       "url": "https://www.youtube.com/watch?v=W5QJIPj2Ivo",
       "published_at": "2026-11-07T16:45:04+00:00",
-      "updated_at": "2026-11-08T19:40:51+00:00",
+      "updated_at": "2026-11-09T20:01:56+00:00",
       "description": "Certains FNB sont des meilleurs produits marketing que de bons investissements?",
       "image_url": "https://i4.ytimg.com/vi/W5QJIPj2Ivo/hqdefault.jpg",
       "source_id": "investi-qc",
@@ -451,7 +499,7 @@
       "title": "Choisir son secteur là où il n’y a pas encore de FNB?",
       "url": "https://www.youtube.com/watch?v=1QiS-oityPI",
       "published_at": "2026-11-07T00:42:49+00:00",
-      "updated_at": "2026-11-08T20:18:20+00:00",
+      "updated_at": "2026-11-09T23:38:36+00:00",
       "description": "Choisir son secteur là où il n’y a pas encore de FNB?",
       "image_url": "https://i2.ytimg.com/vi/1QiS-oityPI/hqdefault.jpg",
       "source_id": "investi-qc",
@@ -511,7 +559,7 @@
       "title": "1 seule tasse disponible",
       "url": "https://www.youtube.com/watch?v=XSG9M3UUtjw",
       "published_at": "2026-11-06T20:40:53+00:00",
-      "updated_at": "2026-11-08T19:25:39+00:00",
+      "updated_at": "2026-11-09T23:38:02+00:00",
       "description": "1 seule tasse disponible. L’encan commence à 500$/épisode (chaque épisode est écouté par plus de 20 000 amateurs de bourse, et chaque épisode inclut 14 clips sur nos réseaux sociaux qui rejoignent plus de 300 000 Québécois chaque semaine).",
       "image_url": "https://i1.ytimg.com/vi/XSG9M3UUtjw/hqdefault.jpg",
       "source_id": "investi-qc",
@@ -537,7 +585,7 @@
       "published_at": "2026-11-06T19:01:06+00:00",
       "updated_at": "2026-11-06T19:01:06+00:00",
       "description": "\"Running to Droks, 1k each, pay half at Rankor.\"\n\nIf you know, you know. 🏔️\n\nDid you pay for the run, or were you the one running it? Tell us your Droknar's Run story 👇\n\n#MMORPG #GuildWarsReforged #GuildWars #Gaming #mmorpggames",
-      "image_url": "https://scontent-iad3-1.xx.fbcdn.net/v/t15.5256-10/884042340_1522470236595790_7468783753837623358_n.jpg?stp=dst-jpg_tt6&cstp=mx1920x1080&ctp=s960x960&_nc_cat=108&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=4vnVoHypDpwQ7kNvwG8JoTs&_nc_oc=AdrAHnMlPOKQI9t7-BVPBPCe27VyjWDugQHNj-it90UdxgEEt59kZPnqf7OeJcN8EN8&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&_nc_gid=mYhkvTdnz9KCOZJ6nZpEhg&_nc_ss=7f289&oh=00_AQTrZnni966PnPJYq4364UvgE2G5EeGCw0O_vEfI-lq0Yw&oe=6AFA092D",
+      "image_url": "https://scontent-iad3-1.xx.fbcdn.net/v/t15.5256-10/884042340_1522470236595790_7468783753837623358_n.jpg?stp=dst-jpg_tt6&cstp=mx1920x1080&ctp=s960x960&_nc_cat=108&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=SFnqaxwV3QsQ7kNvwGMFL6b&_nc_oc=AdocGHC2FVwnbojoz8dmi-E-_HtyXbkFtZzU2K7CR5nICmfUFGF6oIneGzPXzCmPh9o&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&_nc_gid=Y9uYP5feR3sFQxlMoh-QIQ&_nc_ss=7f289&oh=00_AQSplI1sKn9GYaUlqsJ0oyeagKa8vkvN4UsAHPJH6vkLPA&oe=6AFA79AD",
       "source_id": "guild-wars",
       "source_name": "Guild Wars",
       "platform": "facebook"
