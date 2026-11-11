@@ -2,7 +2,7 @@
   "version": 1,
   "title": "Social Feed",
   "description": "Un seul fil pour suivre les sources qui comptent.",
-  "generated_at": "2026-11-11T16:13:16.979849+00:00",
+  "generated_at": "2026-11-11T22:44:16.846725+00:00",
   "sources": [
     {
       "id": "eco-en-batons",
@@ -11,8 +11,8 @@
       "url": "https://www.youtube.com/@Eco_en_batons",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-11T16:13:16.979849+00:00",
-      "item_count": 34
+      "last_success_at": "2026-11-11T22:44:16.846725+00:00",
+      "item_count": 35
     },
     {
       "id": "investi-qc",
@@ -21,8 +21,8 @@
       "url": "https://www.youtube.com/@investi-qc",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-11T16:13:16.979849+00:00",
-      "item_count": 58
+      "last_success_at": "2026-11-11T22:44:16.846725+00:00",
+      "item_count": 60
     },
     {
       "id": "hugo-lisoir",
@@ -31,7 +31,7 @@
       "url": "https://www.youtube.com/@hugolisoiryoutube",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-11T16:13:16.979849+00:00",
+      "last_success_at": "2026-11-11T22:44:16.846725+00:00",
       "item_count": 24
     },
     {
@@ -41,7 +41,7 @@
       "url": "https://www.youtube.com/@alexdemers-finance360",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-11T16:13:16.979849+00:00",
+      "last_success_at": "2026-11-11T22:44:16.846725+00:00",
       "item_count": 22
     },
     {
@@ -51,7 +51,7 @@
       "url": "https://www.facebook.com/GuildWars/",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-11T16:13:16.979849+00:00",
+      "last_success_at": "2026-11-11T22:44:16.846725+00:00",
       "item_count": 9
     },
     {
@@ -61,8 +61,8 @@
       "url": "https://www.facebook.com/LOTRO/",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-11T16:13:16.979849+00:00",
-      "item_count": 28
+      "last_success_at": "2026-11-11T22:44:16.846725+00:00",
+      "item_count": 29
     },
     {
       "id": "ville-de-lavaltrie",
@@ -71,7 +71,7 @@
       "url": "https://www.facebook.com/VilleDeLavaltrie/",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-11T16:13:16.979849+00:00",
+      "last_success_at": "2026-11-11T22:44:16.846725+00:00",
       "item_count": 23
     },
     {
@@ -81,11 +81,71 @@
       "url": "https://www.facebook.com/firmetraders360/",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-11T16:13:16.979849+00:00",
-      "item_count": 27
+      "last_success_at": "2026-11-11T22:44:16.846725+00:00",
+      "item_count": 28
     }
   ],
   "items": [
+    {
+      "id": "facebook:100064792208382:1646618990841159",
+      "title": "The LOTRO game worlds will be unavailable on Thursday, November 12th from 9:00 AM - 1:00 PM Eastern (-5 GMT) for weekly ",
+      "url": "https://www.facebook.com/LOTRO/posts/pfbid02TKCtAUE23Z7vcXvLqTrxvMSQksUtKggSojSiojThm7PUZriPgRymoX7Zqk9Rw1Ghl",
+      "published_at": "2026-11-11T22:08:10+00:00",
+      "updated_at": "2026-11-11T22:08:10+00:00",
+      "description": "The LOTRO game worlds will be unavailable on Thursday, November 12th from 9:00 AM - 1:00 PM Eastern (-5 GMT) for weekly maintenance. Thank you for your patience and we will see you back in the game soon! #LOTRO",
+      "image_url": null,
+      "source_id": "lotro",
+      "source_name": "The Lord of the Rings Online",
+      "platform": "facebook"
+    },
+    {
+      "id": "youtube:_00fLGgGIns",
+      "title": "Il a acheté le blog The Dividend Guy",
+      "url": "https://www.youtube.com/watch?v=_00fLGgGIns",
+      "published_at": "2026-11-11T20:40:56+00:00",
+      "updated_at": "2026-11-11T21:36:14+00:00",
+      "description": "Il a acheté le blog The Dividend Guy",
+      "image_url": "https://i4.ytimg.com/vi/_00fLGgGIns/hqdefault.jpg",
+      "source_id": "investi-qc",
+      "source_name": "Investi QC",
+      "platform": "youtube"
+    },
+    {
+      "id": "youtube:yjikZObPMyo",
+      "title": "Il possédait 2 % de l'économie de son pays (John D. Rockefeller)",
+      "url": "https://www.youtube.com/watch?v=yjikZObPMyo",
+      "published_at": "2026-11-11T18:03:49+00:00",
+      "updated_at": "2026-11-11T18:08:27+00:00",
+      "description": "En 1913, la fortune de John D. Rockefeller est estimée à environ 900 millions de dollars, soit autour de 2 % de la production annuelle des États-Unis (PIB d'environ 39 milliards de dollars) : estimations d'historiens. C'est un ordre de grandeur : on compare un patrimoine à ce que le pays produit en un an, pas à tout ce que possède le pays (rapportée à la richesse totale des États-Unis, environ 186 milliards de dollars en 1912, elle en représentait environ 0,5 %).\n\nSouvent présenté comme le premier milliardaire en dollars : en septembre 1916, la presse américaine estime sa fortune à un milliard, un chiffre que son fils jugeait exagéré et que son biographe Ron Chernow situe plutôt vers 900 millions.\n\nJohn D. Rockefeller n'a pas seulement vendu du pétrole : il a pris les chemins de fer avant les puits, avalé ses concurrents de Cleveland, contrôlé environ 90 % du raffinage américain vers 1880, puis vu l'État casser son empire en 1911… sans cesser de s'enrichir. Voici comment il a fait, expliqué simplement : le piège des rabais, la guerre contre les raffineurs, le trust « fantôme », et la fuite en avant d'un empire démantelé.\n\nSi cette histoire vous a appris quelque chose : un like, et écrivez « pétrole » en commentaire.\n\n⏱️ Chapitres :\n0:00 L'empire coupé en morceaux\n0:39 Partie 1 — Le piège\n4:15 Partie 2 — La guerre\n8:00 Partie 3 — Le fantôme\n10:36 Partie 4 — La fuite\n13:10 Et aujourd'hui, à la pompe\n\n📌 Sources (pages lues le 6 novembre 2026)\n- Rockefeller, « Random Reminiscences of Men and Events » (1909), chap. II et IV (Project Gutenberg ; Hackernoon).\n- PBS, American Experience, « Rockefeller's South » (South Improvement Company, 1872).\n- Encyclopedia of Cleveland History (Case Western Reserve University), « Rockefeller, John D. ».\n- EBSCO Research Starters, « Standard Oil Company incorporated » (constitution de 1870, rabais de Flagler en 1868, part de marché).\n- Ida Tarbell, « The History of the Standard Oil Company », vol. 2, chap. 14 (accord de fiduciaires de 1882, dissolution du trust).\n- Cour suprême des États-Unis, Standard Oil Co. of New Jersey v. United States, 221 U.S. 1 (15 mai 1911), Cornell Legal Information Institute.\n- ASME, « Drake's oil well started a revolution » (Titusville, 27 août 1859).\n- HistoryNet, « John D. Rockefeller Sr.'s pap was a con man » (William Avery Rockefeller, « Devil Bill »).\n- Ida Tarbell, même ouvrage, vol. 2, chap. 9 (« The Fight for the Seaboard Pipe-Line », Tidewater) ; Wikipédia, « Tidewater Oil Company ».\n- Time, « The Nation: The Rockefeller clan, a public family » (citation sur le « don de Dieu », « premier milliardaire »).\n- Wikipédia (EN) : John D. Rockefeller, William Rockefeller Sr., Standard Oil, South Improvement Company, comme index de sources.\n- Wikipédia (EN), « Economic history of the United States » (PIB nominal 1913 ≈ 39,1 Md$, série MeasuringWorth d'après Kendrick) ; TIME, 14 avril 1924 (richesse nationale 1912 ≈ 186 Md$, recensement). Rapport fortune/PIB 1913 : estimation, calcul ci-dessus.\n\n🖼️ Illustrations et extraits\n- Portraits de John D. Rockefeller : 1872 (auteur inconnu), 1888 (auteur inconnu), 1905 (George Mountain Edmondson), 1918 (Arnold Genthe, CC0) ; William Avery Rockefeller Sr. (Andrew L.) ; maison natale de Richford ; Ida Tarbell (James E. Purdy / Adam Cuerden) ; Theodore Roosevelt, 1904 (Pach Brothers) — Wikimedia Commons, domaine public (sauf mention).\n- Caricatures de Puck, Library of Congress : « Next! » (Udo J. Keppler, 1904), « The gospel according to “St. John” » (Udo Keppler, 1905), « The infant Hercules and the Standard Oil serpents » (Frank A. Nankivell, 1906) — domaine public.\n- Photographies et gravures d'époque : raffineries de Walworth Run (1870) et de Cleveland (1889) et tank-wagon Standard Oil (DPLA) ; puits Drake ; Oil Creek (Library of Congress) ; wagons-citernes en bois (Ida Tarbell, 1904) ; vue de Cleveland en 1877 (A. Ruger, Library of Congress) ; Cour White (Cour suprême, 1910-1911) ; couverture de McClure's, décembre 1903 — domaine public.\n- Pompiste « Service Esso » (Eric Koch / Anefo, Nationaal Archief, CC0) ; la marque Esso reste déposée, image montrée à titre documentaire.\n- 26 Broadway (ancien siège de Standard Oil) : Ken Lund, Wikimedia Commons, CC BY-SA 2.0 — https://commons.wikimedia.org/wiki/File:26_Broadway_(Standard_Oil_Building)_(7237056004).jpg\n\nLes scènes dialoguées sont des reconstitutions ; les citations sont traduites de l'anglais. Les cartes « synthèse » sont des textes recomposés à partir des sources citées, pas des reproductions de documents.\n\nCette vidéo est une explication historique générale. Faits et chiffres arrêtés au 6 novembre 2026.",
+      "image_url": "https://i2.ytimg.com/vi/yjikZObPMyo/hqdefault.jpg",
+      "source_id": "eco-en-batons",
+      "source_name": "Éco en bâtons",
+      "platform": "youtube"
+    },
+    {
+      "id": "facebook:100063889127390:1675368891269399",
+      "title": "CoreWeave n’est toujours pas le genre de compagnie dans lequel j’ai envie d’investir.",
+      "url": "https://www.facebook.com/firmetraders360/posts/pfbid02GmC8MxL7JNt5HUxPY5FYZ5FPyFj1scnemE59CUovvosdJymBYth3Nai6yYR67xmdl",
+      "published_at": "2026-11-11T18:03:43+00:00",
+      "updated_at": "2026-11-11T18:03:43+00:00",
+      "description": "CoreWeave n’est toujours pas le genre de compagnie dans lequel j’ai envie d’investir.\n\nLeurs derniers résultats rassurent le marché sur une chose: la demande pour l’infrastructure IA est encore très forte. CoreWeave prévoit autour de 13 mil",
+      "image_url": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.99422-6/903306354_2456188981452648_6582924497618682293_n.png?stp=dst-jpg_tt6&cstp=mx1328x1472&ctp=s565x565&_nc_cat=100&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=VMZOdhNkl64Q7kNvwEJFR33&_nc_oc=AdqZu-rzmZ_0bKO-BPBMDRZVvkbeAwOB7UI-FwoaJMC35NIBBav62jZ9GI3-dOek0B4&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=BfAC5uveFFMGaUL5H04y7w&_nc_ss=7f289&oh=00_AQSOUGBZ8uATrDzkR5SdEazf2D4rIzASrOqThQ89jkehMg&oe=6AFAC1C7",
+      "source_id": "traders-360",
+      "source_name": "Traders 360",
+      "platform": "facebook"
+    },
+    {
+      "id": "youtube:Sv0_iYEbVBo",
+      "title": "Mike Héroux travaillait à la banque avant de devenir The Dividend Guy",
+      "url": "https://www.youtube.com/watch?v=Sv0_iYEbVBo",
+      "published_at": "2026-11-11T16:43:19+00:00",
+      "updated_at": "2026-11-11T20:56:47+00:00",
+      "description": "Mike Héroux travaillait à la banque avant de devenir The Dividend Guy",
+      "image_url": "https://i4.ytimg.com/vi/Sv0_iYEbVBo/hqdefault.jpg",
+      "source_id": "investi-qc",
+      "source_name": "Investi QC",
+      "platform": "youtube"
+    },
     {
       "id": "facebook:100064655653099:1582677677230739",
       "title": "🕊️ 𝗝𝗼𝘂𝗿 𝗱𝘂 𝗦𝗼𝘂𝘃𝗲𝗻𝗶𝗿",
@@ -93,7 +153,7 @@
       "published_at": "2026-11-11T14:49:39+00:00",
       "updated_at": "2026-11-11T14:49:39+00:00",
       "description": "🕊️ 𝗝𝗼𝘂𝗿 𝗱𝘂 𝗦𝗼𝘂𝘃𝗲𝗻𝗶𝗿\n\nEn cette journée de commémoration, nous rendons hommage à toutes les femmes et à tous les hommes qui ont servi notre pays, ainsi qu'à celles et ceux qui ont fait l'ultime sacrifice.\n\nÀ Lavaltrie, cet hommage prend désor",
-      "image_url": "https://scontent-iad3-1.xx.fbcdn.net/v/t15.5256-10/895287946_1870244157332085_8459685771527152125_n.jpg?stp=dst-jpg_tt6&cstp=mx1152x2048&ctp=s960x960&_nc_cat=100&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=d2b52d&_nc_ohc=zDgVPreyMBoQ7kNvwEIlaS5&_nc_oc=AdrxCjoeNEoTWGDlBGfQeeuWab_eCkmnbCPNtBblLbQ2Y6HJZqpvqlBsOQWQtPPRZdo&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&_nc_gid=zPsyVViEatXp6lE7c5Fqbw&_nc_ss=7f289&oh=00_AQQI2dpGcFZL6Knx2kD0qCTSMbSKpwjSRDxtjRxZNnUzZw&oe=6AFA5B2C",
+      "image_url": "https://scontent-iad3-1.xx.fbcdn.net/v/t15.5256-10/895287946_1870244157332085_8459685771527152125_n.jpg?stp=dst-jpg_tt6&cstp=mx1152x2048&ctp=s960x960&_nc_cat=100&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=d2b52d&_nc_ohc=zDgVPreyMBoQ7kNvwFkIbkl&_nc_oc=AdpRBeUxIF2W_XeKhOx2nAasuSSLs_f-w_sbobdzzefTn8CzzWt92EDuez1dUvYOzy4&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&_nc_gid=J1KnDB8gaAkavyT8TN_UAg&_nc_ss=7f289&oh=00_AQRMu0lnCrPm8s4BifZBnIJu6a1YKtwwYWatz3Btyff_ag&oe=6AFACBAC",
       "source_id": "ville-de-lavaltrie",
       "source_name": "Ville de Lavaltrie",
       "platform": "facebook"
@@ -103,7 +163,7 @@
       "title": "Ce rover de la NASA se COUPE EN DEUX ! #espace #science #insolite",
       "url": "https://www.youtube.com/watch?v=SJUAg9yfA-8",
       "published_at": "2026-11-11T09:36:54+00:00",
-      "updated_at": "2026-11-11T09:36:54+00:00",
+      "updated_at": "2026-11-11T22:29:58+00:00",
       "description": "DuAxel est un prototype de rover martien de la NASA (JPL) capable de se séparer en deux. L’arrière s’ancre au sommet d’une pente et l’avant descend en rappel au bout d’un câble, qui lui fournit à la fois l’énergie et la communication. Objectif : atteindre les parois abruptes des cratères martiens, inaccessibles à Curiosity et Perseverance. Sa cible idéale : les mystérieuses traînées sombres de Mars (RSL, Recurring Slope Lineae), soupçonnées depuis 2015 d’être liées à de l’eau liquide… ou simplement à du sable sec.\n\n🎥 Images : NASA/JPL-Caltech (tests dans le désert du Mojave, 2020)\nhttps://www.nasa.gov/centers-and-facilities/jpl/this-transforming-rover-can-explore-the-toughest-terrain\n\n#nasa #mars #rover",
       "image_url": "https://i4.ytimg.com/vi/SJUAg9yfA-8/hqdefault.jpg",
       "source_id": "hugo-lisoir",
@@ -585,7 +645,7 @@
       "published_at": "2026-11-06T19:01:06+00:00",
       "updated_at": "2026-11-06T19:01:06+00:00",
       "description": "\"Running to Droks, 1k each, pay half at Rankor.\"\n\nIf you know, you know. 🏔️\n\nDid you pay for the run, or were you the one running it? Tell us your Droknar's Run story 👇\n\n#MMORPG #GuildWarsReforged #GuildWars #Gaming #mmorpggames",
-      "image_url": "https://scontent-iad3-1.xx.fbcdn.net/v/t15.5256-10/884042340_1522470236595790_7468783753837623358_n.jpg?stp=dst-jpg_tt6&cstp=mx1920x1080&ctp=s960x960&_nc_cat=108&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=SFnqaxwV3QsQ7kNvwGMFL6b&_nc_oc=AdocGHC2FVwnbojoz8dmi-E-_HtyXbkFtZzU2K7CR5nICmfUFGF6oIneGzPXzCmPh9o&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&_nc_gid=Y9uYP5feR3sFQxlMoh-QIQ&_nc_ss=7f289&oh=00_AQSplI1sKn9GYaUlqsJ0oyeagKa8vkvN4UsAHPJH6vkLPA&oe=6AFA79AD",
+      "image_url": "https://scontent-iad3-1.xx.fbcdn.net/v/t15.5256-10/884042340_1522470236595790_7468783753837623358_n.jpg?stp=dst-jpg_tt6&cstp=mx1920x1080&ctp=s960x960&_nc_cat=108&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=SFnqaxwV3QsQ7kNvwFwYHXC&_nc_oc=AdohrpfdnCIbyvAXxVDpW5vfWuymfrwIYGfKbW88kMzDqELc-PSE1m0a76CR8VOGQZ8&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&_nc_gid=P8EMPj6qoeoepRJC9ep6ag&_nc_ss=7f289&oh=00_AQSNkKa9xpBpZfeameB4Po_KlQBAULoGm8iAgkc-m5GjSA&oe=6AFAB1ED",
       "source_id": "guild-wars",
       "source_name": "Guild Wars",
       "platform": "facebook"
