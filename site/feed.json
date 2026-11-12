@@ -2,16 +2,16 @@
   "version": 1,
   "title": "Social Feed",
   "description": "Un seul fil pour suivre les sources qui comptent.",
-  "generated_at": "2026-11-12T03:49:55.029534+00:00",
+  "generated_at": "2026-11-12T12:47:32.316069+00:00",
   "sources": [
     {
       "id": "eco-en-batons",
       "name": "Éco en bâtons",
       "platform": "youtube",
       "url": "https://www.youtube.com/@Eco_en_batons",
-      "status": "error",
-      "error": "HTTPError: HTTP Error 404: Not Found",
-      "last_success_at": "2026-11-11T22:44:16.846725+00:00",
+      "status": "ok",
+      "error": null,
+      "last_success_at": "2026-11-12T12:47:32.316069+00:00",
       "item_count": 35
     },
     {
@@ -19,19 +19,19 @@
       "name": "Investi QC",
       "platform": "youtube",
       "url": "https://www.youtube.com/@investi-qc",
-      "status": "error",
-      "error": "HTTPError: HTTP Error 404: Not Found",
-      "last_success_at": "2026-11-11T22:44:16.846725+00:00",
-      "item_count": 60
+      "status": "ok",
+      "error": null,
+      "last_success_at": "2026-11-12T12:47:32.316069+00:00",
+      "item_count": 61
     },
     {
       "id": "hugo-lisoir",
       "name": "Hugo Lisoir",
       "platform": "youtube",
       "url": "https://www.youtube.com/@hugolisoiryoutube",
-      "status": "error",
-      "error": "HTTPError: HTTP Error 404: Not Found",
-      "last_success_at": "2026-11-11T22:44:16.846725+00:00",
+      "status": "ok",
+      "error": null,
+      "last_success_at": "2026-11-12T12:47:32.316069+00:00",
       "item_count": 24
     },
     {
@@ -39,9 +39,9 @@
       "name": "Alex Demers — Finance 360",
       "platform": "youtube",
       "url": "https://www.youtube.com/@alexdemers-finance360",
-      "status": "error",
-      "error": "HTTPError: HTTP Error 404: Not Found",
-      "last_success_at": "2026-11-11T22:44:16.846725+00:00",
+      "status": "ok",
+      "error": null,
+      "last_success_at": "2026-11-12T12:47:32.316069+00:00",
       "item_count": 22
     },
     {
@@ -51,7 +51,7 @@
       "url": "https://www.facebook.com/GuildWars/",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-12T03:49:55.029534+00:00",
+      "last_success_at": "2026-11-12T12:47:32.316069+00:00",
       "item_count": 9
     },
     {
@@ -61,7 +61,7 @@
       "url": "https://www.facebook.com/LOTRO/",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-12T03:49:55.029534+00:00",
+      "last_success_at": "2026-11-12T12:47:32.316069+00:00",
       "item_count": 29
     },
     {
@@ -71,7 +71,7 @@
       "url": "https://www.facebook.com/VilleDeLavaltrie/",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-12T03:49:55.029534+00:00",
+      "last_success_at": "2026-11-12T12:47:32.316069+00:00",
       "item_count": 24
     },
     {
@@ -81,7 +81,7 @@
       "url": "https://www.facebook.com/firmetraders360/",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-12T03:49:55.029534+00:00",
+      "last_success_at": "2026-11-12T12:47:32.316069+00:00",
       "item_count": 29
     }
   ],
@@ -93,10 +93,22 @@
       "published_at": "2026-11-12T00:40:13+00:00",
       "updated_at": "2026-11-12T00:40:13+00:00",
       "description": "Un faible ratio P/E peut donner une fausse impression d’aubaine. \n\nSi les profits des fournisseurs de composantes se mettent à baisser, le rabais apparent pourrait disparaître assez vite.\n\nJe ne sais pas quand ce cycle de capex en infrastru",
-      "image_url": "https://scontent-dfw6-1.xx.fbcdn.net/v/t51.82787-10/899402197_18135750310669293_507797683376292107_n.jpg?stp=dst-jpg_tt6&cstp=mx720x1280&ctp=s960x960&_nc_cat=108&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=NWsbtxYhx_sQ7kNvwFGxcws&_nc_oc=AdofeI2u9h8SFz6kOWEP2BW8MPpGUmNDnoO6uEbfqETnZGpzfb_LTsIe7f30LzhYtxo&_nc_zt=23&_nc_ht=scontent-dfw6-1.xx&_nc_gid=YV2zRnNwrPN4sWZvVh-dUQ&_nc_ss=7f289&oh=00_AQSTGhXvQb1bj3Gob98SbrEmVMYMRDjqNHlLaMgw7p6Xig&oe=6AFAF440",
+      "image_url": "https://scontent-ord5-1.xx.fbcdn.net/v/t51.82787-10/899402197_18135750310669293_507797683376292107_n.jpg?stp=dst-jpg_tt6&cstp=mx720x1280&ctp=s960x960&_nc_cat=108&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=NWsbtxYhx_sQ7kNvwFlZX1n&_nc_oc=AdrXZnvwpOwxP8qNhxYprUEOjCge2KMnXsZDeYj4LoSOX3-0dpOCx7h7ZtiyhDrcdIA&_nc_zt=23&_nc_ht=scontent-ord5-1.xx&_nc_gid=6ac5ztQBs6j724Rjncga4Q&_nc_ss=7f289&oh=00_AQTDykh03F2BosAaTLWBRLC8xBaRHuad6Ylw4Zru53oilw&oe=6AFB9D00",
       "source_id": "traders-360",
       "source_name": "Traders 360",
       "platform": "facebook"
+    },
+    {
+      "id": "youtube:-1BysI_ER7Q",
+      "title": "Chaque fois qu’il voulait quitter, on lui donnait une augmentation 😂💪",
+      "url": "https://www.youtube.com/watch?v=-1BysI_ER7Q",
+      "published_at": "2026-11-12T00:40:12+00:00",
+      "updated_at": "2026-11-12T01:31:48+00:00",
+      "description": "Chaque fois qu’il voulait quitter, on lui donnait une augmentation 😂💪",
+      "image_url": "https://i2.ytimg.com/vi/-1BysI_ER7Q/hqdefault.jpg",
+      "source_id": "investi-qc",
+      "source_name": "Investi QC",
+      "platform": "youtube"
     },
     {
       "id": "facebook:100064655653099:1582874463877727",
@@ -105,7 +117,7 @@
       "published_at": "2026-11-11T23:00:03+00:00",
       "updated_at": "2026-11-11T23:00:03+00:00",
       "description": "𝐕𝐨𝐭𝐫𝐞 𝐚𝐯𝐢𝐬 𝐜𝐨𝐦𝐩𝐭𝐞 𝐩𝐨𝐮𝐫 𝐮𝐧 𝐦𝐢𝐥𝐢𝐞𝐮 𝐝𝐞 𝐯𝐢𝐞 𝐩𝐥𝐮𝐬 𝐫𝐞́𝐬𝐢𝐥𝐢𝐞𝐧𝐭 🌳 \nQuelques jours encore avant la fin du sondage !\n\nComment pouvons-nous mieux adapter notre territoire aux changements climatiques? 🌧️\n\nAccompagnée par la firme GBI dans le cadre de l",
-      "image_url": "https://scontent-dfw6-2.xx.fbcdn.net/v/t39.99422-6/904022946_1496892072317124_6889367073212763709_n.png?stp=dst-jpg_tt6&cstp=mx1080x1080&ctp=p526x296&_nc_cat=101&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=nMspX1YflYgQ7kNvwH2L2NQ&_nc_oc=Adqtw7mCtnH_O6QRFPN2O323gkiphJof_zCADMLzET6MlwBVLkmH27bOIpbrkHWqtno&_nc_zt=14&_nc_ht=scontent-dfw6-2.xx&_nc_gid=X3N2YtXIIoDCU9JoLlYP5g&_nc_ss=7f289&oh=00_AQQAUbMSrwZz2nlgfryDXihvc5EWV7UkuxGcj50KeAndBg&oe=6AFB20C0",
+      "image_url": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.99422-6/904022946_1496892072317124_6889367073212763709_n.png?stp=dst-jpg_tt6&cstp=mx1080x1080&ctp=p526x296&_nc_cat=101&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=JIa8wISSOsQQ7kNvwGnbaB1&_nc_oc=AdrW4untTWEeyeknu8shYVDXtH--4cGcA5bApjvJF5fwkBDHKD1gSkmeip56vGAYTzE&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=_w_OgksEQ4eWU8RrZTTEpA&_nc_ss=7f289&oh=00_AQRnUJeBKoD1UD5_dV9VWChjAT9jA5eTsbsYMipNjwLRwA&oe=6AFB9140",
       "source_id": "ville-de-lavaltrie",
       "source_name": "Ville de Lavaltrie",
       "platform": "facebook"
@@ -113,7 +125,7 @@
     {
       "id": "facebook:100064792208382:1646618990841159",
       "title": "The LOTRO game worlds will be unavailable on Thursday, November 12th from 9:00 AM - 1:00 PM Eastern (-5 GMT) for weekly ",
-      "url": "https://www.facebook.com/LOTRO/posts/pfbid02TKCtAUE23Z7vcXvLqTrxvMSQksUtKggSojSiojThm7PUZriPgRymoX7Zqk9Rw1Ghl",
+      "url": "https://www.facebook.com/LOTRO/posts/pfbid0PHcAgf2TNWc2yitXKkH6AgDszbGR4Rbnx6WU8wAxSg7woYzcqnzSxmjrrP779PPWl",
       "published_at": "2026-11-11T22:08:10+00:00",
       "updated_at": "2026-11-11T22:08:10+00:00",
       "description": "The LOTRO game worlds will be unavailable on Thursday, November 12th from 9:00 AM - 1:00 PM Eastern (-5 GMT) for weekly maintenance. Thank you for your patience and we will see you back in the game soon! #LOTRO",
@@ -139,7 +151,7 @@
       "title": "Il possédait 2 % de l'économie de son pays (John D. Rockefeller)",
       "url": "https://www.youtube.com/watch?v=yjikZObPMyo",
       "published_at": "2026-11-11T18:03:49+00:00",
-      "updated_at": "2026-11-11T18:08:27+00:00",
+      "updated_at": "2026-11-12T05:51:21+00:00",
       "description": "En 1913, la fortune de John D. Rockefeller est estimée à environ 900 millions de dollars, soit autour de 2 % de la production annuelle des États-Unis (PIB d'environ 39 milliards de dollars) : estimations d'historiens. C'est un ordre de grandeur : on compare un patrimoine à ce que le pays produit en un an, pas à tout ce que possède le pays (rapportée à la richesse totale des États-Unis, environ 186 milliards de dollars en 1912, elle en représentait environ 0,5 %).\n\nSouvent présenté comme le premier milliardaire en dollars : en septembre 1916, la presse américaine estime sa fortune à un milliard, un chiffre que son fils jugeait exagéré et que son biographe Ron Chernow situe plutôt vers 900 millions.\n\nJohn D. Rockefeller n'a pas seulement vendu du pétrole : il a pris les chemins de fer avant les puits, avalé ses concurrents de Cleveland, contrôlé environ 90 % du raffinage américain vers 1880, puis vu l'État casser son empire en 1911… sans cesser de s'enrichir. Voici comment il a fait, expliqué simplement : le piège des rabais, la guerre contre les raffineurs, le trust « fantôme », et la fuite en avant d'un empire démantelé.\n\nSi cette histoire vous a appris quelque chose : un like, et écrivez « pétrole » en commentaire.\n\n⏱️ Chapitres :\n0:00 L'empire coupé en morceaux\n0:39 Partie 1 — Le piège\n4:15 Partie 2 — La guerre\n8:00 Partie 3 — Le fantôme\n10:36 Partie 4 — La fuite\n13:10 Et aujourd'hui, à la pompe\n\n📌 Sources (pages lues le 6 novembre 2026)\n- Rockefeller, « Random Reminiscences of Men and Events » (1909), chap. II et IV (Project Gutenberg ; Hackernoon).\n- PBS, American Experience, « Rockefeller's South » (South Improvement Company, 1872).\n- Encyclopedia of Cleveland History (Case Western Reserve University), « Rockefeller, John D. ».\n- EBSCO Research Starters, « Standard Oil Company incorporated » (constitution de 1870, rabais de Flagler en 1868, part de marché).\n- Ida Tarbell, « The History of the Standard Oil Company », vol. 2, chap. 14 (accord de fiduciaires de 1882, dissolution du trust).\n- Cour suprême des États-Unis, Standard Oil Co. of New Jersey v. United States, 221 U.S. 1 (15 mai 1911), Cornell Legal Information Institute.\n- ASME, « Drake's oil well started a revolution » (Titusville, 27 août 1859).\n- HistoryNet, « John D. Rockefeller Sr.'s pap was a con man » (William Avery Rockefeller, « Devil Bill »).\n- Ida Tarbell, même ouvrage, vol. 2, chap. 9 (« The Fight for the Seaboard Pipe-Line », Tidewater) ; Wikipédia, « Tidewater Oil Company ».\n- Time, « The Nation: The Rockefeller clan, a public family » (citation sur le « don de Dieu », « premier milliardaire »).\n- Wikipédia (EN) : John D. Rockefeller, William Rockefeller Sr., Standard Oil, South Improvement Company, comme index de sources.\n- Wikipédia (EN), « Economic history of the United States » (PIB nominal 1913 ≈ 39,1 Md$, série MeasuringWorth d'après Kendrick) ; TIME, 14 avril 1924 (richesse nationale 1912 ≈ 186 Md$, recensement). Rapport fortune/PIB 1913 : estimation, calcul ci-dessus.\n\n🖼️ Illustrations et extraits\n- Portraits de John D. Rockefeller : 1872 (auteur inconnu), 1888 (auteur inconnu), 1905 (George Mountain Edmondson), 1918 (Arnold Genthe, CC0) ; William Avery Rockefeller Sr. (Andrew L.) ; maison natale de Richford ; Ida Tarbell (James E. Purdy / Adam Cuerden) ; Theodore Roosevelt, 1904 (Pach Brothers) — Wikimedia Commons, domaine public (sauf mention).\n- Caricatures de Puck, Library of Congress : « Next! » (Udo J. Keppler, 1904), « The gospel according to “St. John” » (Udo Keppler, 1905), « The infant Hercules and the Standard Oil serpents » (Frank A. Nankivell, 1906) — domaine public.\n- Photographies et gravures d'époque : raffineries de Walworth Run (1870) et de Cleveland (1889) et tank-wagon Standard Oil (DPLA) ; puits Drake ; Oil Creek (Library of Congress) ; wagons-citernes en bois (Ida Tarbell, 1904) ; vue de Cleveland en 1877 (A. Ruger, Library of Congress) ; Cour White (Cour suprême, 1910-1911) ; couverture de McClure's, décembre 1903 — domaine public.\n- Pompiste « Service Esso » (Eric Koch / Anefo, Nationaal Archief, CC0) ; la marque Esso reste déposée, image montrée à titre documentaire.\n- 26 Broadway (ancien siège de Standard Oil) : Ken Lund, Wikimedia Commons, CC BY-SA 2.0 — https://commons.wikimedia.org/wiki/File:26_Broadway_(Standard_Oil_Building)_(7237056004).jpg\n\nLes scènes dialoguées sont des reconstitutions ; les citations sont traduites de l'anglais. Les cartes « synthèse » sont des textes recomposés à partir des sources citées, pas des reproductions de documents.\n\nCette vidéo est une explication historique générale. Faits et chiffres arrêtés au 6 novembre 2026.",
       "image_url": "https://i2.ytimg.com/vi/yjikZObPMyo/hqdefault.jpg",
       "source_id": "eco-en-batons",
@@ -307,7 +319,7 @@
       "title": "Est-ce que MTY manque d’appétit?",
       "url": "https://www.youtube.com/watch?v=DTJZ0m-ZKKI",
       "published_at": "2026-11-10T01:45:19+00:00",
-      "updated_at": "2026-11-10T15:06:22+00:00",
+      "updated_at": "2026-11-10T16:46:16+00:00",
       "description": "Est-ce que MTY manque d’appétit?",
       "image_url": "https://i1.ytimg.com/vi/DTJZ0m-ZKKI/hqdefault.jpg",
       "source_id": "investi-qc",
@@ -367,7 +379,7 @@
       "title": "Pourquoi MTY a perdu près de 40% en bourse dans les cinq dernières années?",
       "url": "https://www.youtube.com/watch?v=Pw_zuWDi0F8",
       "published_at": "2026-11-09T17:44:39+00:00",
-      "updated_at": "2026-11-10T14:53:01+00:00",
+      "updated_at": "2026-11-10T16:46:05+00:00",
       "description": "Pourquoi MTY a perdu près de 40% en bourse dans les cinq dernières années?",
       "image_url": "https://i1.ytimg.com/vi/Pw_zuWDi0F8/hqdefault.jpg",
       "source_id": "investi-qc",
@@ -391,7 +403,7 @@
       "title": "De plus en plus de gens investissent eux-mêmes, surtout quand ça va bien sur les marchés…",
       "url": "https://www.youtube.com/watch?v=KQgLTfTLYd8",
       "published_at": "2026-11-09T00:43:38+00:00",
-      "updated_at": "2026-11-09T11:17:42+00:00",
+      "updated_at": "2026-11-10T16:45:16+00:00",
       "description": "De plus en plus de gens investissent eux-mêmes, surtout quand ça va bien sur les marchés…",
       "image_url": "https://i4.ytimg.com/vi/KQgLTfTLYd8/hqdefault.jpg",
       "source_id": "investi-qc",
@@ -427,7 +439,7 @@
       "title": "Des gestes simples pour tous nous aider",
       "url": "https://www.youtube.com/watch?v=Aen2tl5F61g",
       "published_at": "2026-11-08T20:41:17+00:00",
-      "updated_at": "2026-11-09T11:09:24+00:00",
+      "updated_at": "2026-11-10T16:46:39+00:00",
       "description": "Des gestes simples pour tous nous aider",
       "image_url": "https://i2.ytimg.com/vi/Aen2tl5F61g/hqdefault.jpg",
       "source_id": "investi-qc",
@@ -451,7 +463,7 @@
       "title": "Foodtastic veut acheter MTY pour environ 1 milliards de dollars",
       "url": "https://www.youtube.com/watch?v=U_3XNN90xOA",
       "published_at": "2026-11-08T15:40:05+00:00",
-      "updated_at": "2026-11-09T10:25:34+00:00",
+      "updated_at": "2026-11-10T16:38:09+00:00",
       "description": "Foodtastic veut acheter MTY pour environ 1 milliards de dollars",
       "image_url": "https://i2.ytimg.com/vi/U_3XNN90xOA/hqdefault.jpg",
       "source_id": "investi-qc",
@@ -499,7 +511,7 @@
       "title": "Une soirée romantique à la Casa Grecque pour notre ami Pierre-Olivier 🍷❤️",
       "url": "https://www.youtube.com/watch?v=1IkdGS2y2yk",
       "published_at": "2026-11-07T20:40:11+00:00",
-      "updated_at": "2026-11-08T20:44:54+00:00",
+      "updated_at": "2026-11-10T22:32:06+00:00",
       "description": "Une soirée romantique à la Casa Grecque pour notre ami Pierre-Olivier 🍷❤️",
       "image_url": "https://i2.ytimg.com/vi/1IkdGS2y2yk/hqdefault.jpg",
       "source_id": "investi-qc",
@@ -571,7 +583,7 @@
       "title": "La bulle de l'IA expliquée simplement",
       "url": "https://www.youtube.com/watch?v=CQkb8USMmw0",
       "published_at": "2026-11-07T11:26:01+00:00",
-      "updated_at": "2026-11-08T21:37:32+00:00",
+      "updated_at": "2026-11-10T22:26:28+00:00",
       "description": "La bulle de l'IA expliquée simplement, comme si vous aviez 5 ans. En septembre 2025, Nvidia promet jusqu'à 100 milliards de dollars à OpenAI, qui doit lui acheter ses puces ; ce n'était pas un engagement, et l'argent tourne en rond entre Nvidia, OpenAI et Microsoft. Puis on suit les chantiers géants, payés de plus en plus à crédit (218 milliards de dollars d'obligations en neuf mois, Oracle compris), et le parallèle avec les réseaux télécoms de 2000, où le Nasdaq a perdu 78 % entre mars 2000 et octobre 2002. Enfin, la chute récente des valeurs (au 2 novembre, le Nasdaq-100 avait perdu environ 10 % depuis son sommet du 6 octobre), le rôle réel de la Chine, et ce que cela change pour un épargnant français : sur 1 000 euros dans un fonds World, environ 250 euros dépendent de sept géants américains.\n\n📅 Vidéo bouclée avant le jeudi 5 novembre 2026 : le recul d'environ 4 % du S&P 500 (vers 9:57) date du lundi 2. Le jeudi 5 novembre, le Nasdaq-100 a perdu 6,36 % sur la séance et le S&P 500 a fini à 5,95 % sous son sommet.\n\n⏱️ Chapitres\n0:00 La bulle de l'IA : l'argent qui tourne en rond\n1:53 Partie 1 — Le billet qui revient\n3:55 Partie 2 — Les chantiers géants\n6:09 Partie 3 — Les câbles de l'an 2000\n8:10 Partie 4 — Le lundi rouge\n10:22 Partie 5 — Vos 1 000 euros\n12:47 Et aujourd'hui, en France\n\n📌 Sources (lues en novembre 2026)\n- Nvidia et OpenAI : Nvidia, « OpenAI and NVIDIA announce strategic partnership » (22/09/2025) ; Fortune, « Jensen Huang on Nvidia's OpenAI investment » (02/02/2026) ; OpenAI, « Scaling AI for everyone » (27/02/2026) ; SEC, Nvidia, Form 10-Q (clos le 26/07/2026)\n- Boucles de financement : Reuters via The Star, « CoreWeave, Nvidia sign $6.3 billion cloud computing capacity order » (15/09/2025) ; FMI, « Global financial markets face rising risks from AI » (13/10/2026) ; Nvidia, résultats du deuxième trimestre de l'exercice 2027 (26/08/2026)\n- Investissements et dette : Sherwood News, « Big Tech capital expenditure soared in 2025 » (06/02/2026) ; SEC, Alphabet, Form 8-K (28/10/2026) ; LSEG FTSE Russell, « AI's borrowing boom » (29/10/2026) ; SEC, Oracle, Form 10-Q (09/2026) ; Wikipedia, « Hyperion Data Center » (03/11/2026)\n- Précédent de 2000 : SEC, Lucent, Form 10-Q (clos le 31/12/1999) ; Wikipedia, « Dot-com bubble » (03/11/2026) ; DQYDJ, « NASDAQ Drawdown History » (03/11/2026) ; Encyclopædia Universalis, « 12 septembre 2002 : lourdes pertes pour France Télécom »\n- Valorisation : DoubleLine, « Diversifying U.S. Equity Exposure in a Concentrated Market » (10/2026)\n- Chute récente : Bloomberg, « Nasdaq 100 enters correction » (02/11/2026) ; CNBC, « CoreWeave credit default swaps hit distress levels » (15/10/2026) et « Oracle files to sell $20 billion in new stock, bonds » (02/11/2026)\n- Chine : Bloomberg via Insurance Journal (27/01/2026) ; Reuters via Yahoo Finance sur DeepSeek (27/04/2026) ; Journal du Geek, « La bulle de l'IA a déjà explosé en Chine » (02/11/2026)\n- Citation de Pichai : Reuters via Yahoo Finance, « No firm immune from AI bubble » (18/11/2025)\n- Fonds World, PEA, retraites : MSCI, fiche MSCI World (30/09/2026) ; Banque de France, « Plan d'épargne en actions - 2025 » (06/2026) ; BCE, blog (17/08/2026) ; Agirc-Arrco, résultats 2025 (31/03/2026)\n- France : France-Epargne sur Schneider Electric (16/10/2026) ; abcbourse sur Legrand (29/07/2026) ; RTE via les-energies-renouvelables.eu (28/07/2026) ; JeChange (11/09/2026) ; Banque de France, Bulletin n° 266 (2026) ; Maddyness sur le gouverneur Moulin (02/11/2026)\n\n🎞️ Photos, extraits et crédits\n- Jensen Huang à Stanford (30/04/2026) : Anderseidesvik, Wikimedia Commons, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)\n- Sam Altman à une conférence TED : Steve Jurvetson, Wikimedia Commons, CC BY 2.0 (https://creativecommons.org/licenses/by/2.0)\n- Sundar Pichai (2023) : Lukasz Kobus (European Commission), Wikimedia Commons, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0)\n- Emmanuel Moulin (Banque de France) : Thomas Padilla (Commission européenne), Wikimedia Commons, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0)\n- Dario Amodei au TechCrunch Disrupt 2023 : TechCrunch, Wikimedia Commons, CC BY 2.0 (https://creativecommons.org/licenses/by/2.0)\n- Dario Amodei, « Anthropic C.E.O.: Massive A.I. Spending Could Haunt Some Companies », The New York Times (DealBook Summit), 4:47 à 4:53, courte citation doublée en français\n- Sam Altman, « Sam Altman on Astra, AGI, and the future of OpenAI », Sources Podcast, 55:28 à 55:34, courte citation doublée en français\n- Sundar Pichai, « Google boss says trillion-dollar AI investment boom has 'elements of irrationality' », BBC News, 0:45 à 0:51, courte citation doublée en français\n\nMusique : bibliothèque audio YouTube.\nDessins d'illustration ; montants datés, en dollars ou euros courants. Explication générale, pas un conseil en investissement.",
       "image_url": "https://i4.ytimg.com/vi/CQkb8USMmw0/hqdefault.jpg",
       "source_id": "eco-en-batons",
@@ -669,7 +681,7 @@
       "published_at": "2026-11-06T19:01:06+00:00",
       "updated_at": "2026-11-06T19:01:06+00:00",
       "description": "\"Running to Droks, 1k each, pay half at Rankor.\"\n\nIf you know, you know. 🏔️\n\nDid you pay for the run, or were you the one running it? Tell us your Droknar's Run story 👇\n\n#MMORPG #GuildWarsReforged #GuildWars #Gaming #mmorpggames",
-      "image_url": "https://scontent-dfw6-1.xx.fbcdn.net/v/t15.5256-10/884042340_1522470236595790_7468783753837623358_n.jpg?stp=dst-jpg_tt6&cstp=mx1920x1080&ctp=s960x960&_nc_cat=108&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=SFnqaxwV3QsQ7kNvwFBOBsL&_nc_oc=Adp0axb2um9EdHdBB76aH70o9YL7rHo43yyEj99yRTu8oCXH1PYjIA_EIDpIr8CyZoM&_nc_zt=23&_nc_ht=scontent-dfw6-1.xx&_nc_gid=RCK1UPc8vXMR0VJLxNiFFw&_nc_ss=7f289&oh=00_AQSIC0mkji01vwoftYptpY2RcZGraIIAr8mIpXP-t_aGFQ&oe=6AFB226D",
+      "image_url": "https://scontent-ord5-2.xx.fbcdn.net/v/t15.5256-10/884042340_1522470236595790_7468783753837623358_n.jpg?stp=dst-jpg_tt6&cstp=mx1920x1080&ctp=s960x960&_nc_cat=108&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=SFnqaxwV3QsQ7kNvwH2ipbZ&_nc_oc=AdqQbgq-JjGTloVsOvnWMJ1p9GOvQA7XCQHZahx0OYFI0EGeHGZyFMGsTg1Cq66rj7A&_nc_zt=23&_nc_ht=scontent-ord5-2.xx&_nc_gid=IuQhP38fXmhIIX6UTYArtQ&_nc_ss=7f289&oh=00_AQQ0Hbwv076oEwq1ynNzIt2B72geUGmLDwsQnbkDuwAeOw&oe=6AFB92ED",
       "source_id": "guild-wars",
       "source_name": "Guild Wars",
       "platform": "facebook"
