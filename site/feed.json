@@ -2,15 +2,15 @@
   "version": 1,
   "title": "Social Feed",
   "description": "Un seul fil pour suivre les sources qui comptent.",
-  "generated_at": "2026-11-11T22:44:16.846725+00:00",
+  "generated_at": "2026-11-12T03:49:55.029534+00:00",
   "sources": [
     {
       "id": "eco-en-batons",
       "name": "Éco en bâtons",
       "platform": "youtube",
       "url": "https://www.youtube.com/@Eco_en_batons",
-      "status": "ok",
-      "error": null,
+      "status": "error",
+      "error": "HTTPError: HTTP Error 404: Not Found",
       "last_success_at": "2026-11-11T22:44:16.846725+00:00",
       "item_count": 35
     },
@@ -19,8 +19,8 @@
       "name": "Investi QC",
       "platform": "youtube",
       "url": "https://www.youtube.com/@investi-qc",
-      "status": "ok",
-      "error": null,
+      "status": "error",
+      "error": "HTTPError: HTTP Error 404: Not Found",
       "last_success_at": "2026-11-11T22:44:16.846725+00:00",
       "item_count": 60
     },
@@ -29,8 +29,8 @@
       "name": "Hugo Lisoir",
       "platform": "youtube",
       "url": "https://www.youtube.com/@hugolisoiryoutube",
-      "status": "ok",
-      "error": null,
+      "status": "error",
+      "error": "HTTPError: HTTP Error 404: Not Found",
       "last_success_at": "2026-11-11T22:44:16.846725+00:00",
       "item_count": 24
     },
@@ -39,8 +39,8 @@
       "name": "Alex Demers — Finance 360",
       "platform": "youtube",
       "url": "https://www.youtube.com/@alexdemers-finance360",
-      "status": "ok",
-      "error": null,
+      "status": "error",
+      "error": "HTTPError: HTTP Error 404: Not Found",
       "last_success_at": "2026-11-11T22:44:16.846725+00:00",
       "item_count": 22
     },
@@ -51,7 +51,7 @@
       "url": "https://www.facebook.com/GuildWars/",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-11T22:44:16.846725+00:00",
+      "last_success_at": "2026-11-12T03:49:55.029534+00:00",
       "item_count": 9
     },
     {
@@ -61,7 +61,7 @@
       "url": "https://www.facebook.com/LOTRO/",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-11T22:44:16.846725+00:00",
+      "last_success_at": "2026-11-12T03:49:55.029534+00:00",
       "item_count": 29
     },
     {
@@ -71,8 +71,8 @@
       "url": "https://www.facebook.com/VilleDeLavaltrie/",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-11T22:44:16.846725+00:00",
-      "item_count": 23
+      "last_success_at": "2026-11-12T03:49:55.029534+00:00",
+      "item_count": 24
     },
     {
       "id": "traders-360",
@@ -81,11 +81,35 @@
       "url": "https://www.facebook.com/firmetraders360/",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-11T22:44:16.846725+00:00",
-      "item_count": 28
+      "last_success_at": "2026-11-12T03:49:55.029534+00:00",
+      "item_count": 29
     }
   ],
   "items": [
+    {
+      "id": "facebook:100063889127390:1675663964573225",
+      "title": "Un faible ratio P/E peut donner une fausse impression d’aubaine. ",
+      "url": "https://www.facebook.com/reel/958218247081415/",
+      "published_at": "2026-11-12T00:40:13+00:00",
+      "updated_at": "2026-11-12T00:40:13+00:00",
+      "description": "Un faible ratio P/E peut donner une fausse impression d’aubaine. \n\nSi les profits des fournisseurs de composantes se mettent à baisser, le rabais apparent pourrait disparaître assez vite.\n\nJe ne sais pas quand ce cycle de capex en infrastru",
+      "image_url": "https://scontent-dfw6-1.xx.fbcdn.net/v/t51.82787-10/899402197_18135750310669293_507797683376292107_n.jpg?stp=dst-jpg_tt6&cstp=mx720x1280&ctp=s960x960&_nc_cat=108&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=NWsbtxYhx_sQ7kNvwFGxcws&_nc_oc=AdofeI2u9h8SFz6kOWEP2BW8MPpGUmNDnoO6uEbfqETnZGpzfb_LTsIe7f30LzhYtxo&_nc_zt=23&_nc_ht=scontent-dfw6-1.xx&_nc_gid=YV2zRnNwrPN4sWZvVh-dUQ&_nc_ss=7f289&oh=00_AQSTGhXvQb1bj3Gob98SbrEmVMYMRDjqNHlLaMgw7p6Xig&oe=6AFAF440",
+      "source_id": "traders-360",
+      "source_name": "Traders 360",
+      "platform": "facebook"
+    },
+    {
+      "id": "facebook:100064655653099:1582874463877727",
+      "title": "𝐕𝐨𝐭𝐫𝐞 𝐚𝐯𝐢𝐬 𝐜𝐨𝐦𝐩𝐭𝐞 𝐩𝐨𝐮𝐫 𝐮𝐧 𝐦𝐢𝐥𝐢𝐞𝐮 𝐝𝐞 𝐯𝐢𝐞 𝐩𝐥𝐮𝐬 𝐫𝐞́𝐬𝐢𝐥𝐢𝐞𝐧𝐭 🌳 ",
+      "url": "https://www.facebook.com/VilleDeLavaltrie/posts/pfbid02tgA4bSPa6KZRqCE7nrGMhqetLzzaZnaMaV2JSHeN48CjWx3tg1RbhLH7NHiwPotUl",
+      "published_at": "2026-11-11T23:00:03+00:00",
+      "updated_at": "2026-11-11T23:00:03+00:00",
+      "description": "𝐕𝐨𝐭𝐫𝐞 𝐚𝐯𝐢𝐬 𝐜𝐨𝐦𝐩𝐭𝐞 𝐩𝐨𝐮𝐫 𝐮𝐧 𝐦𝐢𝐥𝐢𝐞𝐮 𝐝𝐞 𝐯𝐢𝐞 𝐩𝐥𝐮𝐬 𝐫𝐞́𝐬𝐢𝐥𝐢𝐞𝐧𝐭 🌳 \nQuelques jours encore avant la fin du sondage !\n\nComment pouvons-nous mieux adapter notre territoire aux changements climatiques? 🌧️\n\nAccompagnée par la firme GBI dans le cadre de l",
+      "image_url": "https://scontent-dfw6-2.xx.fbcdn.net/v/t39.99422-6/904022946_1496892072317124_6889367073212763709_n.png?stp=dst-jpg_tt6&cstp=mx1080x1080&ctp=p526x296&_nc_cat=101&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=nMspX1YflYgQ7kNvwH2L2NQ&_nc_oc=Adqtw7mCtnH_O6QRFPN2O323gkiphJof_zCADMLzET6MlwBVLkmH27bOIpbrkHWqtno&_nc_zt=14&_nc_ht=scontent-dfw6-2.xx&_nc_gid=X3N2YtXIIoDCU9JoLlYP5g&_nc_ss=7f289&oh=00_AQQAUbMSrwZz2nlgfryDXihvc5EWV7UkuxGcj50KeAndBg&oe=6AFB20C0",
+      "source_id": "ville-de-lavaltrie",
+      "source_name": "Ville de Lavaltrie",
+      "platform": "facebook"
+    },
     {
       "id": "facebook:100064792208382:1646618990841159",
       "title": "The LOTRO game worlds will be unavailable on Thursday, November 12th from 9:00 AM - 1:00 PM Eastern (-5 GMT) for weekly ",
@@ -645,7 +669,7 @@
       "published_at": "2026-11-06T19:01:06+00:00",
       "updated_at": "2026-11-06T19:01:06+00:00",
       "description": "\"Running to Droks, 1k each, pay half at Rankor.\"\n\nIf you know, you know. 🏔️\n\nDid you pay for the run, or were you the one running it? Tell us your Droknar's Run story 👇\n\n#MMORPG #GuildWarsReforged #GuildWars #Gaming #mmorpggames",
-      "image_url": "https://scontent-iad3-1.xx.fbcdn.net/v/t15.5256-10/884042340_1522470236595790_7468783753837623358_n.jpg?stp=dst-jpg_tt6&cstp=mx1920x1080&ctp=s960x960&_nc_cat=108&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=SFnqaxwV3QsQ7kNvwFwYHXC&_nc_oc=AdohrpfdnCIbyvAXxVDpW5vfWuymfrwIYGfKbW88kMzDqELc-PSE1m0a76CR8VOGQZ8&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&_nc_gid=P8EMPj6qoeoepRJC9ep6ag&_nc_ss=7f289&oh=00_AQSNkKa9xpBpZfeameB4Po_KlQBAULoGm8iAgkc-m5GjSA&oe=6AFAB1ED",
+      "image_url": "https://scontent-dfw6-1.xx.fbcdn.net/v/t15.5256-10/884042340_1522470236595790_7468783753837623358_n.jpg?stp=dst-jpg_tt6&cstp=mx1920x1080&ctp=s960x960&_nc_cat=108&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=SFnqaxwV3QsQ7kNvwFBOBsL&_nc_oc=Adp0axb2um9EdHdBB76aH70o9YL7rHo43yyEj99yRTu8oCXH1PYjIA_EIDpIr8CyZoM&_nc_zt=23&_nc_ht=scontent-dfw6-1.xx&_nc_gid=RCK1UPc8vXMR0VJLxNiFFw&_nc_ss=7f289&oh=00_AQSIC0mkji01vwoftYptpY2RcZGraIIAr8mIpXP-t_aGFQ&oe=6AFB226D",
       "source_id": "guild-wars",
       "source_name": "Guild Wars",
       "platform": "facebook"
