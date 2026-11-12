@@ -2,7 +2,7 @@
   "version": 1,
   "title": "Social Feed",
   "description": "Un seul fil pour suivre les sources qui comptent.",
-  "generated_at": "2026-11-12T12:47:32.316069+00:00",
+  "generated_at": "2026-11-12T20:50:54.438138+00:00",
   "sources": [
     {
       "id": "eco-en-batons",
@@ -11,7 +11,7 @@
       "url": "https://www.youtube.com/@Eco_en_batons",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-12T12:47:32.316069+00:00",
+      "last_success_at": "2026-11-12T20:50:54.438138+00:00",
       "item_count": 35
     },
     {
@@ -21,8 +21,8 @@
       "url": "https://www.youtube.com/@investi-qc",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-12T12:47:32.316069+00:00",
-      "item_count": 61
+      "last_success_at": "2026-11-12T20:50:54.438138+00:00",
+      "item_count": 63
     },
     {
       "id": "hugo-lisoir",
@@ -31,8 +31,8 @@
       "url": "https://www.youtube.com/@hugolisoiryoutube",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-12T12:47:32.316069+00:00",
-      "item_count": 24
+      "last_success_at": "2026-11-12T20:50:54.438138+00:00",
+      "item_count": 25
     },
     {
       "id": "alex-demers-finance360",
@@ -41,7 +41,7 @@
       "url": "https://www.youtube.com/@alexdemers-finance360",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-12T12:47:32.316069+00:00",
+      "last_success_at": "2026-11-12T20:50:54.438138+00:00",
       "item_count": 22
     },
     {
@@ -51,8 +51,8 @@
       "url": "https://www.facebook.com/GuildWars/",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-12T12:47:32.316069+00:00",
-      "item_count": 9
+      "last_success_at": "2026-11-12T20:50:54.438138+00:00",
+      "item_count": 10
     },
     {
       "id": "lotro",
@@ -61,8 +61,8 @@
       "url": "https://www.facebook.com/LOTRO/",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-12T12:47:32.316069+00:00",
-      "item_count": 29
+      "last_success_at": "2026-11-12T20:50:54.438138+00:00",
+      "item_count": 30
     },
     {
       "id": "ville-de-lavaltrie",
@@ -71,8 +71,8 @@
       "url": "https://www.facebook.com/VilleDeLavaltrie/",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-12T12:47:32.316069+00:00",
-      "item_count": 24
+      "last_success_at": "2026-11-12T20:50:54.438138+00:00",
+      "item_count": 25
     },
     {
       "id": "traders-360",
@@ -81,11 +81,95 @@
       "url": "https://www.facebook.com/firmetraders360/",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-12T12:47:32.316069+00:00",
-      "item_count": 29
+      "last_success_at": "2026-11-12T20:50:54.438138+00:00",
+      "item_count": 30
     }
   ],
   "items": [
+    {
+      "id": "facebook:100064655653099:1584063193758854",
+      "title": "𝐒𝐞𝐫𝐯𝐢𝐜𝐞𝐬 𝐐𝐮𝐞́𝐛𝐞𝐜 𝐚̀ 𝐋𝐚𝐯𝐚𝐥𝐭𝐫𝐢𝐞 💼",
+      "url": "https://www.facebook.com/VilleDeLavaltrie/posts/pfbid02FmrhpnjXkMAiLpSQvWSMaHBfzAB12rvRGEJutTbpGxURUrs6NjLd6kEkvaR1dxB7l",
+      "published_at": "2026-11-12T20:13:14+00:00",
+      "updated_at": "2026-11-12T20:13:14+00:00",
+      "description": "𝐒𝐞𝐫𝐯𝐢𝐜𝐞𝐬 𝐐𝐮𝐞́𝐛𝐞𝐜 𝐚̀ 𝐋𝐚𝐯𝐚𝐥𝐭𝐫𝐢𝐞 💼\n\nLe 𝟏𝟕 𝐧𝐨𝐯𝐞𝐦𝐛𝐫𝐞, venez rencontrer l’équipe de Services Québec dans les bureaux du CJE de D'Autray-Joliette, à sont point de services de Lavaltrie.\n\nVous avez besoin de conseils pour trouver un emploi? \nVous a",
+      "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.99422-6/906331690_1115526767858520_3185324000610791640_n.png?stp=dst-jpg_tt6&cstp=mx1200x1200&ctp=p526x296&_nc_cat=110&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=QujdPDI3fP8Q7kNvwGZsvri&_nc_oc=Adr7bt3w69Y9O7QdHTh49PVRjy3C8M6WzyLEdhJTXShyIdoJzxRFZlTPZYfYXb0sTWw&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=5ZcbDiWwjloWmmnAXMfnGA&_nc_ss=7f289&oh=00_AQTyMVTjWoYzofkKLo3H2jdxdjcLnwgH7weIdFAHwstAAg&oe=6AFBE595",
+      "source_id": "ville-de-lavaltrie",
+      "source_name": "Ville de Lavaltrie",
+      "platform": "facebook"
+    },
+    {
+      "id": "facebook:100064792208382:1647706957399029",
+      "title": "Weekly Coupon:",
+      "url": "https://www.facebook.com/LOTRO/posts/pfbid02TmJn69FFmEBb3S8dVdES1iqkE9STTttm4m7MmTx3AawD6vuj1Nv1CzdGJDsZmfjNl",
+      "published_at": "2026-11-12T20:05:20+00:00",
+      "updated_at": "2026-11-12T20:05:20+00:00",
+      "description": "Weekly Coupon:\nFree Dye: Burgundy\nCoupon Code: WINENOT\nNow through November 19th! #LOTRO",
+      "image_url": null,
+      "source_id": "lotro",
+      "source_name": "The Lord of the Rings Online",
+      "platform": "facebook"
+    },
+    {
+      "id": "youtube:-UWLHtTxtCU",
+      "title": "Qui a acheté le dip ? | Investi (Ép. 73)",
+      "url": "https://www.youtube.com/watch?v=-UWLHtTxtCU",
+      "published_at": "2026-11-12T20:00:29+00:00",
+      "updated_at": "2026-11-12T20:00:31+00:00",
+      "description": "Tout le monde veut acheter quand ça baisse… jusqu’à ce que ça baisse pour vrai. As-tu sorti ton portefeuille, et si oui, pour acheter quoi?\n\nOn compare les achats du pool Investi à ceux de Cathie Wood et des PDG d’entreprises, puis on examine la rotation entre technologie, énergie et santé. Le marché du crédit donne-t-il raison au rebond de l’IA?\n\nAu menu également : la controverse entourant Jensen Huang et les résultats attendus de Nvidia, les démocrates et les élections de mi-mandat, ainsi que les gagnants et perdants potentiels de GTA 6, bien au-delà de Take-Two.\n\nOn discute aussi du projet d’entrée en bourse d’Anthropic, de sa valorisation, de sa rivalité avec OpenAI et de l’utilisation de Claude au travail et dans nos analyses de placements. Sans oublier Tony Robbins, la marche sur la braise et les « squawk boxes » des traders!\n\nEt vous, quels titres avez-vous achetés pendant la baisse?\n\nPour diversifier une partie de tes avoirs quand les marchés paniquent, consulte les nouveaux taux des placements garantis de Banque Nationale : https://www.bnc.ca/particuliers/epargne-placements/cpg.html\n\nProfite de 0$ de commission sur actions et FNB au https://www.nbc.ca/fr/courtage-direct/podcast-investi\n\nSi tu gères tes placements par toi-même, sache que tu peux avoir de l'aide par téléphone pour te guider sur la plateforme de Banque Nationale Courtage Direct, au 1-800-363-3511, du lundi au vendredi, de 8 h à 18 h (HE). BNCD offre l’exécution d’ordres sans conseils. Vous êtes responsables de vos décisions de placement.\n\nJusqu'à 30% de rabais au www.pochesetfils.com pour tes cadeaux de Noël. Tu peux aussi faire des cadeaux à ton équipe au www.cestbeau.co/pages/custom\n\nLes informations partagées dans cette vidéo sont fournies à des fins éducatives et de divertissement seulement. Elles ne constituent pas des conseils financiers ni des recommandations d’achat ou de vente.",
+      "image_url": "https://i2.ytimg.com/vi/-UWLHtTxtCU/hqdefault.jpg",
+      "source_id": "investi-qc",
+      "source_name": "Investi QC",
+      "platform": "youtube"
+    },
+    {
+      "id": "facebook:100063889127390:1676567197816235",
+      "title": "Costco a annoncé un dividende spécial de 30$ par action.",
+      "url": "https://www.facebook.com/firmetraders360/posts/pfbid036Hz1w8k7yYjepPGMdZSVaK7RZ6zHyLndzKbe3gKaewhPLsyTNf1H2tHSzb6qreiWl",
+      "published_at": "2026-11-12T18:33:55+00:00",
+      "updated_at": "2026-11-12T18:33:55+00:00",
+      "description": "Costco a annoncé un dividende spécial de 30$ par action.\n\nUn dividende spécial c’est un paiement exceptionnel qui vient s’ajouter aux dividendes trimestriels réguliers. Costco verse présentement 1,47$ par action chaque trimestre.\n\nCe n’est ",
+      "image_url": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.99422-6/896380347_1133292642756140_2321528923702407248_n.png?stp=dst-jpg_tt6&cstp=mx1440x1088&ctp=p180x540&_nc_cat=105&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=GUPXc__qpyoQ7kNvwHgzqtx&_nc_oc=AdpkZwns42V8c13o6b9efUkZ6WCOwr90OFxHpqv77D-kHQ1u1tJ2dC-aNTKfuLXF2kk&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=5lPu6Ei4Q1Up1L2XHt6V5A&_nc_ss=7f289&oh=00_AQSvWvE1CRu-h2hJILuc9RLWmCFRtZgREsRhAKl0xACPDw&oe=6AFBF34E",
+      "source_id": "traders-360",
+      "source_name": "Traders 360",
+      "platform": "facebook"
+    },
+    {
+      "id": "youtube:rPGPTzgY_4c",
+      "title": "Il manque du lithium dans l’Univers, et personne ne sait pourquoi !",
+      "url": "https://www.youtube.com/watch?v=rPGPTzgY_4c",
+      "published_at": "2026-11-12T17:00:02+00:00",
+      "updated_at": "2026-11-12T17:00:03+00:00",
+      "description": "Les DOSSIERS DE L’ESPACE (LDDE) est un format qui fait le point sur une thématique particulière de l’astronomie et de l’exploration spatiale : histoire, technologies, découvertes et grands mystères de l’Univers.\nCette semaine, nous remontons aux premières minutes du cosmos pour enquêter sur le lithium manquant. \n\nSources :\n\nhttps://www.nature.com/articles/297483a0\nhttps://pdg.lbl.gov/2025/reviews/rpp2025-rev-bbang-nucleosynthesis.pdf\nhttps://www.nature.com/articles/nature05011\nhttps://arxiv.org/abs/2403.15534\nhttps://arxiv.org/abs/2601.12438\n\nMusiques : Pedro Macedo Camacho / Star Citizen, Utho Riley et Gérald M. Dorai\nImages : NASA, ESA et ESO\nMoteur 3D : Space Engine Pro",
+      "image_url": "https://i3.ytimg.com/vi/rPGPTzgY_4c/hqdefault.jpg",
+      "source_id": "hugo-lisoir",
+      "source_name": "Hugo Lisoir",
+      "platform": "youtube"
+    },
+    {
+      "id": "youtube:g2eIJTbtTp0",
+      "title": "Son horizon de placement sera toujours de 50 ans",
+      "url": "https://www.youtube.com/watch?v=g2eIJTbtTp0",
+      "published_at": "2026-11-12T16:42:38+00:00",
+      "updated_at": "2026-11-12T17:38:09+00:00",
+      "description": "Son horizon de placement sera toujours de 50 ans",
+      "image_url": "https://i4.ytimg.com/vi/g2eIJTbtTp0/hqdefault.jpg",
+      "source_id": "investi-qc",
+      "source_name": "Investi QC",
+      "platform": "youtube"
+    },
+    {
+      "id": "facebook:100069958479615:1439683098373626",
+      "title": "⚔️Some memories refuse to stay buried. In the Mists, they wait for you to return. Can you alter fate's memory?",
+      "url": "https://www.facebook.com/reel/1767492247812373/",
+      "published_at": "2026-11-12T16:00:06+00:00",
+      "updated_at": "2026-11-12T16:00:06+00:00",
+      "description": "⚔️Some memories refuse to stay buried. In the Mists, they wait for you to return. Can you alter fate's memory?\n\nAfterlife arrives January 13.\n\nPrepurchase today at https://store.guildwars.com/en-us\n\n#GWAfterlife #GuildWarsReforged #GuildWar",
+      "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t15.5256-10/899910853_2033292297508721_2657114463160350911_n.jpg?stp=dst-jpg_tt6&cstp=mx1920x1080&ctp=s960x960&_nc_cat=103&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=d2b52d&_nc_ohc=rRJC0QWqsdcQ7kNvwGtkqIk&_nc_oc=AdptPlEB6HEFzgdzko1Pk1gRvgB813Hp2m_qvUaAba599CtC1zLKl6ZUlxKghcK5iCs&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&_nc_gid=MMWiD8Rsf4bILyST5eI1Nw&_nc_ss=7f289&oh=00_AQRfki2hHnmHl8FQTal5_MQvkKoIBuLEWtPAgLJd9FKMTw&oe=6AFBF93E",
+      "source_id": "guild-wars",
+      "source_name": "Guild Wars",
+      "platform": "facebook"
+    },
     {
       "id": "facebook:100063889127390:1675663964573225",
       "title": "Un faible ratio P/E peut donner une fausse impression d’aubaine. ",
