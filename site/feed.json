@@ -2,7 +2,7 @@
   "version": 1,
   "title": "Social Feed",
   "description": "Un seul fil pour suivre les sources qui comptent.",
-  "generated_at": "2026-11-13T09:35:47.924628+00:00",
+  "generated_at": "2026-11-13T17:47:26.501412+00:00",
   "sources": [
     {
       "id": "eco-en-batons",
@@ -11,7 +11,7 @@
       "url": "https://www.youtube.com/@Eco_en_batons",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-13T09:35:47.924628+00:00",
+      "last_success_at": "2026-11-13T17:47:26.501412+00:00",
       "item_count": 35
     },
     {
@@ -21,8 +21,8 @@
       "url": "https://www.youtube.com/@investi-qc",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-13T09:35:47.924628+00:00",
-      "item_count": 64
+      "last_success_at": "2026-11-13T17:47:26.501412+00:00",
+      "item_count": 65
     },
     {
       "id": "hugo-lisoir",
@@ -31,7 +31,7 @@
       "url": "https://www.youtube.com/@hugolisoiryoutube",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-13T09:35:47.924628+00:00",
+      "last_success_at": "2026-11-13T17:47:26.501412+00:00",
       "item_count": 25
     },
     {
@@ -41,7 +41,7 @@
       "url": "https://www.youtube.com/@alexdemers-finance360",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-13T09:35:47.924628+00:00",
+      "last_success_at": "2026-11-13T17:47:26.501412+00:00",
       "item_count": 22
     },
     {
@@ -51,7 +51,7 @@
       "url": "https://www.facebook.com/GuildWars/",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-13T09:35:47.924628+00:00",
+      "last_success_at": "2026-11-13T17:47:26.501412+00:00",
       "item_count": 10
     },
     {
@@ -61,7 +61,7 @@
       "url": "https://www.facebook.com/LOTRO/",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-13T09:35:47.924628+00:00",
+      "last_success_at": "2026-11-13T17:47:26.501412+00:00",
       "item_count": 31
     },
     {
@@ -71,8 +71,8 @@
       "url": "https://www.facebook.com/VilleDeLavaltrie/",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-13T09:35:47.924628+00:00",
-      "item_count": 26
+      "last_success_at": "2026-11-13T17:47:26.501412+00:00",
+      "item_count": 27
     },
     {
       "id": "traders-360",
@@ -81,11 +81,47 @@
       "url": "https://www.facebook.com/firmetraders360/",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-13T09:35:47.924628+00:00",
-      "item_count": 31
+      "last_success_at": "2026-11-13T17:47:26.501412+00:00",
+      "item_count": 32
     }
   ],
   "items": [
+    {
+      "id": "facebook:100063889127390:1677547947718160",
+      "title": "Le Bitcoin vient de repasser sous les 70,000$US.",
+      "url": "https://www.facebook.com/firmetraders360/posts/pfbid0k8TJPDpuLNrbX67BedZrJSRoGcPAp4QuL1LVGkFVUFuRgUQTQ5in4QRdjucjEt7Rl",
+      "published_at": "2026-11-13T15:26:42+00:00",
+      "updated_at": "2026-11-13T15:26:42+00:00",
+      "description": "Le Bitcoin vient de repasser sous les 70,000$US.\n\nPour ceux qui me demandent si ça devient intéressant à ce prix-là, ma réponse reste toujours la même.\n\nJe n’ai aucun investissement dans la crypto. Pas de Bitcoin, pas d’Ethereum, rien.\n\nCe ",
+      "image_url": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.99422-6/907032626_982613527767457_7944023297846506749_n.png?stp=dst-jpg_tt6&cstp=mx1680x960&ctp=p180x540&_nc_cat=109&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=l4USPyyphPcQ7kNvwEKkwB2&_nc_oc=AdrFH6rwqTLuPD8eMSEMfKg6CsJq7dwPVdskIffmlAHn_iqhOYzT5ebBRgwEkXXxdcg&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=7Nvjwd-2Lf4OZwrU5B5NaA&_nc_ss=7f289&oh=00_AQTrdCjsrnRLt0KgxbF1aNbCs_pXg0Afn5v9zJ6CCSJiJg&oe=6AFD1039",
+      "source_id": "traders-360",
+      "source_name": "Traders 360",
+      "platform": "facebook"
+    },
+    {
+      "id": "youtube:_-B8u-EEHEw",
+      "title": "#collage avec TheStreet Il y a parfois des signaux d’achat clairs, et parfois…",
+      "url": "https://www.youtube.com/watch?v=_-B8u-EEHEw",
+      "published_at": "2026-11-13T14:40:34+00:00",
+      "updated_at": "2026-11-13T15:16:34+00:00",
+      "description": "#collage avec TheStreet Il y a parfois des signaux d’achat clairs, et parfois…",
+      "image_url": "https://i4.ytimg.com/vi/_-B8u-EEHEw/hqdefault.jpg",
+      "source_id": "investi-qc",
+      "source_name": "Investi QC",
+      "platform": "youtube"
+    },
+    {
+      "id": "facebook:100064655653099:1585000336998473",
+      "title": "🎨𝗗𝗲𝘂𝘅 𝗮𝘁𝗲𝗹𝗶𝗲𝗿𝘀 𝗽𝗼𝘂𝗿 𝗹𝗮𝗶𝘀𝘀𝗲𝗿 𝗹𝗶𝗯𝗿𝗲 𝗰𝗼𝘂𝗿𝘀 𝗮̀ 𝘃𝗼𝘁𝗿𝗲 𝗰𝗿𝗲́𝗮𝘁𝗶𝘃𝗶𝘁𝗲́!",
+      "url": "https://www.facebook.com/VilleDeLavaltrie/posts/pfbid02XCBP3fu41H2EFaVqK3QxDsXQUrSFY7MjQPei5YgABQJXxiJgutL5pbszzFyKphYBl",
+      "published_at": "2026-11-13T13:39:02+00:00",
+      "updated_at": "2026-11-13T13:39:02+00:00",
+      "description": "🎨𝗗𝗲𝘂𝘅 𝗮𝘁𝗲𝗹𝗶𝗲𝗿𝘀 𝗽𝗼𝘂𝗿 𝗹𝗮𝗶𝘀𝘀𝗲𝗿 𝗹𝗶𝗯𝗿𝗲 𝗰𝗼𝘂𝗿𝘀 𝗮̀ 𝘃𝗼𝘁𝗿𝗲 𝗰𝗿𝗲́𝗮𝘁𝗶𝘃𝗶𝘁𝗲́!\n\nEnvie de découvrir une nouvelle technique artistique? Deux ateliers vous attendent à la Bibliothèque Sylvie-Thouin en novembre!\n\n🦢 𝗟’𝗮𝗿𝘁 𝗱𝘂 𝗽𝗹𝗶𝗮𝗴𝗲 – 𝗔𝘁𝗲𝗹𝗶𝗲𝗿 𝗱'𝗼𝗿𝗶𝗴𝗮𝗺𝗶\nDécouvrez",
+      "image_url": null,
+      "source_id": "ville-de-lavaltrie",
+      "source_name": "Ville de Lavaltrie",
+      "platform": "facebook"
+    },
     {
       "id": "youtube:dgueK6NDM00",
       "title": "3e liaison? Jusqu’à combien va-t-on se rendre?",
@@ -117,7 +153,7 @@
       "published_at": "2026-11-12T23:58:59+00:00",
       "updated_at": "2026-11-12T23:58:59+00:00",
       "description": "Join us this Saturday, November 14th starting at 7:00am Eastern (-5 GMT) for our Extra Life Marathon on Twitch.tv/LOTROstream! We'll stream all day and night with giveaways for charity. Read more on LOTRO.com: https://www.lotro.com/news/lot",
-      "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.99422-6/904221332_1284448297201042_5836886470063035116_n.png?stp=dst-jpg_tt6&cstp=mx1200x675&ctp=s960x960&_nc_cat=109&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=UVBEilid18UQ7kNvwHp74j4&_nc_oc=AdrjYdkor19YfUCX9X7PN1Az1BtidUHYQfjhr4KhHFAHbUhyD-ark_W_gHqhcCeD69g&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=Ueu106cMXYk3u3IzbSGnMQ&_nc_ss=7f289&oh=00_AQRY_tyVZUfzpEqjvb6IvHlU-wrmBcHLURoEjeV5xJ9Xog&oe=6AFCAB0C",
+      "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.99422-6/904221332_1284448297201042_5836886470063035116_n.png?stp=dst-jpg_tt6&cstp=mx1200x675&ctp=s960x960&_nc_cat=109&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=UVBEilid18UQ7kNvwGBTK0O&_nc_oc=Adp45H2kB2ZeZYDgdwPY16RERhoemCnkWkpKfzZoOf4z9yNv5p_DfkAPJoJ-fzw5Yec&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=EXP_ekO15R_hLdaq0HJjpw&_nc_ss=7f289&oh=00_AQSh7LgU2fFX8sZl224K6t2F5xfmaHYO6aR0eNA3j5wSCg&oe=6AFD1B8C",
       "source_id": "lotro",
       "source_name": "The Lord of the Rings Online",
       "platform": "facebook"
@@ -213,7 +249,7 @@
       "published_at": "2026-11-12T16:00:06+00:00",
       "updated_at": "2026-11-12T16:00:06+00:00",
       "description": "⚔️Some memories refuse to stay buried. In the Mists, they wait for you to return. Can you alter fate's memory?\n\nAfterlife arrives January 13.\n\nPrepurchase today at https://store.guildwars.com/en-us\n\n#GWAfterlife #GuildWarsReforged #GuildWar",
-      "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t15.5256-10/899910853_2033292297508721_2657114463160350911_n.jpg?stp=dst-jpg_tt6&cstp=mx1920x1080&ctp=s960x960&_nc_cat=103&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=d2b52d&_nc_ohc=nGwkxXBi514Q7kNvwGPyOeV&_nc_oc=AdqmJ79wLTLtCmSTShGnl_jZL0k4wWG5jJ0mqRLUKglF9-K8_CSsvB2Nd_Xu8YOQy9M&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&_nc_gid=IBM0GkCw2V8Eywk8YciEVg&_nc_ss=7f289&oh=00_AQR8OhKrBvQosT_8pcZtq67A3SGXwZsMVM2nhcwHa52Uag&oe=6AFCA1FE",
+      "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t15.5256-10/899910853_2033292297508721_2657114463160350911_n.jpg?stp=dst-jpg_tt6&cstp=mx1920x1080&ctp=s960x960&_nc_cat=103&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=d2b52d&_nc_ohc=nGwkxXBi514Q7kNvwHnis4k&_nc_oc=Adp283oH6IBei77xzCJyUw84A4CBbeMxYBG1iOYIFzKY70oYKCbYWucps2nDxLpH8Eg&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&_nc_gid=RglR7f05GqPcp7anDANx5w&_nc_ss=7f289&oh=00_AQQr1dtvJiTXYMgF5erNRJ8hTD25O1BSqs9R7wUZCCtZUg&oe=6AFD127E",
       "source_id": "guild-wars",
       "source_name": "Guild Wars",
       "platform": "facebook"
