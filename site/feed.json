@@ -2,15 +2,15 @@
   "version": 1,
   "title": "Social Feed",
   "description": "Un seul fil pour suivre les sources qui comptent.",
-  "generated_at": "2026-11-12T20:50:54.438138+00:00",
+  "generated_at": "2026-11-13T01:51:54.287635+00:00",
   "sources": [
     {
       "id": "eco-en-batons",
       "name": "Éco en bâtons",
       "platform": "youtube",
       "url": "https://www.youtube.com/@Eco_en_batons",
-      "status": "ok",
-      "error": null,
+      "status": "error",
+      "error": "HTTPError: HTTP Error 404: Not Found",
       "last_success_at": "2026-11-12T20:50:54.438138+00:00",
       "item_count": 35
     },
@@ -19,8 +19,8 @@
       "name": "Investi QC",
       "platform": "youtube",
       "url": "https://www.youtube.com/@investi-qc",
-      "status": "ok",
-      "error": null,
+      "status": "error",
+      "error": "HTTPError: HTTP Error 404: Not Found",
       "last_success_at": "2026-11-12T20:50:54.438138+00:00",
       "item_count": 63
     },
@@ -29,8 +29,8 @@
       "name": "Hugo Lisoir",
       "platform": "youtube",
       "url": "https://www.youtube.com/@hugolisoiryoutube",
-      "status": "ok",
-      "error": null,
+      "status": "error",
+      "error": "HTTPError: HTTP Error 404: Not Found",
       "last_success_at": "2026-11-12T20:50:54.438138+00:00",
       "item_count": 25
     },
@@ -39,8 +39,8 @@
       "name": "Alex Demers — Finance 360",
       "platform": "youtube",
       "url": "https://www.youtube.com/@alexdemers-finance360",
-      "status": "ok",
-      "error": null,
+      "status": "error",
+      "error": "HTTPError: HTTP Error 404: Not Found",
       "last_success_at": "2026-11-12T20:50:54.438138+00:00",
       "item_count": 22
     },
@@ -51,7 +51,7 @@
       "url": "https://www.facebook.com/GuildWars/",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-12T20:50:54.438138+00:00",
+      "last_success_at": "2026-11-13T01:51:54.287635+00:00",
       "item_count": 10
     },
     {
@@ -61,8 +61,8 @@
       "url": "https://www.facebook.com/LOTRO/",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-12T20:50:54.438138+00:00",
-      "item_count": 30
+      "last_success_at": "2026-11-13T01:51:54.287635+00:00",
+      "item_count": 31
     },
     {
       "id": "ville-de-lavaltrie",
@@ -71,8 +71,8 @@
       "url": "https://www.facebook.com/VilleDeLavaltrie/",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-12T20:50:54.438138+00:00",
-      "item_count": 25
+      "last_success_at": "2026-11-13T01:51:54.287635+00:00",
+      "item_count": 26
     },
     {
       "id": "traders-360",
@@ -81,11 +81,47 @@
       "url": "https://www.facebook.com/firmetraders360/",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-12T20:50:54.438138+00:00",
-      "item_count": 30
+      "last_success_at": "2026-11-13T01:51:54.287635+00:00",
+      "item_count": 31
     }
   ],
   "items": [
+    {
+      "id": "facebook:100063889127390:1676800451126243",
+      "title": "Toujours emprunter davantage pour continuer à grossir, ça peut durer combien de temps?",
+      "url": "https://www.facebook.com/reel/1805069507488980/",
+      "published_at": "2026-11-13T00:21:00+00:00",
+      "updated_at": "2026-11-13T00:21:00+00:00",
+      "description": "Toujours emprunter davantage pour continuer à grossir, ça peut durer combien de temps?\n\nC’est ce qui m’inquiète avec les neoclouds comme CoreWeave et Nebius. Quand la croissance dépend continuellement de nouvelles dettes, je considère que l",
+      "image_url": "https://scontent-sjc6-1.xx.fbcdn.net/v/t51.82787-10/902389867_18135841711669293_5434152741974441589_n.jpg?stp=dst-jpg_tt6&cstp=mx720x1280&ctp=s960x960&_nc_cat=104&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=SNmFBYUTmtEQ7kNvwFc6CuN&_nc_oc=AdpQaepgGAYoL_UeD94vqWUln3EFhT07kdvYslZQrQMAtOe1CVkdiEcOt6he0yxfiJM&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=3PbONI1YQBW3IiNZzvPCZA&_nc_ss=7f289&oh=00_AQTzhcXcWuJNCIhQXGX1tiJfE469EZpgH0qL7LkCfyBiMg&oe=6AFC46E3",
+      "source_id": "traders-360",
+      "source_name": "Traders 360",
+      "platform": "facebook"
+    },
+    {
+      "id": "facebook:100064792208382:1647875880715470",
+      "title": "Join us this Saturday, November 14th starting at 7:00am Eastern (-5 GMT) for our Extra Life Marathon on Twitch.tv/LOTROs",
+      "url": "https://www.facebook.com/LOTRO/posts/pfbid024hhiNLXpmowYGWdSK5FzzrMJcYP4utbuwNhQij5hvL8UUE8P79fa3BPexxeKma2il",
+      "published_at": "2026-11-12T23:58:59+00:00",
+      "updated_at": "2026-11-12T23:58:59+00:00",
+      "description": "Join us this Saturday, November 14th starting at 7:00am Eastern (-5 GMT) for our Extra Life Marathon on Twitch.tv/LOTROstream! We'll stream all day and night with giveaways for charity. Read more on LOTRO.com: https://www.lotro.com/news/lot",
+      "image_url": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.99422-6/904221332_1284448297201042_5836886470063035116_n.png?stp=dst-jpg_tt6&cstp=mx1200x675&ctp=s960x960&_nc_cat=109&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=UVBEilid18UQ7kNvwGhKoIP&_nc_oc=AdrOYDmnbGA39kWMZg6MSdwKDaTBmf10FPHo_QCP3O1b7oobuKad8DCDSua3M8V20iM&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=3L4EM4sIyRq7KpAqdQ2QSg&_nc_ss=7f289&oh=00_AQQcBawMjANjLf6Ch2uQNZbLTctyLNJT2NENsUp-QNFzMA&oe=6AFC3A8C",
+      "source_id": "lotro",
+      "source_name": "The Lord of the Rings Online",
+      "platform": "facebook"
+    },
+    {
+      "id": "facebook:100064655653099:1584159550415885",
+      "title": "𝗤𝘂𝗼𝗶 𝗳𝗮𝗶𝗿𝗲 𝗰𝗲 𝘄𝗲𝗲𝗸𝗲𝗻𝗱 🌤🍂",
+      "url": "https://www.facebook.com/VilleDeLavaltrie/posts/pfbid02UMARdSVbEqieCqqGuY7mTCka6y2tnJN456wJbSrGTVTuxcEb3cTtQGb4Jppu7eLTl",
+      "published_at": "2026-11-12T22:12:03+00:00",
+      "updated_at": "2026-11-12T22:12:03+00:00",
+      "description": "𝗤𝘂𝗼𝗶 𝗳𝗮𝗶𝗿𝗲 𝗰𝗲 𝘄𝗲𝗲𝗸𝗲𝗻𝗱 🌤🍂\n\n𝗚𝘂𝗶𝗴𝗻𝗼𝗹𝗲́𝗲 𝗱𝗲 𝗟𝗮𝘃𝗮𝗹𝘁𝗿𝗶𝗲 🫶💰\n📍 Au coin des rues Saint-Antoine et du Tricentenaire\n🗓️ Samedi, 9 h à 16 h\n\n𝗦𝗼𝘂𝗽𝗲𝗿 𝗱𝗮𝗻𝘀𝗮𝗻𝘁 ($) 💃🍝\nPar le Club FADOQ de Lavaltrie - F005 \n📍 École secondaire de la Rive\n🗓️ Samedi, 18 h\n\n𝗕𝗮𝘀",
+      "image_url": null,
+      "source_id": "ville-de-lavaltrie",
+      "source_name": "Ville de Lavaltrie",
+      "platform": "facebook"
+    },
     {
       "id": "facebook:100064655653099:1584063193758854",
       "title": "𝐒𝐞𝐫𝐯𝐢𝐜𝐞𝐬 𝐐𝐮𝐞́𝐛𝐞𝐜 𝐚̀ 𝐋𝐚𝐯𝐚𝐥𝐭𝐫𝐢𝐞 💼",
@@ -165,7 +201,7 @@
       "published_at": "2026-11-12T16:00:06+00:00",
       "updated_at": "2026-11-12T16:00:06+00:00",
       "description": "⚔️Some memories refuse to stay buried. In the Mists, they wait for you to return. Can you alter fate's memory?\n\nAfterlife arrives January 13.\n\nPrepurchase today at https://store.guildwars.com/en-us\n\n#GWAfterlife #GuildWarsReforged #GuildWar",
-      "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t15.5256-10/899910853_2033292297508721_2657114463160350911_n.jpg?stp=dst-jpg_tt6&cstp=mx1920x1080&ctp=s960x960&_nc_cat=103&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=d2b52d&_nc_ohc=rRJC0QWqsdcQ7kNvwGtkqIk&_nc_oc=AdptPlEB6HEFzgdzko1Pk1gRvgB813Hp2m_qvUaAba599CtC1zLKl6ZUlxKghcK5iCs&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&_nc_gid=MMWiD8Rsf4bILyST5eI1Nw&_nc_ss=7f289&oh=00_AQRfki2hHnmHl8FQTal5_MQvkKoIBuLEWtPAgLJd9FKMTw&oe=6AFBF93E",
+      "image_url": "https://scontent-sjc3-1.xx.fbcdn.net/v/t15.5256-10/899910853_2033292297508721_2657114463160350911_n.jpg?stp=dst-jpg_tt6&cstp=mx1920x1080&ctp=s960x960&_nc_cat=103&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=d2b52d&_nc_ohc=nGwkxXBi514Q7kNvwE-ffDe&_nc_oc=Adpa1A_W26Xro7co4Gr8q-U0W9FKYBVPG4_z17K6dwl542KW0RB9bm2U_4u4u-js-uk&_nc_zt=23&_nc_ht=scontent-sjc3-1.xx&_nc_gid=uBli-I5bb7rjsAKbb2RmnQ&_nc_ss=7f289&oh=00_AQSizL_7jnEvViBpA_ha8YtBY05ccdg90I0bXd4d0xCIZA&oe=6AFC317E",
       "source_id": "guild-wars",
       "source_name": "Guild Wars",
       "platform": "facebook"
