@@ -2,15 +2,15 @@
   "version": 1,
   "title": "Social Feed",
   "description": "Un seul fil pour suivre les sources qui comptent.",
-  "generated_at": "2026-11-13T17:47:26.501412+00:00",
+  "generated_at": "2026-11-13T23:36:43.066859+00:00",
   "sources": [
     {
       "id": "eco-en-batons",
       "name": "Éco en bâtons",
       "platform": "youtube",
       "url": "https://www.youtube.com/@Eco_en_batons",
-      "status": "ok",
-      "error": null,
+      "status": "error",
+      "error": "HTTPError: HTTP Error 404: Not Found",
       "last_success_at": "2026-11-13T17:47:26.501412+00:00",
       "item_count": 35
     },
@@ -19,8 +19,8 @@
       "name": "Investi QC",
       "platform": "youtube",
       "url": "https://www.youtube.com/@investi-qc",
-      "status": "ok",
-      "error": null,
+      "status": "error",
+      "error": "HTTPError: HTTP Error 404: Not Found",
       "last_success_at": "2026-11-13T17:47:26.501412+00:00",
       "item_count": 65
     },
@@ -29,8 +29,8 @@
       "name": "Hugo Lisoir",
       "platform": "youtube",
       "url": "https://www.youtube.com/@hugolisoiryoutube",
-      "status": "ok",
-      "error": null,
+      "status": "error",
+      "error": "HTTPError: HTTP Error 404: Not Found",
       "last_success_at": "2026-11-13T17:47:26.501412+00:00",
       "item_count": 25
     },
@@ -39,8 +39,8 @@
       "name": "Alex Demers — Finance 360",
       "platform": "youtube",
       "url": "https://www.youtube.com/@alexdemers-finance360",
-      "status": "ok",
-      "error": null,
+      "status": "error",
+      "error": "HTTPError: HTTP Error 404: Not Found",
       "last_success_at": "2026-11-13T17:47:26.501412+00:00",
       "item_count": 22
     },
@@ -51,8 +51,8 @@
       "url": "https://www.facebook.com/GuildWars/",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-13T17:47:26.501412+00:00",
-      "item_count": 10
+      "last_success_at": "2026-11-13T23:36:43.066859+00:00",
+      "item_count": 11
     },
     {
       "id": "lotro",
@@ -61,8 +61,8 @@
       "url": "https://www.facebook.com/LOTRO/",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-13T17:47:26.501412+00:00",
-      "item_count": 31
+      "last_success_at": "2026-11-13T23:36:43.066859+00:00",
+      "item_count": 32
     },
     {
       "id": "ville-de-lavaltrie",
@@ -71,7 +71,7 @@
       "url": "https://www.facebook.com/VilleDeLavaltrie/",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-13T17:47:26.501412+00:00",
+      "last_success_at": "2026-11-13T23:36:43.066859+00:00",
       "item_count": 27
     },
     {
@@ -81,11 +81,35 @@
       "url": "https://www.facebook.com/firmetraders360/",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-13T17:47:26.501412+00:00",
+      "last_success_at": "2026-11-13T23:36:43.066859+00:00",
       "item_count": 32
     }
   ],
   "items": [
+    {
+      "id": "facebook:100064792208382:1649122900590768",
+      "title": "Decorate like a Dark Lord! We are giving away three housing cosmetic items to all players with the Coupon Code SAURONSGI",
+      "url": "https://www.facebook.com/LOTRO/posts/pfbid02gdyfCFeai35ZCW1vrtCHLCEkyWPwFre1tjUtPRKBEZUgTEnys5jpDwdMc3puvXZWl",
+      "published_at": "2026-11-13T23:10:24+00:00",
+      "updated_at": "2026-11-13T23:10:24+00:00",
+      "description": "Decorate like a Dark Lord! We are giving away three housing cosmetic items to all players with the Coupon Code SAURONSGIFT through December 10th! Get more info here: https://ow.ly/fNKB5106ABp #LOTRO",
+      "image_url": null,
+      "source_id": "lotro",
+      "source_name": "The Lord of the Rings Online",
+      "platform": "facebook"
+    },
+    {
+      "id": "facebook:100069958479615:1441586231516646",
+      "title": "Friday the 13th? Unlucky for some… but not for those who prepurchase Afterlife and get the Vestments of the Order costum",
+      "url": "https://www.facebook.com/reel/2673689483074821/",
+      "published_at": "2026-11-13T19:01:14+00:00",
+      "updated_at": "2026-11-13T19:01:14+00:00",
+      "description": "Friday the 13th? Unlucky for some… but not for those who prepurchase Afterlife and get the Vestments of the Order costume. 🖤 \n🐲 T-2 months until Afterlife.\n\nPrepurchase today at store.guildwars.com\n\n#MMORPG #GuildWarsReforged #GuildWars #Ga",
+      "image_url": "https://scontent-iad3-1.xx.fbcdn.net/v/t15.5256-10/893208814_1587014423182556_4135011313382737276_n.jpg?stp=dst-jpg_tt6&cstp=mx1920x1080&ctp=s960x960&_nc_cat=102&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=dmeoxaLzn0oQ7kNvwFiYtn2&_nc_oc=AdqY0z9fnIOYDOhPil98egLORxZY3a2TTtFeZiRqNUQwlz-DyFBoIaLS0ru-2CKD8HY&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&_nc_gid=mWRtfNZELPZuG0CeUDuy0A&_nc_ss=7f289&oh=00_AQQ73Vyp3Vys9Cjd5vVcd9HVd0DI7Sa3eN3-_mssui7Oqw&oe=6AFD7F42",
+      "source_id": "guild-wars",
+      "source_name": "Guild Wars",
+      "platform": "facebook"
+    },
     {
       "id": "facebook:100063889127390:1677547947718160",
       "title": "Le Bitcoin vient de repasser sous les 70,000$US.",
@@ -93,7 +117,7 @@
       "published_at": "2026-11-13T15:26:42+00:00",
       "updated_at": "2026-11-13T15:26:42+00:00",
       "description": "Le Bitcoin vient de repasser sous les 70,000$US.\n\nPour ceux qui me demandent si ça devient intéressant à ce prix-là, ma réponse reste toujours la même.\n\nJe n’ai aucun investissement dans la crypto. Pas de Bitcoin, pas d’Ethereum, rien.\n\nCe ",
-      "image_url": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.99422-6/907032626_982613527767457_7944023297846506749_n.png?stp=dst-jpg_tt6&cstp=mx1680x960&ctp=p180x540&_nc_cat=109&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=l4USPyyphPcQ7kNvwEKkwB2&_nc_oc=AdrFH6rwqTLuPD8eMSEMfKg6CsJq7dwPVdskIffmlAHn_iqhOYzT5ebBRgwEkXXxdcg&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=7Nvjwd-2Lf4OZwrU5B5NaA&_nc_ss=7f289&oh=00_AQTrdCjsrnRLt0KgxbF1aNbCs_pXg0Afn5v9zJ6CCSJiJg&oe=6AFD1039",
+      "image_url": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.99422-6/907032626_982613527767457_7944023297846506749_n.png?stp=dst-jpg_tt6&cstp=mx1680x960&ctp=p180x540&_nc_cat=109&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=l4USPyyphPcQ7kNvwFOeMw0&_nc_oc=AdrNLVTn3DjPR9v506KwUxhQ1-cVM1_8TULkhbiGpVKcyErAcQyolEVvgZY2F-Hh3Zc&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=qSx8-Ep8Jh_kE5kcFVLM3Q&_nc_ss=7f289&oh=00_AQTjlrX1eIO7i6N-Jw_vDYQ1NVt-qbMfu_yauAbieV_y-g&oe=6AFD80B9",
       "source_id": "traders-360",
       "source_name": "Traders 360",
       "platform": "facebook"
