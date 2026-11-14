@@ -2,15 +2,15 @@
   "version": 1,
   "title": "Social Feed",
   "description": "Un seul fil pour suivre les sources qui comptent.",
-  "generated_at": "2026-11-14T19:12:21.486700+00:00",
+  "generated_at": "2026-11-14T23:00:14.224576+00:00",
   "sources": [
     {
       "id": "eco-en-batons",
       "name": "Éco en bâtons",
       "platform": "youtube",
       "url": "https://www.youtube.com/@Eco_en_batons",
-      "status": "ok",
-      "error": null,
+      "status": "error",
+      "error": "HTTPError: HTTP Error 404: Not Found",
       "last_success_at": "2026-11-14T19:12:21.486700+00:00",
       "item_count": 35
     },
@@ -19,8 +19,8 @@
       "name": "Investi QC",
       "platform": "youtube",
       "url": "https://www.youtube.com/@investi-qc",
-      "status": "ok",
-      "error": null,
+      "status": "error",
+      "error": "HTTPError: HTTP Error 404: Not Found",
       "last_success_at": "2026-11-14T19:12:21.486700+00:00",
       "item_count": 68
     },
@@ -29,8 +29,8 @@
       "name": "Hugo Lisoir",
       "platform": "youtube",
       "url": "https://www.youtube.com/@hugolisoiryoutube",
-      "status": "ok",
-      "error": null,
+      "status": "error",
+      "error": "HTTPError: HTTP Error 404: Not Found",
       "last_success_at": "2026-11-14T19:12:21.486700+00:00",
       "item_count": 25
     },
@@ -39,8 +39,8 @@
       "name": "Alex Demers — Finance 360",
       "platform": "youtube",
       "url": "https://www.youtube.com/@alexdemers-finance360",
-      "status": "ok",
-      "error": null,
+      "status": "error",
+      "error": "HTTPError: HTTP Error 404: Not Found",
       "last_success_at": "2026-11-14T19:12:21.486700+00:00",
       "item_count": 22
     },
@@ -51,7 +51,7 @@
       "url": "https://www.facebook.com/GuildWars/",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-14T19:12:21.486700+00:00",
+      "last_success_at": "2026-11-14T23:00:14.224576+00:00",
       "item_count": 11
     },
     {
@@ -61,7 +61,7 @@
       "url": "https://www.facebook.com/LOTRO/",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-14T19:12:21.486700+00:00",
+      "last_success_at": "2026-11-14T23:00:14.224576+00:00",
       "item_count": 34
     },
     {
@@ -71,7 +71,7 @@
       "url": "https://www.facebook.com/VilleDeLavaltrie/",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-14T19:12:21.486700+00:00",
+      "last_success_at": "2026-11-14T23:00:14.224576+00:00",
       "item_count": 28
     },
     {
@@ -81,7 +81,7 @@
       "url": "https://www.facebook.com/firmetraders360/",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-14T19:12:21.486700+00:00",
+      "last_success_at": "2026-11-14T23:00:14.224576+00:00",
       "item_count": 32
     }
   ],
@@ -125,11 +125,11 @@
     {
       "id": "facebook:100064655653099:1586096256888881",
       "title": "𝗨𝗻𝗲 𝗰𝗼𝗺𝗽𝗲́𝘁𝗶𝘁𝗶𝗼𝗻 𝗶𝗻𝘁𝗲𝗿𝗻𝗮𝘁𝗶𝗼𝗻𝗮𝗹𝗲 𝗽𝗼𝘂𝗿 𝘂𝗻 𝗷𝗲𝘂𝗻𝗲 𝗹𝗮𝘃𝗮𝗹𝘁𝗿𝗼𝗶𝘀! ⚽️",
-      "url": "https://www.facebook.com/VilleDeLavaltrie/posts/pfbid02jXBKhmndt47Hdag6oGYwXPcvvYRP86ZmmJgoj2TmcjthspA9UCeRgqqmh1LtSYw9l",
+      "url": "https://www.facebook.com/VilleDeLavaltrie/posts/pfbid0fyY8ncAH2saxWPrVsgoNFue5oFxyFzYaAAfFDVf3rt7CdrbbU9zH5vL3Ng1oZTkNl",
       "published_at": "2026-11-14T11:51:02+00:00",
       "updated_at": "2026-11-14T11:51:02+00:00",
       "description": "𝗨𝗻𝗲 𝗰𝗼𝗺𝗽𝗲́𝘁𝗶𝘁𝗶𝗼𝗻 𝗶𝗻𝘁𝗲𝗿𝗻𝗮𝘁𝗶𝗼𝗻𝗮𝗹𝗲 𝗽𝗼𝘂𝗿 𝘂𝗻 𝗷𝗲𝘂𝗻𝗲 𝗹𝗮𝘃𝗮𝗹𝘁𝗿𝗼𝗶𝘀! ⚽️\n\nSélectionnés par la délégation canadienne pour représenter le Québec en 𝘀𝗼𝗰𝗰𝗲𝗿 𝗨𝟭𝟭 𝗮𝘂𝘅 𝗨𝗻𝗶𝘁𝗲𝗱 𝗪𝗼𝗿𝗹𝗱 𝗚𝗮𝗺𝗲𝘀, en Autriche, Angelo Sciaraffa et son équipe ont décroché une belle 5e p",
-      "image_url": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.99422-6/904540047_1432145769081854_3190205327009599791_n.png?stp=dst-jpg_tt6&cstp=mx1012x1516&ctp=p526x296&_nc_cat=102&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=OQHT5cb1SV8Q7kNvwEhJD6B&_nc_oc=AdofrC6dNyzMpCHCaaIprZHVFvuPGSfQe8TPl9oC8YtICDMMHOnIvyw8rQPX_vYiwzg&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=-KpYdGZ1rt5F6phQLIngIQ&_nc_ss=7f289&oh=00_AQTTv6YDa7Av_ZAc6egJCLjdlS2L9P8J_JrrTniVtdzIOQ&oe=6AFE6CEE",
+      "image_url": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.99422-6/904540047_1432145769081854_3190205327009599791_n.png?stp=dst-jpg_tt6&cstp=mx1012x1516&ctp=p526x296&_nc_cat=102&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=OQHT5cb1SV8Q7kNvwEgEty9&_nc_oc=AdqEf_euST2whjPQFkNZ4bgJwdgoxd2mQsBRoS_-a6mTGX3QX70bjttlatZ3knl88T8&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=gxC-wUiF00DaiHO-9OR-Wg&_nc_ss=7f289&oh=00_AQR_A3y305fSBOQWcT6wH6dh7WZOYUW8CFCW_mXT0TTd0A&oe=6AFEA52E",
       "source_id": "ville-de-lavaltrie",
       "source_name": "Ville de Lavaltrie",
       "platform": "facebook"
@@ -165,7 +165,7 @@
       "published_at": "2026-11-13T19:01:14+00:00",
       "updated_at": "2026-11-13T19:01:14+00:00",
       "description": "Friday the 13th? Unlucky for some… but not for those who prepurchase Afterlife and get the Vestments of the Order costume. 🖤 \n🐲 T-2 months until Afterlife.\n\nPrepurchase today at store.guildwars.com\n\n#MMORPG #GuildWarsReforged #GuildWars #Ga",
-      "image_url": "https://scontent-sjc3-1.xx.fbcdn.net/v/t15.5256-10/893208814_1587014423182556_4135011313382737276_n.jpg?stp=dst-jpg_tt6&cstp=mx1920x1080&ctp=s960x960&_nc_cat=102&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=dmeoxaLzn0oQ7kNvwFycwIP&_nc_oc=Adr5V4aqODr6BCcZiDyzH8rSuUcogPb6h11LeXE8K9fdkvWMvb4d8XdEInxBH1OC09Q&_nc_zt=23&_nc_ht=scontent-sjc3-1.xx&_nc_gid=vknVZebLV1uq9ulcuQ780w&_nc_ss=7f289&oh=00_AQSrwNuhVTqCctQ1wE7H05ZpQ3NMu8ggk_RxblNcIgO9sg&oe=6AFE9882",
+      "image_url": "https://scontent-sjc3-1.xx.fbcdn.net/v/t15.5256-10/893208814_1587014423182556_4135011313382737276_n.jpg?stp=dst-jpg_tt6&cstp=mx1920x1080&ctp=s960x960&_nc_cat=102&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=dmeoxaLzn0oQ7kNvwF_mMzm&_nc_oc=AdpNozNKsm0qmfvJKiMQHL9kUxpakGrWFETtow_9DRlbyJ-9YEKotKXC_n2aUXs_moE&_nc_zt=23&_nc_ht=scontent-sjc3-1.xx&_nc_gid=j4CYd0eoo9xWpBHDQEA0Cw&_nc_ss=7f289&oh=00_AQRAEEE3D0s-pGTzr7UHvMQcphQmsbXWF2K4rdSIT9dkVA&oe=6AFED0C2",
       "source_id": "guild-wars",
       "source_name": "Guild Wars",
       "platform": "facebook"
@@ -189,7 +189,7 @@
       "published_at": "2026-11-13T15:26:42+00:00",
       "updated_at": "2026-11-13T15:26:42+00:00",
       "description": "Le Bitcoin vient de repasser sous les 70,000$US.\n\nPour ceux qui me demandent si ça devient intéressant à ce prix-là, ma réponse reste toujours la même.\n\nJe n’ai aucun investissement dans la crypto. Pas de Bitcoin, pas d’Ethereum, rien.\n\nCe ",
-      "image_url": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.99422-6/907032626_982613527767457_7944023297846506749_n.png?stp=dst-jpg_tt6&cstp=mx1680x960&ctp=p180x540&_nc_cat=109&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=l4USPyyphPcQ7kNvwEYRRpj&_nc_oc=AdpmRnUPVkma9rQZ2RwaFEvydfgPNUS4PL4FshAaWUuBobjVE94rA0fmXzgqAwQpEng&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=0AGyOcPsWPOEhrvZxUzcqQ&_nc_ss=7f289&oh=00_AQTyfPEooO1rNIteOKQhwnbiJWYYNWJ9OCZkjGM3VsoHvg&oe=6AFE99F9",
+      "image_url": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.99422-6/907032626_982613527767457_7944023297846506749_n.png?stp=dst-jpg_tt6&cstp=mx1680x960&ctp=p180x540&_nc_cat=109&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=l4USPyyphPcQ7kNvwFITJTX&_nc_oc=AdrcMFP4ce6N_5--aNlRKcOb5ZovQo-YR73P_lEXXHW-rZScq3X8jf46KGyn2j83gvk&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=w4MxT0-kOQxCT3DKkyTHhQ&_nc_ss=7f289&oh=00_AQQM6gCbge_tCmetsYDb-1FZqMod93UxfXq8FzdZo_6AkA&oe=6AFED239",
       "source_id": "traders-360",
       "source_name": "Traders 360",
       "platform": "facebook"
