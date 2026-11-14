@@ -2,7 +2,7 @@
   "version": 1,
   "title": "Social Feed",
   "description": "Un seul fil pour suivre les sources qui comptent.",
-  "generated_at": "2026-11-14T14:11:55.131874+00:00",
+  "generated_at": "2026-11-14T19:12:21.486700+00:00",
   "sources": [
     {
       "id": "eco-en-batons",
@@ -11,7 +11,7 @@
       "url": "https://www.youtube.com/@Eco_en_batons",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-14T14:11:55.131874+00:00",
+      "last_success_at": "2026-11-14T19:12:21.486700+00:00",
       "item_count": 35
     },
     {
@@ -21,8 +21,8 @@
       "url": "https://www.youtube.com/@investi-qc",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-14T14:11:55.131874+00:00",
-      "item_count": 67
+      "last_success_at": "2026-11-14T19:12:21.486700+00:00",
+      "item_count": 68
     },
     {
       "id": "hugo-lisoir",
@@ -31,7 +31,7 @@
       "url": "https://www.youtube.com/@hugolisoiryoutube",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-14T14:11:55.131874+00:00",
+      "last_success_at": "2026-11-14T19:12:21.486700+00:00",
       "item_count": 25
     },
     {
@@ -41,7 +41,7 @@
       "url": "https://www.youtube.com/@alexdemers-finance360",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-14T14:11:55.131874+00:00",
+      "last_success_at": "2026-11-14T19:12:21.486700+00:00",
       "item_count": 22
     },
     {
@@ -51,7 +51,7 @@
       "url": "https://www.facebook.com/GuildWars/",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-14T14:11:55.131874+00:00",
+      "last_success_at": "2026-11-14T19:12:21.486700+00:00",
       "item_count": 11
     },
     {
@@ -61,8 +61,8 @@
       "url": "https://www.facebook.com/LOTRO/",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-14T14:11:55.131874+00:00",
-      "item_count": 33
+      "last_success_at": "2026-11-14T19:12:21.486700+00:00",
+      "item_count": 34
     },
     {
       "id": "ville-de-lavaltrie",
@@ -71,7 +71,7 @@
       "url": "https://www.facebook.com/VilleDeLavaltrie/",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-14T14:11:55.131874+00:00",
+      "last_success_at": "2026-11-14T19:12:21.486700+00:00",
       "item_count": 28
     },
     {
@@ -81,11 +81,35 @@
       "url": "https://www.facebook.com/firmetraders360/",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-14T14:11:55.131874+00:00",
+      "last_success_at": "2026-11-14T19:12:21.486700+00:00",
       "item_count": 32
     }
   ],
   "items": [
+    {
+      "id": "facebook:100064792208382:1650144807155244",
+      "title": "This week say a level cap increase for our Legendary Worlds of Angmar and Mordor! Learn more about our timeline for thes",
+      "url": "https://www.facebook.com/LOTRO/posts/pfbid02Y4R8a8iUtr5Erpjdtu3KmbchKvVr5Gm8a8BXCkrB9Q2HyevyYFwMJ5TkW3ak7fqal",
+      "published_at": "2026-11-14T18:15:18+00:00",
+      "updated_at": "2026-11-14T18:15:18+00:00",
+      "description": "This week say a level cap increase for our Legendary Worlds of Angmar and Mordor! Learn more about our timeline for these Veil of the Nine worlds on LOTRO.com: https://www.lotro.com/news/lotro-angmar-mordor-schedule-update-en #LOTRO",
+      "image_url": null,
+      "source_id": "lotro",
+      "source_name": "The Lord of the Rings Online",
+      "platform": "facebook"
+    },
+    {
+      "id": "youtube:49-vvm37I9g",
+      "title": "J’suis du pour changer de char",
+      "url": "https://www.youtube.com/watch?v=49-vvm37I9g",
+      "published_at": "2026-11-14T16:45:27+00:00",
+      "updated_at": "2026-11-14T17:25:22+00:00",
+      "description": "J’suis du pour changer de char",
+      "image_url": "https://i1.ytimg.com/vi/49-vvm37I9g/hqdefault.jpg",
+      "source_id": "investi-qc",
+      "source_name": "Investi QC",
+      "platform": "youtube"
+    },
     {
       "id": "facebook:100064792208382:1649855120517546",
       "title": "This is a great weekend to get some crafting done in The Lord of the Rings Online! LOTRO Bonus Days bring you a +25% Cra",
@@ -105,7 +129,7 @@
       "published_at": "2026-11-14T11:51:02+00:00",
       "updated_at": "2026-11-14T11:51:02+00:00",
       "description": "𝗨𝗻𝗲 𝗰𝗼𝗺𝗽𝗲́𝘁𝗶𝘁𝗶𝗼𝗻 𝗶𝗻𝘁𝗲𝗿𝗻𝗮𝘁𝗶𝗼𝗻𝗮𝗹𝗲 𝗽𝗼𝘂𝗿 𝘂𝗻 𝗷𝗲𝘂𝗻𝗲 𝗹𝗮𝘃𝗮𝗹𝘁𝗿𝗼𝗶𝘀! ⚽️\n\nSélectionnés par la délégation canadienne pour représenter le Québec en 𝘀𝗼𝗰𝗰𝗲𝗿 𝗨𝟭𝟭 𝗮𝘂𝘅 𝗨𝗻𝗶𝘁𝗲𝗱 𝗪𝗼𝗿𝗹𝗱 𝗚𝗮𝗺𝗲𝘀, en Autriche, Angelo Sciaraffa et son équipe ont décroché une belle 5e p",
-      "image_url": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.99422-6/904540047_1432145769081854_3190205327009599791_n.png?stp=dst-jpg_tt6&cstp=mx1012x1516&ctp=p526x296&_nc_cat=102&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=OQHT5cb1SV8Q7kNvwF7gaA2&_nc_oc=AdpGE0Bj3GGdNGLoHpZC_4yZMyVewnG5z0n-mCm-PJPQ4r0OrMdSLsc_b29lt_Vvxzg&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=OKRbsTBxViMYwbckFnLp2A&_nc_ss=7f289&oh=00_AQQQm28UmHBgD7tOI9ux9rX_7Iypu6ofsM54jYKggwBHTA&oe=6AFE34AE",
+      "image_url": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.99422-6/904540047_1432145769081854_3190205327009599791_n.png?stp=dst-jpg_tt6&cstp=mx1012x1516&ctp=p526x296&_nc_cat=102&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=OQHT5cb1SV8Q7kNvwEhJD6B&_nc_oc=AdofrC6dNyzMpCHCaaIprZHVFvuPGSfQe8TPl9oC8YtICDMMHOnIvyw8rQPX_vYiwzg&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=-KpYdGZ1rt5F6phQLIngIQ&_nc_ss=7f289&oh=00_AQTTv6YDa7Av_ZAc6egJCLjdlS2L9P8J_JrrTniVtdzIOQ&oe=6AFE6CEE",
       "source_id": "ville-de-lavaltrie",
       "source_name": "Ville de Lavaltrie",
       "platform": "facebook"
@@ -141,7 +165,7 @@
       "published_at": "2026-11-13T19:01:14+00:00",
       "updated_at": "2026-11-13T19:01:14+00:00",
       "description": "Friday the 13th? Unlucky for some… but not for those who prepurchase Afterlife and get the Vestments of the Order costume. 🖤 \n🐲 T-2 months until Afterlife.\n\nPrepurchase today at store.guildwars.com\n\n#MMORPG #GuildWarsReforged #GuildWars #Ga",
-      "image_url": "https://scontent-ord5-1.xx.fbcdn.net/v/t15.5256-10/893208814_1587014423182556_4135011313382737276_n.jpg?stp=dst-jpg_tt6&cstp=mx1920x1080&ctp=s960x960&_nc_cat=102&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=dmeoxaLzn0oQ7kNvwGDALHJ&_nc_oc=AdplQEvqv2pye411K3XATihUzb0xYa7plGqKTrZnD353EdxHAxpXf8QpiWIQsSCsLCg&_nc_zt=23&_nc_ht=scontent-ord5-1.xx&_nc_gid=X8m1Ol5QBkwgfjX5p1idzA&_nc_ss=7f289&oh=00_AQQTav87wfM-ABJ7ZgyJi-dQKunxKxjK9ZdNI27GrIxp5w&oe=6AFE2802",
+      "image_url": "https://scontent-sjc3-1.xx.fbcdn.net/v/t15.5256-10/893208814_1587014423182556_4135011313382737276_n.jpg?stp=dst-jpg_tt6&cstp=mx1920x1080&ctp=s960x960&_nc_cat=102&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=dmeoxaLzn0oQ7kNvwFycwIP&_nc_oc=Adr5V4aqODr6BCcZiDyzH8rSuUcogPb6h11LeXE8K9fdkvWMvb4d8XdEInxBH1OC09Q&_nc_zt=23&_nc_ht=scontent-sjc3-1.xx&_nc_gid=vknVZebLV1uq9ulcuQ780w&_nc_ss=7f289&oh=00_AQSrwNuhVTqCctQ1wE7H05ZpQ3NMu8ggk_RxblNcIgO9sg&oe=6AFE9882",
       "source_id": "guild-wars",
       "source_name": "Guild Wars",
       "platform": "facebook"
@@ -165,7 +189,7 @@
       "published_at": "2026-11-13T15:26:42+00:00",
       "updated_at": "2026-11-13T15:26:42+00:00",
       "description": "Le Bitcoin vient de repasser sous les 70,000$US.\n\nPour ceux qui me demandent si ça devient intéressant à ce prix-là, ma réponse reste toujours la même.\n\nJe n’ai aucun investissement dans la crypto. Pas de Bitcoin, pas d’Ethereum, rien.\n\nCe ",
-      "image_url": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.99422-6/907032626_982613527767457_7944023297846506749_n.png?stp=dst-jpg_tt6&cstp=mx1680x960&ctp=p180x540&_nc_cat=109&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=l4USPyyphPcQ7kNvwGkvUUY&_nc_oc=Adozk3Fll-5nrYFwbYEuQT2bWnptjtN2e-7TSAJZ183U-Bl2x9xUEY1Ak68inKBVo_I&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=YkcwpRlykghDd24PaHTZDw&_nc_ss=7f289&oh=00_AQRYOJy1PMOj5fxOij9Fit5r5EFcihaFz4CB_k1exsaGGQ&oe=6AFE2979",
+      "image_url": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.99422-6/907032626_982613527767457_7944023297846506749_n.png?stp=dst-jpg_tt6&cstp=mx1680x960&ctp=p180x540&_nc_cat=109&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=l4USPyyphPcQ7kNvwEYRRpj&_nc_oc=AdpmRnUPVkma9rQZ2RwaFEvydfgPNUS4PL4FshAaWUuBobjVE94rA0fmXzgqAwQpEng&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=0AGyOcPsWPOEhrvZxUzcqQ&_nc_ss=7f289&oh=00_AQTyfPEooO1rNIteOKQhwnbiJWYYNWJ9OCZkjGM3VsoHvg&oe=6AFE99F9",
       "source_id": "traders-360",
       "source_name": "Traders 360",
       "platform": "facebook"
