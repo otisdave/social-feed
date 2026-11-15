@@ -2,7 +2,7 @@
   "version": 1,
   "title": "Social Feed",
   "description": "Un seul fil pour suivre les sources qui comptent.",
-  "generated_at": "2026-11-15T10:59:42.000008+00:00",
+  "generated_at": "2026-11-15T17:45:21.619843+00:00",
   "sources": [
     {
       "id": "eco-en-batons",
@@ -11,8 +11,8 @@
       "url": "https://www.youtube.com/@Eco_en_batons",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-15T10:59:42.000008+00:00",
-      "item_count": 35
+      "last_success_at": "2026-11-15T17:45:21.619843+00:00",
+      "item_count": 36
     },
     {
       "id": "investi-qc",
@@ -21,8 +21,8 @@
       "url": "https://www.youtube.com/@investi-qc",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-15T10:59:42.000008+00:00",
-      "item_count": 70
+      "last_success_at": "2026-11-15T17:45:21.619843+00:00",
+      "item_count": 71
     },
     {
       "id": "hugo-lisoir",
@@ -31,7 +31,7 @@
       "url": "https://www.youtube.com/@hugolisoiryoutube",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-15T10:59:42.000008+00:00",
+      "last_success_at": "2026-11-15T17:45:21.619843+00:00",
       "item_count": 25
     },
     {
@@ -41,7 +41,7 @@
       "url": "https://www.youtube.com/@alexdemers-finance360",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-15T10:59:42.000008+00:00",
+      "last_success_at": "2026-11-15T17:45:21.619843+00:00",
       "item_count": 22
     },
     {
@@ -51,7 +51,7 @@
       "url": "https://www.facebook.com/GuildWars/",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-15T10:59:42.000008+00:00",
+      "last_success_at": "2026-11-15T17:45:21.619843+00:00",
       "item_count": 11
     },
     {
@@ -61,7 +61,7 @@
       "url": "https://www.facebook.com/LOTRO/",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-15T10:59:42.000008+00:00",
+      "last_success_at": "2026-11-15T17:45:21.619843+00:00",
       "item_count": 35
     },
     {
@@ -71,7 +71,7 @@
       "url": "https://www.facebook.com/VilleDeLavaltrie/",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-15T10:59:42.000008+00:00",
+      "last_success_at": "2026-11-15T17:45:21.619843+00:00",
       "item_count": 28
     },
     {
@@ -81,11 +81,35 @@
       "url": "https://www.facebook.com/firmetraders360/",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-15T10:59:42.000008+00:00",
+      "last_success_at": "2026-11-15T17:45:21.619843+00:00",
       "item_count": 32
     }
   ],
   "items": [
+    {
+      "id": "youtube:_WAXd2Md7tU",
+      "title": "The Dividend Guy n’est pas un fan de valorisation",
+      "url": "https://www.youtube.com/watch?v=_WAXd2Md7tU",
+      "published_at": "2026-11-15T16:42:06+00:00",
+      "updated_at": "2026-11-15T17:14:02+00:00",
+      "description": "The Dividend Guy n’est pas un fan de valorisation",
+      "image_url": "https://i4.ytimg.com/vi/_WAXd2Md7tU/hqdefault.jpg",
+      "source_id": "investi-qc",
+      "source_name": "Investi QC",
+      "platform": "youtube"
+    },
+    {
+      "id": "youtube:vPBlZx4MZDI",
+      "title": "POV : Vous avez adopté ces réflexes et vous battez l'inflation",
+      "url": "https://www.youtube.com/watch?v=vPBlZx4MZDI",
+      "published_at": "2026-11-15T14:44:05+00:00",
+      "updated_at": "2026-11-15T16:58:26+00:00",
+      "description": "Votre Livret A rapporte 1,7 % par an. Les prix, eux, montent de 3,4 % sur un an (Insee, octobre 2026). Résultat : en euros d'aujourd'hui, l'argent placé sur le livret perd du pouvoir d'achat. Les ménages les mieux dotés, eux, ne gardent qu'une petite part de leur épargne sur des livrets (8 % de leurs actifs financiers, contre 17 % pour l'ensemble des ménages, selon l'Insee, situation début 2021). On passe en revue sept erreurs d'épargne très courantes, avec pour chacune une vérification simple à faire chez vous : compter ce que vos euros achètent, repérer l'argent qui dort sur le compte courant, vérifier si vous avez droit au LEP, ne pas confondre garanti et rentable, lire le taux net, noter la date du prochain taux, ne pas tout garder au même endroit.\n\n⏱️ Chapitres\n0:00 1,7 % contre 3,4 %\n0:57 Ce que font les 10 % les plus riches\n1:59 Erreur 1 : lire le taux sans les prix\n3:22 Erreur 2 : l'argent qui dort sur le compte courant\n4:50 Erreur 3 : passer à côté du LEP\n6:25 Erreur 4 : confondre garanti et rentable\n8:15 Erreur 5 : lire le brut au lieu du net\n9:33 Erreur 6 : ignorer la date du prochain taux\n10:52 Erreur 7 : tout garder au même endroit\n12:29 Ce qu'il faut retenir\n\n📌 Sources (pages lues en novembre 2026)\n- Taux du Livret A (1,7 % du 1er août 2026 au 31 janvier 2027), plafond, retraits : Service-public.fr, fiche F2365 « Livret A » (vérifiée le 1er août 2026)\n- LEP (taux, plafond, conditions de revenus) : Service-public.fr, fiche F2367 ; Banque de France, communiqué de juillet 2026 sur les taux du Livret A et du LEP\n- PEL et fiscalité : Service-public.fr, fiche F16140\n- Inflation sur un an (3,4 % en octobre 2026, estimation provisoire) : Insee, Informations rapides n° 266 du 30/10/2026\n- Épargne réglementée, détention du Livret A, information sur le LEP : Banque de France, rapport sur l'épargne réglementée 2025 et communiqué du 15/07/2026\n- Collecte du Livret A et du LDDS : Caisse des dépôts (collecte mensuelle, août 2026)\n- Taux des dépôts bancaires : Banque de France, statistiques de septembre 2026\n- Répartition et composition du patrimoine des ménages : Insee, Focus n° 371 (09/12/2025) ; « Répartition de la masse totale de patrimoine brut » et « Composition du patrimoine brut par décile » (07/04/2026) ; Insee Références, « Les hauts patrimoines » (17/10/2024) ; France, portrait social, « Les ménages à haut patrimoine et haut niveau de vie » (18/11/2025, situation début 2021)\n- €STR : Banque centrale européenne ; rôle de l'ACPR : ACPR (Banque de France)\n\n🎞️ Images et crédits\n- Captures de pages officielles : Service-public.fr (fiches « Livret A » et « Livret d'épargne populaire », lues le 07/11/2026) ; Insee (Informations rapides n° 266 du 30/10/2026)\n- Illustrations : dessins de la chaîne.\nMusique : bibliothèque audio YouTube.\n\nLes montants et les taux sont ceux de novembre 2026 et changent dans le temps. Explication générale, pas un conseil en investissement : chaque situation est différente.",
+      "image_url": "https://i3.ytimg.com/vi/vPBlZx4MZDI/hqdefault.jpg",
+      "source_id": "eco-en-batons",
+      "source_name": "Éco en bâtons",
+      "platform": "youtube"
+    },
     {
       "id": "facebook:100064792208382:1650626100440448",
       "title": "Our Extra Life livestream marathon continues through Midnight Eastern (-5 GMT) on Twitch.tv/LOTROstream! Read more and g",
@@ -93,7 +117,7 @@
       "published_at": "2026-11-15T04:55:14+00:00",
       "updated_at": "2026-11-15T04:55:14+00:00",
       "description": "Our Extra Life livestream marathon continues through Midnight Eastern (-5 GMT) on Twitch.tv/LOTROstream! Read more and get the link to donate to the Children's Miracle Network of hospitals here: https://www.lotro.com/news/lotro-extra-life-2",
-      "image_url": "https://scontent-sea5-2.xx.fbcdn.net/v/t39.99422-6/912496117_2177855136461429_442191756590316074_n.png?stp=dst-jpg_tt6&cstp=mx1200x675&ctp=s960x960&_nc_cat=101&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=n40I9qJK9VgQ7kNvwEuxqxh&_nc_oc=AdrhldsKx0mgjXxWVCFdkl1hvDvkq0BsSZBMrolH71iEQ30ZonBVjiSP_zTWsqltQ2k&_nc_zt=14&_nc_ht=scontent-sea5-2.xx&_nc_gid=r4eJxXc6AEx0YOw-aua7Vw&_nc_ss=7f289&oh=00_AQRuf281XJ1eSMPcCnI0JtCvlKLJSDQpu3mFbezUsBq3-w&oe=6AFF6CAC",
+      "image_url": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.99422-6/912496117_2177855136461429_442191756590316074_n.png?stp=dst-jpg_tt6&cstp=mx1200x675&ctp=s960x960&_nc_cat=101&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=n40I9qJK9VgQ7kNvwGcngHI&_nc_oc=AdpmkLqTCcrJNQMHv4oC6YzEsXJez1Gb_RIyh2W_fRzwAs7_V0BGiZBvZf5L5zGDf3I&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=NoIiLH8072ZDz9lwFXXr8A&_nc_ss=7f289&oh=00_AQSynrlhvFHrM0CfHUqpEjvIxBr9brGJzZbr_EdvbMiSAw&oe=6AFFDD2C",
       "source_id": "lotro",
       "source_name": "The Lord of the Rings Online",
       "platform": "facebook"
@@ -165,7 +189,7 @@
       "published_at": "2026-11-14T11:51:02+00:00",
       "updated_at": "2026-11-14T11:51:02+00:00",
       "description": "𝗨𝗻𝗲 𝗰𝗼𝗺𝗽𝗲́𝘁𝗶𝘁𝗶𝗼𝗻 𝗶𝗻𝘁𝗲𝗿𝗻𝗮𝘁𝗶𝗼𝗻𝗮𝗹𝗲 𝗽𝗼𝘂𝗿 𝘂𝗻 𝗷𝗲𝘂𝗻𝗲 𝗹𝗮𝘃𝗮𝗹𝘁𝗿𝗼𝗶𝘀! ⚽️\n\nSélectionnés par la délégation canadienne pour représenter le Québec en 𝘀𝗼𝗰𝗰𝗲𝗿 𝗨𝟭𝟭 𝗮𝘂𝘅 𝗨𝗻𝗶𝘁𝗲𝗱 𝗪𝗼𝗿𝗹𝗱 𝗚𝗮𝗺𝗲𝘀, en Autriche, Angelo Sciaraffa et son équipe ont décroché une belle 5e p",
-      "image_url": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.99422-6/904540047_1432145769081854_3190205327009599791_n.png?stp=dst-jpg_tt6&cstp=mx1012x1516&ctp=p526x296&_nc_cat=102&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=OQHT5cb1SV8Q7kNvwEw0PFS&_nc_oc=AdruENhVjQzXFa16qToC3RKtP_YvKfaHlGCRCDhWd433LS24B9BispuHOFErv95NmNY&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=Z6fBjpnYKCjD_jT7LW6LrA&_nc_ss=7f289&oh=00_AQR0z082Mn5GMC-mXRsBsVKIh8d5q6Hzvpoxo3iGA-fsMQ&oe=6AFF4DEE",
+      "image_url": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.99422-6/904540047_1432145769081854_3190205327009599791_n.png?stp=dst-jpg_tt6&cstp=mx1012x1516&ctp=p526x296&_nc_cat=102&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=OQHT5cb1SV8Q7kNvwFQDv50&_nc_oc=AdrnpDAWtcvxHtCeBm6BT1HzeuSi7OPYf22X7l2fkTjvvudwqRow2hZOp-O2hdZ9i-8&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=6tEHvOHBFeugnoaL_WazYA&_nc_ss=7f289&oh=00_AQQOpXzA4d8VYxEfkjRfnZQ1MHCd_Ig8RqB30qeUjKkvPg&oe=6AFFBE6E",
       "source_id": "ville-de-lavaltrie",
       "source_name": "Ville de Lavaltrie",
       "platform": "facebook"
@@ -201,7 +225,7 @@
       "published_at": "2026-11-13T19:01:14+00:00",
       "updated_at": "2026-11-13T19:01:14+00:00",
       "description": "Friday the 13th? Unlucky for some… but not for those who prepurchase Afterlife and get the Vestments of the Order costume. 🖤 \n🐲 T-2 months until Afterlife.\n\nPrepurchase today at store.guildwars.com\n\n#MMORPG #GuildWarsReforged #GuildWars #Ga",
-      "image_url": "https://scontent-sea5-2.xx.fbcdn.net/v/t15.5256-10/893208814_1587014423182556_4135011313382737276_n.jpg?stp=dst-jpg_tt6&cstp=mx1920x1080&ctp=s960x960&_nc_cat=102&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=dmeoxaLzn0oQ7kNvwH_4QR9&_nc_oc=AdoriW1fIZTq7eBe_4Xrz8lfuvQKiPhE8-lz3O-FbiafYCDoBUOpgu-WlV9T-7Jk63I&_nc_zt=23&_nc_ht=scontent-sea5-2.xx&_nc_gid=Ka9Fvv71MYMyQHi9FZ3pUw&_nc_ss=7f289&oh=00_AQScWT7mUKeDP88PGYM6l5lshBgsE5vRQPSPVQKU_R5bJQ&oe=6AFF7982",
+      "image_url": "https://scontent-sjc3-1.xx.fbcdn.net/v/t15.5256-10/893208814_1587014423182556_4135011313382737276_n.jpg?stp=dst-jpg_tt6&cstp=mx1920x1080&ctp=s960x960&_nc_cat=102&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=dmeoxaLzn0oQ7kNvwG_jfbO&_nc_oc=AdqgKsDO82UVHh6DFSKxfpQAhD-DnDGYUvMAw7TtMOIx2-1S82QKSyT4BPZ0z5VryeQ&_nc_zt=23&_nc_ht=scontent-sjc3-1.xx&_nc_gid=kHrCob9eHiZvxZr4jr1HLw&_nc_ss=7f289&oh=00_AQR0aEh76ideMYujkqQl64ykuxyPQiNs2pnbZNDJNPXATA&oe=6AFFB1C2",
       "source_id": "guild-wars",
       "source_name": "Guild Wars",
       "platform": "facebook"
@@ -225,7 +249,7 @@
       "published_at": "2026-11-13T15:26:42+00:00",
       "updated_at": "2026-11-13T15:26:42+00:00",
       "description": "Le Bitcoin vient de repasser sous les 70,000$US.\n\nPour ceux qui me demandent si ça devient intéressant à ce prix-là, ma réponse reste toujours la même.\n\nJe n’ai aucun investissement dans la crypto. Pas de Bitcoin, pas d’Ethereum, rien.\n\nCe ",
-      "image_url": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.99422-6/907032626_982613527767457_7944023297846506749_n.png?stp=dst-jpg_tt6&cstp=mx1680x960&ctp=p180x540&_nc_cat=109&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=H4xckUSdFDkQ7kNvwGeDvhT&_nc_oc=AdqzBJFnZ9IDM4UaS1mIJDuh6Z1McyZrqiBA6JQRrzw4LO53qPrBoVl03KfoYlDnaww&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=X04Hu3TmmhFCLlabdJANZw&_nc_ss=7f289&oh=00_AQR2kXFnujshzTCRnFDb9VGUFSLvPCpsgQ8RcgezUnXtcQ&oe=6AFF7AF9",
+      "image_url": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.99422-6/907032626_982613527767457_7944023297846506749_n.png?stp=dst-jpg_tt6&cstp=mx1680x960&ctp=p180x540&_nc_cat=109&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=H4xckUSdFDkQ7kNvwEG5cK7&_nc_oc=AdqunCkw0VgKrU4MdvINjKCZC-aryMiM6FXSGB_cZEUp-3DfgL0DX5W3M-8Ylg--9C8&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=a9mubYdW2gX6fPBSmsIA7g&_nc_ss=7f289&oh=00_AQS-WMsfTTdKUcVqmJYTihF3axvooXL_FBojh_DnYdnpjg&oe=6AFFB339",
       "source_id": "traders-360",
       "source_name": "Traders 360",
       "platform": "facebook"
