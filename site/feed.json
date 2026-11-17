@@ -2,7 +2,7 @@
   "version": 1,
   "title": "Social Feed",
   "description": "Un seul fil pour suivre les sources qui comptent.",
-  "generated_at": "2026-11-17T14:29:12.822418+00:00",
+  "generated_at": "2026-11-17T22:55:21.998746+00:00",
   "sources": [
     {
       "id": "eco-en-batons",
@@ -11,7 +11,7 @@
       "url": "https://www.youtube.com/@Eco_en_batons",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-17T14:29:12.822418+00:00",
+      "last_success_at": "2026-11-17T22:55:21.998746+00:00",
       "item_count": 37
     },
     {
@@ -21,8 +21,8 @@
       "url": "https://www.youtube.com/@investi-qc",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-17T14:29:12.822418+00:00",
-      "item_count": 76
+      "last_success_at": "2026-11-17T22:55:21.998746+00:00",
+      "item_count": 79
     },
     {
       "id": "hugo-lisoir",
@@ -31,8 +31,8 @@
       "url": "https://www.youtube.com/@hugolisoiryoutube",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-17T14:29:12.822418+00:00",
-      "item_count": 25
+      "last_success_at": "2026-11-17T22:55:21.998746+00:00",
+      "item_count": 26
     },
     {
       "id": "alex-demers-finance360",
@@ -41,7 +41,7 @@
       "url": "https://www.youtube.com/@alexdemers-finance360",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-17T14:29:12.822418+00:00",
+      "last_success_at": "2026-11-17T22:55:21.998746+00:00",
       "item_count": 24
     },
     {
@@ -49,8 +49,8 @@
       "name": "Guild Wars",
       "platform": "facebook",
       "url": "https://www.facebook.com/GuildWars/",
-      "status": "ok",
-      "error": null,
+      "status": "error",
+      "error": "RuntimeError: Facebook requires authentication or a challenge; no bypass attempted.",
       "last_success_at": "2026-11-17T14:29:12.822418+00:00",
       "item_count": 12
     },
@@ -59,8 +59,8 @@
       "name": "The Lord of the Rings Online",
       "platform": "facebook",
       "url": "https://www.facebook.com/LOTRO/",
-      "status": "ok",
-      "error": null,
+      "status": "error",
+      "error": "RuntimeError: Facebook requires authentication or a challenge; no bypass attempted.",
       "last_success_at": "2026-11-17T14:29:12.822418+00:00",
       "item_count": 36
     },
@@ -69,8 +69,8 @@
       "name": "Ville de Lavaltrie",
       "platform": "facebook",
       "url": "https://www.facebook.com/VilleDeLavaltrie/",
-      "status": "ok",
-      "error": null,
+      "status": "error",
+      "error": "RuntimeError: Facebook requires authentication or a challenge; no bypass attempted.",
       "last_success_at": "2026-11-17T14:29:12.822418+00:00",
       "item_count": 30
     },
@@ -79,13 +79,61 @@
       "name": "Traders 360",
       "platform": "facebook",
       "url": "https://www.facebook.com/firmetraders360/",
-      "status": "ok",
-      "error": null,
+      "status": "error",
+      "error": "RuntimeError: Facebook requires authentication or a challenge; no bypass attempted.",
       "last_success_at": "2026-11-17T14:29:12.822418+00:00",
       "item_count": 34
     }
   ],
   "items": [
+    {
+      "id": "youtube:3RfqDMLrytg",
+      "title": "Quoi faire avant les résultats de NVIDIA cet après-midi",
+      "url": "https://www.youtube.com/watch?v=3RfqDMLrytg",
+      "published_at": "2026-11-17T20:42:12+00:00",
+      "updated_at": "2026-11-17T21:02:43+00:00",
+      "description": "Quoi faire avant les résultats de NVIDIA cet après-midi",
+      "image_url": "https://i4.ytimg.com/vi/3RfqDMLrytg/hqdefault.jpg",
+      "source_id": "investi-qc",
+      "source_name": "Investi QC",
+      "platform": "youtube"
+    },
+    {
+      "id": "youtube:etu0CLHV4C8",
+      "title": "Yo Dargis couvre ton short stp",
+      "url": "https://www.youtube.com/watch?v=etu0CLHV4C8",
+      "published_at": "2026-11-17T19:39:57+00:00",
+      "updated_at": "2026-11-17T21:00:46+00:00",
+      "description": "Yo Dargis couvre ton short stp",
+      "image_url": "https://i2.ytimg.com/vi/etu0CLHV4C8/hqdefault.jpg",
+      "source_id": "investi-qc",
+      "source_name": "Investi QC",
+      "platform": "youtube"
+    },
+    {
+      "id": "youtube:pm9OTbESQ-0",
+      "title": "Une planète disparaît sous les yeux des astronomes ! DNDE",
+      "url": "https://www.youtube.com/watch?v=pm9OTbESQ-0",
+      "published_at": "2026-11-17T17:00:14+00:00",
+      "updated_at": "2026-11-17T17:00:14+00:00",
+      "description": "Dernières Nouvelles des Étoiles (DNDE) est un format hebdomadaire qui fait le tour de l’actualité spatiale. SpaceX, NASA, ESA, Chine : quels seront les prochains grands défis de l’humanité en matière d’exploration de l’espace ?\nAu programme cette semaine : les mystérieux transits disparus de TOI-2535 b, une planète géante dont l’orbite serait perturbée par un compagnon encore invisible, le premier rattrapage réussi d’un Starship de retour d’orbite malgré les difficultés de Super Heavy, et Voyager 1 qui franchit le cap historique d’une journée-lumière de distance à la Terre, une occasion de mesurer le gouffre qui nous sépare encore des étoiles.\n\nSources :\nTOI-2535 b : une planète dont les transits ont disparu\nhttps://arxiv.org/abs/2611.13343\nStarship : premier rattrapage du deuxième étage lors du vol 15\nhttps://www.spacex.com/launches/starship-flight-15\nVoyager 1 : à une journée-lumière de la Terre\nhttps://science.nasa.gov/mission/voyager/voyager-1/voyager-1-what-is-a-light-day/\n\nMusiques : Pedro Macedo Camacho / Star Citizen, Utho Riley et Gérald M. Dorai\nImages : NASA/JPL-Caltech, SpaceX, UCLA\nMoteur 3D : Space Engine Pro",
+      "image_url": "https://i1.ytimg.com/vi/pm9OTbESQ-0/hqdefault.jpg",
+      "source_id": "hugo-lisoir",
+      "source_name": "Hugo Lisoir",
+      "platform": "youtube"
+    },
+    {
+      "id": "youtube:TDCWCdc6X-k",
+      "title": "75% des fraudes au Québec c’est la fraude du président 🥸",
+      "url": "https://www.youtube.com/watch?v=TDCWCdc6X-k",
+      "published_at": "2026-11-17T16:44:59+00:00",
+      "updated_at": "2026-11-17T18:10:44+00:00",
+      "description": "75% des fraudes au Québec c’est la fraude du président 🥸",
+      "image_url": "https://i1.ytimg.com/vi/TDCWCdc6X-k/hqdefault.jpg",
+      "source_id": "investi-qc",
+      "source_name": "Investi QC",
+      "platform": "youtube"
+    },
     {
       "id": "youtube:TXiri5ShfAA",
       "title": "Ces temps-ci, quand je regarde mes rendements, j’ai l’impression que je me suis fait hacker mon",
@@ -235,7 +283,7 @@
       "title": "Je cherche un expert Tiktok",
       "url": "https://www.youtube.com/watch?v=cAKubXfQbZk",
       "published_at": "2026-11-15T21:43:46+00:00",
-      "updated_at": "2026-11-15T22:28:07+00:00",
+      "updated_at": "2026-11-16T17:46:42+00:00",
       "description": "Je cherche un expert Tiktok",
       "image_url": "https://i4.ytimg.com/vi/cAKubXfQbZk/hqdefault.jpg",
       "source_id": "investi-qc",
@@ -259,7 +307,7 @@
       "title": "The Dividend Guy n’est pas un fan de valorisation",
       "url": "https://www.youtube.com/watch?v=_WAXd2Md7tU",
       "published_at": "2026-11-15T16:42:06+00:00",
-      "updated_at": "2026-11-15T21:27:27+00:00",
+      "updated_at": "2026-11-16T17:50:44+00:00",
       "description": "The Dividend Guy n’est pas un fan de valorisation",
       "image_url": "https://i4.ytimg.com/vi/_WAXd2Md7tU/hqdefault.jpg",
       "source_id": "investi-qc",
@@ -307,7 +355,7 @@
       "title": "Le signal qu’un dividende est en danger d’être coupé",
       "url": "https://www.youtube.com/watch?v=vjYASai2PI4",
       "published_at": "2026-11-14T20:41:02+00:00",
-      "updated_at": "2026-11-14T21:19:56+00:00",
+      "updated_at": "2026-11-16T17:51:34+00:00",
       "description": "Le signal qu’un dividende est en danger d’être coupé",
       "image_url": "https://i3.ytimg.com/vi/vjYASai2PI4/hqdefault.jpg",
       "source_id": "investi-qc",
