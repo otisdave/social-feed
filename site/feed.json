@@ -2,7 +2,7 @@
   "version": 1,
   "title": "Social Feed",
   "description": "Un seul fil pour suivre les sources qui comptent.",
-  "generated_at": "2026-11-17T04:32:04.171174+00:00",
+  "generated_at": "2026-11-17T14:29:12.822418+00:00",
   "sources": [
     {
       "id": "eco-en-batons",
@@ -11,7 +11,7 @@
       "url": "https://www.youtube.com/@Eco_en_batons",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-17T04:32:04.171174+00:00",
+      "last_success_at": "2026-11-17T14:29:12.822418+00:00",
       "item_count": 37
     },
     {
@@ -21,7 +21,7 @@
       "url": "https://www.youtube.com/@investi-qc",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-17T04:32:04.171174+00:00",
+      "last_success_at": "2026-11-17T14:29:12.822418+00:00",
       "item_count": 76
     },
     {
@@ -31,7 +31,7 @@
       "url": "https://www.youtube.com/@hugolisoiryoutube",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-17T04:32:04.171174+00:00",
+      "last_success_at": "2026-11-17T14:29:12.822418+00:00",
       "item_count": 25
     },
     {
@@ -41,7 +41,7 @@
       "url": "https://www.youtube.com/@alexdemers-finance360",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-17T04:32:04.171174+00:00",
+      "last_success_at": "2026-11-17T14:29:12.822418+00:00",
       "item_count": 24
     },
     {
@@ -51,7 +51,7 @@
       "url": "https://www.facebook.com/GuildWars/",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-17T04:32:04.171174+00:00",
+      "last_success_at": "2026-11-17T14:29:12.822418+00:00",
       "item_count": 12
     },
     {
@@ -61,7 +61,7 @@
       "url": "https://www.facebook.com/LOTRO/",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-17T04:32:04.171174+00:00",
+      "last_success_at": "2026-11-17T14:29:12.822418+00:00",
       "item_count": 36
     },
     {
@@ -71,7 +71,7 @@
       "url": "https://www.facebook.com/VilleDeLavaltrie/",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-17T04:32:04.171174+00:00",
+      "last_success_at": "2026-11-17T14:29:12.822418+00:00",
       "item_count": 30
     },
     {
@@ -79,9 +79,9 @@
       "name": "Traders 360",
       "platform": "facebook",
       "url": "https://www.facebook.com/firmetraders360/",
-      "status": "error",
-      "error": "RuntimeError: Facebook requires authentication or a challenge; no bypass attempted.",
-      "last_success_at": "2026-11-16T22:09:14.195334+00:00",
+      "status": "ok",
+      "error": null,
+      "last_success_at": "2026-11-17T14:29:12.822418+00:00",
       "item_count": 34
     }
   ],
@@ -101,10 +101,10 @@
     {
       "id": "facebook:100064655653099:1589348439896996",
       "title": "𝗟𝗮 𝗰𝘂𝗹𝘁𝘂𝗿𝗲 𝗹𝗮𝗻𝗮𝘂𝗱𝗼𝗶𝘀𝗲 𝗮̀ 𝗹’𝗵𝗼𝗻𝗻𝗲𝘂𝗿 𝗮̀ 𝗟𝗮𝘃𝗮𝗹𝘁𝗿𝗶𝗲! ✨ ",
-      "url": "https://www.facebook.com/VilleDeLavaltrie/posts/pfbid02ffdKQcmH2QnNddHot4HCEpnpXnEi19js1KYJtFNMRyVer4EsMXRdK9rBZi8i1jM1l",
+      "url": "https://www.facebook.com/VilleDeLavaltrie/posts/pfbid0c7z8VT8vBFous8TEV1xa2EDdcVgmxofRNnQLvcY1MpRDhmccmM4CNWMwJjdQAXqbl",
       "published_at": "2026-11-16T23:11:31+00:00",
       "updated_at": "2026-11-16T23:11:31+00:00",
-      "description": "𝗟𝗮 𝗰𝘂𝗹𝘁𝘂𝗿𝗲 𝗹𝗮𝗻𝗮𝘂𝗱𝗼𝗶𝘀𝗲 𝗮̀ 𝗹’𝗵𝗼𝗻𝗻𝗲𝘂𝗿 𝗮̀ 𝗟𝗮𝘃𝗮𝗹𝘁𝗿𝗶𝗲! ✨ \n\nJeudi dernier, la Ville de Lavaltrie a eu le plaisir d’accueillir la 𝟯𝟱𝗲 𝗲́𝗱𝗶𝘁𝗶𝗼𝗻 𝗱𝗲𝘀 𝗚𝗿𝗮𝗻𝗱𝘀 𝗣𝗿𝗶𝘅 𝗗𝗲𝘀𝗷𝗮𝗿𝗱𝗶𝗻𝘀 𝗱𝗲 𝗹𝗮 𝗰𝘂𝗹𝘁𝘂𝗿𝗲 𝗱𝗲 𝗟𝗮𝗻𝗮𝘂𝗱𝗶𝗲̀𝗿𝗲! 🤩\n\nAnne Charlot-Mayrand, mairesse suppléante, y ",
+      "description": "𝗟𝗮 𝗰𝘂𝗹𝘁𝘂𝗿𝗲 𝗹𝗮𝗻𝗮𝘂𝗱𝗼𝗶𝘀𝗲 𝗮̀ 𝗹’𝗵𝗼𝗻𝗻𝗲𝘂𝗿 𝗮̀ 𝗟𝗮𝘃𝗮𝗹𝘁𝗿𝗶𝗲! ✨ \n\nJeudi dernier, la Ville de Lavaltrie a eu le plaisir d’accueillir la 𝟯𝟱𝗲 𝗲́𝗱𝗶𝘁𝗶𝗼𝗻 𝗱𝗲𝘀 𝗚𝗿𝗮𝗻𝗱𝘀 𝗣𝗿𝗶𝘅 𝗗𝗲𝘀𝗷𝗮𝗿𝗱𝗶𝗻𝘀 𝗱𝗲 𝗹𝗮 𝗰𝘂𝗹𝘁𝘂𝗿𝗲 𝗱𝗲 𝗟𝗮𝗻𝗮𝘂𝗱𝗶𝗲̀𝗿𝗲 à La Chasse-galerie! 🤩\n\nAnne Charlot-Mayrand, mai",
       "image_url": null,
       "source_id": "ville-de-lavaltrie",
       "source_name": "Ville de Lavaltrie",
@@ -153,7 +153,7 @@
       "published_at": "2026-11-16T19:01:27+00:00",
       "updated_at": "2026-11-16T19:01:27+00:00",
       "description": "You’re in Kamadan ae1. The chat won’t stop. Finish this message: WTB… 👇\n\n#GuildWarsReforged #GuildWars",
-      "image_url": "https://scontent-iad3-1.xx.fbcdn.net/v/t15.5256-10/899491985_1877336603265517_3421555005088161112_n.jpg?stp=dst-jpg_tt6&cstp=mx1920x1080&ctp=s960x960&_nc_cat=105&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=F4ir5JGhf5YQ7kNvwGSE8p5&_nc_oc=AdqzISwVpUuPi4kLAkttrqpJcYEe7HKx94VD1Xc4u1v8tXSVVAR6uyJL3AwJM8hbm8I&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&_nc_gid=ikNaMus4IhE33jQHYcx1aA&_nc_ss=7f289&oh=00_AQTJ1HxslWjBfhzZ6kmbi0_ObrM29E41HVapenT2b3M2wg&oe=6B01B2CA",
+      "image_url": "https://scontent-dfw5-1.xx.fbcdn.net/v/t15.5256-10/899491985_1877336603265517_3421555005088161112_n.jpg?stp=dst-jpg_tt6&cstp=mx1920x1080&ctp=s960x960&_nc_cat=105&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=cT7Gyw4bRu4Q7kNvwE_qWVk&_nc_oc=Adre2IcRgAdkpb1w8kRQVhzqt46RWEdkXUKZYOFZrFZjmSnOQ2fCkVb4_eLXfQLmFfo&_nc_zt=23&_nc_ht=scontent-dfw5-1.xx&_nc_gid=WR5amSVJqH5AsPVsGYVHSA&_nc_ss=7f289&oh=00_AQR_Qs9EWo7jsP4-1rL3e7acPoijUePf3GQppLbvNWUdGA&oe=6B02234A",
       "source_id": "guild-wars",
       "source_name": "Guild Wars",
       "platform": "facebook"
@@ -161,11 +161,11 @@
     {
       "id": "facebook:100063889127390:1681708667302088",
       "title": "L’inflation repart à la hausse au Québec.",
-      "url": "https://www.facebook.com/firmetraders360/posts/pfbid02Ab6UkpPiDNJg2JHfeJaWPiWRyk8k1PLyZg3CpbZqzQJJEv2QhgX4BgkqtzRwejikl",
+      "url": "https://www.facebook.com/firmetraders360/posts/pfbid073THqemMNHATCuGJruAD3zsfa6heGBcn6xvFnvBfcV9EX6sAGGRq58WSGR3KGpAFl",
       "published_at": "2026-11-16T18:31:17+00:00",
       "updated_at": "2026-11-16T18:31:17+00:00",
       "description": "L’inflation repart à la hausse au Québec.\n\nEn octobre, l’IPC a augmenté de 3,4% sur un an au Québec, comparativement à 3,1% en septembre. À l’échelle canadienne, l’inflation est demeurée stable à 3,1%. \n\nUne bonne partie de la pression vien",
-      "image_url": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.99422-6/915695662_2069676093717505_7960403382235136953_n.png?stp=dst-jpg_tt6&cstp=mx1248x1248&ctp=p526x296&_nc_cat=109&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=ms1a9KzLx4UQ7kNvwEou6ak&_nc_oc=Adr5lF4L6Uu2PA0oTUQGDGKT6YyzkdQ2yfssDxRq7CKJO69rZtx_tfKwdXjq2vdaJzs&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=PTPMFd4iSCbZczahDACf-Q&_nc_ss=7f289&oh=00_AQQcw1jX9pFtEg4Tsnlhz6xIQUQkYgjjb1-3y4-ipWerPA&oe=6B0169A2",
+      "image_url": "https://scontent-dfw6-1.xx.fbcdn.net/v/t39.99422-6/915695662_2069676093717505_7960403382235136953_n.png?stp=dst-jpg_tt6&cstp=mx1248x1248&ctp=p526x296&_nc_cat=109&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=ms1a9KzLx4UQ7kNvwFI4lnu&_nc_oc=AdrrX3aJgSYOQLCvKKorsmI_hl0JHafN6wltjDqIft4WYsExxQb0xBgA1qgowzglOdQ&_nc_zt=14&_nc_ht=scontent-dfw6-1.xx&_nc_gid=2FEhD4XmIeOYKvZfnpxa_g&_nc_ss=7f289&oh=00_AQSSVKfxfhLoXv33phUIoAgMcu87nPTtOcZHik24ED3roA&oe=6B024AA2",
       "source_id": "traders-360",
       "source_name": "Traders 360",
       "platform": "facebook"
@@ -245,7 +245,7 @@
     {
       "id": "facebook:100064792208382:1651517143684677",
       "title": "Filbert Fig has arrived to trade your Figments of Splendour for new and returning rewards! See the list and screenshots ",
-      "url": "https://www.facebook.com/LOTRO/posts/pfbid02gEPaFRBfY8k6bLXWbShtWfhLvomECuVf5ZLPuesjWPpQEKg91v2M2qaQxS9x5jGEl",
+      "url": "https://www.facebook.com/LOTRO/posts/pfbid0cCnrmbz6sDnErgEvUkX51bUTZs4hNTXzsdsDxiR3iZNZjEwEsvpc7Rwmw1zxSgHPl",
       "published_at": "2026-11-15T20:20:26+00:00",
       "updated_at": "2026-11-15T20:20:26+00:00",
       "description": "Filbert Fig has arrived to trade your Figments of Splendour for new and returning rewards! See the list and screenshots on LOTRO.com: https://www.lotro.com/news/lotro-filbert-fig-update-nov-26-en #LOTRO",
