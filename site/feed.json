@@ -2,7 +2,7 @@
   "version": 1,
   "title": "Social Feed",
   "description": "Un seul fil pour suivre les sources qui comptent.",
-  "generated_at": "2026-11-16T22:09:14.195334+00:00",
+  "generated_at": "2026-11-17T04:32:04.171174+00:00",
   "sources": [
     {
       "id": "eco-en-batons",
@@ -11,7 +11,7 @@
       "url": "https://www.youtube.com/@Eco_en_batons",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-16T22:09:14.195334+00:00",
+      "last_success_at": "2026-11-17T04:32:04.171174+00:00",
       "item_count": 37
     },
     {
@@ -21,8 +21,8 @@
       "url": "https://www.youtube.com/@investi-qc",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-16T22:09:14.195334+00:00",
-      "item_count": 75
+      "last_success_at": "2026-11-17T04:32:04.171174+00:00",
+      "item_count": 76
     },
     {
       "id": "hugo-lisoir",
@@ -31,7 +31,7 @@
       "url": "https://www.youtube.com/@hugolisoiryoutube",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-16T22:09:14.195334+00:00",
+      "last_success_at": "2026-11-17T04:32:04.171174+00:00",
       "item_count": 25
     },
     {
@@ -41,8 +41,8 @@
       "url": "https://www.youtube.com/@alexdemers-finance360",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-16T22:09:14.195334+00:00",
-      "item_count": 23
+      "last_success_at": "2026-11-17T04:32:04.171174+00:00",
+      "item_count": 24
     },
     {
       "id": "guild-wars",
@@ -51,7 +51,7 @@
       "url": "https://www.facebook.com/GuildWars/",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-16T22:09:14.195334+00:00",
+      "last_success_at": "2026-11-17T04:32:04.171174+00:00",
       "item_count": 12
     },
     {
@@ -61,7 +61,7 @@
       "url": "https://www.facebook.com/LOTRO/",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-16T22:09:14.195334+00:00",
+      "last_success_at": "2026-11-17T04:32:04.171174+00:00",
       "item_count": 36
     },
     {
@@ -71,21 +71,57 @@
       "url": "https://www.facebook.com/VilleDeLavaltrie/",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-16T22:09:14.195334+00:00",
-      "item_count": 29
+      "last_success_at": "2026-11-17T04:32:04.171174+00:00",
+      "item_count": 30
     },
     {
       "id": "traders-360",
       "name": "Traders 360",
       "platform": "facebook",
       "url": "https://www.facebook.com/firmetraders360/",
-      "status": "ok",
-      "error": null,
+      "status": "error",
+      "error": "RuntimeError: Facebook requires authentication or a challenge; no bypass attempted.",
       "last_success_at": "2026-11-16T22:09:14.195334+00:00",
       "item_count": 34
     }
   ],
   "items": [
+    {
+      "id": "youtube:TXiri5ShfAA",
+      "title": "Ces temps-ci, quand je regarde mes rendements, j’ai l’impression que je me suis fait hacker mon",
+      "url": "https://www.youtube.com/watch?v=TXiri5ShfAA",
+      "published_at": "2026-11-17T01:43:12+00:00",
+      "updated_at": "2026-11-17T04:21:35+00:00",
+      "description": "Ces temps-ci, quand je regarde mes rendements, j’ai l’impression que je me suis fait hacker mon compte de courtage",
+      "image_url": "https://i1.ytimg.com/vi/TXiri5ShfAA/hqdefault.jpg",
+      "source_id": "investi-qc",
+      "source_name": "Investi QC",
+      "platform": "youtube"
+    },
+    {
+      "id": "facebook:100064655653099:1589348439896996",
+      "title": "𝗟𝗮 𝗰𝘂𝗹𝘁𝘂𝗿𝗲 𝗹𝗮𝗻𝗮𝘂𝗱𝗼𝗶𝘀𝗲 𝗮̀ 𝗹’𝗵𝗼𝗻𝗻𝗲𝘂𝗿 𝗮̀ 𝗟𝗮𝘃𝗮𝗹𝘁𝗿𝗶𝗲! ✨ ",
+      "url": "https://www.facebook.com/VilleDeLavaltrie/posts/pfbid02ffdKQcmH2QnNddHot4HCEpnpXnEi19js1KYJtFNMRyVer4EsMXRdK9rBZi8i1jM1l",
+      "published_at": "2026-11-16T23:11:31+00:00",
+      "updated_at": "2026-11-16T23:11:31+00:00",
+      "description": "𝗟𝗮 𝗰𝘂𝗹𝘁𝘂𝗿𝗲 𝗹𝗮𝗻𝗮𝘂𝗱𝗼𝗶𝘀𝗲 𝗮̀ 𝗹’𝗵𝗼𝗻𝗻𝗲𝘂𝗿 𝗮̀ 𝗟𝗮𝘃𝗮𝗹𝘁𝗿𝗶𝗲! ✨ \n\nJeudi dernier, la Ville de Lavaltrie a eu le plaisir d’accueillir la 𝟯𝟱𝗲 𝗲́𝗱𝗶𝘁𝗶𝗼𝗻 𝗱𝗲𝘀 𝗚𝗿𝗮𝗻𝗱𝘀 𝗣𝗿𝗶𝘅 𝗗𝗲𝘀𝗷𝗮𝗿𝗱𝗶𝗻𝘀 𝗱𝗲 𝗹𝗮 𝗰𝘂𝗹𝘁𝘂𝗿𝗲 𝗱𝗲 𝗟𝗮𝗻𝗮𝘂𝗱𝗶𝗲̀𝗿𝗲! 🤩\n\nAnne Charlot-Mayrand, mairesse suppléante, y ",
+      "image_url": null,
+      "source_id": "ville-de-lavaltrie",
+      "source_name": "Ville de Lavaltrie",
+      "platform": "facebook"
+    },
+    {
+      "id": "youtube:yK9bDhwRWTk",
+      "title": "Les neoclouds comme CoreWeave pourraient être les premiers dominos à tomber dans le trade sur l’IA",
+      "url": "https://www.youtube.com/watch?v=yK9bDhwRWTk",
+      "published_at": "2026-11-16T22:59:57+00:00",
+      "updated_at": "2026-11-16T23:01:10+00:00",
+      "description": "Toujours emprunter davantage pour continuer à grossir, ça peut durer combien de temps?\n\nC'est ce qui m'inquiète avec les neoclouds comme CoreWeave et Nebius. \n\nQuand la croissance dépend continuellement de nouvelles dettes, je considère que le modèle devient insoutenable à long terme.\n\nLa demande pour l'IA peut continuer d'augmenter, mais il faut aussi avoir les moyens de financer cette croissance.",
+      "image_url": "https://i2.ytimg.com/vi/yK9bDhwRWTk/hqdefault.jpg",
+      "source_id": "alex-demers-finance360",
+      "source_name": "Alex Demers — Finance 360",
+      "platform": "youtube"
+    },
     {
       "id": "facebook:100064655653099:2177220779567839",
       "title": "Publication de Ville de Lavaltrie",
@@ -117,7 +153,7 @@
       "published_at": "2026-11-16T19:01:27+00:00",
       "updated_at": "2026-11-16T19:01:27+00:00",
       "description": "You’re in Kamadan ae1. The chat won’t stop. Finish this message: WTB… 👇\n\n#GuildWarsReforged #GuildWars",
-      "image_url": "https://scontent-sjc6-1.xx.fbcdn.net/v/t15.5256-10/899491985_1877336603265517_3421555005088161112_n.jpg?stp=dst-jpg_tt6&cstp=mx1920x1080&ctp=s960x960&_nc_cat=105&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=F4ir5JGhf5YQ7kNvwEsTWwC&_nc_oc=Adr-jL0IA-KHe1oXJdea2C8lWfYozdX1TcnjVoS0-28Z_jZ7DWTSmSzlSN_k_XPtg1A&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=jJGEFlkZ33JMmpxhKUNI7Q&_nc_ss=7f289&oh=00_AQQCFq_r9Js2SeiV-RohZTX8191vRunjqk5hlJiCmSs99g&oe=6B01424A",
+      "image_url": "https://scontent-iad3-1.xx.fbcdn.net/v/t15.5256-10/899491985_1877336603265517_3421555005088161112_n.jpg?stp=dst-jpg_tt6&cstp=mx1920x1080&ctp=s960x960&_nc_cat=105&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=F4ir5JGhf5YQ7kNvwGSE8p5&_nc_oc=AdqzISwVpUuPi4kLAkttrqpJcYEe7HKx94VD1Xc4u1v8tXSVVAR6uyJL3AwJM8hbm8I&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&_nc_gid=ikNaMus4IhE33jQHYcx1aA&_nc_ss=7f289&oh=00_AQTJ1HxslWjBfhzZ6kmbi0_ObrM29E41HVapenT2b3M2wg&oe=6B01B2CA",
       "source_id": "guild-wars",
       "source_name": "Guild Wars",
       "platform": "facebook"
@@ -259,7 +295,7 @@
       "title": "Le bois mort qui verse de juteux dividendes",
       "url": "https://www.youtube.com/watch?v=5W3OD5SGYHo",
       "published_at": "2026-11-15T00:42:43+00:00",
-      "updated_at": "2026-11-15T01:45:29+00:00",
+      "updated_at": "2026-11-15T15:08:28+00:00",
       "description": "Le bois mort qui verse de juteux dividendes",
       "image_url": "https://i2.ytimg.com/vi/5W3OD5SGYHo/hqdefault.jpg",
       "source_id": "investi-qc",
@@ -295,7 +331,7 @@
       "title": "J’suis du pour changer de char",
       "url": "https://www.youtube.com/watch?v=49-vvm37I9g",
       "published_at": "2026-11-14T16:45:27+00:00",
-      "updated_at": "2026-11-14T17:25:22+00:00",
+      "updated_at": "2026-11-15T15:04:26+00:00",
       "description": "J’suis du pour changer de char",
       "image_url": "https://i1.ytimg.com/vi/49-vvm37I9g/hqdefault.jpg",
       "source_id": "investi-qc",
@@ -367,7 +403,7 @@
       "title": "Il aime les dividendes, mais surtout la croissance des dividendes.",
       "url": "https://www.youtube.com/watch?v=N-EQKOO4A7M",
       "published_at": "2026-11-13T18:41:46+00:00",
-      "updated_at": "2026-11-13T19:21:55+00:00",
+      "updated_at": "2026-11-15T15:05:22+00:00",
       "description": "Il aime les dividendes, mais surtout la croissance des dividendes.",
       "image_url": "https://i3.ytimg.com/vi/N-EQKOO4A7M/hqdefault.jpg",
       "source_id": "investi-qc",
@@ -523,7 +559,7 @@
       "title": "Son horizon de placement sera toujours de 50 ans",
       "url": "https://www.youtube.com/watch?v=g2eIJTbtTp0",
       "published_at": "2026-11-12T16:42:38+00:00",
-      "updated_at": "2026-11-13T21:56:45+00:00",
+      "updated_at": "2026-11-15T23:14:19+00:00",
       "description": "Son horizon de placement sera toujours de 50 ans",
       "image_url": "https://i4.ytimg.com/vi/g2eIJTbtTp0/hqdefault.jpg",
       "source_id": "investi-qc",
