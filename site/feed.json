@@ -2,7 +2,7 @@
   "version": 1,
   "title": "Social Feed",
   "description": "Un seul fil pour suivre les sources qui comptent.",
-  "generated_at": "2026-11-17T22:55:21.998746+00:00",
+  "generated_at": "2026-11-18T04:26:20.053241+00:00",
   "sources": [
     {
       "id": "eco-en-batons",
@@ -11,7 +11,7 @@
       "url": "https://www.youtube.com/@Eco_en_batons",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-17T22:55:21.998746+00:00",
+      "last_success_at": "2026-11-18T04:26:20.053241+00:00",
       "item_count": 37
     },
     {
@@ -21,7 +21,7 @@
       "url": "https://www.youtube.com/@investi-qc",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-17T22:55:21.998746+00:00",
+      "last_success_at": "2026-11-18T04:26:20.053241+00:00",
       "item_count": 79
     },
     {
@@ -31,7 +31,7 @@
       "url": "https://www.youtube.com/@hugolisoiryoutube",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-17T22:55:21.998746+00:00",
+      "last_success_at": "2026-11-18T04:26:20.053241+00:00",
       "item_count": 26
     },
     {
@@ -41,8 +41,8 @@
       "url": "https://www.youtube.com/@alexdemers-finance360",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-17T22:55:21.998746+00:00",
-      "item_count": 24
+      "last_success_at": "2026-11-18T04:26:20.053241+00:00",
+      "item_count": 25
     },
     {
       "id": "guild-wars",
@@ -87,11 +87,23 @@
   ],
   "items": [
     {
+      "id": "youtube:D_RLzNGUegU",
+      "title": "Votre Portefeuille est-il Trop Investi au Canada?",
+      "url": "https://www.youtube.com/watch?v=D_RLzNGUegU",
+      "published_at": "2026-11-17T23:00:05+00:00",
+      "updated_at": "2026-11-17T23:00:07+00:00",
+      "description": "Pour découvrir tous les avantages de l’offre Courtage direct 18-30, visitez https://www.disnat.com/avantages/courtage-direct-18-30\n\nMa formation pour les investisseurs autonomes: \nhttps://formation-traders360.mykajabi.com/inscription\n\nÉp. 357\nVous détenez plusieurs actions et vous pensez être bien diversifié? Votre portefeuille dépend peut-être beaucoup plus des mêmes risques que vous l'imaginez. Les banques canadiennes et leurs dividendes peuvent donner un sentiment de sécurité qui mérite d'être remis en question. Cet épisode pourrait changer votre façon de regarder vos placements.\n\nSuivez-moi sur Facebook, Instagram et Tiktok:\nhttps://www.facebook.com/firmetraders360/\nhttps://www.instagram.com/alextraders360\nhttps://www.tiktok.com/@alexdemers360\n\n\nAVIS LÉGAL: Les propos de l'animateur ne doivent en aucun cas être interprétés comme une recommandation d’achat d'une action sur les marchés boursiers. Alexandre Demers n'est pas un conseiller financier et toutes les informations partagées dans ce balado ne reflète que son opinion personnelle. Consultez un professionnel accrédité auprès de l'AMF pour obtenir des conseils appropriés à votre situation.\n\n\n00:00 Intro\n00:44 Desjardins Courtage en ligne\n01:29 Biais domestique\n03:11 Marché canadien (TSX)\n06:20 Risque de concentration\n08:42 Fonds tout-en-un\n09:58 Votre portefeuille",
+      "image_url": "https://i1.ytimg.com/vi/D_RLzNGUegU/hqdefault.jpg",
+      "source_id": "alex-demers-finance360",
+      "source_name": "Alex Demers — Finance 360",
+      "platform": "youtube"
+    },
+    {
       "id": "youtube:3RfqDMLrytg",
       "title": "Quoi faire avant les résultats de NVIDIA cet après-midi",
       "url": "https://www.youtube.com/watch?v=3RfqDMLrytg",
       "published_at": "2026-11-17T20:42:12+00:00",
-      "updated_at": "2026-11-17T21:02:43+00:00",
+      "updated_at": "2026-11-17T23:39:43+00:00",
       "description": "Quoi faire avant les résultats de NVIDIA cet après-midi",
       "image_url": "https://i4.ytimg.com/vi/3RfqDMLrytg/hqdefault.jpg",
       "source_id": "investi-qc",
@@ -415,7 +427,7 @@
       "title": "Nvidia soutient tout le marché ?",
       "url": "https://www.youtube.com/watch?v=yN9lvGIHffM",
       "published_at": "2026-11-13T23:44:38+00:00",
-      "updated_at": "2026-11-14T04:17:21+00:00",
+      "updated_at": "2026-11-16T23:37:14+00:00",
       "description": "Nvidia soutient tout le marché ?",
       "image_url": "https://i2.ytimg.com/vi/yN9lvGIHffM/hqdefault.jpg",
       "source_id": "investi-qc",
@@ -451,7 +463,7 @@
       "title": "Il aime les dividendes, mais surtout la croissance des dividendes.",
       "url": "https://www.youtube.com/watch?v=N-EQKOO4A7M",
       "published_at": "2026-11-13T18:41:46+00:00",
-      "updated_at": "2026-11-15T15:05:22+00:00",
+      "updated_at": "2026-11-16T23:36:27+00:00",
       "description": "Il aime les dividendes, mais surtout la croissance des dividendes.",
       "image_url": "https://i3.ytimg.com/vi/N-EQKOO4A7M/hqdefault.jpg",
       "source_id": "investi-qc",
@@ -475,7 +487,7 @@
       "title": "#collage avec TheStreet Il y a parfois des signaux d’achat clairs, et parfois…",
       "url": "https://www.youtube.com/watch?v=_-B8u-EEHEw",
       "published_at": "2026-11-13T14:40:34+00:00",
-      "updated_at": "2026-11-13T17:59:13+00:00",
+      "updated_at": "2026-11-16T17:54:52+00:00",
       "description": "#collage avec TheStreet Il y a parfois des signaux d’achat clairs, et parfois…",
       "image_url": "https://i4.ytimg.com/vi/_-B8u-EEHEw/hqdefault.jpg",
       "source_id": "investi-qc",
