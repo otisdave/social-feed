@@ -2,7 +2,7 @@
   "version": 1,
   "title": "Social Feed",
   "description": "Un seul fil pour suivre les sources qui comptent.",
-  "generated_at": "2026-11-18T14:04:17.082590+00:00",
+  "generated_at": "2026-11-18T22:00:11.058136+00:00",
   "sources": [
     {
       "id": "eco-en-batons",
@@ -11,7 +11,7 @@
       "url": "https://www.youtube.com/@Eco_en_batons",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-18T14:04:17.082590+00:00",
+      "last_success_at": "2026-11-18T22:00:11.058136+00:00",
       "item_count": 38
     },
     {
@@ -21,8 +21,8 @@
       "url": "https://www.youtube.com/@investi-qc",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-18T14:04:17.082590+00:00",
-      "item_count": 79
+      "last_success_at": "2026-11-18T22:00:11.058136+00:00",
+      "item_count": 81
     },
     {
       "id": "hugo-lisoir",
@@ -31,7 +31,7 @@
       "url": "https://www.youtube.com/@hugolisoiryoutube",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-18T14:04:17.082590+00:00",
+      "last_success_at": "2026-11-18T22:00:11.058136+00:00",
       "item_count": 26
     },
     {
@@ -41,7 +41,7 @@
       "url": "https://www.youtube.com/@alexdemers-finance360",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-18T14:04:17.082590+00:00",
+      "last_success_at": "2026-11-18T22:00:11.058136+00:00",
       "item_count": 25
     },
     {
@@ -49,8 +49,8 @@
       "name": "Guild Wars",
       "platform": "facebook",
       "url": "https://www.facebook.com/GuildWars/",
-      "status": "ok",
-      "error": null,
+      "status": "error",
+      "error": "RuntimeError: Facebook requires authentication or a challenge; no bypass attempted.",
       "last_success_at": "2026-11-18T14:04:17.082590+00:00",
       "item_count": 12
     },
@@ -59,8 +59,8 @@
       "name": "The Lord of the Rings Online",
       "platform": "facebook",
       "url": "https://www.facebook.com/LOTRO/",
-      "status": "ok",
-      "error": null,
+      "status": "error",
+      "error": "RuntimeError: Facebook requires authentication or a challenge; no bypass attempted.",
       "last_success_at": "2026-11-18T14:04:17.082590+00:00",
       "item_count": 37
     },
@@ -69,8 +69,8 @@
       "name": "Ville de Lavaltrie",
       "platform": "facebook",
       "url": "https://www.facebook.com/VilleDeLavaltrie/",
-      "status": "ok",
-      "error": null,
+      "status": "error",
+      "error": "RuntimeError: Facebook requires authentication or a challenge; no bypass attempted.",
       "last_success_at": "2026-11-18T14:04:17.082590+00:00",
       "item_count": 31
     },
@@ -79,19 +79,43 @@
       "name": "Traders 360",
       "platform": "facebook",
       "url": "https://www.facebook.com/firmetraders360/",
-      "status": "ok",
-      "error": null,
+      "status": "error",
+      "error": "RuntimeError: Facebook requires authentication or a challenge; no bypass attempted.",
       "last_success_at": "2026-11-18T14:04:17.082590+00:00",
       "item_count": 35
     }
   ],
   "items": [
     {
+      "id": "youtube:mwsHLWgc73k",
+      "title": "Actions à dividendes dans un CELI ou un compte non enregistré ?",
+      "url": "https://www.youtube.com/watch?v=mwsHLWgc73k",
+      "published_at": "2026-11-18T20:41:16+00:00",
+      "updated_at": "2026-11-18T21:53:33+00:00",
+      "description": "Actions à dividendes dans un CELI ou un compte non enregistré ?",
+      "image_url": "https://i2.ytimg.com/vi/mwsHLWgc73k/hqdefault.jpg",
+      "source_id": "investi-qc",
+      "source_name": "Investi QC",
+      "platform": "youtube"
+    },
+    {
+      "id": "youtube:45tJabnaACM",
+      "title": "Réinvestir automatiquement ou non ses dividendes ?",
+      "url": "https://www.youtube.com/watch?v=45tJabnaACM",
+      "published_at": "2026-11-18T16:46:06+00:00",
+      "updated_at": "2026-11-18T18:23:24+00:00",
+      "description": "Réinvestir automatiquement ou non ses dividendes ?",
+      "image_url": "https://i1.ytimg.com/vi/45tJabnaACM/hqdefault.jpg",
+      "source_id": "investi-qc",
+      "source_name": "Investi QC",
+      "platform": "youtube"
+    },
+    {
       "id": "youtube:Qh038-Ql_DA",
       "title": "Elon Musk : le Premier Trilliardaire (et comment il y est arrivé)",
       "url": "https://www.youtube.com/watch?v=Qh038-Ql_DA",
       "published_at": "2026-11-18T13:20:03+00:00",
-      "updated_at": "2026-11-18T13:45:56+00:00",
+      "updated_at": "2026-11-18T15:13:32+00:00",
       "description": "Le 12 juin 2026, Elon Musk devient le premier être humain dont la fortune estimée dépasse les 1 000 milliards de dollars (selon Forbes). De Pretoria, où il vend à 12 ans le code d'un jeu vidéo pour environ 500 dollars, à l'entrée en bourse de SpaceX, voici comment il y est arrivé : Zip2, PayPal, l'année 2008 où tout a failli s'arrêter, et la fusée qui revient se poser.\n\nChapitres\n0:00 Le premier à 1 000 milliards\n1:11 Pretoria : le jeu à 500 dollars\n3:31 Zip2 et PayPal\n6:31 2008 : l'année où tout a failli s'arrêter\n10:52 La fusée qui revient se poser\n14:14 L'entrée en bourse de SpaceX\n17:38 Le jour du record\n\nSources : Forbes, CNBC, NBC News, NASA (communiqué du 23/12/2008), documents de la SEC, Wikipédia.\n\nPhotos Wikimedia Commons — Debbie Rowe (CC BY-SA 3.0), Stansfield PL (CC BY-SA 3.0), Ruby D-Brown (CC BY 4.0), Takipoint123 (CC BY-SA 4.0), King of Hearts (CC BY-SA 3.0), 1000x2020 (CC BY-SA 4.0), Gage Skidmore (CC BY-SA 3.0), TechCrunch (CC BY 2.0), Robert Scoble (CC BY 2.0), JD Lasica (CC BY 2.0), Nicki Dugan (CC BY-SA 2.0), Jenny Hautmann (CC BY-SA 4.0), SpaceX (CC0), NASA / Bill Ingalls (domaine public). Cartes © OpenStreetMap contributors.",
       "image_url": "https://i2.ytimg.com/vi/Qh038-Ql_DA/hqdefault.jpg",
       "source_id": "eco-en-batons",
@@ -283,7 +307,7 @@
       "title": "Le triangle des dividendes : croissance des revenus, des bénéfices et des dividendes.",
       "url": "https://www.youtube.com/watch?v=L9b3WGtYgOE",
       "published_at": "2026-11-16T15:39:24+00:00",
-      "updated_at": "2026-11-16T17:48:51+00:00",
+      "updated_at": "2026-11-18T15:15:54+00:00",
       "description": "Le triangle des dividendes : croissance des revenus, des bénéfices et des dividendes.",
       "image_url": "https://i1.ytimg.com/vi/L9b3WGtYgOE/hqdefault.jpg",
       "source_id": "investi-qc",
@@ -343,7 +367,7 @@
       "title": "Je cherche un expert Tiktok",
       "url": "https://www.youtube.com/watch?v=cAKubXfQbZk",
       "published_at": "2026-11-15T21:43:46+00:00",
-      "updated_at": "2026-11-16T17:46:42+00:00",
+      "updated_at": "2026-11-18T17:37:56+00:00",
       "description": "Je cherche un expert Tiktok",
       "image_url": "https://i4.ytimg.com/vi/cAKubXfQbZk/hqdefault.jpg",
       "source_id": "investi-qc",
@@ -439,7 +463,7 @@
       "title": "J’suis du pour changer de char",
       "url": "https://www.youtube.com/watch?v=49-vvm37I9g",
       "published_at": "2026-11-14T16:45:27+00:00",
-      "updated_at": "2026-11-15T15:04:26+00:00",
+      "updated_at": "2026-11-18T15:32:05+00:00",
       "description": "J’suis du pour changer de char",
       "image_url": "https://i1.ytimg.com/vi/49-vvm37I9g/hqdefault.jpg",
       "source_id": "investi-qc",
@@ -655,7 +679,7 @@
       "title": "Il manque du lithium dans l’Univers, et personne ne sait pourquoi !",
       "url": "https://www.youtube.com/watch?v=rPGPTzgY_4c",
       "published_at": "2026-11-12T17:00:02+00:00",
-      "updated_at": "2026-11-15T23:12:47+00:00",
+      "updated_at": "2026-11-18T15:47:30+00:00",
       "description": "Les DOSSIERS DE L’ESPACE (LDDE) est un format qui fait le point sur une thématique particulière de l’astronomie et de l’exploration spatiale : histoire, technologies, découvertes et grands mystères de l’Univers.\nCette semaine, nous remontons aux premières minutes du cosmos pour enquêter sur le lithium manquant. \n\nSources :\n\nhttps://www.nature.com/articles/297483a0\nhttps://pdg.lbl.gov/2025/reviews/rpp2025-rev-bbang-nucleosynthesis.pdf\nhttps://www.nature.com/articles/nature05011\nhttps://arxiv.org/abs/2403.15534\nhttps://arxiv.org/abs/2601.12438\n\nMusiques : Pedro Macedo Camacho / Star Citizen, Utho Riley et Gérald M. Dorai\nImages : NASA, ESA et ESO\nMoteur 3D : Space Engine Pro",
       "image_url": "https://i3.ytimg.com/vi/rPGPTzgY_4c/hqdefault.jpg",
       "source_id": "hugo-lisoir",
