@@ -2,7 +2,7 @@
   "version": 1,
   "title": "Social Feed",
   "description": "Un seul fil pour suivre les sources qui comptent.",
-  "generated_at": "2026-11-18T22:00:11.058136+00:00",
+  "generated_at": "2026-11-19T03:33:14.612127+00:00",
   "sources": [
     {
       "id": "eco-en-batons",
@@ -11,7 +11,7 @@
       "url": "https://www.youtube.com/@Eco_en_batons",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-18T22:00:11.058136+00:00",
+      "last_success_at": "2026-11-19T03:33:14.612127+00:00",
       "item_count": 38
     },
     {
@@ -21,8 +21,8 @@
       "url": "https://www.youtube.com/@investi-qc",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-18T22:00:11.058136+00:00",
-      "item_count": 81
+      "last_success_at": "2026-11-19T03:33:14.612127+00:00",
+      "item_count": 82
     },
     {
       "id": "hugo-lisoir",
@@ -31,7 +31,7 @@
       "url": "https://www.youtube.com/@hugolisoiryoutube",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-18T22:00:11.058136+00:00",
+      "last_success_at": "2026-11-19T03:33:14.612127+00:00",
       "item_count": 26
     },
     {
@@ -41,7 +41,7 @@
       "url": "https://www.youtube.com/@alexdemers-finance360",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-18T22:00:11.058136+00:00",
+      "last_success_at": "2026-11-19T03:33:14.612127+00:00",
       "item_count": 25
     },
     {
@@ -49,49 +49,97 @@
       "name": "Guild Wars",
       "platform": "facebook",
       "url": "https://www.facebook.com/GuildWars/",
-      "status": "error",
-      "error": "RuntimeError: Facebook requires authentication or a challenge; no bypass attempted.",
-      "last_success_at": "2026-11-18T14:04:17.082590+00:00",
-      "item_count": 12
+      "status": "ok",
+      "error": null,
+      "last_success_at": "2026-11-19T03:33:14.612127+00:00",
+      "item_count": 13
     },
     {
       "id": "lotro",
       "name": "The Lord of the Rings Online",
       "platform": "facebook",
       "url": "https://www.facebook.com/LOTRO/",
-      "status": "error",
-      "error": "RuntimeError: Facebook requires authentication or a challenge; no bypass attempted.",
-      "last_success_at": "2026-11-18T14:04:17.082590+00:00",
-      "item_count": 37
+      "status": "ok",
+      "error": null,
+      "last_success_at": "2026-11-19T03:33:14.612127+00:00",
+      "item_count": 38
     },
     {
       "id": "ville-de-lavaltrie",
       "name": "Ville de Lavaltrie",
       "platform": "facebook",
       "url": "https://www.facebook.com/VilleDeLavaltrie/",
-      "status": "error",
-      "error": "RuntimeError: Facebook requires authentication or a challenge; no bypass attempted.",
-      "last_success_at": "2026-11-18T14:04:17.082590+00:00",
-      "item_count": 31
+      "status": "ok",
+      "error": null,
+      "last_success_at": "2026-11-19T03:33:14.612127+00:00",
+      "item_count": 32
     },
     {
       "id": "traders-360",
       "name": "Traders 360",
       "platform": "facebook",
       "url": "https://www.facebook.com/firmetraders360/",
-      "status": "error",
-      "error": "RuntimeError: Facebook requires authentication or a challenge; no bypass attempted.",
-      "last_success_at": "2026-11-18T14:04:17.082590+00:00",
-      "item_count": 35
+      "status": "ok",
+      "error": null,
+      "last_success_at": "2026-11-19T03:33:14.612127+00:00",
+      "item_count": 36
     }
   ],
   "items": [
+    {
+      "id": "facebook:100063889127390:1684592997013655",
+      "title": "Les investisseurs autonomes ont tendance à privilégier les entreprises canadiennes juste parce qu’ils connaissent leurs ",
+      "url": "https://www.facebook.com/reel/3719803591511396/",
+      "published_at": "2026-11-19T00:30:24+00:00",
+      "updated_at": "2026-11-19T00:30:24+00:00",
+      "description": "Les investisseurs autonomes ont tendance à privilégier les entreprises canadiennes juste parce qu’ils connaissent leurs marques et reconnaissent leurs logos.\n\nMais reconnaître une entreprise ne signifie pas qu’on comprend son modèle d’affai",
+      "image_url": "https://scontent-ord5-1.xx.fbcdn.net/v/t51.82787-10/913887509_18136407976669293_8837192606438644824_n.jpg?stp=dst-jpg_tt6&cstp=mx720x1280&ctp=s960x960&_nc_cat=100&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=ihfUeRzm2LQQ7kNvwFRGDuf&_nc_oc=AdpTq94apDMqC-1yEpgGFL8VflWsdZgNU9t5C66dSmgLSnR3AEdcRMY9ZdEMGMsIkAw&_nc_zt=23&_nc_ht=scontent-ord5-1.xx&_nc_gid=ay5I1MZafu76EyzPNyvAzg&_nc_ss=7f289&oh=00_AQTuIYXqOpr2OiO0G0K4XT6h5vpj8XFMeMBxRUE5r2Lsnw&oe=6B044FF1",
+      "source_id": "traders-360",
+      "source_name": "Traders 360",
+      "platform": "facebook"
+    },
+    {
+      "id": "youtube:ZTsc8K6ZxeE",
+      "title": "Est-ce que la CEO par interim de Nvidia est une IA?",
+      "url": "https://www.youtube.com/watch?v=ZTsc8K6ZxeE",
+      "published_at": "2026-11-18T23:45:01+00:00",
+      "updated_at": "2026-11-18T23:58:49+00:00",
+      "description": "Est-ce que la CEO par interim de Nvidia est une IA?",
+      "image_url": "https://i3.ytimg.com/vi/ZTsc8K6ZxeE/hqdefault.jpg",
+      "source_id": "investi-qc",
+      "source_name": "Investi QC",
+      "platform": "youtube"
+    },
+    {
+      "id": "facebook:100064655653099:1591593953005778",
+      "title": "☃️𝗙𝗲́𝗲𝗿𝗶𝗲 𝗱’𝗵𝗶𝘃𝗲𝗿 𝟮𝟬𝟮𝟳 | 𝗧𝗼𝘂𝗿𝗻𝗼𝗶 𝗱𝗲 𝗵𝗼𝗰𝗸𝗲𝘆-𝗯𝗼𝘁𝘁𝗶𝗻𝗲𝘀",
+      "url": "https://www.facebook.com/VilleDeLavaltrie/posts/pfbid034SCNaywNPYr7TpRSHBF6rwAg5Yk2gyiZwQN9jjmAPWNN1TNWhhxTHxC9DrmvNWEBl",
+      "published_at": "2026-11-18T23:19:01+00:00",
+      "updated_at": "2026-11-18T23:19:01+00:00",
+      "description": "☃️𝗙𝗲́𝗲𝗿𝗶𝗲 𝗱’𝗵𝗶𝘃𝗲𝗿 𝟮𝟬𝟮𝟳 | 𝗧𝗼𝘂𝗿𝗻𝗼𝗶 𝗱𝗲 𝗵𝗼𝗰𝗸𝗲𝘆-𝗯𝗼𝘁𝘁𝗶𝗻𝗲𝘀\nLa Féerie d’hiver revient pour sa 24e édition, et nous lançons un appel aux entreprises locales pour participer au traditionnel tournoi de hockey-bottines, les 29 et 30 janvier 2027!\n\n𝗖𝗼𝘂̂",
+      "image_url": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.99422-6/858381972_1804047097313862_1203547391283011237_n.png?stp=dst-jpg_tt6&cstp=mx2048x1365&ctp=p180x540&_nc_cat=110&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=BiAjPDxVm8wQ7kNvwEu03jM&_nc_oc=Adot5oQTfnBtEuJ-4qxqaSmrrtci_dfqEbdA2Ka_WFt7wGTUK3PH-JahlhIwgmNz1YQ&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=WyqPSzGUH7gatAFR4Ywkxw&_nc_ss=7f289&oh=00_AQQE6c3Ky7RifTk7bDTv_pC13d2uf3ZILNx6g4XslRp4ew&oe=6B045C1C",
+      "source_id": "ville-de-lavaltrie",
+      "source_name": "Ville de Lavaltrie",
+      "platform": "facebook"
+    },
+    {
+      "id": "facebook:100064792208382:1654767853359606",
+      "title": "The LOTRO game worlds will be unavailable on Thursday, November 19th from 9:00 AM - 1:00 PM Eastern (-5 GMT) to release ",
+      "url": "https://www.facebook.com/LOTRO/posts/pfbid0hhMjHFptbmKvnR91x6Ri233dnQHMpgTvjmo68tZFYVgv6N5BRu6vkkBg14nLpqPQl",
+      "published_at": "2026-11-18T21:06:08+00:00",
+      "updated_at": "2026-11-18T21:06:08+00:00",
+      "description": "The LOTRO game worlds will be unavailable on Thursday, November 19th from 9:00 AM - 1:00 PM Eastern (-5 GMT) to release Update 50.2. Find the release notes on LOTRO.com: https://www.lotro.com/update-notes/lotro-update-50-2-release-notes-en\n",
+      "image_url": null,
+      "source_id": "lotro",
+      "source_name": "The Lord of the Rings Online",
+      "platform": "facebook"
+    },
     {
       "id": "youtube:mwsHLWgc73k",
       "title": "Actions à dividendes dans un CELI ou un compte non enregistré ?",
       "url": "https://www.youtube.com/watch?v=mwsHLWgc73k",
       "published_at": "2026-11-18T20:41:16+00:00",
-      "updated_at": "2026-11-18T21:53:33+00:00",
+      "updated_at": "2026-11-18T22:26:06+00:00",
       "description": "Actions à dividendes dans un CELI ou un compte non enregistré ?",
       "image_url": "https://i2.ytimg.com/vi/mwsHLWgc73k/hqdefault.jpg",
       "source_id": "investi-qc",
@@ -99,11 +147,23 @@
       "platform": "youtube"
     },
     {
+      "id": "facebook:100069958479615:1446579137684022",
+      "title": "Deep within the Mists lie the ruins of a forgotten civilization. Some say it was a battlefield between the living and th",
+      "url": "https://www.facebook.com/reel/2002355587127688/",
+      "published_at": "2026-11-18T19:01:45+00:00",
+      "updated_at": "2026-11-18T19:01:45+00:00",
+      "description": "Deep within the Mists lie the ruins of a forgotten civilization. Some say it was a battlefield between the living and the dead. Others say the Old Gods once called it home.\n\n⚔️ Now it's a crossroads for lost spirits, and you've been called ",
+      "image_url": "https://scontent-ord5-2.xx.fbcdn.net/v/t15.5256-10/902720299_1115538318026509_2631457055303145931_n.jpg?stp=dst-jpg_tt6&cstp=mx1920x1080&ctp=s960x960&_nc_cat=105&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=GJchhM-b_LIQ7kNvwFEnXcz&_nc_oc=AdqkHNeMC_gJ6Rglf_Vy0q_deqtRB0TsiRmxwCx_MSV7XQu5KnHvWntvKhnla7-mZMM&_nc_zt=23&_nc_ht=scontent-ord5-2.xx&_nc_gid=wmmYoA0WdMPnZVxckNTpqg&_nc_ss=7f289&oh=00_AQT4jN-vVdPh9iD7pb3mI5a2it40KgC3ZYXcM3qU83E19w&oe=6B04275C",
+      "source_id": "guild-wars",
+      "source_name": "Guild Wars",
+      "platform": "facebook"
+    },
+    {
       "id": "youtube:45tJabnaACM",
       "title": "Réinvestir automatiquement ou non ses dividendes ?",
       "url": "https://www.youtube.com/watch?v=45tJabnaACM",
       "published_at": "2026-11-18T16:46:06+00:00",
-      "updated_at": "2026-11-18T18:23:24+00:00",
+      "updated_at": "2026-11-19T02:50:02+00:00",
       "description": "Réinvestir automatiquement ou non ses dividendes ?",
       "image_url": "https://i1.ytimg.com/vi/45tJabnaACM/hqdefault.jpg",
       "source_id": "investi-qc",
