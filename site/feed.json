@@ -2,7 +2,7 @@
   "version": 1,
   "title": "Social Feed",
   "description": "Un seul fil pour suivre les sources qui comptent.",
-  "generated_at": "2026-11-19T13:16:29.609561+00:00",
+  "generated_at": "2026-11-19T21:40:25.139161+00:00",
   "sources": [
     {
       "id": "eco-en-batons",
@@ -11,7 +11,7 @@
       "url": "https://www.youtube.com/@Eco_en_batons",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-19T13:16:29.609561+00:00",
+      "last_success_at": "2026-11-19T21:40:25.139161+00:00",
       "item_count": 38
     },
     {
@@ -21,8 +21,8 @@
       "url": "https://www.youtube.com/@investi-qc",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-19T13:16:29.609561+00:00",
-      "item_count": 82
+      "last_success_at": "2026-11-19T21:40:25.139161+00:00",
+      "item_count": 84
     },
     {
       "id": "hugo-lisoir",
@@ -31,8 +31,8 @@
       "url": "https://www.youtube.com/@hugolisoiryoutube",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-19T13:16:29.609561+00:00",
-      "item_count": 26
+      "last_success_at": "2026-11-19T21:40:25.139161+00:00",
+      "item_count": 27
     },
     {
       "id": "alex-demers-finance360",
@@ -41,7 +41,7 @@
       "url": "https://www.youtube.com/@alexdemers-finance360",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-19T13:16:29.609561+00:00",
+      "last_success_at": "2026-11-19T21:40:25.139161+00:00",
       "item_count": 25
     },
     {
@@ -51,7 +51,7 @@
       "url": "https://www.facebook.com/GuildWars/",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-19T13:16:29.609561+00:00",
+      "last_success_at": "2026-11-19T21:40:25.139161+00:00",
       "item_count": 13
     },
     {
@@ -61,8 +61,8 @@
       "url": "https://www.facebook.com/LOTRO/",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-19T13:16:29.609561+00:00",
-      "item_count": 38
+      "last_success_at": "2026-11-19T21:40:25.139161+00:00",
+      "item_count": 39
     },
     {
       "id": "ville-de-lavaltrie",
@@ -71,8 +71,8 @@
       "url": "https://www.facebook.com/VilleDeLavaltrie/",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-19T13:16:29.609561+00:00",
-      "item_count": 32
+      "last_success_at": "2026-11-19T21:40:25.139161+00:00",
+      "item_count": 33
     },
     {
       "id": "traders-360",
@@ -81,11 +81,83 @@
       "url": "https://www.facebook.com/firmetraders360/",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-19T13:16:29.609561+00:00",
-      "item_count": 36
+      "last_success_at": "2026-11-19T21:40:25.139161+00:00",
+      "item_count": 37
     }
   ],
   "items": [
+    {
+      "id": "facebook:100064792208382:1655924003243991",
+      "title": "Weekly Coupon:",
+      "url": "https://www.facebook.com/LOTRO/posts/pfbid03ySfcF77UqjsaVoH1awgqKrwTpa8YPeETKz6tkSEyZtB2vrmFsiAQ49A6jiDNS4Xl",
+      "published_at": "2026-11-19T21:15:33+00:00",
+      "updated_at": "2026-11-19T21:15:33+00:00",
+      "description": "Weekly Coupon:\nFree Battle Potion of Restoration\nCoupon Code: BACKINTHEFIGHT\nNow through November 26th! #LOTRO",
+      "image_url": null,
+      "source_id": "lotro",
+      "source_name": "The Lord of the Rings Online",
+      "platform": "facebook"
+    },
+    {
+      "id": "facebook:100063889127390:1686019593537662",
+      "title": "Sony, la nouvelle valeur refuge?",
+      "url": "https://www.facebook.com/firmetraders360/posts/pfbid02LKpgQzKp1Xvq6fLQZmKAM9uRHW6jjZ3n4opv1FXBwcFt8evhUEJcxsc2cswwkPZUl",
+      "published_at": "2026-11-19T20:29:12+00:00",
+      "updated_at": "2026-11-19T20:29:12+00:00",
+      "description": "Sony, la nouvelle valeur refuge?\n\nLes marchés boursiers sont en baisse et Sony est pas mal la seule action de mon portefeuille qui est dans le vert.\n\nMettons qu’avec ce que mes actions techno ont perdu depuis ce matin, j’aurais pu m’acheter",
+      "image_url": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.99422-6/913964753_2187602018502022_7570757445134076131_n.png?stp=dst-jpg_tt6&cstp=mx1328x1760&ctp=p526x296&_nc_cat=109&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=4D1GSKzWh5kQ7kNvwHTJ5lw&_nc_oc=AdryGwlJNCnm2xTh7XtoHNph-xJ3OsGt0kgLeXMgU3BjsRILjkN1wGgXSsGCPRzjZRI&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=NDz5_yg1825F5yZ1J2MZeg&_nc_ss=7f289&oh=00_AQRMvk--6Vsb32mSykHHVo-v6xXvB1D92smAwu0Zp3LLFw&oe=6B0526FB",
+      "source_id": "traders-360",
+      "source_name": "Traders 360",
+      "platform": "facebook"
+    },
+    {
+      "id": "youtube:sjzlU0YeByA",
+      "title": "Dans quoi investir? | Investi x Nicolas Bérubé, François Dorval, Paul Lavoie et Nikolaï Ray (Ép. 74)",
+      "url": "https://www.youtube.com/watch?v=sjzlU0YeByA",
+      "published_at": "2026-11-19T20:00:14+00:00",
+      "updated_at": "2026-11-19T20:00:15+00:00",
+      "description": "Où mettre son argent en ce moment ? Or, Bitcoin, FNB ou immobilier ?\n\nEnregistré devant public le 18 septembre dernier, cet épisode réunit 4 invités qui ont chacun une conviction forte, et un portefeuille qui suit leurs babines. \n\nPaul Lavoie est investi dans le Bitcoin depuis 10 ans. Nikolaï Ray et son entreprise Ikigai possède plus de 100 millions d'immobilier résidentiel. Nicolas Bérubé mise sur les FNB tout-en-un. Et François Dorvalles ressources naturelles, l’or et le pétrole depuis que Marc Dargis est aux couches.\n\nOn parle de concentration et de surconfiance, de levier, de tokenisation des actifs, de crise pétrolière et d’inflation. On parle aussi de la vraie question : comment rester assis dans son siège quand le marché baisse de 30 %.\n\nQuand les marchés paniquent, Banque Nationale Courtage Direct vous offre une oreille pour vous écouter, même si vous êtes en auto-gestion. En plus, les appels sont gratuits, tout comme les transactions sur actions et FNB : https://www.nbc.ca/fr/courtage-direct/podcast-investi\n\nBNCD offre l’exécution d’ordres sans conseils. Vous êtes responsables de vos décisions de placement.\n\nJusqu'à 30% de rabais au www.pochesetfils.com pour tes cadeaux de Noël. Tu peux aussi faire des cadeaux à ton équipe au www.cestbeau.co/pages/custom\n\nLes informations partagées dans cette vidéo sont fournies à des fins éducatives et de divertissement seulement. Elles ne constituent pas des conseils financiers ni des recommandations d’achat ou de vente.\n\nChapitres : \n00:00 Intro\n00:41 Où mettre son argent ? Concentration ou surconfiance en crypto\n03:00 Immobilier : le segment à choisir pour les 10 prochaines années\n07:53 FNB : savoir qu’on prend trop de risques avant la prochaine baisse\n10:18 Ressources : « information, information, information »\n13:25 Crypto : le risque surestimé et celui qu’on sous-estime (tokenisation)\n18:00 Immobilier : le faux sentiment de sécurité\n19:51 Pétrole, guerre et inflation\n23:12 Don’t just do something, stand there : traverser les krachs\n26:33 Endettement en immobilier : où est la ligne rouge ?\n30:28 Le levier en crypto et les marchés de prédiction\n34:12 Ressources et or : la meilleure protection contre l’inflation ?\n39:03 Période de questions\n40:02 Le passé est-il garant de l’avenir ?\n45:48 Les cycles de marché sont-ils de plus en plus courts ?\n47:15 Combien de cash garder ? Quand vendre un gagnant ?",
+      "image_url": "https://i4.ytimg.com/vi/sjzlU0YeByA/hqdefault.jpg",
+      "source_id": "investi-qc",
+      "source_name": "Investi QC",
+      "platform": "youtube"
+    },
+    {
+      "id": "facebook:100064655653099:1592825289549311",
+      "title": "🚌 𝗘𝗻𝘃𝗶𝗲 𝗱'𝘂𝗻𝗲 𝘀𝗼𝗿𝘁𝗶𝗲 𝗰𝘂𝗹𝘁𝘂𝗿𝗲𝗹𝗹𝗲? 𝗣𝗿𝗼𝗳𝗶𝘁𝗲𝘇 𝗱𝗲 𝗻𝗼𝘁𝗿𝗲 𝘀𝗲𝗿𝘃𝗶𝗰𝗲 𝗱𝗲 𝗻𝗮𝘃𝗲𝘁𝘁𝗲 𝗽𝗼𝘂𝗿 𝗹𝗲𝘀 𝟱𝟱 𝗮𝗻𝘀 𝗲𝘁 𝗽𝗹𝘂𝘀!",
+      "url": "https://www.facebook.com/VilleDeLavaltrie/posts/pfbid0R4vXjVmAAbtSnRvu3ycL3FC9QtsyyEoP1nYM9Rohhr8crHtmyzqM1qrfJCfsR762l",
+      "published_at": "2026-11-19T18:26:13+00:00",
+      "updated_at": "2026-11-19T18:26:13+00:00",
+      "description": "🚌 𝗘𝗻𝘃𝗶𝗲 𝗱'𝘂𝗻𝗲 𝘀𝗼𝗿𝘁𝗶𝗲 𝗰𝘂𝗹𝘁𝘂𝗿𝗲𝗹𝗹𝗲? 𝗣𝗿𝗼𝗳𝗶𝘁𝗲𝘇 𝗱𝗲 𝗻𝗼𝘁𝗿𝗲 𝘀𝗲𝗿𝘃𝗶𝗰𝗲 𝗱𝗲 𝗻𝗮𝘃𝗲𝘁𝘁𝗲 𝗽𝗼𝘂𝗿 𝗹𝗲𝘀 𝟱𝟱 𝗮𝗻𝘀 𝗲𝘁 𝗽𝗹𝘂𝘀!\n\nLa Ville de Lavaltrie vous propose un service de navette gratuit pour vous permettre de profiter de belles sorties culturelles, sans avoir à vou",
+      "image_url": null,
+      "source_id": "ville-de-lavaltrie",
+      "source_name": "Ville de Lavaltrie",
+      "platform": "facebook"
+    },
+    {
+      "id": "youtube:RoD0Pz5kb0Q",
+      "title": "Un évènement spatial inconnu a marqué tous les arbres de la planète !",
+      "url": "https://www.youtube.com/watch?v=RoD0Pz5kb0Q",
+      "published_at": "2026-11-19T17:13:15+00:00",
+      "updated_at": "2026-11-19T17:13:15+00:00",
+      "description": "En 774, un bombardement venu de l’espace a laissé une empreinte mondiale dans les arbres et les glaces polaires. Plus de douze siècles plus tard, cette signature a ouvert une enquête sur les événements de Miyake, ces épisodes extrêmes attribués à notre Soleil. Comment le carbone 14 permet-il de retrouver leur trace ? Quels indices révèlent leur origine et leur puissance ? \n\nSources :\nhttps://www.nature.com/articles/nature11123\nhttps://www.nature.com/articles/ncomms9611\nhttps://pmc.ncbi.nlm.nih.gov/articles/PMC10586540/\nhttps://doi.org/10.1017/RDC.2026.10236\nhttps://doi.org/10.1029/2020SW002665\nhttps://www.spaceweather.gov/impacts\n\nMusiques : Pedro Macedo Camacho / Star Citizen, Utho Riley et Gérald M. Dorai\nImages : [à compléter selon les visuels utilisés]\nMoteur 3D : Space Engine Pro",
+      "image_url": "https://i3.ytimg.com/vi/RoD0Pz5kb0Q/hqdefault.jpg",
+      "source_id": "hugo-lisoir",
+      "source_name": "Hugo Lisoir",
+      "platform": "youtube"
+    },
+    {
+      "id": "youtube:CHgzWTWbYeM",
+      "title": "Le géant de la cybersécurité Palo Alto Networks (PANW) vient de publier ses résultats trimestriels :",
+      "url": "https://www.youtube.com/watch?v=CHgzWTWbYeM",
+      "published_at": "2026-11-19T16:43:58+00:00",
+      "updated_at": "2026-11-19T19:56:59+00:00",
+      "description": "Le géant de la cybersécurité Palo Alto Networks (PANW) vient de publier ses résultats trimestriels : 📈 Revenus : 3,44 G$ (+39 %) 💰 Bénéfice ajusté par action : 1,05 $ (+13 %) 💵 Flux de trésorerie libre ajusté : 1,9 G$ La compagnie relève également ses prévisions annuelles et annonce une acquisition de 4,5 G$ dans l’intelligence artificielle. Mais il y a deux éléments à surveiller : une bonne partie de la croissance provient des acquisitions, et le nombre d’actions en circulation a augmenté considérablement. La cybersécurité profite de l’explosion de l’IA, mais est-ce que les acquisitions et la dilution vont finir par coûter cher aux actionnaires? À titre informatif seulement. Ceci ne constitue pas un conseil en investissement.",
+      "image_url": "https://i4.ytimg.com/vi/CHgzWTWbYeM/hqdefault.jpg",
+      "source_id": "investi-qc",
+      "source_name": "Investi QC",
+      "platform": "youtube"
+    },
     {
       "id": "facebook:100063889127390:1684592997013655",
       "title": "Les investisseurs autonomes ont tendance à privilégier les entreprises canadiennes juste parce qu’ils connaissent leurs ",
@@ -103,7 +175,7 @@
       "title": "Est-ce que la CEO par interim de Nvidia est une IA?",
       "url": "https://www.youtube.com/watch?v=ZTsc8K6ZxeE",
       "published_at": "2026-11-18T23:45:01+00:00",
-      "updated_at": "2026-11-19T08:59:12+00:00",
+      "updated_at": "2026-11-19T20:58:20+00:00",
       "description": "Est-ce que la CEO par interim de Nvidia est une IA?",
       "image_url": "https://i3.ytimg.com/vi/ZTsc8K6ZxeE/hqdefault.jpg",
       "source_id": "investi-qc",
@@ -153,7 +225,7 @@
       "published_at": "2026-11-18T19:01:45+00:00",
       "updated_at": "2026-11-18T19:01:45+00:00",
       "description": "Deep within the Mists lie the ruins of a forgotten civilization. Some say it was a battlefield between the living and the dead. Others say the Old Gods once called it home.\n\n⚔️ Now it's a crossroads for lost spirits, and you've been called ",
-      "image_url": "https://scontent-dfw5-1.xx.fbcdn.net/v/t15.5256-10/902720299_1115538318026509_2631457055303145931_n.jpg?stp=dst-jpg_tt6&cstp=mx1920x1080&ctp=s960x960&_nc_cat=105&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=GJchhM-b_LIQ7kNvwFx2onl&_nc_oc=AdqXn5Q45nn9j7IKjta5TheIxhYDRChVBvtJLJVWvD8uED3QW1lfrgsqBoviX-QkWGI&_nc_zt=23&_nc_ht=scontent-dfw5-1.xx&_nc_gid=n1wH9fQ0-27XMfPf5-K5cg&_nc_ss=7f289&oh=00_AQQLSZWBZzkevXDXMA4yWmuVdiuFxgzhq-aLWn6pqB-irg&oe=6B04D01C",
+      "image_url": "https://scontent-sjc6-1.xx.fbcdn.net/v/t15.5256-10/902720299_1115538318026509_2631457055303145931_n.jpg?stp=dst-jpg_tt6&cstp=mx1920x1080&ctp=s960x960&_nc_cat=105&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=GJchhM-b_LIQ7kNvwGZjLl5&_nc_oc=AdpLe0wBYtJ17iwcr9-11q4JWVMu22U9xSDu4y6-1RdV8OgbUAZWd1PdYpiD_16DVAM&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=yYdKGpwxLjX52q-hupounQ&_nc_ss=7f289&oh=00_AQTfM3qx6oH3sK7NLYpi7Tb4d9VQqNgoYxHtv0GE4nnb5w&oe=6B05409C",
       "source_id": "guild-wars",
       "source_name": "Guild Wars",
       "platform": "facebook"
@@ -175,7 +247,7 @@
       "title": "Elon Musk : le Premier Trilliardaire (et comment il y est arrivé)",
       "url": "https://www.youtube.com/watch?v=Qh038-Ql_DA",
       "published_at": "2026-11-18T13:20:03+00:00",
-      "updated_at": "2026-11-18T15:13:32+00:00",
+      "updated_at": "2026-11-19T21:08:22+00:00",
       "description": "Le 12 juin 2026, Elon Musk devient le premier être humain dont la fortune estimée dépasse les 1 000 milliards de dollars (selon Forbes). De Pretoria, où il vend à 12 ans le code d'un jeu vidéo pour environ 500 dollars, à l'entrée en bourse de SpaceX, voici comment il y est arrivé : Zip2, PayPal, l'année 2008 où tout a failli s'arrêter, et la fusée qui revient se poser.\n\nChapitres\n0:00 Le premier à 1 000 milliards\n1:11 Pretoria : le jeu à 500 dollars\n3:31 Zip2 et PayPal\n6:31 2008 : l'année où tout a failli s'arrêter\n10:52 La fusée qui revient se poser\n14:14 L'entrée en bourse de SpaceX\n17:38 Le jour du record\n\nSources : Forbes, CNBC, NBC News, NASA (communiqué du 23/12/2008), documents de la SEC, Wikipédia.\n\nPhotos Wikimedia Commons — Debbie Rowe (CC BY-SA 3.0), Stansfield PL (CC BY-SA 3.0), Ruby D-Brown (CC BY 4.0), Takipoint123 (CC BY-SA 4.0), King of Hearts (CC BY-SA 3.0), 1000x2020 (CC BY-SA 4.0), Gage Skidmore (CC BY-SA 3.0), TechCrunch (CC BY 2.0), Robert Scoble (CC BY 2.0), JD Lasica (CC BY 2.0), Nicki Dugan (CC BY-SA 2.0), Jenny Hautmann (CC BY-SA 4.0), SpaceX (CC0), NASA / Bill Ingalls (domaine public). Cartes © OpenStreetMap contributors.",
       "image_url": "https://i2.ytimg.com/vi/Qh038-Ql_DA/hqdefault.jpg",
       "source_id": "eco-en-batons",
@@ -235,7 +307,7 @@
       "title": "Quoi faire avant les résultats de NVIDIA cet après-midi",
       "url": "https://www.youtube.com/watch?v=3RfqDMLrytg",
       "published_at": "2026-11-17T20:42:12+00:00",
-      "updated_at": "2026-11-17T23:39:43+00:00",
+      "updated_at": "2026-11-19T21:34:48+00:00",
       "description": "Quoi faire avant les résultats de NVIDIA cet après-midi",
       "image_url": "https://i4.ytimg.com/vi/3RfqDMLrytg/hqdefault.jpg",
       "source_id": "investi-qc",
@@ -1663,7 +1735,7 @@
       "title": "Après le choc pétrolier : le baril s'effondre en 1986, et le pari nucléaire de la France paie",
       "url": "https://www.youtube.com/watch?v=FJx5enS21IM",
       "published_at": "2026-11-04T18:00:12+00:00",
-      "updated_at": "2026-11-08T22:04:22+00:00",
+      "updated_at": "2026-11-19T16:33:19+00:00",
       "description": "En 1986, l'Arabie saoudite change de stratégie pour reprendre ses clients, et le baril tombe d'environ 25 dollars à 10 ou 12 dollars en quelques mois. En France, le pari du plan Messmer a changé la donne : le nucléaire fournissait environ 8 % de l'électricité française en 1973, et environ 68 % de la production d'électricité en 2025. En 2024, la France produit un peu plus de 60 % de l'énergie qu'elle consomme, contre moins du quart en 1973.\nLes dessins sont des illustrations.\nMontants datés, en dollars de l'époque.\n#Shorts #nucléaire #énergie #chocpétrolier\n\nVidéo complète : https://youtu.be/PZ3JWONt0gM",
       "image_url": "https://i3.ytimg.com/vi/FJx5enS21IM/hqdefault.jpg",
       "source_id": "eco-en-batons",
@@ -1699,7 +1771,7 @@
       "title": "« En France, on n'a pas de pétrole, mais on a des idées » : chasse au gaspi et heure d'été",
       "url": "https://www.youtube.com/watch?v=5KUPjImkPdk",
       "published_at": "2026-11-04T15:30:08+00:00",
-      "updated_at": "2026-11-06T12:03:43+00:00",
+      "updated_at": "2026-11-19T16:25:40+00:00",
       "description": "Une centrale nucléaire prend des années, donc chaque litre économisé compte tout de suite : l'État crée l'Agence pour les économies d'énergie, celle de la chasse au gaspi. Au milieu des années 1970, une de ses campagnes trouve la formule qui reste : « En France, on n'a pas de pétrole, mais on a des idées ». Une de ces idées touche même votre montre : en 1976, pour économiser l'éclairage du soir, la France applique l'heure d'été. Ce que la France a choisi : rouler moins vite, économiser, et miser sur le nucléaire.\nLes dessins sont des illustrations.\n#Shorts #heuredété #économiesdénergie #chocpétrolier\n\nVidéo complète : https://youtu.be/PZ3JWONt0gM",
       "image_url": "https://i2.ytimg.com/vi/5KUPjImkPdk/hqdefault.jpg",
       "source_id": "eco-en-batons",
@@ -1711,7 +1783,7 @@
       "title": "La stagflation expliquée : du chômage ET de l'inflation après le choc pétrolier (1974-1975)",
       "url": "https://www.youtube.com/watch?v=EA2GBwKm-x8",
       "published_at": "2026-11-04T13:00:13+00:00",
-      "updated_at": "2026-11-07T23:43:30+00:00",
+      "updated_at": "2026-11-19T16:27:54+00:00",
       "description": "Le choc ralentit tout : aux États-Unis, le chômage passe de moins de 5 % en octobre 1973 à 9 % en mai 1975, et c'est la récession la plus grave de l'après-guerre jusque-là. En France, le PIB, tout ce que le pays produit, baisse de 1 % en 1975, et les demandeurs d'emploi passent d'environ 450 000 à l'été 1974 à 800 000 au printemps 1975. On attendait l'inverse : avec plus de chômeurs, les prix auraient dû se calmer. Or ils continuent de grimper en France, +13,7 % en 1974 et encore +11,8 % en 1975. Ce double mal porte un nom : la stagflation, de l'inflation et du chômage en même temps.\nLes dessins sont des illustrations.\n#Shorts #stagflation #chômage #inflation\n\nVidéo complète : https://youtu.be/PZ3JWONt0gM",
       "image_url": "https://i2.ytimg.com/vi/EA2GBwKm-x8/hqdefault.jpg",
       "source_id": "eco-en-batons",
@@ -1735,7 +1807,7 @@
       "title": "Choc pétrolier : pourquoi le plein n'a pas quadruplé en France en 1974 (le rôle des taxes)",
       "url": "https://www.youtube.com/watch?v=3Xdysrj8L0M",
       "published_at": "2026-11-04T10:30:20+00:00",
-      "updated_at": "2026-11-07T23:40:29+00:00",
+      "updated_at": "2026-11-19T16:31:10+00:00",
       "description": "Le baril coûte presque quatre fois plus cher, et le plein monte aussi, mais beaucoup moins. En France, le 11 janvier 1974, l'essence qui sort des raffineries fait plus que doubler d'un seul coup : plus 110 %. Mais à la pompe, la hausse est bien plus petite. Parce que les taxes faisaient les deux tiers du prix du plein et qu'à part la TVA, elles n'ont pas bougé : elles ne pèsent plus qu'un peu plus de la moitié du prix (de 66,80 % à 54,91 % du prix du super). Les taxes fixes ont amorti le choc.\nLes dessins sont des illustrations.\n#Shorts #essence #taxes #chocpétrolier\n\nVidéo complète : https://youtu.be/PZ3JWONt0gM",
       "image_url": "https://i4.ytimg.com/vi/3Xdysrj8L0M/hqdefault.jpg",
       "source_id": "eco-en-batons",
@@ -1747,7 +1819,7 @@
       "title": "Octobre 1973 : la guerre, l'embargo arabe, et un baril près de quatre fois plus cher",
       "url": "https://www.youtube.com/watch?v=-8nVSKfsv50",
       "published_at": "2026-11-04T08:00:31+00:00",
-      "updated_at": "2026-11-07T23:40:22+00:00",
+      "updated_at": "2026-11-19T16:27:44+00:00",
       "description": "Le 6 octobre 1973, l'Égypte et la Syrie attaquent Israël. Dix jours plus tard, six pays du Golfe relèvent seuls de 70 % le prix de référence du baril, à plus de 5 dollars. Le lendemain, les pays arabes annoncent une baisse de leur production de 5 % par mois. Le 19 octobre, le président américain Richard Nixon demande 2,2 milliards de dollars d'aide pour Israël ; le roi Fayçal annonce alors l'embargo total, c'est-à-dire l'interdiction de vendre du pétrole aux États-Unis, une mesure qui vise aussi les Pays-Bas. Pourtant, le pétrole ne disparaît pas : dans le monde, plus de neuf barils sur dix continuent d'arriver, mais de plus en plus cher. Au 1er janvier 1974, le baril est affiché à 11,65 dollars, près de quatre fois son prix d'avant.\nFaits rapportés et datés, sans prendre parti. Les dessins sont des illustrations.\nMontants datés, en dollars de l'époque.\nMinistres du pétrole : Central Intelligence Agency / Wikimedia Commons, domaine public.\nRichard Nixon, Golda Meir et Henry Kissinger (novembre 1973) : White House Photo Office (Nixon Library), domaine public.\nDimanche sans voiture aux Pays-Bas (4 novembre 1973) : Rob Mieremet / Anefo (Nationaal Archief), CC0 ; cuves du port d'Amsterdam (2 novembre 1973) : Anefo (Nationaal Archief), CC0.\n#Shorts #chocpétrolier #OPEP #histoire\n\nVidéo complète : https://youtu.be/PZ3JWONt0gM",
       "image_url": "https://i2.ytimg.com/vi/-8nVSKfsv50/hqdefault.jpg",
       "source_id": "eco-en-batons",
@@ -1867,7 +1939,7 @@
       "title": "Du baril à la baguette : comment le choc pétrolier est entré dans vos prix (+13,7 % en 1974)",
       "url": "https://www.youtube.com/watch?v=R8_GPX7MbOk",
       "published_at": "2026-11-03T18:00:34+00:00",
-      "updated_at": "2026-11-07T00:12:19+00:00",
+      "updated_at": "2026-11-19T16:24:14+00:00",
       "description": "Prenez une baguette : un blé qui pousse avec de l'engrais, une farine qui voyage en camion, un four qui chauffe. À chaque étape, l'énergie plus chère se reporte un peu sur le prix. Un panier qui coûtait 100 francs en 1973, sans compter le plein, en coûte presque 114 en 1974 : les prix montent de 13,7 % sur l'année. Surprise : d'octobre 1973 à octobre 1974, le salaire horaire des ouvriers monte d'environ 20 %, quand les prix montent d'un peu plus de 15 %. Les salaires rattrapent les prix, les entreprises paient plus cher leurs ouvriers, et les prix repartent : c'est ce qui a pu entretenir l'inflation, c'est-à-dire la hausse générale des prix.\nLes dessins sont des illustrations.\nPanneaux d'un magasin néerlandais (12 décembre 1973) : Rob Croes / Anefo (Nationaal Archief) / Wikimedia Commons, CC0.\n#Shorts #inflation #chocpétrolier #économie\n\nVidéo complète : https://youtu.be/PZ3JWONt0gM",
       "image_url": "https://i3.ytimg.com/vi/R8_GPX7MbOk/hqdefault.jpg",
       "source_id": "eco-en-batons",
@@ -1903,7 +1975,7 @@
       "title": "1981 : un crédit immobilier à 18,6 % aux États-Unis, ce que l'argent cher a coûté aux familles",
       "url": "https://www.youtube.com/watch?v=PXJGviVtFkQ",
       "published_at": "2026-11-03T15:30:17+00:00",
-      "updated_at": "2026-11-07T00:11:04+00:00",
+      "updated_at": "2026-11-19T16:30:00+00:00",
       "description": "En octobre 1981, aux États-Unis, un crédit immobilier à 30 ans coûte en moyenne 18,6 % par an. Sur 100 000 dollars empruntés à ce taux, on paie environ 18 600 dollars d'intérêts la première année, et presque rien du prêt lui-même. L'emploi paie aussi : fin 1982, le chômage américain atteint 10,8 %, le plus haut de l'après-guerre. Et pourtant, en 1981, le baril vaut encore plus de 35 dollars, alors que l'inflation américaine tombe de près de 15 % à moins de 4 % : ce n'est donc pas le pétrole qui a cédé, c'est l'argent cher qui a cassé les prix.\nLes dessins sont des illustrations.\nMontants datés, en dollars de l'époque.\nExplication générale, pas un conseil en investissement.\n#Shorts #crédit #inflation #économie\n\nVidéo complète : https://youtu.be/PZ3JWONt0gM",
       "image_url": "https://i1.ytimg.com/vi/PXJGviVtFkQ/hqdefault.jpg",
       "source_id": "eco-en-batons",
@@ -1915,7 +1987,7 @@
       "title": "Paul Volcker : comment des taux à près de 20 % ont cassé l'inflation américaine (1979-1981)",
       "url": "https://www.youtube.com/watch?v=MjHAp8Kh2ag",
       "published_at": "2026-11-03T13:00:18+00:00",
-      "updated_at": "2026-11-07T00:18:30+00:00",
+      "updated_at": "2026-11-19T16:30:15+00:00",
       "description": "En août 1979, Paul Volcker prend la tête de la banque centrale américaine, alors que l'inflation dépasse 11 % sur un an. Son arme : le taux d'intérêt, c'est-à-dire le prix auquel on emprunte. Plus il est haut, plus emprunter coûte cher, donc moins on dépense, et moins les vendeurs peuvent monter leurs prix. Volcker serre : le taux de la banque centrale monte jusqu'à près de 20 % en 1981. Comment on casse une inflation : en rendant l'argent si cher qu'on dépense moins.\nLes dessins sont des illustrations.\nExplication générale, pas un conseil en investissement.\nPhoto de Paul Volcker (1989) : Universitätsarchiv St.Gallen (HSG) / Wikimedia Commons, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/), https://commons.wikimedia.org/wiki/File:Paul_A._Volcker_(James_D._Wolfensohn)_am_19._Symposium_1989-HSGH_022-000765_(cropped)_(2).jpg\n#Shorts #inflation #tauxdintérêt #économie\n\nVidéo complète : https://youtu.be/PZ3JWONt0gM",
       "image_url": "https://i2.ytimg.com/vi/MjHAp8Kh2ag/hqdefault.jpg",
       "source_id": "eco-en-batons",
@@ -1927,7 +1999,7 @@
       "title": "Plan Messmer (6 mars 1974) : pourquoi la France a misé sur le nucléaire après le choc pétrolier",
       "url": "https://www.youtube.com/watch?v=vLsrNRl5h-Y",
       "published_at": "2026-11-03T10:30:33+00:00",
-      "updated_at": "2026-11-09T07:10:15+00:00",
+      "updated_at": "2026-11-19T16:28:40+00:00",
       "description": "En 1973, la France produit moins du quart de l'énergie qu'elle consomme. Elle réagit d'abord sur la route : en décembre 1973, la vitesse est limitée à 120 km/h sur autoroute et à 90 km/h sur les autres routes. Puis, le 6 mars 1974, à la télévision, le Premier ministre Pierre Messmer annonce : « Nous avons pris la décision de réaliser en 1974 et 1975 le lancement de treize centrales nucléaires. » Treize centrales à lancer en deux ans, puis six à sept réacteurs par an : c'est le plan Messmer, le pari du nucléaire pour moins dépendre du pétrole.\nLes dessins sont des illustrations.\nPhoto de Pierre Messmer (1988) : Roland Godefroy / Wikimedia Commons, CC BY 3.0 (https://creativecommons.org/licenses/by/3.0/), https://commons.wikimedia.org/wiki/File:Pierre_Messmer01_(cropped_2).JPG\nPhoto d'archive (route en Oregon, novembre 1973) : David Falconer, EPA Documerica / NARA, domaine public.\n#Shorts #nucléaire #planMessmer #chocpétrolier\n\nVidéo complète : https://youtu.be/PZ3JWONt0gM",
       "image_url": "https://i3.ytimg.com/vi/vLsrNRl5h-Y/hqdefault.jpg",
       "source_id": "eco-en-batons",
