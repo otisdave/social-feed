@@ -2,7 +2,7 @@
   "version": 1,
   "title": "Social Feed",
   "description": "Un seul fil pour suivre les sources qui comptent.",
-  "generated_at": "2026-11-20T12:58:53.557715+00:00",
+  "generated_at": "2026-11-20T21:10:13.303834+00:00",
   "sources": [
     {
       "id": "eco-en-batons",
@@ -11,7 +11,7 @@
       "url": "https://www.youtube.com/@Eco_en_batons",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-20T12:58:53.557715+00:00",
+      "last_success_at": "2026-11-20T21:10:13.303834+00:00",
       "item_count": 38
     },
     {
@@ -21,8 +21,8 @@
       "url": "https://www.youtube.com/@investi-qc",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-20T12:58:53.557715+00:00",
-      "item_count": 86
+      "last_success_at": "2026-11-20T21:10:13.303834+00:00",
+      "item_count": 87
     },
     {
       "id": "hugo-lisoir",
@@ -31,7 +31,7 @@
       "url": "https://www.youtube.com/@hugolisoiryoutube",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-20T12:58:53.557715+00:00",
+      "last_success_at": "2026-11-20T21:10:13.303834+00:00",
       "item_count": 27
     },
     {
@@ -41,7 +41,7 @@
       "url": "https://www.youtube.com/@alexdemers-finance360",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-20T12:58:53.557715+00:00",
+      "last_success_at": "2026-11-20T21:10:13.303834+00:00",
       "item_count": 25
     },
     {
@@ -86,6 +86,18 @@
     }
   ],
   "items": [
+    {
+      "id": "youtube:gnYv5MzBp6A",
+      "title": "Windows est populaire en Chine",
+      "url": "https://www.youtube.com/watch?v=gnYv5MzBp6A",
+      "published_at": "2026-11-20T16:44:29+00:00",
+      "updated_at": "2026-11-20T17:59:59+00:00",
+      "description": "Windows est populaire en Chine",
+      "image_url": "https://i4.ytimg.com/vi/gnYv5MzBp6A/hqdefault.jpg",
+      "source_id": "investi-qc",
+      "source_name": "Investi QC",
+      "platform": "youtube"
+    },
     {
       "id": "youtube:cJnIkoKQN3k",
       "title": "Volume en forte hausse sur le Nasdaq et le S&P500",
@@ -235,7 +247,7 @@
       "title": "Actions à dividendes dans un CELI ou un compte non enregistré ?",
       "url": "https://www.youtube.com/watch?v=mwsHLWgc73k",
       "published_at": "2026-11-18T20:41:16+00:00",
-      "updated_at": "2026-11-19T22:59:28+00:00",
+      "updated_at": "2026-11-20T14:25:18+00:00",
       "description": "Actions à dividendes dans un CELI ou un compte non enregistré ?",
       "image_url": "https://i2.ytimg.com/vi/mwsHLWgc73k/hqdefault.jpg",
       "source_id": "investi-qc",
@@ -403,7 +415,7 @@
       "title": "Les neoclouds comme CoreWeave pourraient être les premiers dominos à tomber dans le trade sur l’IA",
       "url": "https://www.youtube.com/watch?v=yK9bDhwRWTk",
       "published_at": "2026-11-16T22:59:57+00:00",
-      "updated_at": "2026-11-18T11:32:11+00:00",
+      "updated_at": "2026-11-20T19:24:16+00:00",
       "description": "Toujours emprunter davantage pour continuer à grossir, ça peut durer combien de temps?\n\nC'est ce qui m'inquiète avec les neoclouds comme CoreWeave et Nebius. \n\nQuand la croissance dépend continuellement de nouvelles dettes, je considère que le modèle devient insoutenable à long terme.\n\nLa demande pour l'IA peut continuer d'augmenter, mais il faut aussi avoir les moyens de financer cette croissance.",
       "image_url": "https://i2.ytimg.com/vi/yK9bDhwRWTk/hqdefault.jpg",
       "source_id": "alex-demers-finance360",
