@@ -2,7 +2,7 @@
   "version": 1,
   "title": "Social Feed",
   "description": "Un seul fil pour suivre les sources qui comptent.",
-  "generated_at": "2026-11-21T11:10:18.196702+00:00",
+  "generated_at": "2026-11-21T18:00:11.876331+00:00",
   "sources": [
     {
       "id": "eco-en-batons",
@@ -11,7 +11,7 @@
       "url": "https://www.youtube.com/@Eco_en_batons",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-21T11:10:18.196702+00:00",
+      "last_success_at": "2026-11-21T18:00:11.876331+00:00",
       "item_count": 38
     },
     {
@@ -21,8 +21,8 @@
       "url": "https://www.youtube.com/@investi-qc",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-21T11:10:18.196702+00:00",
-      "item_count": 88
+      "last_success_at": "2026-11-21T18:00:11.876331+00:00",
+      "item_count": 89
     },
     {
       "id": "hugo-lisoir",
@@ -31,7 +31,7 @@
       "url": "https://www.youtube.com/@hugolisoiryoutube",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-21T11:10:18.196702+00:00",
+      "last_success_at": "2026-11-21T18:00:11.876331+00:00",
       "item_count": 27
     },
     {
@@ -41,7 +41,7 @@
       "url": "https://www.youtube.com/@alexdemers-finance360",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-21T11:10:18.196702+00:00",
+      "last_success_at": "2026-11-21T18:00:11.876331+00:00",
       "item_count": 25
     },
     {
@@ -51,7 +51,7 @@
       "url": "https://www.facebook.com/GuildWars/",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-21T11:10:18.196702+00:00",
+      "last_success_at": "2026-11-21T18:00:11.876331+00:00",
       "item_count": 14
     },
     {
@@ -61,8 +61,8 @@
       "url": "https://www.facebook.com/LOTRO/",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-21T11:10:18.196702+00:00",
-      "item_count": 40
+      "last_success_at": "2026-11-21T18:00:11.876331+00:00",
+      "item_count": 41
     },
     {
       "id": "ville-de-lavaltrie",
@@ -71,7 +71,7 @@
       "url": "https://www.facebook.com/VilleDeLavaltrie/",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-21T11:10:18.196702+00:00",
+      "last_success_at": "2026-11-21T18:00:11.876331+00:00",
       "item_count": 34
     },
     {
@@ -81,11 +81,35 @@
       "url": "https://www.facebook.com/firmetraders360/",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-21T11:10:18.196702+00:00",
+      "last_success_at": "2026-11-21T18:00:11.876331+00:00",
       "item_count": 38
     }
   ],
   "items": [
+    {
+      "id": "youtube:_ROnshpcaHM",
+      "title": "Mitek se spécialise dans la détection du deepfake",
+      "url": "https://www.youtube.com/watch?v=_ROnshpcaHM",
+      "published_at": "2026-11-21T15:39:35+00:00",
+      "updated_at": "2026-11-21T16:49:09+00:00",
+      "description": "Mitek se spécialise dans la détection du deepfake",
+      "image_url": "https://i4.ytimg.com/vi/_ROnshpcaHM/hqdefault.jpg",
+      "source_id": "investi-qc",
+      "source_name": "Investi QC",
+      "platform": "youtube"
+    },
+    {
+      "id": "facebook:100064792208382:1657824666387258",
+      "title": "Update 50.2 has been released! Find the release notes on LOTRO.com: https://www.lotro.com/update-notes/lotro-update-50-2",
+      "url": "https://www.facebook.com/LOTRO/posts/pfbid024NAAdyL32o4egDtpuM1DAMybTZYeTycwJeqP8jseCzfupBNqPVY6R4UtsD4mVvVgl",
+      "published_at": "2026-11-21T13:45:23+00:00",
+      "updated_at": "2026-11-21T13:45:23+00:00",
+      "description": "Update 50.2 has been released! Find the release notes on LOTRO.com: https://www.lotro.com/update-notes/lotro-update-50-2-release-notes-en #LOTRO",
+      "image_url": null,
+      "source_id": "lotro",
+      "source_name": "The Lord of the Rings Online",
+      "platform": "facebook"
+    },
     {
       "id": "facebook:100064792208382:1657219216447803",
       "title": "There is still time to redeem a coupon code for free gifts! Use the code SAURONSGIFT through December 10th for a collect",
@@ -117,7 +141,7 @@
       "published_at": "2026-11-20T21:27:44+00:00",
       "updated_at": "2026-11-20T21:27:44+00:00",
       "description": "Moi qui explique aux gens l’importance de diversifier leur portefeuille.\n\nAussi moi : pas d’immobilier, pas d’or, pas de crypto et toute ma valeur nette investie en bourse.\n\nJ’ai tellement bien diversifié mes actions que je peux perdre de l",
-      "image_url": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.99422-6/914139487_1106093129086660_2980215429378629026_n.png?stp=dst-jpg_tt6&cstp=mx1680x960&ctp=p180x540&_nc_cat=105&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=cEnH3O3n_ZoQ7kNvwHi2DGg&_nc_oc=AdrgjEcFJnPz5L_mRUHbSXEiCtrQ0FM68l5jSzmfMZW6VNVvgMT3qaE5JCeK4NV35GA&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=sDfB9kBXx-Fv1AFCrtr7jg&_nc_ss=7f289&oh=00_AQRZCDnGdBjrlB5jqcWgNR5R_L7Cb4SDDF3zi79D9quj6Q&oe=6B0751C8",
+      "image_url": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.99422-6/914139487_1106093129086660_2980215429378629026_n.png?stp=dst-jpg_tt6&cstp=mx1680x960&ctp=p180x540&_nc_cat=105&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=DYR4nK1PLP8Q7kNvwE3zKow&_nc_oc=AdqZAo7x_mAbNntpuhZ1W7FSzEuPEmbZIP10UX7raAozc4K2Etozv6MvpZsFRX0JEig&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=h4LEWCzvKyhp7XxhXDVqTA&_nc_ss=7f289&oh=00_AQS7q2_ZVmFLb_GNh6-9sdq4Cq6GdEUZ5LdgHwq89_iRJQ&oe=6B07C248",
       "source_id": "traders-360",
       "source_name": "Traders 360",
       "platform": "facebook"
@@ -129,7 +153,7 @@
       "published_at": "2026-11-20T21:11:27+00:00",
       "updated_at": "2026-11-20T21:11:27+00:00",
       "description": "Who else remembers a whole party getting shut down in the Cathedral of Flames? 🙋\n\nMeet the Crypt Wraith: an undead Mesmer that lurks in the Depths of Tyria and spams interrupts at anyone silly enough to cast.\n\nWhat’s your best tip for deali",
-      "image_url": "https://scontent-ord5-1.xx.fbcdn.net/v/t15.5256-10/897300672_3302290353288695_8607398660543642150_n.jpg?stp=dst-jpg_tt6&cstp=mx1080x1350&ctp=s960x960&_nc_cat=106&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=hiMLVBqlW0UQ7kNvwFsISvn&_nc_oc=Adr9ILwHjlfk-EGlnXyECMFvf9VqlUkNLBI5e3HqhXYr_tjG2wafOVOcKNzKqZgPQ6A&_nc_zt=23&_nc_ht=scontent-ord5-1.xx&_nc_gid=f4kK1s6FwmuKt_mMpNdIZQ&_nc_ss=7f289&oh=00_AQTNG0pSWJN6vmerJjLtunWmBAt96_LjDZSUaxDA5OOIMA&oe=6B073570",
+      "image_url": "https://scontent-iad3-1.xx.fbcdn.net/v/t15.5256-10/897300672_3302290353288695_8607398660543642150_n.jpg?stp=dst-jpg_tt6&cstp=mx1080x1350&ctp=s960x960&_nc_cat=106&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=hiMLVBqlW0UQ7kNvwEhz3BK&_nc_oc=AdqukGCM3QB-pJIScrQGUxQY2VsvqxFPuybVZUH2Zby9NG-pBaoPii1z6ly-xcbauCc&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&_nc_gid=kI6EvyZPpem__Q-Zcrz_3w&_nc_ss=7f289&oh=00_AQSSp9R1uMzSCdD7m_fKo_HeheWAvw8BNVHf_Qn6rZ1kuA&oe=6B07A5F0",
       "source_id": "guild-wars",
       "source_name": "Guild Wars",
       "platform": "facebook"
@@ -141,7 +165,7 @@
       "published_at": "2026-11-20T18:00:03+00:00",
       "updated_at": "2026-11-20T18:00:03+00:00",
       "description": "𝗟𝗮𝘃𝗮𝗹𝘁𝗿𝗶𝗲, 𝗠𝘂𝗻𝗶𝗰𝗶𝗽𝗮𝗹𝗶𝘁𝗲́ 𝗮𝗺𝗶𝗲 𝗱𝗲𝘀 𝗲𝗻𝗳𝗮𝗻𝘁𝘀! 💙🧒👧\n\nEn cette 𝗝𝗼𝘂𝗿𝗻𝗲́𝗲 𝗺𝗼𝗻𝗱𝗶𝗮𝗹𝗲 𝗱𝗲𝘀 𝗲𝗻𝗳𝗮𝗻𝘁𝘀, la Ville de Lavaltrie a reçu aujourd’hui son certificat de reconnaissance à titre de Municipalité amie des enfants (MAE)! 🎉\n\nCette reconnaissance soulig",
-      "image_url": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.99422-6/913591512_2030442727648487_2017181828215402442_n.png?stp=dst-jpg_tt6&cstp=mx1080x1080&ctp=p526x296&_nc_cat=104&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=as7N1edXhNMQ7kNvwEI17hd&_nc_oc=AdqQt9KQ5Y5bKW_yi48-kM-iedRRl2NmW1D2Zx96fwP82c5kfJnwZd5a2hRi6LLAbWE&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=UGaCyk4MOwsDycJ0_iPukg&_nc_ss=7f289&oh=00_AQSnJ17icfnYvXeQz1QMhD2lKEXSF7PPXiOJdWPsBkfDMw&oe=6B074970",
+      "image_url": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.99422-6/913591512_2030442727648487_2017181828215402442_n.png?stp=dst-jpg_tt6&cstp=mx1080x1080&ctp=p526x296&_nc_cat=104&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=4YKA6hc7W2EQ7kNvwEggAkE&_nc_oc=AdoER5snOXDYjuVNttVHh6ji9ft_ENcRMfW-BQW0Xvq9rV3qBZ_4dAK1_DB2pVLBGH8&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=H6tQoLJ_BXAKffA1TSx2VQ&_nc_ss=7f289&oh=00_AQSrOTwNpriFHH2PoMhJndN1AG1ekUBdTQ_G5Tp-m-Ryxg&oe=6B07B9F0",
       "source_id": "ville-de-lavaltrie",
       "source_name": "Ville de Lavaltrie",
       "platform": "facebook"
@@ -163,7 +187,7 @@
       "title": "Volume en forte hausse sur le Nasdaq et le S&P500",
       "url": "https://www.youtube.com/watch?v=cJnIkoKQN3k",
       "published_at": "2026-11-20T00:43:29+00:00",
-      "updated_at": "2026-11-21T07:54:25+00:00",
+      "updated_at": "2026-11-21T12:26:10+00:00",
       "description": "Volume en forte hausse sur le Nasdaq et le S&P500",
       "image_url": "https://i4.ytimg.com/vi/cJnIkoKQN3k/hqdefault.jpg",
       "source_id": "investi-qc",
