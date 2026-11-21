@@ -2,7 +2,7 @@
   "version": 1,
   "title": "Social Feed",
   "description": "Un seul fil pour suivre les sources qui comptent.",
-  "generated_at": "2026-11-20T21:10:13.303834+00:00",
+  "generated_at": "2026-11-21T02:21:11.260537+00:00",
   "sources": [
     {
       "id": "eco-en-batons",
@@ -11,7 +11,7 @@
       "url": "https://www.youtube.com/@Eco_en_batons",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-20T21:10:13.303834+00:00",
+      "last_success_at": "2026-11-21T02:21:11.260537+00:00",
       "item_count": 38
     },
     {
@@ -21,8 +21,8 @@
       "url": "https://www.youtube.com/@investi-qc",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-20T21:10:13.303834+00:00",
-      "item_count": 87
+      "last_success_at": "2026-11-21T02:21:11.260537+00:00",
+      "item_count": 88
     },
     {
       "id": "hugo-lisoir",
@@ -31,7 +31,7 @@
       "url": "https://www.youtube.com/@hugolisoiryoutube",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-20T21:10:13.303834+00:00",
+      "last_success_at": "2026-11-21T02:21:11.260537+00:00",
       "item_count": 27
     },
     {
@@ -41,7 +41,7 @@
       "url": "https://www.youtube.com/@alexdemers-finance360",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-20T21:10:13.303834+00:00",
+      "last_success_at": "2026-11-21T02:21:11.260537+00:00",
       "item_count": 25
     },
     {
@@ -87,11 +87,23 @@
   ],
   "items": [
     {
+      "id": "youtube:CU-ZRc0kKJ8",
+      "title": "Un centre d’appels mais de fraude",
+      "url": "https://www.youtube.com/watch?v=CU-ZRc0kKJ8",
+      "published_at": "2026-11-20T21:43:08+00:00",
+      "updated_at": "2026-11-21T02:09:35+00:00",
+      "description": "Un centre d’appels mais de fraude",
+      "image_url": "https://i4.ytimg.com/vi/CU-ZRc0kKJ8/hqdefault.jpg",
+      "source_id": "investi-qc",
+      "source_name": "Investi QC",
+      "platform": "youtube"
+    },
+    {
       "id": "youtube:gnYv5MzBp6A",
       "title": "Windows est populaire en Chine",
       "url": "https://www.youtube.com/watch?v=gnYv5MzBp6A",
       "published_at": "2026-11-20T16:44:29+00:00",
-      "updated_at": "2026-11-20T17:59:59+00:00",
+      "updated_at": "2026-11-21T01:43:20+00:00",
       "description": "Windows est populaire en Chine",
       "image_url": "https://i4.ytimg.com/vi/gnYv5MzBp6A/hqdefault.jpg",
       "source_id": "investi-qc",
@@ -304,10 +316,10 @@
     },
     {
       "id": "youtube:D_RLzNGUegU",
-      "title": "Votre Portefeuille est-il Trop Investi au Canada?",
+      "title": "Le Risque Caché de votre Portefeuille Canadien | Investisseur Québécois",
       "url": "https://www.youtube.com/watch?v=D_RLzNGUegU",
       "published_at": "2026-11-17T23:00:05+00:00",
-      "updated_at": "2026-11-18T07:45:17+00:00",
+      "updated_at": "2026-11-21T02:05:57+00:00",
       "description": "Pour découvrir tous les avantages de l’offre Courtage direct 18-30, visitez https://www.disnat.com/avantages/courtage-direct-18-30\n\nMa formation pour les investisseurs autonomes: \nhttps://formation-traders360.mykajabi.com/inscription\n\nÉp. 357\nVous détenez plusieurs actions et vous pensez être bien diversifié? Votre portefeuille dépend peut-être beaucoup plus des mêmes risques que vous l'imaginez. Les banques canadiennes et leurs dividendes peuvent donner un sentiment de sécurité qui mérite d'être remis en question. Cet épisode pourrait changer votre façon de regarder vos placements.\n\nSuivez-moi sur Facebook, Instagram et Tiktok:\nhttps://www.facebook.com/firmetraders360/\nhttps://www.instagram.com/alextraders360\nhttps://www.tiktok.com/@alexdemers360\n\n\nAVIS LÉGAL: Les propos de l'animateur ne doivent en aucun cas être interprétés comme une recommandation d’achat d'une action sur les marchés boursiers. Alexandre Demers n'est pas un conseiller financier et toutes les informations partagées dans ce balado ne reflète que son opinion personnelle. Consultez un professionnel accrédité auprès de l'AMF pour obtenir des conseils appropriés à votre situation.\n\n\n00:00 Intro\n00:44 Desjardins Courtage en ligne\n01:29 Biais domestique\n03:11 Marché canadien (TSX)\n06:20 Risque de concentration\n08:42 Fonds tout-en-un\n09:58 Votre portefeuille",
       "image_url": "https://i1.ytimg.com/vi/D_RLzNGUegU/hqdefault.jpg",
       "source_id": "alex-demers-finance360",
@@ -439,7 +451,7 @@
       "title": "Courir après sa queue en investissement",
       "url": "https://www.youtube.com/watch?v=iD79e7Jys4w",
       "published_at": "2026-11-16T19:41:17+00:00",
-      "updated_at": "2026-11-18T10:28:58+00:00",
+      "updated_at": "2026-11-19T22:39:51+00:00",
       "description": "Courir après sa queue en investissement",
       "image_url": "https://i2.ytimg.com/vi/iD79e7Jys4w/hqdefault.jpg",
       "source_id": "investi-qc",
