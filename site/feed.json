@@ -2,7 +2,7 @@
   "version": 1,
   "title": "Social Feed",
   "description": "Un seul fil pour suivre les sources qui comptent.",
-  "generated_at": "2026-11-22T06:55:05.620352+00:00",
+  "generated_at": "2026-11-22T15:22:58.940403+00:00",
   "sources": [
     {
       "id": "eco-en-batons",
@@ -11,7 +11,7 @@
       "url": "https://www.youtube.com/@Eco_en_batons",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-22T06:55:05.620352+00:00",
+      "last_success_at": "2026-11-22T15:22:58.940403+00:00",
       "item_count": 38
     },
     {
@@ -21,7 +21,7 @@
       "url": "https://www.youtube.com/@investi-qc",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-22T06:55:05.620352+00:00",
+      "last_success_at": "2026-11-22T15:22:58.940403+00:00",
       "item_count": 90
     },
     {
@@ -31,7 +31,7 @@
       "url": "https://www.youtube.com/@hugolisoiryoutube",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-22T06:55:05.620352+00:00",
+      "last_success_at": "2026-11-22T15:22:58.940403+00:00",
       "item_count": 27
     },
     {
@@ -41,7 +41,7 @@
       "url": "https://www.youtube.com/@alexdemers-finance360",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-22T06:55:05.620352+00:00",
+      "last_success_at": "2026-11-22T15:22:58.940403+00:00",
       "item_count": 25
     },
     {
@@ -51,7 +51,7 @@
       "url": "https://www.facebook.com/GuildWars/",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-22T06:55:05.620352+00:00",
+      "last_success_at": "2026-11-22T15:22:58.940403+00:00",
       "item_count": 14
     },
     {
@@ -59,8 +59,8 @@
       "name": "The Lord of the Rings Online",
       "platform": "facebook",
       "url": "https://www.facebook.com/LOTRO/",
-      "status": "ok",
-      "error": null,
+      "status": "error",
+      "error": "RuntimeError: Facebook requires authentication or a challenge; no bypass attempted.",
       "last_success_at": "2026-11-22T06:55:05.620352+00:00",
       "item_count": 41
     },
@@ -69,8 +69,8 @@
       "name": "Ville de Lavaltrie",
       "platform": "facebook",
       "url": "https://www.facebook.com/VilleDeLavaltrie/",
-      "status": "ok",
-      "error": null,
+      "status": "error",
+      "error": "RuntimeError: Facebook requires authentication or a challenge; no bypass attempted.",
       "last_success_at": "2026-11-22T06:55:05.620352+00:00",
       "item_count": 34
     },
@@ -79,8 +79,8 @@
       "name": "Traders 360",
       "platform": "facebook",
       "url": "https://www.facebook.com/firmetraders360/",
-      "status": "ok",
-      "error": null,
+      "status": "error",
+      "error": "RuntimeError: Facebook requires authentication or a challenge; no bypass attempted.",
       "last_success_at": "2026-11-22T06:55:05.620352+00:00",
       "item_count": 38
     }
@@ -91,7 +91,7 @@
       "title": "La cybersécurité est un secteur en forte croissance en 2026",
       "url": "https://www.youtube.com/watch?v=sSlTkDwI81Y",
       "published_at": "2026-11-21T20:41:17+00:00",
-      "updated_at": "2026-11-22T00:29:20+00:00",
+      "updated_at": "2026-11-22T10:25:02+00:00",
       "description": "La cybersécurité est un secteur en forte croissance en 2026. Est-ce que ça va se poursuivre en 2027 avec l’explosion de l’IA?",
       "image_url": "https://i4.ytimg.com/vi/sSlTkDwI81Y/hqdefault.jpg",
       "source_id": "investi-qc",
@@ -103,7 +103,7 @@
       "title": "Mitek se spécialise dans la détection du deepfake",
       "url": "https://www.youtube.com/watch?v=_ROnshpcaHM",
       "published_at": "2026-11-21T15:39:35+00:00",
-      "updated_at": "2026-11-22T00:01:27+00:00",
+      "updated_at": "2026-11-22T10:08:17+00:00",
       "description": "Mitek se spécialise dans la détection du deepfake",
       "image_url": "https://i4.ytimg.com/vi/_ROnshpcaHM/hqdefault.jpg",
       "source_id": "investi-qc",
@@ -165,7 +165,7 @@
       "published_at": "2026-11-20T21:11:27+00:00",
       "updated_at": "2026-11-20T21:11:27+00:00",
       "description": "Who else remembers a whole party getting shut down in the Cathedral of Flames? 🙋\n\nMeet the Crypt Wraith: an undead Mesmer that lurks in the Depths of Tyria and spams interrupts at anyone silly enough to cast.\n\nWhat’s your best tip for deali",
-      "image_url": "https://scontent-ord5-1.xx.fbcdn.net/v/t15.5256-10/897300672_3302290353288695_8607398660543642150_n.jpg?stp=dst-jpg_tt6&cstp=mx1080x1350&ctp=s960x960&_nc_cat=106&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=hiMLVBqlW0UQ7kNvwGSV4Zr&_nc_oc=AdqRNGI6MGHS4ktcJI2PmquwkkyW3atJwvJHlHNi9VP7E9iPQ3Q3hN1Ryx9lef74fGw&_nc_zt=23&_nc_ht=scontent-ord5-1.xx&_nc_gid=q1NxlNrExadoVnKECHuQUg&_nc_ss=7f289&oh=00_AQSMvTYGu0BHozv6nlk8LUzxCU4T-gsUme9D_ZEDCVKWmA&oe=6B084EB0",
+      "image_url": "https://scontent-sea5-1.xx.fbcdn.net/v/t15.5256-10/897300672_3302290353288695_8607398660543642150_n.jpg?stp=dst-jpg_tt6&cstp=mx1080x1350&ctp=s960x960&_nc_cat=106&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=hiMLVBqlW0UQ7kNvwHzfU4z&_nc_oc=AdrROLb9LT_3AEo_opHBwfHRCyJd25if0fJ5ceb2rweSwWh6Hu5yK-r7IrifTo8fnB0&_nc_zt=23&_nc_ht=scontent-sea5-1.xx&_nc_gid=4jrGeJIOzKzNwom-45sJWw&_nc_ss=7f289&oh=00_AQT4u98nb1pWPTu69TJ5kONaTLefNaZpoYbC6u4IgeOC3A&oe=6B08F770",
       "source_id": "guild-wars",
       "source_name": "Guild Wars",
       "platform": "facebook"
@@ -187,7 +187,7 @@
       "title": "Windows est populaire en Chine",
       "url": "https://www.youtube.com/watch?v=gnYv5MzBp6A",
       "published_at": "2026-11-20T16:44:29+00:00",
-      "updated_at": "2026-11-21T09:35:21+00:00",
+      "updated_at": "2026-11-22T12:20:37+00:00",
       "description": "Windows est populaire en Chine",
       "image_url": "https://i4.ytimg.com/vi/gnYv5MzBp6A/hqdefault.jpg",
       "source_id": "investi-qc",
@@ -1687,7 +1687,7 @@
       "title": "La femme qui a monté la plus grande arnaque du Moyen Orient ",
       "url": "https://www.youtube.com/watch?v=KqBTwVpA4Ss",
       "published_at": "2026-11-05T20:36:30+00:00",
-      "updated_at": "2026-11-08T22:01:22+00:00",
+      "updated_at": "2026-11-22T10:19:01+00:00",
       "description": "Le Loup de Wall Street… d'Israël. Votre téléphone sonne : une voix aimable « de Londres » vous propose de placer 250 € sans risque sur des options binaires. On suit votre argent étape par étape, du premier pari au retrait impossible, puis l'enquête américaine qui a mené Lee Elbaz, ancienne directrice générale de la société Yukom, à une condamnation à 22 ans de prison en 2019. Le modèle qu'elle donnait à ses vendeurs, selon une lanceuse d'alerte citée par le Bureau of Investigative Journalism : Jordan Belfort, le « Loup de Wall Street ». Et ce qui vous protège aujourd'hui en France.\n\n⏱️ Chapitres\n0:00 Le Loup de Wall Street… d'Israël\n1:39 Partie 1 — La patronne\n2:26 Partie 2 — 400 fois plus\n3:33 Partie 3 — Un pari perdu d'avance\n4:39 Partie 4 — Le bouton « Retirer »\n6:29 Partie 5 — Un dollar sur cinq\n7:08 Partie 6 — « Vas-y ! »\n8:33 Partie 7 — La liste du juge\n10:15 Partie 8 — 22 ans, définitifs\n11:05 Et aujourd'hui, en France\n\n📌 Sources (pages lues en octobre et novembre 2026)\n- Verdict, peine et restitution : département de la Justice des États-Unis (communiqué du 8 août 2019, page d'information des victimes mise à jour le 27 septembre 2023)\n- Appel : cour d'appel fédérale du 4e circuit, United States v. Elbaz, n° 20-4019 ; Cour suprême des États-Unis, dossier n° 22-1055\n- Récit, méthodes de vente et référence à Jordan Belfort : The Bureau of Investigative Journalism (20 décembre 2019) ; The Times of Israel (articles de 2016 à 2023, dont « 22 ans de prison pour Lee Elbaz », 19 décembre 2019)\n- Parcours, appels enregistrés présentés au procès et témoignages des victimes : The Times of Israel (17 et 28 juillet 2019), Associated Press (verdict d'août 2019 et condamnation du 19 décembre 2019)\n- Interdiction des options binaires en Israël : The Times of Israel (23 octobre 2017), Globes (24 octobre 2017)\n- France et Europe : AMF (communiqués du 31 mars 2016, du 10 janvier 2017 et du 2 juillet 2019, listes noires) ; ESMA (mesures d'intervention sur les options binaires) ; La finance pour tous (13 janvier 2017)\n- Suites judiciaires et régulateurs : Finance Magnates, FX News Group, CFTC\n\n🎞️ Photos et crédits\n- Jordan Belfort (2017) : photo de Tai Lopez / Wikimedia Commons, CC BY 3.0 (https://creativecommons.org/licenses/by/3.0/)\n- Aéroport JFK, Terminal 1 : photo de DimiTalen / Wikimedia Commons, CC0\n- Tour de bureaux de Ramat Gan, de nuit : photo de Zairon / Wikimedia Commons, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)\n- Plateau d'appels vide : photo de MART PRODUCTION / Pexels\nMusique : bibliothèque audio YouTube.\nLes dessins sont des illustrations ; les sites, montants et soldes affichés à l'écran sont des exemples fictifs. Explication générale, pas un conseil en investissement.",
       "image_url": "https://i4.ytimg.com/vi/KqBTwVpA4Ss/hqdefault.jpg",
       "source_id": "eco-en-batons",
