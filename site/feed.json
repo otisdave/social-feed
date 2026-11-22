@@ -2,7 +2,7 @@
   "version": 1,
   "title": "Social Feed",
   "description": "Un seul fil pour suivre les sources qui comptent.",
-  "generated_at": "2026-11-21T23:22:11.125279+00:00",
+  "generated_at": "2026-11-22T06:55:05.620352+00:00",
   "sources": [
     {
       "id": "eco-en-batons",
@@ -11,7 +11,7 @@
       "url": "https://www.youtube.com/@Eco_en_batons",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-21T23:22:11.125279+00:00",
+      "last_success_at": "2026-11-22T06:55:05.620352+00:00",
       "item_count": 38
     },
     {
@@ -21,7 +21,7 @@
       "url": "https://www.youtube.com/@investi-qc",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-21T23:22:11.125279+00:00",
+      "last_success_at": "2026-11-22T06:55:05.620352+00:00",
       "item_count": 90
     },
     {
@@ -31,7 +31,7 @@
       "url": "https://www.youtube.com/@hugolisoiryoutube",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-21T23:22:11.125279+00:00",
+      "last_success_at": "2026-11-22T06:55:05.620352+00:00",
       "item_count": 27
     },
     {
@@ -41,7 +41,7 @@
       "url": "https://www.youtube.com/@alexdemers-finance360",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-21T23:22:11.125279+00:00",
+      "last_success_at": "2026-11-22T06:55:05.620352+00:00",
       "item_count": 25
     },
     {
@@ -49,9 +49,9 @@
       "name": "Guild Wars",
       "platform": "facebook",
       "url": "https://www.facebook.com/GuildWars/",
-      "status": "error",
-      "error": "RuntimeError: Facebook requires authentication or a challenge; no bypass attempted.",
-      "last_success_at": "2026-11-21T18:00:11.876331+00:00",
+      "status": "ok",
+      "error": null,
+      "last_success_at": "2026-11-22T06:55:05.620352+00:00",
       "item_count": 14
     },
     {
@@ -59,9 +59,9 @@
       "name": "The Lord of the Rings Online",
       "platform": "facebook",
       "url": "https://www.facebook.com/LOTRO/",
-      "status": "error",
-      "error": "RuntimeError: Facebook requires authentication or a challenge; no bypass attempted.",
-      "last_success_at": "2026-11-21T18:00:11.876331+00:00",
+      "status": "ok",
+      "error": null,
+      "last_success_at": "2026-11-22T06:55:05.620352+00:00",
       "item_count": 41
     },
     {
@@ -69,9 +69,9 @@
       "name": "Ville de Lavaltrie",
       "platform": "facebook",
       "url": "https://www.facebook.com/VilleDeLavaltrie/",
-      "status": "error",
-      "error": "RuntimeError: Facebook requires authentication or a challenge; no bypass attempted.",
-      "last_success_at": "2026-11-21T18:00:11.876331+00:00",
+      "status": "ok",
+      "error": null,
+      "last_success_at": "2026-11-22T06:55:05.620352+00:00",
       "item_count": 34
     },
     {
@@ -79,9 +79,9 @@
       "name": "Traders 360",
       "platform": "facebook",
       "url": "https://www.facebook.com/firmetraders360/",
-      "status": "error",
-      "error": "RuntimeError: Facebook requires authentication or a challenge; no bypass attempted.",
-      "last_success_at": "2026-11-21T18:00:11.876331+00:00",
+      "status": "ok",
+      "error": null,
+      "last_success_at": "2026-11-22T06:55:05.620352+00:00",
       "item_count": 38
     }
   ],
@@ -91,7 +91,7 @@
       "title": "La cybersécurité est un secteur en forte croissance en 2026",
       "url": "https://www.youtube.com/watch?v=sSlTkDwI81Y",
       "published_at": "2026-11-21T20:41:17+00:00",
-      "updated_at": "2026-11-21T21:08:18+00:00",
+      "updated_at": "2026-11-22T00:29:20+00:00",
       "description": "La cybersécurité est un secteur en forte croissance en 2026. Est-ce que ça va se poursuivre en 2027 avec l’explosion de l’IA?",
       "image_url": "https://i4.ytimg.com/vi/sSlTkDwI81Y/hqdefault.jpg",
       "source_id": "investi-qc",
@@ -103,7 +103,7 @@
       "title": "Mitek se spécialise dans la détection du deepfake",
       "url": "https://www.youtube.com/watch?v=_ROnshpcaHM",
       "published_at": "2026-11-21T15:39:35+00:00",
-      "updated_at": "2026-11-21T16:49:09+00:00",
+      "updated_at": "2026-11-22T00:01:27+00:00",
       "description": "Mitek se spécialise dans la détection du deepfake",
       "image_url": "https://i4.ytimg.com/vi/_ROnshpcaHM/hqdefault.jpg",
       "source_id": "investi-qc",
@@ -149,11 +149,11 @@
     {
       "id": "facebook:100063889127390:1687396686733286",
       "title": "Moi qui explique aux gens l’importance de diversifier leur portefeuille.",
-      "url": "https://www.facebook.com/firmetraders360/posts/pfbid0YRHGWk2NF5AuXFeLDgkaxE7MuYtFn4ywAWJKx6bb8NuKRjgN3p746nA3rNYCp2NHl",
+      "url": "https://www.facebook.com/firmetraders360/posts/pfbid02cGiyhQxC6RKCZtbpGshAg31FiW6DKGpEGsRd15tr6y31XZnGpswr26yHRpvrBidtl",
       "published_at": "2026-11-20T21:27:44+00:00",
       "updated_at": "2026-11-20T21:27:44+00:00",
       "description": "Moi qui explique aux gens l’importance de diversifier leur portefeuille.\n\nAussi moi : pas d’immobilier, pas d’or, pas de crypto et toute ma valeur nette investie en bourse.\n\nJ’ai tellement bien diversifié mes actions que je peux perdre de l",
-      "image_url": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.99422-6/914139487_1106093129086660_2980215429378629026_n.png?stp=dst-jpg_tt6&cstp=mx1680x960&ctp=p180x540&_nc_cat=105&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=DYR4nK1PLP8Q7kNvwE3zKow&_nc_oc=AdqZAo7x_mAbNntpuhZ1W7FSzEuPEmbZIP10UX7raAozc4K2Etozv6MvpZsFRX0JEig&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=h4LEWCzvKyhp7XxhXDVqTA&_nc_ss=7f289&oh=00_AQS7q2_ZVmFLb_GNh6-9sdq4Cq6GdEUZ5LdgHwq89_iRJQ&oe=6B07C248",
+      "image_url": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.99422-6/914139487_1106093129086660_2980215429378629026_n.png?stp=dst-jpg_tt6&cstp=mx1680x960&ctp=p180x540&_nc_cat=105&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=DYR4nK1PLP8Q7kNvwEqF1z1&_nc_oc=AdpESBVNXLcLSgcFbHEgWE-VefxiGFz_G8DWrtbJD_5TPY3VuSuthHwkPe5m5inFUDo&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=vRJL8l01YDHrkop_BvJKMQ&_nc_ss=7f289&oh=00_AQQ7x0-pR_mBBZDlYUNF7GVxQxWwXljMx10S05CNi5ENNw&oe=6B086B08",
       "source_id": "traders-360",
       "source_name": "Traders 360",
       "platform": "facebook"
@@ -165,7 +165,7 @@
       "published_at": "2026-11-20T21:11:27+00:00",
       "updated_at": "2026-11-20T21:11:27+00:00",
       "description": "Who else remembers a whole party getting shut down in the Cathedral of Flames? 🙋\n\nMeet the Crypt Wraith: an undead Mesmer that lurks in the Depths of Tyria and spams interrupts at anyone silly enough to cast.\n\nWhat’s your best tip for deali",
-      "image_url": "https://scontent-iad3-1.xx.fbcdn.net/v/t15.5256-10/897300672_3302290353288695_8607398660543642150_n.jpg?stp=dst-jpg_tt6&cstp=mx1080x1350&ctp=s960x960&_nc_cat=106&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=hiMLVBqlW0UQ7kNvwEhz3BK&_nc_oc=AdqukGCM3QB-pJIScrQGUxQY2VsvqxFPuybVZUH2Zby9NG-pBaoPii1z6ly-xcbauCc&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&_nc_gid=kI6EvyZPpem__Q-Zcrz_3w&_nc_ss=7f289&oh=00_AQSSp9R1uMzSCdD7m_fKo_HeheWAvw8BNVHf_Qn6rZ1kuA&oe=6B07A5F0",
+      "image_url": "https://scontent-ord5-1.xx.fbcdn.net/v/t15.5256-10/897300672_3302290353288695_8607398660543642150_n.jpg?stp=dst-jpg_tt6&cstp=mx1080x1350&ctp=s960x960&_nc_cat=106&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=hiMLVBqlW0UQ7kNvwGSV4Zr&_nc_oc=AdqRNGI6MGHS4ktcJI2PmquwkkyW3atJwvJHlHNi9VP7E9iPQ3Q3hN1Ryx9lef74fGw&_nc_zt=23&_nc_ht=scontent-ord5-1.xx&_nc_gid=q1NxlNrExadoVnKECHuQUg&_nc_ss=7f289&oh=00_AQSMvTYGu0BHozv6nlk8LUzxCU4T-gsUme9D_ZEDCVKWmA&oe=6B084EB0",
       "source_id": "guild-wars",
       "source_name": "Guild Wars",
       "platform": "facebook"
@@ -173,11 +173,11 @@
     {
       "id": "facebook:100064655653099:1594045772760596",
       "title": "𝗟𝗮𝘃𝗮𝗹𝘁𝗿𝗶𝗲, 𝗠𝘂𝗻𝗶𝗰𝗶𝗽𝗮𝗹𝗶𝘁𝗲́ 𝗮𝗺𝗶𝗲 𝗱𝗲𝘀 𝗲𝗻𝗳𝗮𝗻𝘁𝘀! 💙🧒👧",
-      "url": "https://www.facebook.com/VilleDeLavaltrie/posts/pfbid0258wA9q8XpihUNemTkePqfbGomRHsLcR7FMYFuYLtFASdYubnqMjBaCtmr94Wky5xl",
+      "url": "https://www.facebook.com/VilleDeLavaltrie/posts/pfbid017LSg1vy9unGxZho9QtTk6KHApPKMFNDxpayYshYE2snviyCh2ovGN4TCQYR74ufl",
       "published_at": "2026-11-20T18:00:03+00:00",
       "updated_at": "2026-11-20T18:00:03+00:00",
       "description": "𝗟𝗮𝘃𝗮𝗹𝘁𝗿𝗶𝗲, 𝗠𝘂𝗻𝗶𝗰𝗶𝗽𝗮𝗹𝗶𝘁𝗲́ 𝗮𝗺𝗶𝗲 𝗱𝗲𝘀 𝗲𝗻𝗳𝗮𝗻𝘁𝘀! 💙🧒👧\n\nEn cette 𝗝𝗼𝘂𝗿𝗻𝗲́𝗲 𝗺𝗼𝗻𝗱𝗶𝗮𝗹𝗲 𝗱𝗲𝘀 𝗲𝗻𝗳𝗮𝗻𝘁𝘀, la Ville de Lavaltrie a reçu aujourd’hui son certificat de reconnaissance à titre de Municipalité amie des enfants (MAE)! 🎉\n\nCette reconnaissance soulig",
-      "image_url": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.99422-6/913591512_2030442727648487_2017181828215402442_n.png?stp=dst-jpg_tt6&cstp=mx1080x1080&ctp=p526x296&_nc_cat=104&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=4YKA6hc7W2EQ7kNvwEggAkE&_nc_oc=AdoER5snOXDYjuVNttVHh6ji9ft_ENcRMfW-BQW0Xvq9rV3qBZ_4dAK1_DB2pVLBGH8&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=H6tQoLJ_BXAKffA1TSx2VQ&_nc_ss=7f289&oh=00_AQSrOTwNpriFHH2PoMhJndN1AG1ekUBdTQ_G5Tp-m-Ryxg&oe=6B07B9F0",
+      "image_url": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.99422-6/913591512_2030442727648487_2017181828215402442_n.png?stp=dst-jpg_tt6&cstp=mx1080x1080&ctp=p526x296&_nc_cat=104&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=4YKA6hc7W2EQ7kNvwHNHuDs&_nc_oc=Adq8OyrMHzPTWRkDl1kJ40aEeERnNLuR7Ot4iyyfyu9g37m5vTPTau-lxl4W_hV324g&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=4LK6IineNbijsjWFa8gB2A&_nc_ss=7f289&oh=00_AQS-gNGIWMk8JS2v__zYlcO3EWpWC3rx1-djIYpWxYCf9g&oe=6B0862B0",
       "source_id": "ville-de-lavaltrie",
       "source_name": "Ville de Lavaltrie",
       "platform": "facebook"
@@ -367,7 +367,7 @@
       "title": "Réinvestir automatiquement ou non ses dividendes ?",
       "url": "https://www.youtube.com/watch?v=45tJabnaACM",
       "published_at": "2026-11-18T16:46:06+00:00",
-      "updated_at": "2026-11-19T23:44:33+00:00",
+      "updated_at": "2026-11-22T05:27:43+00:00",
       "description": "Réinvestir automatiquement ou non ses dividendes ?",
       "image_url": "https://i1.ytimg.com/vi/45tJabnaACM/hqdefault.jpg",
       "source_id": "investi-qc",
@@ -475,7 +475,7 @@
       "title": "75% des fraudes au Québec c’est la fraude du président 🥸",
       "url": "https://www.youtube.com/watch?v=TDCWCdc6X-k",
       "published_at": "2026-11-17T16:44:59+00:00",
-      "updated_at": "2026-11-19T21:17:25+00:00",
+      "updated_at": "2026-11-20T22:04:57+00:00",
       "description": "75% des fraudes au Québec c’est la fraude du président 🥸",
       "image_url": "https://i1.ytimg.com/vi/TDCWCdc6X-k/hqdefault.jpg",
       "source_id": "investi-qc",
@@ -1867,7 +1867,7 @@
       "title": "Après le choc pétrolier : le baril s'effondre en 1986, et le pari nucléaire de la France paie",
       "url": "https://www.youtube.com/watch?v=FJx5enS21IM",
       "published_at": "2026-11-04T18:00:12+00:00",
-      "updated_at": "2026-11-19T16:33:19+00:00",
+      "updated_at": "2026-11-21T05:42:21+00:00",
       "description": "En 1986, l'Arabie saoudite change de stratégie pour reprendre ses clients, et le baril tombe d'environ 25 dollars à 10 ou 12 dollars en quelques mois. En France, le pari du plan Messmer a changé la donne : le nucléaire fournissait environ 8 % de l'électricité française en 1973, et environ 68 % de la production d'électricité en 2025. En 2024, la France produit un peu plus de 60 % de l'énergie qu'elle consomme, contre moins du quart en 1973.\nLes dessins sont des illustrations.\nMontants datés, en dollars de l'époque.\n#Shorts #nucléaire #énergie #chocpétrolier\n\nVidéo complète : https://youtu.be/PZ3JWONt0gM",
       "image_url": "https://i3.ytimg.com/vi/FJx5enS21IM/hqdefault.jpg",
       "source_id": "eco-en-batons",
@@ -2107,7 +2107,7 @@
       "title": "1981 : un crédit immobilier à 18,6 % aux États-Unis, ce que l'argent cher a coûté aux familles",
       "url": "https://www.youtube.com/watch?v=PXJGviVtFkQ",
       "published_at": "2026-11-03T15:30:17+00:00",
-      "updated_at": "2026-11-19T16:30:00+00:00",
+      "updated_at": "2026-11-20T13:57:45+00:00",
       "description": "En octobre 1981, aux États-Unis, un crédit immobilier à 30 ans coûte en moyenne 18,6 % par an. Sur 100 000 dollars empruntés à ce taux, on paie environ 18 600 dollars d'intérêts la première année, et presque rien du prêt lui-même. L'emploi paie aussi : fin 1982, le chômage américain atteint 10,8 %, le plus haut de l'après-guerre. Et pourtant, en 1981, le baril vaut encore plus de 35 dollars, alors que l'inflation américaine tombe de près de 15 % à moins de 4 % : ce n'est donc pas le pétrole qui a cédé, c'est l'argent cher qui a cassé les prix.\nLes dessins sont des illustrations.\nMontants datés, en dollars de l'époque.\nExplication générale, pas un conseil en investissement.\n#Shorts #crédit #inflation #économie\n\nVidéo complète : https://youtu.be/PZ3JWONt0gM",
       "image_url": "https://i1.ytimg.com/vi/PXJGviVtFkQ/hqdefault.jpg",
       "source_id": "eco-en-batons",
