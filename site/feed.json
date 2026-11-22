@@ -2,7 +2,7 @@
   "version": 1,
   "title": "Social Feed",
   "description": "Un seul fil pour suivre les sources qui comptent.",
-  "generated_at": "2026-11-22T15:22:58.940403+00:00",
+  "generated_at": "2026-11-22T21:49:27.324422+00:00",
   "sources": [
     {
       "id": "eco-en-batons",
@@ -11,7 +11,7 @@
       "url": "https://www.youtube.com/@Eco_en_batons",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-22T15:22:58.940403+00:00",
+      "last_success_at": "2026-11-22T21:49:27.324422+00:00",
       "item_count": 38
     },
     {
@@ -21,8 +21,8 @@
       "url": "https://www.youtube.com/@investi-qc",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-22T15:22:58.940403+00:00",
-      "item_count": 90
+      "last_success_at": "2026-11-22T21:49:27.324422+00:00",
+      "item_count": 92
     },
     {
       "id": "hugo-lisoir",
@@ -31,8 +31,8 @@
       "url": "https://www.youtube.com/@hugolisoiryoutube",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-22T15:22:58.940403+00:00",
-      "item_count": 27
+      "last_success_at": "2026-11-22T21:49:27.324422+00:00",
+      "item_count": 28
     },
     {
       "id": "alex-demers-finance360",
@@ -41,7 +41,7 @@
       "url": "https://www.youtube.com/@alexdemers-finance360",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-22T15:22:58.940403+00:00",
+      "last_success_at": "2026-11-22T21:49:27.324422+00:00",
       "item_count": 25
     },
     {
@@ -51,7 +51,7 @@
       "url": "https://www.facebook.com/GuildWars/",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-22T15:22:58.940403+00:00",
+      "last_success_at": "2026-11-22T21:49:27.324422+00:00",
       "item_count": 14
     },
     {
@@ -59,33 +59,93 @@
       "name": "The Lord of the Rings Online",
       "platform": "facebook",
       "url": "https://www.facebook.com/LOTRO/",
-      "status": "error",
-      "error": "RuntimeError: Facebook requires authentication or a challenge; no bypass attempted.",
-      "last_success_at": "2026-11-22T06:55:05.620352+00:00",
-      "item_count": 41
+      "status": "ok",
+      "error": null,
+      "last_success_at": "2026-11-22T21:49:27.324422+00:00",
+      "item_count": 42
     },
     {
       "id": "ville-de-lavaltrie",
       "name": "Ville de Lavaltrie",
       "platform": "facebook",
       "url": "https://www.facebook.com/VilleDeLavaltrie/",
-      "status": "error",
-      "error": "RuntimeError: Facebook requires authentication or a challenge; no bypass attempted.",
-      "last_success_at": "2026-11-22T06:55:05.620352+00:00",
-      "item_count": 34
+      "status": "ok",
+      "error": null,
+      "last_success_at": "2026-11-22T21:49:27.324422+00:00",
+      "item_count": 35
     },
     {
       "id": "traders-360",
       "name": "Traders 360",
       "platform": "facebook",
       "url": "https://www.facebook.com/firmetraders360/",
-      "status": "error",
-      "error": "RuntimeError: Facebook requires authentication or a challenge; no bypass attempted.",
-      "last_success_at": "2026-11-22T06:55:05.620352+00:00",
+      "status": "ok",
+      "error": null,
+      "last_success_at": "2026-11-22T21:49:27.324422+00:00",
       "item_count": 38
     }
   ],
   "items": [
+    {
+      "id": "facebook:100064792208382:1659331419569916",
+      "title": "Support the Children's Miracle Network of hospitals through Extra Life and get in-game incentives! Learn more about this",
+      "url": "https://www.facebook.com/LOTRO/posts/pfbid02Mgg37M2A1uHk9P9ssdJnk18fBXa3ZTDHM4fs73S1EYectsrQPEChJxeiWv9SVzczl",
+      "published_at": "2026-11-22T20:45:23+00:00",
+      "updated_at": "2026-11-22T20:45:23+00:00",
+      "description": "Support the Children's Miracle Network of hospitals through Extra Life and get in-game incentives! Learn more about this year's Extra Life effort on https://ow.ly/PvCu5108Bca: https://ow.ly/Xm5l5108Bcc #LOTRO",
+      "image_url": null,
+      "source_id": "lotro",
+      "source_name": "The Lord of the Rings Online",
+      "platform": "facebook"
+    },
+    {
+      "id": "youtube:Fnur-wm1z4E",
+      "title": "Son père a fait un doctorat en intelligence artificielle en 1998 🧠",
+      "url": "https://www.youtube.com/watch?v=Fnur-wm1z4E",
+      "published_at": "2026-11-22T20:39:23+00:00",
+      "updated_at": "2026-11-22T21:08:06+00:00",
+      "description": "Son père a fait un doctorat en intelligence artificielle en 1998 🧠",
+      "image_url": "https://i3.ytimg.com/vi/Fnur-wm1z4E/hqdefault.jpg",
+      "source_id": "investi-qc",
+      "source_name": "Investi QC",
+      "platform": "youtube"
+    },
+    {
+      "id": "facebook:100064655653099:1593055656192941",
+      "title": "𝐓𝐑𝐀𝐕𝐀𝐔𝐗 | 𝐅𝐞𝐫𝐦𝐞𝐭𝐮𝐫𝐞 𝐭𝐞𝐦𝐩𝐨𝐫𝐚𝐢𝐫𝐞 𝐝𝐮 𝐜𝐡𝐞𝐦𝐢𝐧 𝐝𝐞 𝐋𝐚𝐯𝐚𝐥𝐭𝐫𝐢𝐞  🚧",
+      "url": "https://www.facebook.com/VilleDeLavaltrie/posts/pfbid02yFyqsasHYRBYaj8W16PgT8yHHB7zniMVQnKojeVoRFuL9gSNzS4YMp8nNKwVeMzkl",
+      "published_at": "2026-11-22T20:00:12+00:00",
+      "updated_at": "2026-11-22T20:00:12+00:00",
+      "description": "𝐓𝐑𝐀𝐕𝐀𝐔𝐗 | 𝐅𝐞𝐫𝐦𝐞𝐭𝐮𝐫𝐞 𝐭𝐞𝐦𝐩𝐨𝐫𝐚𝐢𝐫𝐞 𝐝𝐮 𝐜𝐡𝐞𝐦𝐢𝐧 𝐝𝐞 𝐋𝐚𝐯𝐚𝐥𝐭𝐫𝐢𝐞  🚧\n\nDes travaux de remplacement de ponceau entraîneront la fermeture complète d'une portion du chemin de Lavaltrie, entre le chemin Georges et la rue des Métiers.\n\n𝐃𝐮 𝐥𝐮𝐧𝐝𝐢 𝟐𝟑 𝐧𝐨𝐯𝐞𝐦𝐛𝐫𝐞, ",
+      "image_url": null,
+      "source_id": "ville-de-lavaltrie",
+      "source_name": "Ville de Lavaltrie",
+      "platform": "facebook"
+    },
+    {
+      "id": "youtube:kOFVq2_qhp8",
+      "title": "Ces sondes accélèrent sans raison (et personne ne sait pourquoi) !",
+      "url": "https://www.youtube.com/watch?v=kOFVq2_qhp8",
+      "published_at": "2026-11-22T17:00:07+00:00",
+      "updated_at": "2026-11-22T17:00:07+00:00",
+      "description": "Quelques millimètres par seconde de trop… Depuis 1990, plusieurs sondes ont présenté d’étranges écarts de vitesse lors de leurs survols de la Terre. Erreur de calcul, effet physique oublié ou phénomène inconnu ? L’anomalie devient encore plus intrigante lorsque Rosetta, affectée lors d’un premier passage, revient sans reproduire l’effet. De l’assistance gravitationnelle aux hypothèses de matière noire, retour sur une enquête où les archives des missions apportent de nouveaux indices, et où la lumière réfléchie par notre planète pourrait jouer un rôle inattendu.\n\nSources :\nhttps://journals.aps.org/prl/abstract/10.1103/PhysRevLett.100.091102\nhttps://arxiv.org/pdf/0907.4184\nhttps://www.esa.int/Enabling_Support/Operations/ESA_spacecraft_may_help_unravel_cosmic_mystery\nhttps://arxiv.org/abs/0809.1888\nhttps://www.ias.edu/ideas/2009/adler-dark-matter\nhttps://www.issfd2026.fr/data/onglet12/module0/modalPreview.php?langue=fr&paramProjet=20840\nhttps://doi.org/10.1016/j.actaastro.2024.09.062\n\nMusiques : Pedro Macedo Camacho / Star Citizen, Utho Riley et Gérald M. Dorai\nImages : NASA, ESA, JPL-Caltech\nMoteur 3D : Space Engine Pro",
+      "image_url": "https://i4.ytimg.com/vi/kOFVq2_qhp8/hqdefault.jpg",
+      "source_id": "hugo-lisoir",
+      "source_name": "Hugo Lisoir",
+      "platform": "youtube"
+    },
+    {
+      "id": "youtube:hmU67EZDyI4",
+      "title": "Crowdstrike (CRWD) est un leader de la cybersécurité en détection d’attaques",
+      "url": "https://www.youtube.com/watch?v=hmU67EZDyI4",
+      "published_at": "2026-11-22T15:38:49+00:00",
+      "updated_at": "2026-11-22T16:26:57+00:00",
+      "description": "Crowdstrike (CRWD) est un leader de la cybersécurité en détection d’attaques",
+      "image_url": "https://i1.ytimg.com/vi/hmU67EZDyI4/hqdefault.jpg",
+      "source_id": "investi-qc",
+      "source_name": "Investi QC",
+      "platform": "youtube"
+    },
     {
       "id": "youtube:sSlTkDwI81Y",
       "title": "La cybersécurité est un secteur en forte croissance en 2026",
@@ -153,7 +213,7 @@
       "published_at": "2026-11-20T21:27:44+00:00",
       "updated_at": "2026-11-20T21:27:44+00:00",
       "description": "Moi qui explique aux gens l’importance de diversifier leur portefeuille.\n\nAussi moi : pas d’immobilier, pas d’or, pas de crypto et toute ma valeur nette investie en bourse.\n\nJ’ai tellement bien diversifié mes actions que je peux perdre de l",
-      "image_url": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.99422-6/914139487_1106093129086660_2980215429378629026_n.png?stp=dst-jpg_tt6&cstp=mx1680x960&ctp=p180x540&_nc_cat=105&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=DYR4nK1PLP8Q7kNvwEqF1z1&_nc_oc=AdpESBVNXLcLSgcFbHEgWE-VefxiGFz_G8DWrtbJD_5TPY3VuSuthHwkPe5m5inFUDo&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=vRJL8l01YDHrkop_BvJKMQ&_nc_ss=7f289&oh=00_AQQ7x0-pR_mBBZDlYUNF7GVxQxWwXljMx10S05CNi5ENNw&oe=6B086B08",
+      "image_url": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.99422-6/914139487_1106093129086660_2980215429378629026_n.png?stp=dst-jpg_tt6&cstp=mx1680x960&ctp=p180x540&_nc_cat=105&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=DYR4nK1PLP8Q7kNvwHtTTX1&_nc_oc=AdqL1VEFLIO4NeIaFo43R9oBR7Yq65aAWD3-I3ykF32osbruAtigS7TzBipvEPUsbd8&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=prAZJKCYFfA_ks5r5S5Y6g&_nc_ss=7f289&oh=00_AQRionbD4ufTrP-Bhc02PS0O1Q3gFLeWjInHwQG3DIfEuA&oe=6B094C08",
       "source_id": "traders-360",
       "source_name": "Traders 360",
       "platform": "facebook"
@@ -165,7 +225,7 @@
       "published_at": "2026-11-20T21:11:27+00:00",
       "updated_at": "2026-11-20T21:11:27+00:00",
       "description": "Who else remembers a whole party getting shut down in the Cathedral of Flames? 🙋\n\nMeet the Crypt Wraith: an undead Mesmer that lurks in the Depths of Tyria and spams interrupts at anyone silly enough to cast.\n\nWhat’s your best tip for deali",
-      "image_url": "https://scontent-sea5-1.xx.fbcdn.net/v/t15.5256-10/897300672_3302290353288695_8607398660543642150_n.jpg?stp=dst-jpg_tt6&cstp=mx1080x1350&ctp=s960x960&_nc_cat=106&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=hiMLVBqlW0UQ7kNvwHzfU4z&_nc_oc=AdrROLb9LT_3AEo_opHBwfHRCyJd25if0fJ5ceb2rweSwWh6Hu5yK-r7IrifTo8fnB0&_nc_zt=23&_nc_ht=scontent-sea5-1.xx&_nc_gid=4jrGeJIOzKzNwom-45sJWw&_nc_ss=7f289&oh=00_AQT4u98nb1pWPTu69TJ5kONaTLefNaZpoYbC6u4IgeOC3A&oe=6B08F770",
+      "image_url": "https://scontent-iad3-1.xx.fbcdn.net/v/t15.5256-10/897300672_3302290353288695_8607398660543642150_n.jpg?stp=dst-jpg_tt6&cstp=mx1080x1350&ctp=s960x960&_nc_cat=106&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=hiMLVBqlW0UQ7kNvwEvCMHh&_nc_oc=AdoX6uHqR8tDrjLEk8andNfuweJIErhjLijxfDm0X1JYDPXpjC1HkydFAN0pW2LrSk8&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&_nc_gid=_Tn8vhSuqyydv9yvwsUqgw&_nc_ss=7f289&oh=00_AQT4Ay2aFNPY8848RwUomYQxlv2ciP9gelKg4vSwqXcn2A&oe=6B092FB0",
       "source_id": "guild-wars",
       "source_name": "Guild Wars",
       "platform": "facebook"
