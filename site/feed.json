@@ -2,7 +2,7 @@
   "version": 1,
   "title": "Social Feed",
   "description": "Un seul fil pour suivre les sources qui comptent.",
-  "generated_at": "2026-11-23T02:49:45.668200+00:00",
+  "generated_at": "2026-11-23T12:53:26.626592+00:00",
   "sources": [
     {
       "id": "eco-en-batons",
@@ -11,7 +11,7 @@
       "url": "https://www.youtube.com/@Eco_en_batons",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-23T02:49:45.668200+00:00",
+      "last_success_at": "2026-11-23T12:53:26.626592+00:00",
       "item_count": 38
     },
     {
@@ -21,7 +21,7 @@
       "url": "https://www.youtube.com/@investi-qc",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-23T02:49:45.668200+00:00",
+      "last_success_at": "2026-11-23T12:53:26.626592+00:00",
       "item_count": 92
     },
     {
@@ -31,8 +31,8 @@
       "url": "https://www.youtube.com/@hugolisoiryoutube",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-23T02:49:45.668200+00:00",
-      "item_count": 28
+      "last_success_at": "2026-11-23T12:53:26.626592+00:00",
+      "item_count": 29
     },
     {
       "id": "alex-demers-finance360",
@@ -41,7 +41,7 @@
       "url": "https://www.youtube.com/@alexdemers-finance360",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-23T02:49:45.668200+00:00",
+      "last_success_at": "2026-11-23T12:53:26.626592+00:00",
       "item_count": 26
     },
     {
@@ -87,11 +87,23 @@
   ],
   "items": [
     {
+      "id": "youtube:uxdWxwjpH84",
+      "title": "Et si les astronautes pouvaient marcher au lieu de flotter ?  #espace  #science #insolite",
+      "url": "https://www.youtube.com/watch?v=uxdWxwjpH84",
+      "published_at": "2026-11-23T08:15:08+00:00",
+      "updated_at": "2026-11-23T11:09:54+00:00",
+      "description": "Comment marcher au sol dans une station spatiale en orbite ? Vast prépare Haven-1, sa première station habitée, puis vise une station beaucoup plus grande qui tournerait sur elle-même pour créer une gravité artificielle. Le projet de Vast\n\nPourquoi la taille compte ? Dans une petite station, il faudrait tourner si vite qu’un simple mouvement de tête pourrait donner le vertige. Avec une station plus grande, les astronautes pourraient retrouver leur poids à une vitesse de rotation plus faible.\n\n#GravitéArtificielle #StationSpatiale #Vast #Shorts",
+      "image_url": "https://i2.ytimg.com/vi/uxdWxwjpH84/hqdefault.jpg",
+      "source_id": "hugo-lisoir",
+      "source_name": "Hugo Lisoir",
+      "platform": "youtube"
+    },
+    {
       "id": "youtube:xW1G8cIRl5Y",
       "title": "Votre portefeuille est-il vraiment aussi diversifié que vous le pensez? #bourse",
       "url": "https://www.youtube.com/watch?v=xW1G8cIRl5Y",
       "published_at": "2026-11-22T22:47:32+00:00",
-      "updated_at": "2026-11-22T23:26:22+00:00",
+      "updated_at": "2026-11-23T07:45:14+00:00",
       "description": "Je vous propose de faire le portrait de votre portefeuille pour analyser votre répartition géographique et sectorielle.\n\nVous pourriez découvrir que plusieurs de vos investissements sont concentrés dans les mêmes secteurs ou les mêmes pays.\n\n#placements #investissement",
       "image_url": "https://i1.ytimg.com/vi/xW1G8cIRl5Y/hqdefault.jpg",
       "source_id": "alex-demers-finance360",
@@ -115,7 +127,7 @@
       "title": "Son père a fait un doctorat en intelligence artificielle en 1998 🧠",
       "url": "https://www.youtube.com/watch?v=Fnur-wm1z4E",
       "published_at": "2026-11-22T20:39:23+00:00",
-      "updated_at": "2026-11-23T00:27:36+00:00",
+      "updated_at": "2026-11-23T08:50:44+00:00",
       "description": "Son père a fait un doctorat en intelligence artificielle en 1998 🧠",
       "image_url": "https://i3.ytimg.com/vi/Fnur-wm1z4E/hqdefault.jpg",
       "source_id": "investi-qc",
@@ -151,7 +163,7 @@
       "title": "Crowdstrike (CRWD) est un leader de la cybersécurité en détection d’attaques",
       "url": "https://www.youtube.com/watch?v=hmU67EZDyI4",
       "published_at": "2026-11-22T15:38:49+00:00",
-      "updated_at": "2026-11-23T01:09:23+00:00",
+      "updated_at": "2026-11-23T07:17:04+00:00",
       "description": "Crowdstrike (CRWD) est un leader de la cybersécurité en détection d’attaques",
       "image_url": "https://i1.ytimg.com/vi/hmU67EZDyI4/hqdefault.jpg",
       "source_id": "investi-qc",
@@ -316,10 +328,10 @@
     },
     {
       "id": "youtube:sjzlU0YeByA",
-      "title": "Dans quoi investir? | Investi x Nicolas Bérubé, François Dorval, Paul Lavoie et Nikolaï Ray (Ép. 74)",
+      "title": "Dans quoi investir : Or, Crypto, FNB ou Immobilier? Investi (Ép. 74)",
       "url": "https://www.youtube.com/watch?v=sjzlU0YeByA",
       "published_at": "2026-11-19T20:00:14+00:00",
-      "updated_at": "2026-11-20T11:38:50+00:00",
+      "updated_at": "2026-11-23T11:55:15+00:00",
       "description": "Où mettre son argent en ce moment ? Or, Bitcoin, FNB ou immobilier ?\n\nEnregistré devant public le 18 septembre dernier, cet épisode réunit 4 invités qui ont chacun une conviction forte, et un portefeuille qui suit leurs babines. \n\nPaul Lavoie est investi dans le Bitcoin depuis 10 ans. Nikolaï Ray et son entreprise Ikigai possède plus de 100 millions d'immobilier résidentiel. Nicolas Bérubé mise sur les FNB tout-en-un. Et François Dorvalles ressources naturelles, l’or et le pétrole depuis que Marc Dargis est aux couches.\n\nOn parle de concentration et de surconfiance, de levier, de tokenisation des actifs, de crise pétrolière et d’inflation. On parle aussi de la vraie question : comment rester assis dans son siège quand le marché baisse de 30 %.\n\nQuand les marchés paniquent, Banque Nationale Courtage Direct vous offre une oreille pour vous écouter, même si vous êtes en auto-gestion. En plus, les appels sont gratuits, tout comme les transactions sur actions et FNB : https://www.nbc.ca/fr/courtage-direct/podcast-investi\n\nBNCD offre l’exécution d’ordres sans conseils. Vous êtes responsables de vos décisions de placement.\n\nJusqu'à 30% de rabais au www.pochesetfils.com pour tes cadeaux de Noël. Tu peux aussi faire des cadeaux à ton équipe au www.cestbeau.co/pages/custom\n\nLes informations partagées dans cette vidéo sont fournies à des fins éducatives et de divertissement seulement. Elles ne constituent pas des conseils financiers ni des recommandations d’achat ou de vente.\n\nChapitres : \n00:00 Intro\n00:41 Où mettre son argent ? Concentration ou surconfiance en crypto\n03:00 Immobilier : le segment à choisir pour les 10 prochaines années\n07:53 FNB : savoir qu’on prend trop de risques avant la prochaine baisse\n10:18 Ressources : « information, information, information »\n13:25 Crypto : le risque surestimé et celui qu’on sous-estime (tokenisation)\n18:00 Immobilier : le faux sentiment de sécurité\n19:51 Pétrole, guerre et inflation\n23:12 Don’t just do something, stand there : traverser les krachs\n26:33 Endettement en immobilier : où est la ligne rouge ?\n30:28 Le levier en crypto et les marchés de prédiction\n34:12 Ressources et or : la meilleure protection contre l’inflation ?\n39:03 Période de questions\n40:02 Le passé est-il garant de l’avenir ?\n45:48 Les cycles de marché sont-ils de plus en plus courts ?\n47:15 Combien de cash garder ? Quand vendre un gagnant ?",
       "image_url": "https://i4.ytimg.com/vi/sjzlU0YeByA/hqdefault.jpg",
       "source_id": "investi-qc",
@@ -355,7 +367,7 @@
       "title": "Le géant de la cybersécurité Palo Alto Networks (PANW) vient de publier ses résultats trimestriels :",
       "url": "https://www.youtube.com/watch?v=CHgzWTWbYeM",
       "published_at": "2026-11-19T16:43:58+00:00",
-      "updated_at": "2026-11-21T08:55:49+00:00",
+      "updated_at": "2026-11-23T04:24:54+00:00",
       "description": "Le géant de la cybersécurité Palo Alto Networks (PANW) vient de publier ses résultats trimestriels : 📈 Revenus : 3,44 G$ (+39 %) 💰 Bénéfice ajusté par action : 1,05 $ (+13 %) 💵 Flux de trésorerie libre ajusté : 1,9 G$ La compagnie relève également ses prévisions annuelles et annonce une acquisition de 4,5 G$ dans l’intelligence artificielle. Mais il y a deux éléments à surveiller : une bonne partie de la croissance provient des acquisitions, et le nombre d’actions en circulation a augmenté considérablement. La cybersécurité profite de l’explosion de l’IA, mais est-ce que les acquisitions et la dilution vont finir par coûter cher aux actionnaires? À titre informatif seulement. Ceci ne constitue pas un conseil en investissement.",
       "image_url": "https://i4.ytimg.com/vi/CHgzWTWbYeM/hqdefault.jpg",
       "source_id": "investi-qc",
