@@ -2,7 +2,7 @@
   "version": 1,
   "title": "Social Feed",
   "description": "Un seul fil pour suivre les sources qui comptent.",
-  "generated_at": "2026-11-24T00:56:07.363450+00:00",
+  "generated_at": "2026-11-24T10:58:56.778877+00:00",
   "sources": [
     {
       "id": "eco-en-batons",
@@ -11,7 +11,7 @@
       "url": "https://www.youtube.com/@Eco_en_batons",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-24T00:56:07.363450+00:00",
+      "last_success_at": "2026-11-24T10:58:56.778877+00:00",
       "item_count": 38
     },
     {
@@ -21,7 +21,7 @@
       "url": "https://www.youtube.com/@investi-qc",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-24T00:56:07.363450+00:00",
+      "last_success_at": "2026-11-24T10:58:56.778877+00:00",
       "item_count": 94
     },
     {
@@ -31,7 +31,7 @@
       "url": "https://www.youtube.com/@hugolisoiryoutube",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-24T00:56:07.363450+00:00",
+      "last_success_at": "2026-11-24T10:58:56.778877+00:00",
       "item_count": 29
     },
     {
@@ -41,7 +41,7 @@
       "url": "https://www.youtube.com/@alexdemers-finance360",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-24T00:56:07.363450+00:00",
+      "last_success_at": "2026-11-24T10:58:56.778877+00:00",
       "item_count": 27
     },
     {
@@ -49,19 +49,19 @@
       "name": "Guild Wars",
       "platform": "facebook",
       "url": "https://www.facebook.com/GuildWars/",
-      "status": "error",
-      "error": "RuntimeError: Facebook requires authentication or a challenge; no bypass attempted.",
-      "last_success_at": "2026-11-22T21:49:27.324422+00:00",
-      "item_count": 14
+      "status": "ok",
+      "error": null,
+      "last_success_at": "2026-11-24T10:58:56.778877+00:00",
+      "item_count": 15
     },
     {
       "id": "lotro",
       "name": "The Lord of the Rings Online",
       "platform": "facebook",
       "url": "https://www.facebook.com/LOTRO/",
-      "status": "error",
-      "error": "RuntimeError: Facebook requires authentication or a challenge; no bypass attempted.",
-      "last_success_at": "2026-11-22T21:49:27.324422+00:00",
+      "status": "ok",
+      "error": null,
+      "last_success_at": "2026-11-24T10:58:56.778877+00:00",
       "item_count": 42
     },
     {
@@ -69,20 +69,20 @@
       "name": "Ville de Lavaltrie",
       "platform": "facebook",
       "url": "https://www.facebook.com/VilleDeLavaltrie/",
-      "status": "error",
-      "error": "RuntimeError: Facebook requires authentication or a challenge; no bypass attempted.",
-      "last_success_at": "2026-11-22T21:49:27.324422+00:00",
-      "item_count": 35
+      "status": "ok",
+      "error": null,
+      "last_success_at": "2026-11-24T10:58:56.778877+00:00",
+      "item_count": 36
     },
     {
       "id": "traders-360",
       "name": "Traders 360",
       "platform": "facebook",
       "url": "https://www.facebook.com/firmetraders360/",
-      "status": "error",
-      "error": "RuntimeError: Facebook requires authentication or a challenge; no bypass attempted.",
-      "last_success_at": "2026-11-22T21:49:27.324422+00:00",
-      "item_count": 38
+      "status": "ok",
+      "error": null,
+      "last_success_at": "2026-11-24T10:58:56.778877+00:00",
+      "item_count": 39
     }
   ],
   "items": [
@@ -91,7 +91,7 @@
       "title": "Jusqu’à 30% de rabais au pochesetfils.com cette semaine",
       "url": "https://www.youtube.com/watch?v=q7Ooqp9mcA4",
       "published_at": "2026-11-24T00:42:59+00:00",
-      "updated_at": "2026-11-24T00:55:40+00:00",
+      "updated_at": "2026-11-24T08:50:22+00:00",
       "description": "Jusqu’à 30% de rabais au pochesetfils.com cette semaine",
       "image_url": "https://i2.ytimg.com/vi/q7Ooqp9mcA4/hqdefault.jpg",
       "source_id": "investi-qc",
@@ -99,11 +99,23 @@
       "platform": "youtube"
     },
     {
+      "id": "facebook:100064655653099:1597708162394357",
+      "title": "🎄✨ 𝗟𝗮 𝗺𝗮𝗴𝗶𝗲 𝗱𝗲 𝗡𝗼𝗲̈𝗹 𝘀’𝗶𝗻𝘃𝗶𝘁𝗲 𝗮̀ 𝗟𝗮𝘃𝗮𝗹𝘁𝗿𝗶𝗲 𝗰𝗲 𝘀𝗮𝗺𝗲𝗱𝗶!",
+      "url": "https://www.facebook.com/VilleDeLavaltrie/posts/pfbid02FdtgQr6FmcgHx4UkkrxiySrWZFFWAX41booN2t2pDzjPNf21ZKP5rCoHMd89UXzNl",
+      "published_at": "2026-11-24T00:08:03+00:00",
+      "updated_at": "2026-11-24T00:08:03+00:00",
+      "description": "🎄✨ 𝗟𝗮 𝗺𝗮𝗴𝗶𝗲 𝗱𝗲 𝗡𝗼𝗲̈𝗹 𝘀’𝗶𝗻𝘃𝗶𝘁𝗲 𝗮̀ 𝗟𝗮𝘃𝗮𝗹𝘁𝗿𝗶𝗲 𝗰𝗲 𝘀𝗮𝗺𝗲𝗱𝗶!\n\nLe samedi 28 novembre, venez profiter d’une foule d’𝗮𝗰𝘁𝗶𝘃𝗶𝘁𝗲́𝘀 𝗴𝗿𝗮𝘁𝘂𝗶𝘁𝗲𝘀 pour vous plonger dans l’ambiance des Fêtes! 🎅🎁\n\nAu programme :\n\n🎄 𝗣𝗹𝗮𝗰𝗲 𝗱𝘂 𝟯𝟱𝟬𝗲 | 𝟭𝟬 𝗵 𝗮̀ 𝟭𝟯 𝗵\n\n▪️Parcours amus",
+      "image_url": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.99422-6/926564122_2337376827037470_4867759520249651884_n.png?stp=dst-jpg_tt6&cstp=mx2048x2048&ctp=p526x296&_nc_cat=108&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=q_gt3iOk1nAQ7kNvwHn6Ac6&_nc_oc=AdpsQe-tcb_jOo-lEe67a6AJ5YG9j5nKCYhcOr5twrZX4kJbTVMuA50ZHQMKBHh95mY&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=GB9pUhSr-KQT0PnAVudSTg&_nc_ss=7f389&oh=00_AQQH7oaLbN52cLIranu_pM2mLVSrU6SBMo5as2JAXONsfQ&oe=6B0B2931",
+      "source_id": "ville-de-lavaltrie",
+      "source_name": "Ville de Lavaltrie",
+      "platform": "facebook"
+    },
+    {
       "id": "youtube:9nEtSl2O2jU",
       "title": "Les investisseurs québécois ont tendance à surinvestir au Canada",
       "url": "https://www.youtube.com/watch?v=9nEtSl2O2jU",
       "published_at": "2026-11-23T23:05:34+00:00",
-      "updated_at": "2026-11-24T00:27:27+00:00",
+      "updated_at": "2026-11-24T08:05:55+00:00",
       "description": "C'est ce qu'on appelle le biais domestique.\n\nPourtant, le marché canadien ne représente qu'une petite fraction de la Bourse mondiale.\n\nEn concentrant son portefeuille ici, on risque de passer à côté de nombreuses occasions",
       "image_url": "https://i2.ytimg.com/vi/9nEtSl2O2jU/hqdefault.jpg",
       "source_id": "alex-demers-finance360",
@@ -115,7 +127,7 @@
       "title": "Vincent mène une vie bien normale depuis qu’il est libre",
       "url": "https://www.youtube.com/watch?v=FR67zHAumDw",
       "published_at": "2026-11-23T21:40:08+00:00",
-      "updated_at": "2026-11-23T22:33:24+00:00",
+      "updated_at": "2026-11-24T09:17:07+00:00",
       "description": "Vincent mène une vie bien normale depuis qu’il est libre",
       "image_url": "https://i3.ytimg.com/vi/FR67zHAumDw/hqdefault.jpg",
       "source_id": "investi-qc",
@@ -123,11 +135,35 @@
       "platform": "youtube"
     },
     {
+      "id": "facebook:100063889127390:1690808629725425",
+      "title": "Qui a dit que le marché américain ne reposait pas sur un seul homme?",
+      "url": "https://www.facebook.com/firmetraders360/posts/pfbid02AdikJMm56RoyLyGXuhAZeoHnSKn5U3P73ueMtjk2Zw6b3Zy8uZsm7x5VYBdYf7XGl",
+      "published_at": "2026-11-23T21:24:52+00:00",
+      "updated_at": "2026-11-23T21:24:52+00:00",
+      "description": "Qui a dit que le marché américain ne reposait pas sur un seul homme?\n\nUne bonne main d’applaudissement pour Jensen Huang, qui vient de faire plus pour mon portefeuille en une journée que moi en un mois d’analyse financière.",
+      "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.99422-6/926128069_1198152615873648_2288892763611992008_n.png?stp=dst-jpg_tt6&cstp=mx1088x1440&ctp=p526x296&_nc_cat=100&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=uY-tdmqB0Q0Q7kNvwFjn2cu&_nc_oc=AdoIQgNBq0vQ4FWbhm4vq7iujN4yqcipQmsFaoYhj_CY7IDNoa6dJ9PsiIHn1QBS-Vs&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=c5FA7zqEPSHQJ7rEfYt41g&_nc_ss=7f389&oh=00_AQQNqAL8k9ZDYanpk7p831vcQLZ2f3HCE4x0YC3pgwP21A&oe=6B0B4054",
+      "source_id": "traders-360",
+      "source_name": "Traders 360",
+      "platform": "facebook"
+    },
+    {
+      "id": "facebook:100069958479615:1451699463838656",
+      "title": "Not every soul finds its way. Some linger, bound to the moments they couldn't let go.",
+      "url": "https://www.facebook.com/reel/2351960818887503/",
+      "published_at": "2026-11-23T19:00:59+00:00",
+      "updated_at": "2026-11-23T19:00:59+00:00",
+      "description": "Not every soul finds its way. Some linger, bound to the moments they couldn't let go.\n\nEnter the final frontier of the lost and longing… Afterlife, January 13.\nPrepurchase today. store.guildwars.com\n\n#GWAfterlife #GuildWars",
+      "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t15.5256-10/907669303_2395589994530812_1744504935083427667_n.jpg?stp=dst-jpg_tt6&cstp=mx1920x1080&ctp=s960x960&_nc_cat=104&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=uIgmFPFSB98Q7kNvwGaXnGN&_nc_oc=AdqFzCie7b11UggI7tpaWsa81rWBBBkgO1PUbaMvmWog0rlRJoJRCiBEkGDSfLpP0Tk&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&_nc_gid=32CVmnq_bE8QEwdnjhbHVg&_nc_ss=7f389&oh=00_AQS2LMY2V1RCwUjTkeCZY_C3uDaxbDrMf-SqvzwmsZM7gA&oe=6B0B3844",
+      "source_id": "guild-wars",
+      "source_name": "Guild Wars",
+      "platform": "facebook"
+    },
+    {
       "id": "youtube:uxdWxwjpH84",
       "title": "Et si les astronautes pouvaient marcher au lieu de flotter ?  #espace  #science #insolite",
       "url": "https://www.youtube.com/watch?v=uxdWxwjpH84",
       "published_at": "2026-11-23T08:15:08+00:00",
-      "updated_at": "2026-11-23T16:59:56+00:00",
+      "updated_at": "2026-11-24T08:23:28+00:00",
       "description": "Comment marcher au sol dans une station spatiale en orbite ? Vast prépare Haven-1, sa première station habitée, puis vise une station beaucoup plus grande qui tournerait sur elle-même pour créer une gravité artificielle. Le projet de Vast\n\nPourquoi la taille compte ? Dans une petite station, il faudrait tourner si vite qu’un simple mouvement de tête pourrait donner le vertige. Avec une station plus grande, les astronautes pourraient retrouver leur poids à une vitesse de rotation plus faible.\n\n#GravitéArtificielle #StationSpatiale #Vast #Shorts",
       "image_url": "https://i2.ytimg.com/vi/uxdWxwjpH84/hqdefault.jpg",
       "source_id": "hugo-lisoir",
@@ -149,7 +185,7 @@
     {
       "id": "facebook:100064792208382:1659331419569916",
       "title": "Support the Children's Miracle Network of hospitals through Extra Life and get in-game incentives! Learn more about this",
-      "url": "https://www.facebook.com/LOTRO/posts/pfbid02Mgg37M2A1uHk9P9ssdJnk18fBXa3ZTDHM4fs73S1EYectsrQPEChJxeiWv9SVzczl",
+      "url": "https://www.facebook.com/LOTRO/posts/pfbid02MzUZNrKd293SJXpPxAqcpHik3U2G4xK1tdoz5fyva3XaGG9eyLF2nwJ9ds48Z16Vl",
       "published_at": "2026-11-22T20:45:23+00:00",
       "updated_at": "2026-11-22T20:45:23+00:00",
       "description": "Support the Children's Miracle Network of hospitals through Extra Life and get in-game incentives! Learn more about this year's Extra Life effort on https://ow.ly/PvCu5108Bca: https://ow.ly/Xm5l5108Bcc #LOTRO",
@@ -199,7 +235,7 @@
       "title": "Crowdstrike (CRWD) est un leader de la cybersécurité en détection d’attaques",
       "url": "https://www.youtube.com/watch?v=hmU67EZDyI4",
       "published_at": "2026-11-22T15:38:49+00:00",
-      "updated_at": "2026-11-23T07:17:04+00:00",
+      "updated_at": "2026-11-24T08:06:46+00:00",
       "description": "Crowdstrike (CRWD) est un leader de la cybersécurité en détection d’attaques",
       "image_url": "https://i1.ytimg.com/vi/hmU67EZDyI4/hqdefault.jpg",
       "source_id": "investi-qc",
@@ -211,7 +247,7 @@
       "title": "La cybersécurité est un secteur en forte croissance en 2026",
       "url": "https://www.youtube.com/watch?v=sSlTkDwI81Y",
       "published_at": "2026-11-21T20:41:17+00:00",
-      "updated_at": "2026-11-22T10:25:02+00:00",
+      "updated_at": "2026-11-24T10:58:46+00:00",
       "description": "La cybersécurité est un secteur en forte croissance en 2026. Est-ce que ça va se poursuivre en 2027 avec l’explosion de l’IA?",
       "image_url": "https://i4.ytimg.com/vi/sSlTkDwI81Y/hqdefault.jpg",
       "source_id": "investi-qc",
@@ -223,7 +259,7 @@
       "title": "Mitek se spécialise dans la détection du deepfake",
       "url": "https://www.youtube.com/watch?v=_ROnshpcaHM",
       "published_at": "2026-11-21T15:39:35+00:00",
-      "updated_at": "2026-11-22T10:08:17+00:00",
+      "updated_at": "2026-11-24T03:06:26+00:00",
       "description": "Mitek se spécialise dans la détection du deepfake",
       "image_url": "https://i4.ytimg.com/vi/_ROnshpcaHM/hqdefault.jpg",
       "source_id": "investi-qc",
@@ -307,7 +343,7 @@
       "title": "Windows est populaire en Chine",
       "url": "https://www.youtube.com/watch?v=gnYv5MzBp6A",
       "published_at": "2026-11-20T16:44:29+00:00",
-      "updated_at": "2026-11-22T12:20:37+00:00",
+      "updated_at": "2026-11-24T02:23:28+00:00",
       "description": "Windows est populaire en Chine",
       "image_url": "https://i4.ytimg.com/vi/gnYv5MzBp6A/hqdefault.jpg",
       "source_id": "investi-qc",
@@ -463,7 +499,7 @@
       "title": "Actions à dividendes dans un CELI ou un compte non enregistré ?",
       "url": "https://www.youtube.com/watch?v=mwsHLWgc73k",
       "published_at": "2026-11-18T20:41:16+00:00",
-      "updated_at": "2026-11-21T21:44:30+00:00",
+      "updated_at": "2026-11-24T10:28:05+00:00",
       "description": "Actions à dividendes dans un CELI ou un compte non enregistré ?",
       "image_url": "https://i2.ytimg.com/vi/mwsHLWgc73k/hqdefault.jpg",
       "source_id": "investi-qc",
@@ -499,7 +535,7 @@
       "title": "Elon Musk : le Premier Trilliardaire (et comment il y est arrivé)",
       "url": "https://www.youtube.com/watch?v=Qh038-Ql_DA",
       "published_at": "2026-11-18T13:20:03+00:00",
-      "updated_at": "2026-11-19T21:08:22+00:00",
+      "updated_at": "2026-11-21T21:49:15+00:00",
       "description": "Le 12 juin 2026, Elon Musk devient le premier être humain dont la fortune estimée dépasse les 1 000 milliards de dollars (selon Forbes). De Pretoria, où il vend à 12 ans le code d'un jeu vidéo pour environ 500 dollars, à l'entrée en bourse de SpaceX, voici comment il y est arrivé : Zip2, PayPal, l'année 2008 où tout a failli s'arrêter, et la fusée qui revient se poser.\n\nChapitres\n0:00 Le premier à 1 000 milliards\n1:11 Pretoria : le jeu à 500 dollars\n3:31 Zip2 et PayPal\n6:31 2008 : l'année où tout a failli s'arrêter\n10:52 La fusée qui revient se poser\n14:14 L'entrée en bourse de SpaceX\n17:38 Le jour du record\n\nSources : Forbes, CNBC, NBC News, NASA (communiqué du 23/12/2008), documents de la SEC, Wikipédia.\n\nPhotos Wikimedia Commons — Debbie Rowe (CC BY-SA 3.0), Stansfield PL (CC BY-SA 3.0), Ruby D-Brown (CC BY 4.0), Takipoint123 (CC BY-SA 4.0), King of Hearts (CC BY-SA 3.0), 1000x2020 (CC BY-SA 4.0), Gage Skidmore (CC BY-SA 3.0), TechCrunch (CC BY 2.0), Robert Scoble (CC BY 2.0), JD Lasica (CC BY 2.0), Nicki Dugan (CC BY-SA 2.0), Jenny Hautmann (CC BY-SA 4.0), SpaceX (CC0), NASA / Bill Ingalls (domaine public). Cartes © OpenStreetMap contributors.",
       "image_url": "https://i2.ytimg.com/vi/Qh038-Ql_DA/hqdefault.jpg",
       "source_id": "eco-en-batons",
