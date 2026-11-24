@@ -2,7 +2,7 @@
   "version": 1,
   "title": "Social Feed",
   "description": "Un seul fil pour suivre les sources qui comptent.",
-  "generated_at": "2026-11-23T12:53:26.626592+00:00",
+  "generated_at": "2026-11-24T00:56:07.363450+00:00",
   "sources": [
     {
       "id": "eco-en-batons",
@@ -11,7 +11,7 @@
       "url": "https://www.youtube.com/@Eco_en_batons",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-23T12:53:26.626592+00:00",
+      "last_success_at": "2026-11-24T00:56:07.363450+00:00",
       "item_count": 38
     },
     {
@@ -21,8 +21,8 @@
       "url": "https://www.youtube.com/@investi-qc",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-23T12:53:26.626592+00:00",
-      "item_count": 92
+      "last_success_at": "2026-11-24T00:56:07.363450+00:00",
+      "item_count": 94
     },
     {
       "id": "hugo-lisoir",
@@ -31,7 +31,7 @@
       "url": "https://www.youtube.com/@hugolisoiryoutube",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-23T12:53:26.626592+00:00",
+      "last_success_at": "2026-11-24T00:56:07.363450+00:00",
       "item_count": 29
     },
     {
@@ -41,8 +41,8 @@
       "url": "https://www.youtube.com/@alexdemers-finance360",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-23T12:53:26.626592+00:00",
-      "item_count": 26
+      "last_success_at": "2026-11-24T00:56:07.363450+00:00",
+      "item_count": 27
     },
     {
       "id": "guild-wars",
@@ -87,11 +87,47 @@
   ],
   "items": [
     {
+      "id": "youtube:q7Ooqp9mcA4",
+      "title": "Jusqu’à 30% de rabais au pochesetfils.com cette semaine",
+      "url": "https://www.youtube.com/watch?v=q7Ooqp9mcA4",
+      "published_at": "2026-11-24T00:42:59+00:00",
+      "updated_at": "2026-11-24T00:55:40+00:00",
+      "description": "Jusqu’à 30% de rabais au pochesetfils.com cette semaine",
+      "image_url": "https://i2.ytimg.com/vi/q7Ooqp9mcA4/hqdefault.jpg",
+      "source_id": "investi-qc",
+      "source_name": "Investi QC",
+      "platform": "youtube"
+    },
+    {
+      "id": "youtube:9nEtSl2O2jU",
+      "title": "Les investisseurs québécois ont tendance à surinvestir au Canada",
+      "url": "https://www.youtube.com/watch?v=9nEtSl2O2jU",
+      "published_at": "2026-11-23T23:05:34+00:00",
+      "updated_at": "2026-11-24T00:27:27+00:00",
+      "description": "C'est ce qu'on appelle le biais domestique.\n\nPourtant, le marché canadien ne représente qu'une petite fraction de la Bourse mondiale.\n\nEn concentrant son portefeuille ici, on risque de passer à côté de nombreuses occasions",
+      "image_url": "https://i2.ytimg.com/vi/9nEtSl2O2jU/hqdefault.jpg",
+      "source_id": "alex-demers-finance360",
+      "source_name": "Alex Demers — Finance 360",
+      "platform": "youtube"
+    },
+    {
+      "id": "youtube:FR67zHAumDw",
+      "title": "Vincent mène une vie bien normale depuis qu’il est libre",
+      "url": "https://www.youtube.com/watch?v=FR67zHAumDw",
+      "published_at": "2026-11-23T21:40:08+00:00",
+      "updated_at": "2026-11-23T22:33:24+00:00",
+      "description": "Vincent mène une vie bien normale depuis qu’il est libre",
+      "image_url": "https://i3.ytimg.com/vi/FR67zHAumDw/hqdefault.jpg",
+      "source_id": "investi-qc",
+      "source_name": "Investi QC",
+      "platform": "youtube"
+    },
+    {
       "id": "youtube:uxdWxwjpH84",
       "title": "Et si les astronautes pouvaient marcher au lieu de flotter ?  #espace  #science #insolite",
       "url": "https://www.youtube.com/watch?v=uxdWxwjpH84",
       "published_at": "2026-11-23T08:15:08+00:00",
-      "updated_at": "2026-11-23T11:09:54+00:00",
+      "updated_at": "2026-11-23T16:59:56+00:00",
       "description": "Comment marcher au sol dans une station spatiale en orbite ? Vast prépare Haven-1, sa première station habitée, puis vise une station beaucoup plus grande qui tournerait sur elle-même pour créer une gravité artificielle. Le projet de Vast\n\nPourquoi la taille compte ? Dans une petite station, il faudrait tourner si vite qu’un simple mouvement de tête pourrait donner le vertige. Avec une station plus grande, les astronautes pourraient retrouver leur poids à une vitesse de rotation plus faible.\n\n#GravitéArtificielle #StationSpatiale #Vast #Shorts",
       "image_url": "https://i2.ytimg.com/vi/uxdWxwjpH84/hqdefault.jpg",
       "source_id": "hugo-lisoir",
@@ -103,7 +139,7 @@
       "title": "Votre portefeuille est-il vraiment aussi diversifié que vous le pensez? #bourse",
       "url": "https://www.youtube.com/watch?v=xW1G8cIRl5Y",
       "published_at": "2026-11-22T22:47:32+00:00",
-      "updated_at": "2026-11-23T07:45:14+00:00",
+      "updated_at": "2026-11-23T19:56:35+00:00",
       "description": "Je vous propose de faire le portrait de votre portefeuille pour analyser votre répartition géographique et sectorielle.\n\nVous pourriez découvrir que plusieurs de vos investissements sont concentrés dans les mêmes secteurs ou les mêmes pays.\n\n#placements #investissement",
       "image_url": "https://i1.ytimg.com/vi/xW1G8cIRl5Y/hqdefault.jpg",
       "source_id": "alex-demers-finance360",
@@ -427,7 +463,7 @@
       "title": "Actions à dividendes dans un CELI ou un compte non enregistré ?",
       "url": "https://www.youtube.com/watch?v=mwsHLWgc73k",
       "published_at": "2026-11-18T20:41:16+00:00",
-      "updated_at": "2026-11-20T14:25:18+00:00",
+      "updated_at": "2026-11-21T21:44:30+00:00",
       "description": "Actions à dividendes dans un CELI ou un compte non enregistré ?",
       "image_url": "https://i2.ytimg.com/vi/mwsHLWgc73k/hqdefault.jpg",
       "source_id": "investi-qc",
