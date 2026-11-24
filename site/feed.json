@@ -2,7 +2,7 @@
   "version": 1,
   "title": "Social Feed",
   "description": "Un seul fil pour suivre les sources qui comptent.",
-  "generated_at": "2026-11-24T10:58:56.778877+00:00",
+  "generated_at": "2026-11-24T21:16:27.250757+00:00",
   "sources": [
     {
       "id": "eco-en-batons",
@@ -11,7 +11,7 @@
       "url": "https://www.youtube.com/@Eco_en_batons",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-24T10:58:56.778877+00:00",
+      "last_success_at": "2026-11-24T21:16:27.250757+00:00",
       "item_count": 38
     },
     {
@@ -21,8 +21,8 @@
       "url": "https://www.youtube.com/@investi-qc",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-24T10:58:56.778877+00:00",
-      "item_count": 94
+      "last_success_at": "2026-11-24T21:16:27.250757+00:00",
+      "item_count": 96
     },
     {
       "id": "hugo-lisoir",
@@ -31,8 +31,8 @@
       "url": "https://www.youtube.com/@hugolisoiryoutube",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-24T10:58:56.778877+00:00",
-      "item_count": 29
+      "last_success_at": "2026-11-24T21:16:27.250757+00:00",
+      "item_count": 30
     },
     {
       "id": "alex-demers-finance360",
@@ -41,7 +41,7 @@
       "url": "https://www.youtube.com/@alexdemers-finance360",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-24T10:58:56.778877+00:00",
+      "last_success_at": "2026-11-24T21:16:27.250757+00:00",
       "item_count": 27
     },
     {
@@ -51,7 +51,7 @@
       "url": "https://www.facebook.com/GuildWars/",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-24T10:58:56.778877+00:00",
+      "last_success_at": "2026-11-24T21:16:27.250757+00:00",
       "item_count": 15
     },
     {
@@ -61,7 +61,7 @@
       "url": "https://www.facebook.com/LOTRO/",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-24T10:58:56.778877+00:00",
+      "last_success_at": "2026-11-24T21:16:27.250757+00:00",
       "item_count": 42
     },
     {
@@ -69,8 +69,8 @@
       "name": "Ville de Lavaltrie",
       "platform": "facebook",
       "url": "https://www.facebook.com/VilleDeLavaltrie/",
-      "status": "ok",
-      "error": null,
+      "status": "error",
+      "error": "RuntimeError: Facebook requires authentication or a challenge; no bypass attempted.",
       "last_success_at": "2026-11-24T10:58:56.778877+00:00",
       "item_count": 36
     },
@@ -79,13 +79,49 @@
       "name": "Traders 360",
       "platform": "facebook",
       "url": "https://www.facebook.com/firmetraders360/",
-      "status": "ok",
-      "error": null,
+      "status": "error",
+      "error": "RuntimeError: Facebook requires authentication or a challenge; no bypass attempted.",
       "last_success_at": "2026-11-24T10:58:56.778877+00:00",
       "item_count": 39
     }
   ],
   "items": [
+    {
+      "id": "youtube:0ou3TqzLWvo",
+      "title": "Vous sentez-vous de même?",
+      "url": "https://www.youtube.com/watch?v=0ou3TqzLWvo",
+      "published_at": "2026-11-24T20:42:14+00:00",
+      "updated_at": "2026-11-24T21:03:18+00:00",
+      "description": "Vous sentez-vous de même?",
+      "image_url": "https://i1.ytimg.com/vi/0ou3TqzLWvo/hqdefault.jpg",
+      "source_id": "investi-qc",
+      "source_name": "Investi QC",
+      "platform": "youtube"
+    },
+    {
+      "id": "youtube:CPyfy6Fy3CI",
+      "title": "Le signal radio qui a réveillé une énigme vieille de 20 ans ! DNDE",
+      "url": "https://www.youtube.com/watch?v=CPyfy6Fy3CI",
+      "published_at": "2026-11-24T17:00:16+00:00",
+      "updated_at": "2026-11-24T17:00:17+00:00",
+      "description": "Profitez de 4 mois offerts sur l’abonnement NordVPN 2 ans : https://nordvpn.com/hugolisoir\nDernières Nouvelles des Étoiles (DNDE) est un format hebdomadaire qui fait le tour de l’actualité spatiale. SpaceX, NASA, ESA, Chine : quels seront les prochains grands défis de l’humanité en matière d’exploration de l’espace ?\nAu programme cette semaine : l’étrange signal radio LPT J1555−5631 et les mystères des transitoires à longue période, l’échec de Vulcan Centaur et ses conséquences pour Amazon Leo dans un marché des lancements sous tension, puis l’arrivée de BepiColombo autour de Mercure après huit années de voyage et les promesses de ses deux sondes.\n\nSources :\nLPT J1555−5631 : \nhttps://doi.org/10.3847/1538-4357/aeb002\nVulcan Centaur : \nhttps://blog.ulalaunch.com/blog/vulcan-leo-1-updates\nBepiColombo :\nhttps://www.esa.int/articles/about-us/directorates/science/bepicolombo/latest-updates-bepicolombo-s-arrival-at-mercury\n\nMusiques : Pedro Macedo Camacho / Star Citizen, Utho Riley et Gérald M. Dorai\nImages : ESA, JAXA, ULA, Blue Origin, Arianespace, SpaceX, SARAO/MeerKAT, CSIRO/ASKAP, NRAO/AUI/NSF, Hyman et al.\nMoteur 3D : Space Engine Pro",
+      "image_url": "https://i4.ytimg.com/vi/CPyfy6Fy3CI/hqdefault.jpg",
+      "source_id": "hugo-lisoir",
+      "source_name": "Hugo Lisoir",
+      "platform": "youtube"
+    },
+    {
+      "id": "youtube:6ZgtVVzbKy8",
+      "title": "Fortinent (FTNT) offre un service-client sur le terrain à ses partenaires comme Mon Technicien",
+      "url": "https://www.youtube.com/watch?v=6ZgtVVzbKy8",
+      "published_at": "2026-11-24T16:43:42+00:00",
+      "updated_at": "2026-11-24T20:22:05+00:00",
+      "description": "Fortinent (FTNT) offre un service-client sur le terrain à ses partenaires comme Mon Technicien",
+      "image_url": "https://i3.ytimg.com/vi/6ZgtVVzbKy8/hqdefault.jpg",
+      "source_id": "investi-qc",
+      "source_name": "Investi QC",
+      "platform": "youtube"
+    },
     {
       "id": "youtube:q7Ooqp9mcA4",
       "title": "Jusqu’à 30% de rabais au pochesetfils.com cette semaine",
@@ -115,7 +151,7 @@
       "title": "Les investisseurs québécois ont tendance à surinvestir au Canada",
       "url": "https://www.youtube.com/watch?v=9nEtSl2O2jU",
       "published_at": "2026-11-23T23:05:34+00:00",
-      "updated_at": "2026-11-24T08:05:55+00:00",
+      "updated_at": "2026-11-24T20:29:59+00:00",
       "description": "C'est ce qu'on appelle le biais domestique.\n\nPourtant, le marché canadien ne représente qu'une petite fraction de la Bourse mondiale.\n\nEn concentrant son portefeuille ici, on risque de passer à côté de nombreuses occasions",
       "image_url": "https://i2.ytimg.com/vi/9nEtSl2O2jU/hqdefault.jpg",
       "source_id": "alex-demers-finance360",
@@ -127,7 +163,7 @@
       "title": "Vincent mène une vie bien normale depuis qu’il est libre",
       "url": "https://www.youtube.com/watch?v=FR67zHAumDw",
       "published_at": "2026-11-23T21:40:08+00:00",
-      "updated_at": "2026-11-24T09:17:07+00:00",
+      "updated_at": "2026-11-24T18:04:12+00:00",
       "description": "Vincent mène une vie bien normale depuis qu’il est libre",
       "image_url": "https://i3.ytimg.com/vi/FR67zHAumDw/hqdefault.jpg",
       "source_id": "investi-qc",
@@ -153,7 +189,7 @@
       "published_at": "2026-11-23T19:00:59+00:00",
       "updated_at": "2026-11-23T19:00:59+00:00",
       "description": "Not every soul finds its way. Some linger, bound to the moments they couldn't let go.\n\nEnter the final frontier of the lost and longing… Afterlife, January 13.\nPrepurchase today. store.guildwars.com\n\n#GWAfterlife #GuildWars",
-      "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t15.5256-10/907669303_2395589994530812_1744504935083427667_n.jpg?stp=dst-jpg_tt6&cstp=mx1920x1080&ctp=s960x960&_nc_cat=104&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=uIgmFPFSB98Q7kNvwGaXnGN&_nc_oc=AdqFzCie7b11UggI7tpaWsa81rWBBBkgO1PUbaMvmWog0rlRJoJRCiBEkGDSfLpP0Tk&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&_nc_gid=32CVmnq_bE8QEwdnjhbHVg&_nc_ss=7f389&oh=00_AQS2LMY2V1RCwUjTkeCZY_C3uDaxbDrMf-SqvzwmsZM7gA&oe=6B0B3844",
+      "image_url": "https://scontent-sea5-2.xx.fbcdn.net/v/t15.5256-10/907669303_2395589994530812_1744504935083427667_n.jpg?stp=dst-jpg_tt6&cstp=mx1920x1080&ctp=s960x960&_nc_cat=104&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=uIgmFPFSB98Q7kNvwGGIbjI&_nc_oc=AdrlWUjRSw0UgvkNcgJOYTcfSjjj37PQ9hTWWehmnrn1ps5s2_QtH9RwDQaGthTMvrA&_nc_zt=23&_nc_ht=scontent-sea5-2.xx&_nc_gid=NmMsP8qGDZAf5WH7Mmgm9w&_nc_ss=7f389&oh=00_AQSokK70atYzY3AK9AqRNSjrGD2KlzfqlD7oWWBkL1g3dQ&oe=6B0BE104",
       "source_id": "guild-wars",
       "source_name": "Guild Wars",
       "platform": "facebook"
@@ -163,7 +199,7 @@
       "title": "Et si les astronautes pouvaient marcher au lieu de flotter ?  #espace  #science #insolite",
       "url": "https://www.youtube.com/watch?v=uxdWxwjpH84",
       "published_at": "2026-11-23T08:15:08+00:00",
-      "updated_at": "2026-11-24T08:23:28+00:00",
+      "updated_at": "2026-11-24T12:54:06+00:00",
       "description": "Comment marcher au sol dans une station spatiale en orbite ? Vast prépare Haven-1, sa première station habitée, puis vise une station beaucoup plus grande qui tournerait sur elle-même pour créer une gravité artificielle. Le projet de Vast\n\nPourquoi la taille compte ? Dans une petite station, il faudrait tourner si vite qu’un simple mouvement de tête pourrait donner le vertige. Avec une station plus grande, les astronautes pourraient retrouver leur poids à une vitesse de rotation plus faible.\n\n#GravitéArtificielle #StationSpatiale #Vast #Shorts",
       "image_url": "https://i2.ytimg.com/vi/uxdWxwjpH84/hqdefault.jpg",
       "source_id": "hugo-lisoir",
@@ -199,7 +235,7 @@
       "title": "Son père a fait un doctorat en intelligence artificielle en 1998 🧠",
       "url": "https://www.youtube.com/watch?v=Fnur-wm1z4E",
       "published_at": "2026-11-22T20:39:23+00:00",
-      "updated_at": "2026-11-23T08:50:44+00:00",
+      "updated_at": "2026-11-24T13:26:14+00:00",
       "description": "Son père a fait un doctorat en intelligence artificielle en 1998 🧠",
       "image_url": "https://i3.ytimg.com/vi/Fnur-wm1z4E/hqdefault.jpg",
       "source_id": "investi-qc",
@@ -247,7 +283,7 @@
       "title": "La cybersécurité est un secteur en forte croissance en 2026",
       "url": "https://www.youtube.com/watch?v=sSlTkDwI81Y",
       "published_at": "2026-11-21T20:41:17+00:00",
-      "updated_at": "2026-11-24T10:58:46+00:00",
+      "updated_at": "2026-11-24T11:05:19+00:00",
       "description": "La cybersécurité est un secteur en forte croissance en 2026. Est-ce que ça va se poursuivre en 2027 avec l’explosion de l’IA?",
       "image_url": "https://i4.ytimg.com/vi/sSlTkDwI81Y/hqdefault.jpg",
       "source_id": "investi-qc",
@@ -259,7 +295,7 @@
       "title": "Mitek se spécialise dans la détection du deepfake",
       "url": "https://www.youtube.com/watch?v=_ROnshpcaHM",
       "published_at": "2026-11-21T15:39:35+00:00",
-      "updated_at": "2026-11-24T03:06:26+00:00",
+      "updated_at": "2026-11-24T16:51:37+00:00",
       "description": "Mitek se spécialise dans la détection du deepfake",
       "image_url": "https://i4.ytimg.com/vi/_ROnshpcaHM/hqdefault.jpg",
       "source_id": "investi-qc",
@@ -295,7 +331,7 @@
       "title": "Un centre d’appels mais de fraude",
       "url": "https://www.youtube.com/watch?v=CU-ZRc0kKJ8",
       "published_at": "2026-11-20T21:43:08+00:00",
-      "updated_at": "2026-11-21T18:10:19+00:00",
+      "updated_at": "2026-11-24T19:40:00+00:00",
       "description": "Un centre d’appels mais de fraude",
       "image_url": "https://i4.ytimg.com/vi/CU-ZRc0kKJ8/hqdefault.jpg",
       "source_id": "investi-qc",
@@ -355,7 +391,7 @@
       "title": "Volume en forte hausse sur le Nasdaq et le S&P500",
       "url": "https://www.youtube.com/watch?v=cJnIkoKQN3k",
       "published_at": "2026-11-20T00:43:29+00:00",
-      "updated_at": "2026-11-23T00:39:07+00:00",
+      "updated_at": "2026-11-24T14:14:19+00:00",
       "description": "Volume en forte hausse sur le Nasdaq et le S&P500",
       "image_url": "https://i4.ytimg.com/vi/cJnIkoKQN3k/hqdefault.jpg",
       "source_id": "investi-qc",
@@ -439,7 +475,7 @@
       "title": "Le géant de la cybersécurité Palo Alto Networks (PANW) vient de publier ses résultats trimestriels :",
       "url": "https://www.youtube.com/watch?v=CHgzWTWbYeM",
       "published_at": "2026-11-19T16:43:58+00:00",
-      "updated_at": "2026-11-23T04:24:54+00:00",
+      "updated_at": "2026-11-24T14:06:13+00:00",
       "description": "Le géant de la cybersécurité Palo Alto Networks (PANW) vient de publier ses résultats trimestriels : 📈 Revenus : 3,44 G$ (+39 %) 💰 Bénéfice ajusté par action : 1,05 $ (+13 %) 💵 Flux de trésorerie libre ajusté : 1,9 G$ La compagnie relève également ses prévisions annuelles et annonce une acquisition de 4,5 G$ dans l’intelligence artificielle. Mais il y a deux éléments à surveiller : une bonne partie de la croissance provient des acquisitions, et le nombre d’actions en circulation a augmenté considérablement. La cybersécurité profite de l’explosion de l’IA, mais est-ce que les acquisitions et la dilution vont finir par coûter cher aux actionnaires? À titre informatif seulement. Ceci ne constitue pas un conseil en investissement.",
       "image_url": "https://i4.ytimg.com/vi/CHgzWTWbYeM/hqdefault.jpg",
       "source_id": "investi-qc",
@@ -463,7 +499,7 @@
       "title": "Est-ce que la CEO par interim de Nvidia est une IA?",
       "url": "https://www.youtube.com/watch?v=ZTsc8K6ZxeE",
       "published_at": "2026-11-18T23:45:01+00:00",
-      "updated_at": "2026-11-20T00:25:34+00:00",
+      "updated_at": "2026-11-24T20:09:28+00:00",
       "description": "Est-ce que la CEO par interim de Nvidia est une IA?",
       "image_url": "https://i3.ytimg.com/vi/ZTsc8K6ZxeE/hqdefault.jpg",
       "source_id": "investi-qc",
