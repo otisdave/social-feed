@@ -2,7 +2,7 @@
   "version": 1,
   "title": "Social Feed",
   "description": "Un seul fil pour suivre les sources qui comptent.",
-  "generated_at": "2026-11-25T04:19:39.609305+00:00",
+  "generated_at": "2026-11-25T15:39:55.019837+00:00",
   "sources": [
     {
       "id": "eco-en-batons",
@@ -11,7 +11,7 @@
       "url": "https://www.youtube.com/@Eco_en_batons",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-25T04:19:39.609305+00:00",
+      "last_success_at": "2026-11-25T15:39:55.019837+00:00",
       "item_count": 38
     },
     {
@@ -21,7 +21,7 @@
       "url": "https://www.youtube.com/@investi-qc",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-25T04:19:39.609305+00:00",
+      "last_success_at": "2026-11-25T15:39:55.019837+00:00",
       "item_count": 97
     },
     {
@@ -31,7 +31,7 @@
       "url": "https://www.youtube.com/@hugolisoiryoutube",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-25T04:19:39.609305+00:00",
+      "last_success_at": "2026-11-25T15:39:55.019837+00:00",
       "item_count": 30
     },
     {
@@ -41,7 +41,7 @@
       "url": "https://www.youtube.com/@alexdemers-finance360",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-25T04:19:39.609305+00:00",
+      "last_success_at": "2026-11-25T15:39:55.019837+00:00",
       "item_count": 28
     },
     {
@@ -91,7 +91,7 @@
       "title": "Cybersécurité : L’IA pour combattre l’IA",
       "url": "https://www.youtube.com/watch?v=2X1qeR381Ls",
       "published_at": "2026-11-25T00:45:02+00:00",
-      "updated_at": "2026-11-25T03:24:59+00:00",
+      "updated_at": "2026-11-25T09:44:55+00:00",
       "description": "Cybersécurité : L’IA pour combattre l’IA",
       "image_url": "https://i3.ytimg.com/vi/2X1qeR381Ls/hqdefault.jpg",
       "source_id": "investi-qc",
@@ -115,7 +115,7 @@
       "title": "Vous sentez-vous de même?",
       "url": "https://www.youtube.com/watch?v=0ou3TqzLWvo",
       "published_at": "2026-11-24T20:42:14+00:00",
-      "updated_at": "2026-11-24T21:26:10+00:00",
+      "updated_at": "2026-11-25T09:28:36+00:00",
       "description": "Vous sentez-vous de même?",
       "image_url": "https://i1.ytimg.com/vi/0ou3TqzLWvo/hqdefault.jpg",
       "source_id": "investi-qc",
@@ -139,7 +139,7 @@
       "title": "Fortinent (FTNT) offre un service-client sur le terrain à ses partenaires comme Mon Technicien",
       "url": "https://www.youtube.com/watch?v=6ZgtVVzbKy8",
       "published_at": "2026-11-24T16:43:42+00:00",
-      "updated_at": "2026-11-24T20:22:05+00:00",
+      "updated_at": "2026-11-25T09:43:43+00:00",
       "description": "Fortinent (FTNT) offre un service-client sur le terrain à ses partenaires comme Mon Technicien",
       "image_url": "https://i3.ytimg.com/vi/6ZgtVVzbKy8/hqdefault.jpg",
       "source_id": "investi-qc",
@@ -427,7 +427,7 @@
       "title": "#Duo avec cnbc #anthropic POV le gars qui croit beaucoup trop en Claude",
       "url": "https://www.youtube.com/watch?v=n26UVtHvFSg",
       "published_at": "2026-11-19T21:40:29+00:00",
-      "updated_at": "2026-11-21T10:07:28+00:00",
+      "updated_at": "2026-11-23T19:13:41+00:00",
       "description": "#Duo avec cnbc #anthropic POV le gars qui croit beaucoup trop en Claude",
       "image_url": "https://i3.ytimg.com/vi/n26UVtHvFSg/hqdefault.jpg",
       "source_id": "investi-qc",
@@ -487,7 +487,7 @@
       "title": "Un évènement spatial inconnu a marqué tous les arbres de la planète !",
       "url": "https://www.youtube.com/watch?v=RoD0Pz5kb0Q",
       "published_at": "2026-11-19T17:13:15+00:00",
-      "updated_at": "2026-11-20T00:03:56+00:00",
+      "updated_at": "2026-11-22T21:28:36+00:00",
       "description": "En 774, un bombardement venu de l’espace a laissé une empreinte mondiale dans les arbres et les glaces polaires. Plus de douze siècles plus tard, cette signature a ouvert une enquête sur les événements de Miyake, ces épisodes extrêmes attribués à notre Soleil. Comment le carbone 14 permet-il de retrouver leur trace ? Quels indices révèlent leur origine et leur puissance ? \n\nSources :\nhttps://www.nature.com/articles/nature11123\nhttps://www.nature.com/articles/ncomms9611\nhttps://pmc.ncbi.nlm.nih.gov/articles/PMC10586540/\nhttps://doi.org/10.1017/RDC.2026.10236\nhttps://doi.org/10.1029/2020SW002665\nhttps://www.spaceweather.gov/impacts\n\nMusiques : Pedro Macedo Camacho / Star Citizen, Utho Riley et Gérald M. Dorai\nImages : [à compléter selon les visuels utilisés]\nMoteur 3D : Space Engine Pro",
       "image_url": "https://i3.ytimg.com/vi/RoD0Pz5kb0Q/hqdefault.jpg",
       "source_id": "hugo-lisoir",
