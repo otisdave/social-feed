@@ -2,7 +2,7 @@
   "version": 1,
   "title": "Social Feed",
   "description": "Un seul fil pour suivre les sources qui comptent.",
-  "generated_at": "2026-11-24T21:16:27.250757+00:00",
+  "generated_at": "2026-11-25T04:19:39.609305+00:00",
   "sources": [
     {
       "id": "eco-en-batons",
@@ -11,7 +11,7 @@
       "url": "https://www.youtube.com/@Eco_en_batons",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-24T21:16:27.250757+00:00",
+      "last_success_at": "2026-11-25T04:19:39.609305+00:00",
       "item_count": 38
     },
     {
@@ -21,8 +21,8 @@
       "url": "https://www.youtube.com/@investi-qc",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-24T21:16:27.250757+00:00",
-      "item_count": 96
+      "last_success_at": "2026-11-25T04:19:39.609305+00:00",
+      "item_count": 97
     },
     {
       "id": "hugo-lisoir",
@@ -31,7 +31,7 @@
       "url": "https://www.youtube.com/@hugolisoiryoutube",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-24T21:16:27.250757+00:00",
+      "last_success_at": "2026-11-25T04:19:39.609305+00:00",
       "item_count": 30
     },
     {
@@ -41,16 +41,16 @@
       "url": "https://www.youtube.com/@alexdemers-finance360",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-24T21:16:27.250757+00:00",
-      "item_count": 27
+      "last_success_at": "2026-11-25T04:19:39.609305+00:00",
+      "item_count": 28
     },
     {
       "id": "guild-wars",
       "name": "Guild Wars",
       "platform": "facebook",
       "url": "https://www.facebook.com/GuildWars/",
-      "status": "ok",
-      "error": null,
+      "status": "error",
+      "error": "RuntimeError: Facebook requires authentication or a challenge; no bypass attempted.",
       "last_success_at": "2026-11-24T21:16:27.250757+00:00",
       "item_count": 15
     },
@@ -59,8 +59,8 @@
       "name": "The Lord of the Rings Online",
       "platform": "facebook",
       "url": "https://www.facebook.com/LOTRO/",
-      "status": "ok",
-      "error": null,
+      "status": "error",
+      "error": "RuntimeError: Facebook requires authentication or a challenge; no bypass attempted.",
       "last_success_at": "2026-11-24T21:16:27.250757+00:00",
       "item_count": 42
     },
@@ -87,11 +87,35 @@
   ],
   "items": [
     {
+      "id": "youtube:2X1qeR381Ls",
+      "title": "Cybersécurité : L’IA pour combattre l’IA",
+      "url": "https://www.youtube.com/watch?v=2X1qeR381Ls",
+      "published_at": "2026-11-25T00:45:02+00:00",
+      "updated_at": "2026-11-25T03:24:59+00:00",
+      "description": "Cybersécurité : L’IA pour combattre l’IA",
+      "image_url": "https://i3.ytimg.com/vi/2X1qeR381Ls/hqdefault.jpg",
+      "source_id": "investi-qc",
+      "source_name": "Investi QC",
+      "platform": "youtube"
+    },
+    {
+      "id": "youtube:WhcrBQDLqiA",
+      "title": "La Bourse Continue de Plonger | J'ai Acheté Trop Tôt?",
+      "url": "https://www.youtube.com/watch?v=WhcrBQDLqiA",
+      "published_at": "2026-11-24T23:00:30+00:00",
+      "updated_at": "2026-11-24T23:00:31+00:00",
+      "description": "Utilisez le code promo BOURSE50 pour obtenir 50% de rabais sur ma formation pour les investisseurs autonomes, plus de détails ici : https://formation-traders360.mykajabi.com/inscription\n\nÉp. 358\nLe Nasdaq était pas loin d'un bear market et la peur extrême s'est installée chez les investisseurs. Pendant que plusieurs ont paniqué, j'ai décidé d’acheter des actions et de grossir certaines positions. Est-ce que j'ai profité des meilleures aubaines de l'année ou est-ce que je viens d'acheter beaucoup trop tôt?\n\nSuivez-moi sur Facebook, Instagram et Tiktok:\nhttps://www.facebook.com/firmetraders360/\nhttps://www.instagram.com/alextraders360\nhttps://www.tiktok.com/@alexdemers360\n\nAVIS LÉGAL: Les propos de l'animateur ne doivent en aucun cas être interprétés comme une recommandation d’achat d'une action sur les marchés boursiers. Alexandre Demers n'est pas un conseiller financier et toutes les informations partagées dans ce balado ne reflète que son opinion personnelle. Consultez un professionnel accrédité auprès de l'AMF pour obtenir des conseils appropriés à votre situation.\n\n00:00 Intro\n00:25 Inefficience du marché\n02:01 Mr. Market\n04:13 Black Friday\n04:50 Mes achats d'actions\n08:53 Correction boursière\n10:04 Gestion des liquidités\n11:38 Mes investissements\n13:39 Conclusion",
+      "image_url": "https://i4.ytimg.com/vi/WhcrBQDLqiA/hqdefault.jpg",
+      "source_id": "alex-demers-finance360",
+      "source_name": "Alex Demers — Finance 360",
+      "platform": "youtube"
+    },
+    {
       "id": "youtube:0ou3TqzLWvo",
       "title": "Vous sentez-vous de même?",
       "url": "https://www.youtube.com/watch?v=0ou3TqzLWvo",
       "published_at": "2026-11-24T20:42:14+00:00",
-      "updated_at": "2026-11-24T21:03:18+00:00",
+      "updated_at": "2026-11-24T21:26:10+00:00",
       "description": "Vous sentez-vous de même?",
       "image_url": "https://i1.ytimg.com/vi/0ou3TqzLWvo/hqdefault.jpg",
       "source_id": "investi-qc",
@@ -100,10 +124,10 @@
     },
     {
       "id": "youtube:CPyfy6Fy3CI",
-      "title": "Le signal radio qui a réveillé une énigme vieille de 20 ans ! DNDE",
+      "title": "Un signal radio s’allume dans la Voie lactée… puis s’éteint ! DNDE",
       "url": "https://www.youtube.com/watch?v=CPyfy6Fy3CI",
       "published_at": "2026-11-24T17:00:16+00:00",
-      "updated_at": "2026-11-24T17:00:17+00:00",
+      "updated_at": "2026-11-24T23:42:35+00:00",
       "description": "Profitez de 4 mois offerts sur l’abonnement NordVPN 2 ans : https://nordvpn.com/hugolisoir\nDernières Nouvelles des Étoiles (DNDE) est un format hebdomadaire qui fait le tour de l’actualité spatiale. SpaceX, NASA, ESA, Chine : quels seront les prochains grands défis de l’humanité en matière d’exploration de l’espace ?\nAu programme cette semaine : l’étrange signal radio LPT J1555−5631 et les mystères des transitoires à longue période, l’échec de Vulcan Centaur et ses conséquences pour Amazon Leo dans un marché des lancements sous tension, puis l’arrivée de BepiColombo autour de Mercure après huit années de voyage et les promesses de ses deux sondes.\n\nSources :\nLPT J1555−5631 : \nhttps://doi.org/10.3847/1538-4357/aeb002\nVulcan Centaur : \nhttps://blog.ulalaunch.com/blog/vulcan-leo-1-updates\nBepiColombo :\nhttps://www.esa.int/articles/about-us/directorates/science/bepicolombo/latest-updates-bepicolombo-s-arrival-at-mercury\n\nMusiques : Pedro Macedo Camacho / Star Citizen, Utho Riley et Gérald M. Dorai\nImages : ESA, JAXA, ULA, Blue Origin, Arianespace, SpaceX, SARAO/MeerKAT, CSIRO/ASKAP, NRAO/AUI/NSF, Hyman et al.\nMoteur 3D : Space Engine Pro",
       "image_url": "https://i4.ytimg.com/vi/CPyfy6Fy3CI/hqdefault.jpg",
       "source_id": "hugo-lisoir",
@@ -127,7 +151,7 @@
       "title": "Jusqu’à 30% de rabais au pochesetfils.com cette semaine",
       "url": "https://www.youtube.com/watch?v=q7Ooqp9mcA4",
       "published_at": "2026-11-24T00:42:59+00:00",
-      "updated_at": "2026-11-24T08:50:22+00:00",
+      "updated_at": "2026-11-24T20:09:00+00:00",
       "description": "Jusqu’à 30% de rabais au pochesetfils.com cette semaine",
       "image_url": "https://i2.ytimg.com/vi/q7Ooqp9mcA4/hqdefault.jpg",
       "source_id": "investi-qc",
@@ -163,7 +187,7 @@
       "title": "Vincent mène une vie bien normale depuis qu’il est libre",
       "url": "https://www.youtube.com/watch?v=FR67zHAumDw",
       "published_at": "2026-11-23T21:40:08+00:00",
-      "updated_at": "2026-11-24T18:04:12+00:00",
+      "updated_at": "2026-11-24T20:22:16+00:00",
       "description": "Vincent mène une vie bien normale depuis qu’il est libre",
       "image_url": "https://i3.ytimg.com/vi/FR67zHAumDw/hqdefault.jpg",
       "source_id": "investi-qc",
@@ -199,7 +223,7 @@
       "title": "Et si les astronautes pouvaient marcher au lieu de flotter ?  #espace  #science #insolite",
       "url": "https://www.youtube.com/watch?v=uxdWxwjpH84",
       "published_at": "2026-11-23T08:15:08+00:00",
-      "updated_at": "2026-11-24T12:54:06+00:00",
+      "updated_at": "2026-11-25T01:46:20+00:00",
       "description": "Comment marcher au sol dans une station spatiale en orbite ? Vast prépare Haven-1, sa première station habitée, puis vise une station beaucoup plus grande qui tournerait sur elle-même pour créer une gravité artificielle. Le projet de Vast\n\nPourquoi la taille compte ? Dans une petite station, il faudrait tourner si vite qu’un simple mouvement de tête pourrait donner le vertige. Avec une station plus grande, les astronautes pourraient retrouver leur poids à une vitesse de rotation plus faible.\n\n#GravitéArtificielle #StationSpatiale #Vast #Shorts",
       "image_url": "https://i2.ytimg.com/vi/uxdWxwjpH84/hqdefault.jpg",
       "source_id": "hugo-lisoir",
@@ -379,7 +403,7 @@
       "title": "Windows est populaire en Chine",
       "url": "https://www.youtube.com/watch?v=gnYv5MzBp6A",
       "published_at": "2026-11-20T16:44:29+00:00",
-      "updated_at": "2026-11-24T02:23:28+00:00",
+      "updated_at": "2026-11-24T22:07:15+00:00",
       "description": "Windows est populaire en Chine",
       "image_url": "https://i4.ytimg.com/vi/gnYv5MzBp6A/hqdefault.jpg",
       "source_id": "investi-qc",
