@@ -2,7 +2,7 @@
   "version": 1,
   "title": "Social Feed",
   "description": "Un seul fil pour suivre les sources qui comptent.",
-  "generated_at": "2026-11-26T09:34:34.096132+00:00",
+  "generated_at": "2026-11-26T19:39:32.386076+00:00",
   "sources": [
     {
       "id": "eco-en-batons",
@@ -11,7 +11,7 @@
       "url": "https://www.youtube.com/@Eco_en_batons",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-26T09:34:34.096132+00:00",
+      "last_success_at": "2026-11-26T19:39:32.386076+00:00",
       "item_count": 38
     },
     {
@@ -21,8 +21,8 @@
       "url": "https://www.youtube.com/@investi-qc",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-26T09:34:34.096132+00:00",
-      "item_count": 100
+      "last_success_at": "2026-11-26T19:39:32.386076+00:00",
+      "item_count": 101
     },
     {
       "id": "hugo-lisoir",
@@ -31,8 +31,8 @@
       "url": "https://www.youtube.com/@hugolisoiryoutube",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-26T09:34:34.096132+00:00",
-      "item_count": 30
+      "last_success_at": "2026-11-26T19:39:32.386076+00:00",
+      "item_count": 31
     },
     {
       "id": "alex-demers-finance360",
@@ -41,7 +41,7 @@
       "url": "https://www.youtube.com/@alexdemers-finance360",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-26T09:34:34.096132+00:00",
+      "last_success_at": "2026-11-26T19:39:32.386076+00:00",
       "item_count": 28
     },
     {
@@ -49,43 +49,91 @@
       "name": "Guild Wars",
       "platform": "facebook",
       "url": "https://www.facebook.com/GuildWars/",
-      "status": "error",
-      "error": "RuntimeError: Facebook requires authentication or a challenge; no bypass attempted.",
-      "last_success_at": "2026-11-24T21:16:27.250757+00:00",
-      "item_count": 15
+      "status": "ok",
+      "error": null,
+      "last_success_at": "2026-11-26T19:39:32.386076+00:00",
+      "item_count": 16
     },
     {
       "id": "lotro",
       "name": "The Lord of the Rings Online",
       "platform": "facebook",
       "url": "https://www.facebook.com/LOTRO/",
-      "status": "error",
-      "error": "RuntimeError: Facebook requires authentication or a challenge; no bypass attempted.",
-      "last_success_at": "2026-11-24T21:16:27.250757+00:00",
-      "item_count": 42
+      "status": "ok",
+      "error": null,
+      "last_success_at": "2026-11-26T19:39:32.386076+00:00",
+      "item_count": 43
     },
     {
       "id": "ville-de-lavaltrie",
       "name": "Ville de Lavaltrie",
       "platform": "facebook",
       "url": "https://www.facebook.com/VilleDeLavaltrie/",
-      "status": "error",
-      "error": "RuntimeError: Facebook requires authentication or a challenge; no bypass attempted.",
-      "last_success_at": "2026-11-24T10:58:56.778877+00:00",
-      "item_count": 36
+      "status": "ok",
+      "error": null,
+      "last_success_at": "2026-11-26T19:39:32.386076+00:00",
+      "item_count": 37
     },
     {
       "id": "traders-360",
       "name": "Traders 360",
       "platform": "facebook",
       "url": "https://www.facebook.com/firmetraders360/",
-      "status": "error",
-      "error": "RuntimeError: Facebook requires authentication or a challenge; no bypass attempted.",
-      "last_success_at": "2026-11-24T10:58:56.778877+00:00",
-      "item_count": 39
+      "status": "ok",
+      "error": null,
+      "last_success_at": "2026-11-26T19:39:32.386076+00:00",
+      "item_count": 40
     }
   ],
   "items": [
+    {
+      "id": "facebook:100064792208382:1664488655720859",
+      "title": "Black Friday in the LOTRO Market includes deep discounts on expansions including Minas Morgul, War of Three Peaks, and F",
+      "url": "https://www.facebook.com/LOTRO/posts/pfbid02uZvwKJ9RJ7e4cXf3Z8XR3mrXK4MWCUGw4CSGtTVPrYaNhQTDy22HaY1tjhHY7Hq9l",
+      "published_at": "2026-11-26T18:35:15+00:00",
+      "updated_at": "2026-11-26T18:35:15+00:00",
+      "description": "Black Friday in the LOTRO Market includes deep discounts on expansions including Minas Morgul, War of Three Peaks, and Fate of Gundabad!\n65% off Base Edition\n80% off Collector's Edition\n85% off Ultimate Fan Bundle #LOTRO",
+      "image_url": null,
+      "source_id": "lotro",
+      "source_name": "The Lord of the Rings Online",
+      "platform": "facebook"
+    },
+    {
+      "id": "facebook:100063889127390:1694355896037365",
+      "title": "C’est rendu à combien d’abonnés que je peux répondre « Je suis YouTuber » quand quelqu’un me demande ce que je fais dans",
+      "url": "https://www.facebook.com/firmetraders360/posts/pfbid0zp5htwyvEo72Wx5BxSjSSMPsSujMirbgAPs4rAf2oPkRtYCzW3DCsMuMzdGxYFjxl",
+      "published_at": "2026-11-26T18:07:56+00:00",
+      "updated_at": "2026-11-26T18:07:56+00:00",
+      "description": "C’est rendu à combien d’abonnés que je peux répondre « Je suis YouTuber » quand quelqu’un me demande ce que je fais dans la vie?\n\nQuand j’ai commencé mon podcast en 2019, je publiais juste la version audio sur Spotify parce que me disais qu",
+      "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.99422-6/935880560_1186813057622609_6218424851486500709_n.png?stp=dst-jpg_tt6&cstp=mx1104x1456&ctp=p526x296&_nc_cat=107&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=AaRXKBWKTfIQ7kNvwFoiK-V&_nc_oc=AdpMZBY86oi71S3rVItntfecEt1zHiKB4oL_jKAXZ8BLIDJy-1_Rw0rmCTN1s45n6Sg&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=4Quz-NkG1yFChd7NarkheQ&_nc_ss=7f389&oh=00_AQSnJlLS8Jqhzn2PBbbguAaB8QM1dXjFy1pjGT37yB4E8A&oe=6B0E4C08",
+      "source_id": "traders-360",
+      "source_name": "Traders 360",
+      "platform": "facebook"
+    },
+    {
+      "id": "youtube:TjInOrZdLJY",
+      "title": "Ces 3 étoiles se sont évaporées sur une photo de 1952 et aujourd'hui encore c'est un MYSTÈRE !",
+      "url": "https://www.youtube.com/watch?v=TjInOrZdLJY",
+      "published_at": "2026-11-26T17:00:23+00:00",
+      "updated_at": "2026-11-26T17:00:24+00:00",
+      "description": "Sur des photographies du ciel prises dans les années 1950, des points lumineux restent aujourd’hui sans équivalent identifié. Le projet VASCO tente de comprendre ces disparitions. Défauts photographiques, étoiles cachées ou véritables morts silencieuses ? Comment les observations de Hubble et de James-Webb peuvent-elles nous aider à reconnaître la naissance d’un trou noir ?\n\nSources :\nhttps://www.astro.uu.se/~oleg/papers/vasco.pdf\nhttps://doi.org/10.1093/mnras/stac1552\nhttps://arxiv.org/abs/2310.09035\nhttps://doi.org/10.1093/rasti/rzae004\nhttps://doi.org/10.33232/001c.172381\nhttps://arxiv.org/abs/1609.01283\nhttps://arxiv.org/abs/2309.16121\nhttps://arxiv.org/abs/2604.05019\n\nMusiques : Pedro Macedo Camacho / Star Citizen, Utho Riley et Gérald M. Dorai\nImages : [à compléter selon les visuels utilisés]\nMoteur 3D : Space Engine Pro",
+      "image_url": "https://i1.ytimg.com/vi/TjInOrZdLJY/hqdefault.jpg",
+      "source_id": "hugo-lisoir",
+      "source_name": "Hugo Lisoir",
+      "platform": "youtube"
+    },
+    {
+      "id": "youtube:54_AdeFhKrU",
+      "title": "Investir dans le quantique : trop spéculatif?",
+      "url": "https://www.youtube.com/watch?v=54_AdeFhKrU",
+      "published_at": "2026-11-26T16:46:55+00:00",
+      "updated_at": "2026-11-26T17:29:29+00:00",
+      "description": "Investir dans le quantique : trop spéculatif?",
+      "image_url": "https://i2.ytimg.com/vi/54_AdeFhKrU/hqdefault.jpg",
+      "source_id": "investi-qc",
+      "source_name": "Investi QC",
+      "platform": "youtube"
+    },
     {
       "id": "youtube:Cr3H1QYPnhY",
       "title": "Plusieurs explosions, quelques options transigées mais aucun appel de marge, on vous rassure.",
@@ -111,16 +159,40 @@
       "platform": "youtube"
     },
     {
+      "id": "facebook:100069958479615:1453804523628150",
+      "title": "Afterlife is coming to the PC Gaming Show. ⚔️",
+      "url": "https://www.facebook.com/GuildWars/posts/pfbid0g9GGpjRbHu5cmYJ83MCxCNTRPrmpwsNsRHUbyjqo8Pp2zrd8vbx78ZQAkgAhzPwVl",
+      "published_at": "2026-11-25T19:00:38+00:00",
+      "updated_at": "2026-11-25T19:00:38+00:00",
+      "description": "Afterlife is coming to the PC Gaming Show. ⚔️\n\nWatch for a new look at the first Guild Wars DLC in 20 years on December 3rd at 12 PM PT with @pcgamer.\n\n#PCGamingShow #GuildWars #GWAfterlife",
+      "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-6/927091475_1453804516961484_5414859871534496971_n.jpg?stp=dst-jpg_tt6&cstp=mx1920x1080&ctp=s960x960&_nc_cat=110&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=td7eg1crf-wQ7kNvwH7U-X2&_nc_oc=AdryNNEQ3CRCVnb5P-bRpRjIb1ASxWl2FTHuYsqIL1hMetgl7cJfeDMQTNkNgtECqqI&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&_nc_gid=ofNkQrzCV7KlE9eLg0dIkQ&_nc_ss=7f389&oh=00_AQSTIOP56Pt4URouY1ZAULzTKeTPhGkBg0LPdfugKXXa_g&oe=6B0E5370",
+      "source_id": "guild-wars",
+      "source_name": "Guild Wars",
+      "platform": "facebook"
+    },
+    {
       "id": "youtube:uSbwf2fFgxc",
       "title": "Ce que Paul Maco pense de Fortinet (FTNT)",
       "url": "https://www.youtube.com/watch?v=uSbwf2fFgxc",
       "published_at": "2026-11-25T15:39:46+00:00",
-      "updated_at": "2026-11-25T18:07:55+00:00",
+      "updated_at": "2026-11-26T09:58:44+00:00",
       "description": "Ce que Paul Maco pense de Fortinet (FTNT)",
       "image_url": "https://i2.ytimg.com/vi/uSbwf2fFgxc/hqdefault.jpg",
       "source_id": "investi-qc",
       "source_name": "Investi QC",
       "platform": "youtube"
+    },
+    {
+      "id": "facebook:100064655653099:1597403659091474",
+      "title": "𝐄𝐦𝐩𝐥𝐨𝐢𝐬 𝐝𝐢𝐬𝐩𝐨𝐧𝐢𝐛𝐥𝐞𝐬 !  📣",
+      "url": "https://www.facebook.com/VilleDeLavaltrie/posts/pfbid02x4k4v2vaKBhgLFA37huddZCm4wMQX1Vi5yK7fPyQy2gXLbLB3Qyu4WmuQBepByKVl",
+      "published_at": "2026-11-25T14:00:14+00:00",
+      "updated_at": "2026-11-25T14:00:14+00:00",
+      "description": "𝐄𝐦𝐩𝐥𝐨𝐢𝐬 𝐝𝐢𝐬𝐩𝐨𝐧𝐢𝐛𝐥𝐞𝐬 !  📣\n\nEnvie de relever de nouveaux défis et de faire partie d'une équipe dynamique ? La Ville de Lavaltrie est à la recherche de nouveaux talents pour pourvoir deux postes au sein de son équipe !\n\n🔹 𝐒𝐮𝐫𝐯𝐞𝐢𝐥𝐥𝐚𝐧𝐭(𝐞) – Post",
+      "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.99422-6/928225225_2329626644499747_1091880321129039844_n.png?stp=dst-jpg_tt6&cstp=mx1080x1080&ctp=p526x296&_nc_cat=103&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=6u53LSGkVAIQ7kNvwHIfdCi&_nc_oc=AdpgrS8yw7CrQOSo4gJIY7FOLroBRzN4wLDg78q0q076S0po00Hv7_Wmc1EbtwYERTs&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=KO_mIHAY3G6KnqL3tSiYlA&_nc_ss=7f389&oh=00_AQRdqEL_qoHfdq-mKnMehrVcoOBe7j5k2MjezK43EGcD1A&oe=6B0E66A9",
+      "source_id": "ville-de-lavaltrie",
+      "source_name": "Ville de Lavaltrie",
+      "platform": "facebook"
     },
     {
       "id": "youtube:2X1qeR381Ls",
@@ -223,7 +295,7 @@
       "title": "Vincent mène une vie bien normale depuis qu’il est libre",
       "url": "https://www.youtube.com/watch?v=FR67zHAumDw",
       "published_at": "2026-11-23T21:40:08+00:00",
-      "updated_at": "2026-11-24T20:22:16+00:00",
+      "updated_at": "2026-11-26T16:46:14+00:00",
       "description": "Vincent mène une vie bien normale depuis qu’il est libre",
       "image_url": "https://i3.ytimg.com/vi/FR67zHAumDw/hqdefault.jpg",
       "source_id": "investi-qc",
