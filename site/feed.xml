@@ -5,8 +5,53 @@
     <link>https://otisdave.github.io/social-feed/</link>
     <description>Un seul fil pour suivre les sources qui comptent.</description>
     <language>fr-ca</language>
-    <lastBuildDate>Wed, 25 Nov 2026 15:39:55 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 00:25:18 GMT</lastBuildDate>
     <atom:link href="https://otisdave.github.io/social-feed/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Plusieurs explosions, quelques options transigées mais aucun appel de marge, on vous rassure.</title>
+      <link>https://www.youtube.com/watch?v=Cr3H1QYPnhY</link>
+      <description>Plusieurs explosions, quelques options transigées mais aucun appel de marge, on vous rassure.</description>
+      <pubDate>Wed, 25 Nov 2026 23:39:32 GMT</pubDate>
+      <category>youtube</category>
+      <guid isPermaLink="false">investi-qc:youtube:Cr3H1QYPnhY</guid>
+      <source url="https://otisdave.github.io/social-feed/feed.xml">Investi QC</source>
+      <content:encoded>&lt;p&gt;&lt;img src="https://i4.ytimg.com/vi/Cr3H1QYPnhY/hqdefault.jpg" alt="" /&gt;&lt;/p&gt;
+&lt;p&gt;Plusieurs explosions, quelques options transigées mais aucun appel de marge, on vous rassure.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=Cr3H1QYPnhY"&gt;Voir sur YouTube&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <enclosure url="https://i4.ytimg.com/vi/Cr3H1QYPnhY/hqdefault.jpg" length="0" type="image/jpeg" />
+      <media:thumbnail url="https://i4.ytimg.com/vi/Cr3H1QYPnhY/hqdefault.jpg" />
+      <media:content url="https://i4.ytimg.com/vi/Cr3H1QYPnhY/hqdefault.jpg" medium="image" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Une correction me rend une meilleure personne</title>
+      <link>https://www.youtube.com/watch?v=v9mh-Kmsguo</link>
+      <description>Une correction me rend une meilleure personne</description>
+      <pubDate>Wed, 25 Nov 2026 20:40:38 GMT</pubDate>
+      <category>youtube</category>
+      <guid isPermaLink="false">investi-qc:youtube:v9mh-Kmsguo</guid>
+      <source url="https://otisdave.github.io/social-feed/feed.xml">Investi QC</source>
+      <content:encoded>&lt;p&gt;&lt;img src="https://i3.ytimg.com/vi/v9mh-Kmsguo/hqdefault.jpg" alt="" /&gt;&lt;/p&gt;
+&lt;p&gt;Une correction me rend une meilleure personne&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=v9mh-Kmsguo"&gt;Voir sur YouTube&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <enclosure url="https://i3.ytimg.com/vi/v9mh-Kmsguo/hqdefault.jpg" length="0" type="image/jpeg" />
+      <media:thumbnail url="https://i3.ytimg.com/vi/v9mh-Kmsguo/hqdefault.jpg" />
+      <media:content url="https://i3.ytimg.com/vi/v9mh-Kmsguo/hqdefault.jpg" medium="image" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Ce que Paul Maco pense de Fortinet (FTNT)</title>
+      <link>https://www.youtube.com/watch?v=uSbwf2fFgxc</link>
+      <description>Ce que Paul Maco pense de Fortinet (FTNT)</description>
+      <pubDate>Wed, 25 Nov 2026 15:39:46 GMT</pubDate>
+      <category>youtube</category>
+      <guid isPermaLink="false">investi-qc:youtube:uSbwf2fFgxc</guid>
+      <source url="https://otisdave.github.io/social-feed/feed.xml">Investi QC</source>
+      <content:encoded>&lt;p&gt;&lt;img src="https://i2.ytimg.com/vi/uSbwf2fFgxc/hqdefault.jpg" alt="" /&gt;&lt;/p&gt;
+&lt;p&gt;Ce que Paul Maco pense de Fortinet (FTNT)&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=uSbwf2fFgxc"&gt;Voir sur YouTube&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <enclosure url="https://i2.ytimg.com/vi/uSbwf2fFgxc/hqdefault.jpg" length="0" type="image/jpeg" />
+      <media:thumbnail url="https://i2.ytimg.com/vi/uSbwf2fFgxc/hqdefault.jpg" />
+      <media:content url="https://i2.ytimg.com/vi/uSbwf2fFgxc/hqdefault.jpg" medium="image" type="image/jpeg" />
+    </item>
     <item>
       <title>Cybersécurité : L’IA pour combattre l’IA</title>
       <link>https://www.youtube.com/watch?v=2X1qeR381Ls</link>

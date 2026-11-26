@@ -2,7 +2,7 @@
   "version": 1,
   "title": "Social Feed",
   "description": "Un seul fil pour suivre les sources qui comptent.",
-  "generated_at": "2026-11-25T15:39:55.019837+00:00",
+  "generated_at": "2026-11-26T00:25:18.525681+00:00",
   "sources": [
     {
       "id": "eco-en-batons",
@@ -11,7 +11,7 @@
       "url": "https://www.youtube.com/@Eco_en_batons",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-25T15:39:55.019837+00:00",
+      "last_success_at": "2026-11-26T00:25:18.525681+00:00",
       "item_count": 38
     },
     {
@@ -21,8 +21,8 @@
       "url": "https://www.youtube.com/@investi-qc",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-25T15:39:55.019837+00:00",
-      "item_count": 97
+      "last_success_at": "2026-11-26T00:25:18.525681+00:00",
+      "item_count": 100
     },
     {
       "id": "hugo-lisoir",
@@ -31,7 +31,7 @@
       "url": "https://www.youtube.com/@hugolisoiryoutube",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-25T15:39:55.019837+00:00",
+      "last_success_at": "2026-11-26T00:25:18.525681+00:00",
       "item_count": 30
     },
     {
@@ -41,7 +41,7 @@
       "url": "https://www.youtube.com/@alexdemers-finance360",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-25T15:39:55.019837+00:00",
+      "last_success_at": "2026-11-26T00:25:18.525681+00:00",
       "item_count": 28
     },
     {
@@ -86,6 +86,42 @@
     }
   ],
   "items": [
+    {
+      "id": "youtube:Cr3H1QYPnhY",
+      "title": "Plusieurs explosions, quelques options transigées mais aucun appel de marge, on vous rassure.",
+      "url": "https://www.youtube.com/watch?v=Cr3H1QYPnhY",
+      "published_at": "2026-11-25T23:39:32+00:00",
+      "updated_at": "2026-11-26T00:02:01+00:00",
+      "description": "Plusieurs explosions, quelques options transigées mais aucun appel de marge, on vous rassure.",
+      "image_url": "https://i4.ytimg.com/vi/Cr3H1QYPnhY/hqdefault.jpg",
+      "source_id": "investi-qc",
+      "source_name": "Investi QC",
+      "platform": "youtube"
+    },
+    {
+      "id": "youtube:v9mh-Kmsguo",
+      "title": "Une correction me rend une meilleure personne",
+      "url": "https://www.youtube.com/watch?v=v9mh-Kmsguo",
+      "published_at": "2026-11-25T20:40:38+00:00",
+      "updated_at": "2026-11-25T23:35:27+00:00",
+      "description": "Une correction me rend une meilleure personne",
+      "image_url": "https://i3.ytimg.com/vi/v9mh-Kmsguo/hqdefault.jpg",
+      "source_id": "investi-qc",
+      "source_name": "Investi QC",
+      "platform": "youtube"
+    },
+    {
+      "id": "youtube:uSbwf2fFgxc",
+      "title": "Ce que Paul Maco pense de Fortinet (FTNT)",
+      "url": "https://www.youtube.com/watch?v=uSbwf2fFgxc",
+      "published_at": "2026-11-25T15:39:46+00:00",
+      "updated_at": "2026-11-25T18:07:55+00:00",
+      "description": "Ce que Paul Maco pense de Fortinet (FTNT)",
+      "image_url": "https://i2.ytimg.com/vi/uSbwf2fFgxc/hqdefault.jpg",
+      "source_id": "investi-qc",
+      "source_name": "Investi QC",
+      "platform": "youtube"
+    },
     {
       "id": "youtube:2X1qeR381Ls",
       "title": "Cybersécurité : L’IA pour combattre l’IA",
