@@ -2,7 +2,7 @@
   "version": 1,
   "title": "Social Feed",
   "description": "Un seul fil pour suivre les sources qui comptent.",
-  "generated_at": "2026-11-26T00:25:18.525681+00:00",
+  "generated_at": "2026-11-26T09:34:34.096132+00:00",
   "sources": [
     {
       "id": "eco-en-batons",
@@ -11,7 +11,7 @@
       "url": "https://www.youtube.com/@Eco_en_batons",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-26T00:25:18.525681+00:00",
+      "last_success_at": "2026-11-26T09:34:34.096132+00:00",
       "item_count": 38
     },
     {
@@ -21,7 +21,7 @@
       "url": "https://www.youtube.com/@investi-qc",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-26T00:25:18.525681+00:00",
+      "last_success_at": "2026-11-26T09:34:34.096132+00:00",
       "item_count": 100
     },
     {
@@ -31,7 +31,7 @@
       "url": "https://www.youtube.com/@hugolisoiryoutube",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-26T00:25:18.525681+00:00",
+      "last_success_at": "2026-11-26T09:34:34.096132+00:00",
       "item_count": 30
     },
     {
@@ -41,7 +41,7 @@
       "url": "https://www.youtube.com/@alexdemers-finance360",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-26T00:25:18.525681+00:00",
+      "last_success_at": "2026-11-26T09:34:34.096132+00:00",
       "item_count": 28
     },
     {
@@ -91,7 +91,7 @@
       "title": "Plusieurs explosions, quelques options transigées mais aucun appel de marge, on vous rassure.",
       "url": "https://www.youtube.com/watch?v=Cr3H1QYPnhY",
       "published_at": "2026-11-25T23:39:32+00:00",
-      "updated_at": "2026-11-26T00:02:01+00:00",
+      "updated_at": "2026-11-26T08:35:17+00:00",
       "description": "Plusieurs explosions, quelques options transigées mais aucun appel de marge, on vous rassure.",
       "image_url": "https://i4.ytimg.com/vi/Cr3H1QYPnhY/hqdefault.jpg",
       "source_id": "investi-qc",
@@ -103,7 +103,7 @@
       "title": "Une correction me rend une meilleure personne",
       "url": "https://www.youtube.com/watch?v=v9mh-Kmsguo",
       "published_at": "2026-11-25T20:40:38+00:00",
-      "updated_at": "2026-11-25T23:35:27+00:00",
+      "updated_at": "2026-11-26T09:24:02+00:00",
       "description": "Une correction me rend une meilleure personne",
       "image_url": "https://i3.ytimg.com/vi/v9mh-Kmsguo/hqdefault.jpg",
       "source_id": "investi-qc",
