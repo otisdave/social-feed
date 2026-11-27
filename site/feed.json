@@ -2,7 +2,7 @@
   "version": 1,
   "title": "Social Feed",
   "description": "Un seul fil pour suivre les sources qui comptent.",
-  "generated_at": "2026-11-26T19:39:32.386076+00:00",
+  "generated_at": "2026-11-27T02:52:56.175462+00:00",
   "sources": [
     {
       "id": "eco-en-batons",
@@ -11,7 +11,7 @@
       "url": "https://www.youtube.com/@Eco_en_batons",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-26T19:39:32.386076+00:00",
+      "last_success_at": "2026-11-27T02:52:56.175462+00:00",
       "item_count": 38
     },
     {
@@ -21,8 +21,8 @@
       "url": "https://www.youtube.com/@investi-qc",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-26T19:39:32.386076+00:00",
-      "item_count": 101
+      "last_success_at": "2026-11-27T02:52:56.175462+00:00",
+      "item_count": 103
     },
     {
       "id": "hugo-lisoir",
@@ -31,7 +31,7 @@
       "url": "https://www.youtube.com/@hugolisoiryoutube",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-26T19:39:32.386076+00:00",
+      "last_success_at": "2026-11-27T02:52:56.175462+00:00",
       "item_count": 31
     },
     {
@@ -41,7 +41,7 @@
       "url": "https://www.youtube.com/@alexdemers-finance360",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-26T19:39:32.386076+00:00",
+      "last_success_at": "2026-11-27T02:52:56.175462+00:00",
       "item_count": 28
     },
     {
@@ -51,7 +51,7 @@
       "url": "https://www.facebook.com/GuildWars/",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-26T19:39:32.386076+00:00",
+      "last_success_at": "2026-11-27T02:52:56.175462+00:00",
       "item_count": 16
     },
     {
@@ -61,7 +61,7 @@
       "url": "https://www.facebook.com/LOTRO/",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-26T19:39:32.386076+00:00",
+      "last_success_at": "2026-11-27T02:52:56.175462+00:00",
       "item_count": 43
     },
     {
@@ -71,8 +71,8 @@
       "url": "https://www.facebook.com/VilleDeLavaltrie/",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-26T19:39:32.386076+00:00",
-      "item_count": 37
+      "last_success_at": "2026-11-27T02:52:56.175462+00:00",
+      "item_count": 38
     },
     {
       "id": "traders-360",
@@ -81,15 +81,63 @@
       "url": "https://www.facebook.com/firmetraders360/",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-26T19:39:32.386076+00:00",
-      "item_count": 40
+      "last_success_at": "2026-11-27T02:52:56.175462+00:00",
+      "item_count": 41
     }
   ],
   "items": [
     {
+      "id": "youtube:n1G8KOkxS0M",
+      "title": "Rubrik (RBRK) expert dans la sauvegarde de données, a continué de grimper en bourse avec tous les",
+      "url": "https://www.youtube.com/watch?v=n1G8KOkxS0M",
+      "published_at": "2026-11-27T01:45:03+00:00",
+      "updated_at": "2026-11-27T02:35:55+00:00",
+      "description": "Rubrik (RBRK) expert dans la sauvegarde de données, a continué de grimper en bourse avec tous les hacks et les pannes récentes. Ép 64 de Investi enregistré en septembre 2026.",
+      "image_url": "https://i3.ytimg.com/vi/n1G8KOkxS0M/hqdefault.jpg",
+      "source_id": "investi-qc",
+      "source_name": "Investi QC",
+      "platform": "youtube"
+    },
+    {
+      "id": "facebook:100063889127390:1694643899341898",
+      "title": "Chaque jour, Mr. Market vous propose d’acheter ou de vendre vos actions à un prix différent, selon son humeur du moment.",
+      "url": "https://www.facebook.com/reel/2063987347890534/",
+      "published_at": "2026-11-27T00:27:29+00:00",
+      "updated_at": "2026-11-27T00:27:29+00:00",
+      "description": "Chaque jour, Mr. Market vous propose d’acheter ou de vendre vos actions à un prix différent, selon son humeur du moment.\n\nLe grand avantage de l’investisseur autonome c’est qu’il n’a aucune obligation d’accepter ses propositions. \n\nVous pou",
+      "image_url": "https://scontent-iad3-1.xx.fbcdn.net/v/t51.82787-10/930412537_18137043064669293_6429664441945143144_n.jpg?stp=dst-jpg_tt6&cstp=mx720x1280&ctp=s960x960&_nc_cat=111&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=jvxV4zrDdQQQ7kNvwGzT8tS&_nc_oc=AdqRWlYEPQ1QdEfPwK7bv2CXABvSn_8725kFZBv9Xg2H1-YLEwXW9v10WFH2HNhGghw&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&_nc_gid=CZW5JQF1ZklM_DijPcTPTw&_nc_ss=7f389&oh=00_AQVapd67Tje6GkVvCdnNKiDheRBvdd93Cd2OVKITRiy-QA&oe=6B0EDAF7",
+      "source_id": "traders-360",
+      "source_name": "Traders 360",
+      "platform": "facebook"
+    },
+    {
+      "id": "facebook:100064655653099:1601270088704831",
+      "title": "𝗤𝘂𝗼𝗶 𝗳𝗮𝗶𝗿𝗲 𝗰𝗲 𝘄𝗲𝗲𝗸𝗲𝗻𝗱 🌤️🎄",
+      "url": "https://www.facebook.com/VilleDeLavaltrie/posts/pfbid0vKWMxcpkz55P2h48LDK4tzzjhW41JrxtcxT84muccfVJCekxBP6aKxFfWaJQaF3Bl",
+      "published_at": "2026-11-27T00:00:00+00:00",
+      "updated_at": "2026-11-27T00:00:00+00:00",
+      "description": "𝗤𝘂𝗼𝗶 𝗳𝗮𝗶𝗿𝗲 𝗰𝗲 𝘄𝗲𝗲𝗸𝗲𝗻𝗱 🌤️🎄\n\n𝗙𝗲̂𝘁𝗲 𝗱𝗲 𝗡𝗼𝗲̈𝗹 🎄🎅\n📍 Place du 350e et Garage à Simon\n🗓️ Samedi, 10 h à 13 h\n𝗣𝗿𝗼𝗳𝗶𝘁𝗲𝘇 𝗮𝘂𝘀𝘀𝗶 𝗱𝘂 𝘀𝗽𝗲𝗰𝘁𝗮𝗰𝗹𝗲 𝗴𝗿𝗮𝘁𝘂𝗶𝘁 𝗮̀ 𝗟𝗮 𝗖𝗵𝗮𝘀𝘀𝗲-𝗚𝗮𝗹𝗲𝗿𝗶𝗲, 𝗶𝗻𝘀𝗰𝗿𝗶𝗽𝘁𝗶𝗼𝗻 𝗼𝗯𝗹𝗶𝗴𝗮𝘁𝗼𝗶𝗿𝗲 👉 \nhttps://www.ville.lavaltrie.qc.ca/activites/evenement",
+      "image_url": null,
+      "source_id": "ville-de-lavaltrie",
+      "source_name": "Ville de Lavaltrie",
+      "platform": "facebook"
+    },
+    {
+      "id": "youtube:rIbaHrEs8ek",
+      "title": "Comment 2,5 % de frais peuvent te coûter le prix d’une maison | Investi x Fabien Major (Ép. 75)",
+      "url": "https://www.youtube.com/watch?v=rIbaHrEs8ek",
+      "published_at": "2026-11-26T20:00:36+00:00",
+      "updated_at": "2026-11-26T20:00:37+00:00",
+      "description": "Tu paies combien à ton conseiller financier, en dollars? Et qu’est-ce qu’il fait pour toi?\n\nOn reçoit Fabien Major, animateur du balado Le Planif. On décortique un sondage Léger sur les finances des Québécois et on revient sur une question qui a piégé 92 % des répondants. \n\nOn parle de ce qui se passe quand ton portefeuille perd 30 % et que tu hésites entre revoir ton plan et fermer l’app. Fabien nous raconte aussi ce que ChatGPT a raté quand il l’a testé comme conseiller financier, et ce qu’il confierait à Claude dès demain matin.\n\nOn jase de NVIDIA et de ce qui arrive quand une déclaration de Trump fait bouger la Bourse. En rafale, on prend vos questions sur le Bitcoin, les FNB tout-en-un et la retraite à 55 ans. Quand vient le temps de piger dans tes placements, tu commences par le REER, le CELI ou le compte non enregistré?\n\nBanque Nationale Courtage Direct offre l’exécution d’ordres sans conseils. Vous êtes responsables de vos décisions de placement. Promo jusqu'au 28 février 2027 : ton solde non-investi à 3% jusqu’au 28 février : https://www.bnc.ca/particuliers/epargne-placements/investissements/liquidite-bonifiee.html \n\nPas encore de compte sur BNCD? Clique ici : https://www.nbc.ca/fr/courtage-direct/podcast-investi\n\nPromo Mastercard World Elite : https://www.bnc.ca/particuliers/cartes-credit-mastercard/world-elite.html \n\nPour contribuer à la campagne de sociofinancement de FDB : https://bristolmedia.ca/pages/levee-de-fonds\n\nCadeaux de Noël : jusqu'à 30% de rabais au www.pochesetfils.com\n\nLes informations partagées dans cette vidéo sont fournies à des fins éducatives et de divertissement seulement. Elles ne constituent pas des conseils financiers ni des recommandations d’achat ou de vente.",
+      "image_url": "https://i3.ytimg.com/vi/rIbaHrEs8ek/hqdefault.jpg",
+      "source_id": "investi-qc",
+      "source_name": "Investi QC",
+      "platform": "youtube"
+    },
+    {
       "id": "facebook:100064792208382:1664488655720859",
       "title": "Black Friday in the LOTRO Market includes deep discounts on expansions including Minas Morgul, War of Three Peaks, and F",
-      "url": "https://www.facebook.com/LOTRO/posts/pfbid02uZvwKJ9RJ7e4cXf3Z8XR3mrXK4MWCUGw4CSGtTVPrYaNhQTDy22HaY1tjhHY7Hq9l",
+      "url": "https://www.facebook.com/LOTRO/posts/pfbid0r2HkQ8X4SsqNo4ToswK1xmii47rFUuh93M538AvsbniVeN4ZTAwLNRcpsBzA3x1Tl",
       "published_at": "2026-11-26T18:35:15+00:00",
       "updated_at": "2026-11-26T18:35:15+00:00",
       "description": "Black Friday in the LOTRO Market includes deep discounts on expansions including Minas Morgul, War of Three Peaks, and Fate of Gundabad!\n65% off Base Edition\n80% off Collector's Edition\n85% off Ultimate Fan Bundle #LOTRO",
@@ -112,10 +160,10 @@
     },
     {
       "id": "youtube:TjInOrZdLJY",
-      "title": "Ces 3 étoiles se sont évaporées sur une photo de 1952 et aujourd'hui encore c'est un MYSTÈRE !",
+      "title": "Des étoiles disparaissent mystérieusement… et on vient peut-être de comprendre pourquoi !",
       "url": "https://www.youtube.com/watch?v=TjInOrZdLJY",
       "published_at": "2026-11-26T17:00:23+00:00",
-      "updated_at": "2026-11-26T17:00:24+00:00",
+      "updated_at": "2026-11-26T21:49:32+00:00",
       "description": "Sur des photographies du ciel prises dans les années 1950, des points lumineux restent aujourd’hui sans équivalent identifié. Le projet VASCO tente de comprendre ces disparitions. Défauts photographiques, étoiles cachées ou véritables morts silencieuses ? Comment les observations de Hubble et de James-Webb peuvent-elles nous aider à reconnaître la naissance d’un trou noir ?\n\nSources :\nhttps://www.astro.uu.se/~oleg/papers/vasco.pdf\nhttps://doi.org/10.1093/mnras/stac1552\nhttps://arxiv.org/abs/2310.09035\nhttps://doi.org/10.1093/rasti/rzae004\nhttps://doi.org/10.33232/001c.172381\nhttps://arxiv.org/abs/1609.01283\nhttps://arxiv.org/abs/2309.16121\nhttps://arxiv.org/abs/2604.05019\n\nMusiques : Pedro Macedo Camacho / Star Citizen, Utho Riley et Gérald M. Dorai\nImages : [à compléter selon les visuels utilisés]\nMoteur 3D : Space Engine Pro",
       "image_url": "https://i1.ytimg.com/vi/TjInOrZdLJY/hqdefault.jpg",
       "source_id": "hugo-lisoir",
@@ -165,7 +213,7 @@
       "published_at": "2026-11-25T19:00:38+00:00",
       "updated_at": "2026-11-25T19:00:38+00:00",
       "description": "Afterlife is coming to the PC Gaming Show. ⚔️\n\nWatch for a new look at the first Guild Wars DLC in 20 years on December 3rd at 12 PM PT with @pcgamer.\n\n#PCGamingShow #GuildWars #GWAfterlife",
-      "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-6/927091475_1453804516961484_5414859871534496971_n.jpg?stp=dst-jpg_tt6&cstp=mx1920x1080&ctp=s960x960&_nc_cat=110&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=td7eg1crf-wQ7kNvwH7U-X2&_nc_oc=AdryNNEQ3CRCVnb5P-bRpRjIb1ASxWl2FTHuYsqIL1hMetgl7cJfeDMQTNkNgtECqqI&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&_nc_gid=ofNkQrzCV7KlE9eLg0dIkQ&_nc_ss=7f389&oh=00_AQSTIOP56Pt4URouY1ZAULzTKeTPhGkBg0LPdfugKXXa_g&oe=6B0E5370",
+      "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-6/927091475_1453804516961484_5414859871534496971_n.jpg?stp=dst-jpg_tt6&cstp=mx1920x1080&ctp=s960x960&_nc_cat=110&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=td7eg1crf-wQ7kNvwHyoEA6&_nc_oc=Adq9-au7Q2fuEFJ40mYxyBkSvrObT3tw-F9NUQPF4QIi1bHcxR6RLXrzCUXO1AROw94&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&_nc_gid=T_JMsfFXIPIvs3K7G-R9QA&_nc_ss=7f389&oh=00_AQU1jFr-t5W0dbZhrgr2k4WhsiNBH-2RtMLRJqM9qlGnEw&oe=6B0EC3F0",
       "source_id": "guild-wars",
       "source_name": "Guild Wars",
       "platform": "facebook"
@@ -343,7 +391,7 @@
       "title": "Votre portefeuille est-il vraiment aussi diversifié que vous le pensez? #bourse",
       "url": "https://www.youtube.com/watch?v=xW1G8cIRl5Y",
       "published_at": "2026-11-22T22:47:32+00:00",
-      "updated_at": "2026-11-23T19:56:35+00:00",
+      "updated_at": "2026-11-25T22:04:20+00:00",
       "description": "Je vous propose de faire le portrait de votre portefeuille pour analyser votre répartition géographique et sectorielle.\n\nVous pourriez découvrir que plusieurs de vos investissements sont concentrés dans les mêmes secteurs ou les mêmes pays.\n\n#placements #investissement",
       "image_url": "https://i1.ytimg.com/vi/xW1G8cIRl5Y/hqdefault.jpg",
       "source_id": "alex-demers-finance360",
@@ -391,7 +439,7 @@
       "title": "Ces sondes accélèrent sans raison (et personne ne sait pourquoi) !",
       "url": "https://www.youtube.com/watch?v=kOFVq2_qhp8",
       "published_at": "2026-11-22T17:00:07+00:00",
-      "updated_at": "2026-11-22T17:00:07+00:00",
+      "updated_at": "2026-11-25T22:02:17+00:00",
       "description": "Quelques millimètres par seconde de trop… Depuis 1990, plusieurs sondes ont présenté d’étranges écarts de vitesse lors de leurs survols de la Terre. Erreur de calcul, effet physique oublié ou phénomène inconnu ? L’anomalie devient encore plus intrigante lorsque Rosetta, affectée lors d’un premier passage, revient sans reproduire l’effet. De l’assistance gravitationnelle aux hypothèses de matière noire, retour sur une enquête où les archives des missions apportent de nouveaux indices, et où la lumière réfléchie par notre planète pourrait jouer un rôle inattendu.\n\nSources :\nhttps://journals.aps.org/prl/abstract/10.1103/PhysRevLett.100.091102\nhttps://arxiv.org/pdf/0907.4184\nhttps://www.esa.int/Enabling_Support/Operations/ESA_spacecraft_may_help_unravel_cosmic_mystery\nhttps://arxiv.org/abs/0809.1888\nhttps://www.ias.edu/ideas/2009/adler-dark-matter\nhttps://www.issfd2026.fr/data/onglet12/module0/modalPreview.php?langue=fr&paramProjet=20840\nhttps://doi.org/10.1016/j.actaastro.2024.09.062\n\nMusiques : Pedro Macedo Camacho / Star Citizen, Utho Riley et Gérald M. Dorai\nImages : NASA, ESA, JPL-Caltech\nMoteur 3D : Space Engine Pro",
       "image_url": "https://i4.ytimg.com/vi/kOFVq2_qhp8/hqdefault.jpg",
       "source_id": "hugo-lisoir",
@@ -403,7 +451,7 @@
       "title": "Crowdstrike (CRWD) est un leader de la cybersécurité en détection d’attaques",
       "url": "https://www.youtube.com/watch?v=hmU67EZDyI4",
       "published_at": "2026-11-22T15:38:49+00:00",
-      "updated_at": "2026-11-24T08:06:46+00:00",
+      "updated_at": "2026-11-25T22:07:14+00:00",
       "description": "Crowdstrike (CRWD) est un leader de la cybersécurité en détection d’attaques",
       "image_url": "https://i1.ytimg.com/vi/hmU67EZDyI4/hqdefault.jpg",
       "source_id": "investi-qc",
@@ -415,7 +463,7 @@
       "title": "La cybersécurité est un secteur en forte croissance en 2026",
       "url": "https://www.youtube.com/watch?v=sSlTkDwI81Y",
       "published_at": "2026-11-21T20:41:17+00:00",
-      "updated_at": "2026-11-24T11:05:19+00:00",
+      "updated_at": "2026-11-25T04:23:08+00:00",
       "description": "La cybersécurité est un secteur en forte croissance en 2026. Est-ce que ça va se poursuivre en 2027 avec l’explosion de l’IA?",
       "image_url": "https://i4.ytimg.com/vi/sSlTkDwI81Y/hqdefault.jpg",
       "source_id": "investi-qc",
