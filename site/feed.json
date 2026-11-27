@@ -2,7 +2,7 @@
   "version": 1,
   "title": "Social Feed",
   "description": "Un seul fil pour suivre les sources qui comptent.",
-  "generated_at": "2026-11-27T12:29:28.859777+00:00",
+  "generated_at": "2026-11-27T21:59:47.953227+00:00",
   "sources": [
     {
       "id": "eco-en-batons",
@@ -11,7 +11,7 @@
       "url": "https://www.youtube.com/@Eco_en_batons",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-27T12:29:28.859777+00:00",
+      "last_success_at": "2026-11-27T21:59:47.953227+00:00",
       "item_count": 38
     },
     {
@@ -21,8 +21,8 @@
       "url": "https://www.youtube.com/@investi-qc",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-27T12:29:28.859777+00:00",
-      "item_count": 103
+      "last_success_at": "2026-11-27T21:59:47.953227+00:00",
+      "item_count": 105
     },
     {
       "id": "hugo-lisoir",
@@ -31,7 +31,7 @@
       "url": "https://www.youtube.com/@hugolisoiryoutube",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-27T12:29:28.859777+00:00",
+      "last_success_at": "2026-11-27T21:59:47.953227+00:00",
       "item_count": 31
     },
     {
@@ -41,7 +41,7 @@
       "url": "https://www.youtube.com/@alexdemers-finance360",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-27T12:29:28.859777+00:00",
+      "last_success_at": "2026-11-27T21:59:47.953227+00:00",
       "item_count": 28
     },
     {
@@ -51,8 +51,8 @@
       "url": "https://www.facebook.com/GuildWars/",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-27T12:29:28.859777+00:00",
-      "item_count": 16
+      "last_success_at": "2026-11-27T21:59:47.953227+00:00",
+      "item_count": 17
     },
     {
       "id": "lotro",
@@ -61,8 +61,8 @@
       "url": "https://www.facebook.com/LOTRO/",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-27T12:29:28.859777+00:00",
-      "item_count": 44
+      "last_success_at": "2026-11-27T21:59:47.953227+00:00",
+      "item_count": 45
     },
     {
       "id": "ville-de-lavaltrie",
@@ -71,8 +71,8 @@
       "url": "https://www.facebook.com/VilleDeLavaltrie/",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-27T12:29:28.859777+00:00",
-      "item_count": 38
+      "last_success_at": "2026-11-27T21:59:47.953227+00:00",
+      "item_count": 39
     },
     {
       "id": "traders-360",
@@ -81,11 +81,83 @@
       "url": "https://www.facebook.com/firmetraders360/",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-27T12:29:28.859777+00:00",
-      "item_count": 41
+      "last_success_at": "2026-11-27T21:59:47.953227+00:00",
+      "item_count": 42
     }
   ],
   "items": [
+    {
+      "id": "facebook:100064792208382:1665844558918602",
+      "title": "Known Across the Land! Get 30% off:",
+      "url": "https://www.facebook.com/LOTRO/posts/pfbid0qKE7uANuDnuiLvBaL1tv5SDaaJNruHiPgtxEZ8R43c8vvAybSmBwPYGcv45Drzxpl",
+      "published_at": "2026-11-27T21:55:21+00:00",
+      "updated_at": "2026-11-27T21:55:21+00:00",
+      "description": "Known Across the Land! Get 30% off:\n2000 Virtue Acceleration\n5000 Enhanced Reputation Supply\n100% Mark Acquisition Boosts\nNow through December 3rd! #LOTRO",
+      "image_url": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.99422-6/927436592_2769174440205917_3950856256856218000_n.png?stp=dst-jpg_tt6&cstp=mx1920x1080&ctp=s960x960&_nc_cat=100&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=NxpYPkEh9NoQ7kNvwF336MP&_nc_oc=AdrCYoHjTvk1xrD-EbcLjoynVrKlKkj5EXntGYfxj6ZYUfhTw_4RRQuzMPdR3DiX7O4&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=NFNu4i3DdsAq84Gg7I9agg&_nc_ss=7f389&oh=00_AQWUxk7NT1d2Ha4qhtyDrChad0J8ApseGyjizaWyPoRapQ&oe=6B0FC3A2",
+      "source_id": "lotro",
+      "source_name": "The Lord of the Rings Online",
+      "platform": "facebook"
+    },
+    {
+      "id": "youtube:SuxHnNnXBsw",
+      "title": "Ils nous coupent le courant 3h trop tôt",
+      "url": "https://www.youtube.com/watch?v=SuxHnNnXBsw",
+      "published_at": "2026-11-27T20:40:45+00:00",
+      "updated_at": "2026-11-27T20:59:14+00:00",
+      "description": "Ils nous coupent le courant 3h trop tôt",
+      "image_url": "https://i4.ytimg.com/vi/SuxHnNnXBsw/hqdefault.jpg",
+      "source_id": "investi-qc",
+      "source_name": "Investi QC",
+      "platform": "youtube"
+    },
+    {
+      "id": "facebook:100069958479615:1455944766747459",
+      "title": "Black Friday in Tyria: 50% off Guild Wars Reforged ⚔️",
+      "url": "https://www.facebook.com/GuildWars/posts/pfbid0KpERVxwpTBmrNKgk7wn6xmH5WL2SZ6PcHecCDaYDiEAikEiJ9E5HNCrNkpYAfZ6xl",
+      "published_at": "2026-11-27T19:00:30+00:00",
+      "updated_at": "2026-11-27T19:00:30+00:00",
+      "description": "Black Friday in Tyria: 50% off Guild Wars Reforged ⚔️\n\nCome back to the game you love, or finally bring your friends along. Get settled in before Afterlife launches January 13.\n\nSale ends December 1st. https://store.guildwars.com/ 🔗\n\n👇 Tag ",
+      "image_url": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/935878824_1455944753414127_7802832608726576995_n.jpg?stp=dst-jpg_tt6&cstp=mx1920x1080&ctp=s960x960&_nc_cat=105&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=1e_c8NospV8Q7kNvwG2g8hz&_nc_oc=AdrsVbTsc4dqj53reiD92N_PUTGSZFAqApL3K_PkzOvIeRifYZOcCD28g5p7RLFFCWU&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&_nc_gid=l-MJx5NwisJx8PU5Q_K7dg&_nc_ss=7f389&oh=00_AQXpCYWylB4P05mb4LcU_klm3fMigf1bRRpZ97ZI95KDWg&oe=6B0FB9B8",
+      "source_id": "guild-wars",
+      "source_name": "Guild Wars",
+      "platform": "facebook"
+    },
+    {
+      "id": "facebook:100063889127390:1695584672581154",
+      "title": "Finance 360 est officiellement une marque de commerce enregistrée.",
+      "url": "https://www.facebook.com/firmetraders360/posts/pfbid021CFa3KqGXuvKnVvtjd9F6a9cVYEm7LSbvvyY3koQf2qWomA592s2Lr4yJHTZQrZ1l",
+      "published_at": "2026-11-27T18:39:55+00:00",
+      "updated_at": "2026-11-27T18:39:55+00:00",
+      "description": "Finance 360 est officiellement une marque de commerce enregistrée.\n\nQuand j’ai commencé, je parlais tout seul devant un micro en espérant que quelques personnes allaient trouver ça intéressant.\n\nAujourd’hui, c’est des milliers d’auditeurs e",
+      "image_url": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.99422-6/926684631_1133235646231462_8421128921538015282_n.png?stp=dst-jpg_tt6&cstp=mx1088x912&ctp=s600x600&_nc_cat=109&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=P7rvVLsdTWMQ7kNvwFDbnky&_nc_oc=Adr_V368FCVWb9BJc6kG7FhkYf4Mdm38_E6jY2P6kXJgq67BQfqFdxwIwCMcr9a-A-A&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=BKqNG7sxLXYz-_5XcOcaUQ&_nc_ss=7f389&oh=00_AQV373o6lT7J0KhjoFwaP5rtD7HonFz4n5kf6s9p4HlDUA&oe=6B0FD6CA",
+      "source_id": "traders-360",
+      "source_name": "Traders 360",
+      "platform": "facebook"
+    },
+    {
+      "id": "facebook:100064655653099:1602077908624049",
+      "title": "🎿 𝗕𝗶𝗹𝗹𝗲𝘁𝘀 𝗱𝗲 𝘀𝗸𝗶 𝗮̀ 𝘁𝗮𝗿𝗶𝗳 𝗽𝗿𝗲́𝗳𝗲́𝗿𝗲𝗻𝘁𝗶𝗲𝗹 | 𝗩𝗮𝗹 𝗦𝗮𝗶𝗻𝘁-𝗖𝗼̂𝗺𝗲",
+      "url": "https://www.facebook.com/VilleDeLavaltrie/posts/pfbid02Nt8jBesRVddsjmyXmgKN67VMFWwgmcWcYtZaCrkk9wrAYfug595BmZd48r9oP3nzl",
+      "published_at": "2026-11-27T16:14:30+00:00",
+      "updated_at": "2026-11-27T16:14:30+00:00",
+      "description": "🎿 𝗕𝗶𝗹𝗹𝗲𝘁𝘀 𝗱𝗲 𝘀𝗸𝗶 𝗮̀ 𝘁𝗮𝗿𝗶𝗳 𝗽𝗿𝗲́𝗳𝗲́𝗿𝗲𝗻𝘁𝗶𝗲𝗹 | 𝗩𝗮𝗹 𝗦𝗮𝗶𝗻𝘁-𝗖𝗼̂𝗺𝗲\n\nEnvie de dévaler les pistes cet hiver? La Ville de Lavaltrie vous propose des billets de ski et de planche à neige à tarif préférentiel pour la saison 2026-2027! 🏂❄️\n\n▪️ 79,97 $ + ",
+      "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.99422-6/935699323_1460430396259202_2958001310223346906_n.png?stp=dst-jpg_tt6&cstp=mx1080x1080&ctp=p526x296&_nc_cat=100&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=KMtI-kup65QQ7kNvwHQo6RX&_nc_oc=AdrrOBhSPcfVyCL9gCQH2zjPUX__jHk5Vnl5ARvRrW0Cc_-WIQuSdXQvKPxEQjNkEeU&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=gB-QIKqc5w1HlQrvJAIwLA&_nc_ss=7f389&oh=00_AQVF5HkMgzpFAox4wO26bxeGxy4BaA68pySy0OzXU51TUQ&oe=6B0FBA48",
+      "source_id": "ville-de-lavaltrie",
+      "source_name": "Ville de Lavaltrie",
+      "platform": "facebook"
+    },
+    {
+      "id": "youtube:bMexpq5DWds",
+      "title": "Ça ressemblait à quoi Goodstock en bourse?",
+      "url": "https://www.youtube.com/watch?v=bMexpq5DWds",
+      "published_at": "2026-11-27T13:16:33+00:00",
+      "updated_at": "2026-11-27T13:16:39+00:00",
+      "description": "",
+      "image_url": "https://i3.ytimg.com/vi/bMexpq5DWds/hqdefault.jpg",
+      "source_id": "investi-qc",
+      "source_name": "Investi QC",
+      "platform": "youtube"
+    },
     {
       "id": "facebook:100064792208382:1665285532307838",
       "title": "Black Friday Sales are here! Find deep discounts on expansions and more in the LOTRO Market and LOTRO Store through Dece",
