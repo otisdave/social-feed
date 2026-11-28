@@ -2,7 +2,7 @@
   "version": 1,
   "title": "Social Feed",
   "description": "Un seul fil pour suivre les sources qui comptent.",
-  "generated_at": "2026-11-27T21:59:47.953227+00:00",
+  "generated_at": "2026-11-28T03:56:05.121640+00:00",
   "sources": [
     {
       "id": "eco-en-batons",
@@ -11,7 +11,7 @@
       "url": "https://www.youtube.com/@Eco_en_batons",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-27T21:59:47.953227+00:00",
+      "last_success_at": "2026-11-28T03:56:05.121640+00:00",
       "item_count": 38
     },
     {
@@ -21,8 +21,8 @@
       "url": "https://www.youtube.com/@investi-qc",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-27T21:59:47.953227+00:00",
-      "item_count": 105
+      "last_success_at": "2026-11-28T03:56:05.121640+00:00",
+      "item_count": 106
     },
     {
       "id": "hugo-lisoir",
@@ -31,7 +31,7 @@
       "url": "https://www.youtube.com/@hugolisoiryoutube",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-27T21:59:47.953227+00:00",
+      "last_success_at": "2026-11-28T03:56:05.121640+00:00",
       "item_count": 31
     },
     {
@@ -41,7 +41,7 @@
       "url": "https://www.youtube.com/@alexdemers-finance360",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-27T21:59:47.953227+00:00",
+      "last_success_at": "2026-11-28T03:56:05.121640+00:00",
       "item_count": 28
     },
     {
@@ -49,8 +49,8 @@
       "name": "Guild Wars",
       "platform": "facebook",
       "url": "https://www.facebook.com/GuildWars/",
-      "status": "ok",
-      "error": null,
+      "status": "error",
+      "error": "RuntimeError: Facebook requires authentication or a challenge; no bypass attempted.",
       "last_success_at": "2026-11-27T21:59:47.953227+00:00",
       "item_count": 17
     },
@@ -59,8 +59,8 @@
       "name": "The Lord of the Rings Online",
       "platform": "facebook",
       "url": "https://www.facebook.com/LOTRO/",
-      "status": "ok",
-      "error": null,
+      "status": "error",
+      "error": "RuntimeError: Facebook requires authentication or a challenge; no bypass attempted.",
       "last_success_at": "2026-11-27T21:59:47.953227+00:00",
       "item_count": 45
     },
@@ -69,8 +69,8 @@
       "name": "Ville de Lavaltrie",
       "platform": "facebook",
       "url": "https://www.facebook.com/VilleDeLavaltrie/",
-      "status": "ok",
-      "error": null,
+      "status": "error",
+      "error": "RuntimeError: Facebook requires authentication or a challenge; no bypass attempted.",
       "last_success_at": "2026-11-27T21:59:47.953227+00:00",
       "item_count": 39
     },
@@ -79,13 +79,25 @@
       "name": "Traders 360",
       "platform": "facebook",
       "url": "https://www.facebook.com/firmetraders360/",
-      "status": "ok",
-      "error": null,
+      "status": "error",
+      "error": "RuntimeError: Facebook requires authentication or a challenge; no bypass attempted.",
       "last_success_at": "2026-11-27T21:59:47.953227+00:00",
       "item_count": 42
     }
   ],
   "items": [
+    {
+      "id": "youtube:d_5K2OA7eXs",
+      "title": "Après une gaffe qui a causé une panne à près de 80% du Fortune 500 en juillet 2024, Crowdstrike a",
+      "url": "https://www.youtube.com/watch?v=d_5K2OA7eXs",
+      "published_at": "2026-11-28T00:43:09+00:00",
+      "updated_at": "2026-11-28T01:43:41+00:00",
+      "description": "Après une gaffe qui a causé une panne à près de 80% du Fortune 500 en juillet 2024, Crowdstrike a bondi de 300% depuis.",
+      "image_url": "https://i1.ytimg.com/vi/d_5K2OA7eXs/hqdefault.jpg",
+      "source_id": "investi-qc",
+      "source_name": "Investi QC",
+      "platform": "youtube"
+    },
     {
       "id": "facebook:100064792208382:1665844558918602",
       "title": "Known Across the Land! Get 30% off:",
@@ -3595,7 +3607,7 @@
       "title": "Des gros dividendes peuvent cacher un portefeuille plus risqué que vous le pensez",
       "url": "https://www.youtube.com/watch?v=Egsu7OUCTFo",
       "published_at": "2026-10-26T00:21:34+00:00",
-      "updated_at": "2026-11-25T23:46:00+00:00",
+      "updated_at": "2026-11-28T03:12:01+00:00",
       "description": "À force de chercher les actions canadiennes qui versent le plus, vous pouvez finir avec une collection de banques, de télécoms et de compagnies d'énergie.\n\nMême avec 20 titres, votre argent peut rester concentré dans quelques secteurs et un seul pays.\n\nSi plusieurs de vos placements se mettent à baisser pour les mêmes raisons, vos dividendes peuvent être loin de compenser les pertes.",
       "image_url": "https://i2.ytimg.com/vi/Egsu7OUCTFo/hqdefault.jpg",
       "source_id": "alex-demers-finance360",
