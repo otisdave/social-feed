@@ -2,7 +2,7 @@
   "version": 1,
   "title": "Social Feed",
   "description": "Un seul fil pour suivre les sources qui comptent.",
-  "generated_at": "2026-11-28T03:56:05.121640+00:00",
+  "generated_at": "2026-11-28T13:04:05.807680+00:00",
   "sources": [
     {
       "id": "eco-en-batons",
@@ -11,7 +11,7 @@
       "url": "https://www.youtube.com/@Eco_en_batons",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-28T03:56:05.121640+00:00",
+      "last_success_at": "2026-11-28T13:04:05.807680+00:00",
       "item_count": 38
     },
     {
@@ -21,7 +21,7 @@
       "url": "https://www.youtube.com/@investi-qc",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-28T03:56:05.121640+00:00",
+      "last_success_at": "2026-11-28T13:04:05.807680+00:00",
       "item_count": 106
     },
     {
@@ -31,7 +31,7 @@
       "url": "https://www.youtube.com/@hugolisoiryoutube",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-28T03:56:05.121640+00:00",
+      "last_success_at": "2026-11-28T13:04:05.807680+00:00",
       "item_count": 31
     },
     {
@@ -41,7 +41,7 @@
       "url": "https://www.youtube.com/@alexdemers-finance360",
       "status": "ok",
       "error": null,
-      "last_success_at": "2026-11-28T03:56:05.121640+00:00",
+      "last_success_at": "2026-11-28T13:04:05.807680+00:00",
       "item_count": 28
     },
     {
@@ -49,9 +49,9 @@
       "name": "Guild Wars",
       "platform": "facebook",
       "url": "https://www.facebook.com/GuildWars/",
-      "status": "error",
-      "error": "RuntimeError: Facebook requires authentication or a challenge; no bypass attempted.",
-      "last_success_at": "2026-11-27T21:59:47.953227+00:00",
+      "status": "ok",
+      "error": null,
+      "last_success_at": "2026-11-28T13:04:05.807680+00:00",
       "item_count": 17
     },
     {
@@ -59,29 +59,29 @@
       "name": "The Lord of the Rings Online",
       "platform": "facebook",
       "url": "https://www.facebook.com/LOTRO/",
-      "status": "error",
-      "error": "RuntimeError: Facebook requires authentication or a challenge; no bypass attempted.",
-      "last_success_at": "2026-11-27T21:59:47.953227+00:00",
-      "item_count": 45
+      "status": "ok",
+      "error": null,
+      "last_success_at": "2026-11-28T13:04:05.807680+00:00",
+      "item_count": 46
     },
     {
       "id": "ville-de-lavaltrie",
       "name": "Ville de Lavaltrie",
       "platform": "facebook",
       "url": "https://www.facebook.com/VilleDeLavaltrie/",
-      "status": "error",
-      "error": "RuntimeError: Facebook requires authentication or a challenge; no bypass attempted.",
-      "last_success_at": "2026-11-27T21:59:47.953227+00:00",
-      "item_count": 39
+      "status": "ok",
+      "error": null,
+      "last_success_at": "2026-11-28T13:04:05.807680+00:00",
+      "item_count": 40
     },
     {
       "id": "traders-360",
       "name": "Traders 360",
       "platform": "facebook",
       "url": "https://www.facebook.com/firmetraders360/",
-      "status": "error",
-      "error": "RuntimeError: Facebook requires authentication or a challenge; no bypass attempted.",
-      "last_success_at": "2026-11-27T21:59:47.953227+00:00",
+      "status": "ok",
+      "error": null,
+      "last_success_at": "2026-11-28T13:04:05.807680+00:00",
       "item_count": 42
     }
   ],
@@ -91,12 +91,36 @@
       "title": "Après une gaffe qui a causé une panne à près de 80% du Fortune 500 en juillet 2024, Crowdstrike a",
       "url": "https://www.youtube.com/watch?v=d_5K2OA7eXs",
       "published_at": "2026-11-28T00:43:09+00:00",
-      "updated_at": "2026-11-28T01:43:41+00:00",
+      "updated_at": "2026-11-28T07:57:00+00:00",
       "description": "Après une gaffe qui a causé une panne à près de 80% du Fortune 500 en juillet 2024, Crowdstrike a bondi de 300% depuis.",
       "image_url": "https://i1.ytimg.com/vi/d_5K2OA7eXs/hqdefault.jpg",
       "source_id": "investi-qc",
       "source_name": "Investi QC",
       "platform": "youtube"
+    },
+    {
+      "id": "facebook:100064792208382:1665916498911408",
+      "title": "Kingdoms of Harad and other expansions are available with a deep discount in the LOTRO Market until 11:00 AM Eastern (-5",
+      "url": "https://www.facebook.com/LOTRO/posts/pfbid0Dmzgr1WbAvqcQX4uHM12AALWLQDMDGkTEfeobwhaq6sC2C8rR3HwvoasSvbZnwaWl",
+      "published_at": "2026-11-27T23:45:18+00:00",
+      "updated_at": "2026-11-27T23:45:18+00:00",
+      "description": "Kingdoms of Harad and other expansions are available with a deep discount in the LOTRO Market until 11:00 AM Eastern (-5 GMT) on December 2nd!\n10% off Base Edition\n20% off Collector's Edition\n30% off Ultimate Fan Bundle #LOTRO",
+      "image_url": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.99422-6/929684077_1540983895758149_3541084899340109679_n.png?stp=dst-jpg_tt6&cstp=mx1920x1080&ctp=s960x960&_nc_cat=102&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=zV_1SrZfk00Q7kNvwEh7Q2k&_nc_oc=AdqTUsv67EHTwdFz0V7GSdZKPy0n0LWDa0RoM94EabIvQ06XZ1la2xN9RTVfGeWomuU&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=13iq3Mke5PZlq4BYFStPNA&_nc_ss=7f389&oh=00_AQVbWrCoTf5-mDtMPMRwn8QwSfPXU91Rmjxt9onhexrIpg&oe=6B1093C5",
+      "source_id": "lotro",
+      "source_name": "The Lord of the Rings Online",
+      "platform": "facebook"
+    },
+    {
+      "id": "facebook:100064655653099:1602035815294925",
+      "title": "𝐂𝐨𝐥𝐥𝐞𝐜𝐭𝐞 𝐝𝐮 𝐜𝐨𝐦𝐩𝐨𝐬𝐭 𝐞𝐧 𝐩𝐞́𝐫𝐢𝐨𝐝𝐞 𝐡𝐢𝐯𝐞𝐫𝐧𝐚𝐥𝐞 ❄️🚛",
+      "url": "https://www.facebook.com/VilleDeLavaltrie/posts/pfbid0tp2jCkZV3Kso1fPJ2zqTYGLLBs6VNkHbYQApi6esaTap9ZEBpv11hmETQqNU7fMNl",
+      "published_at": "2026-11-27T22:00:00+00:00",
+      "updated_at": "2026-11-27T22:00:00+00:00",
+      "description": "𝐂𝐨𝐥𝐥𝐞𝐜𝐭𝐞 𝐝𝐮 𝐜𝐨𝐦𝐩𝐨𝐬𝐭 𝐞𝐧 𝐩𝐞́𝐫𝐢𝐨𝐝𝐞 𝐡𝐢𝐯𝐞𝐫𝐧𝐚𝐥𝐞 ❄️🚛\n\nÀ compter de décembre, et pour toute la période hivernale, la collecte du compost (bac brun) et des sacs de résidus verts (sac en papier uniquement) se fait aux deux semaines.\n\nLes prochaines c",
+      "image_url": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.99422-6/924081946_1161855576400691_1746360087273857049_n.png?stp=dst-jpg_tt6&cstp=mx1080x1080&ctp=p526x296&_nc_cat=103&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=FjcRRn7K474Q7kNvwHl5rup&_nc_oc=AdpsqXGpboJ7J5Atn_4HjNEnwK00vZWOvD5ymJ8k3XoiWDpROvMXbTDKTPi8ZTYh_nA&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=V5hGvMAl2oNR0cm9P6aU0A&_nc_ss=7f389&oh=00_AQVOPKBNEzciC_Gy3NlGbf_Fv5QP-w6rbaTXM3MLd05o_Q&oe=6B10A73D",
+      "source_id": "ville-de-lavaltrie",
+      "source_name": "Ville de Lavaltrie",
+      "platform": "facebook"
     },
     {
       "id": "facebook:100064792208382:1665844558918602",
@@ -115,7 +139,7 @@
       "title": "Ils nous coupent le courant 3h trop tôt",
       "url": "https://www.youtube.com/watch?v=SuxHnNnXBsw",
       "published_at": "2026-11-27T20:40:45+00:00",
-      "updated_at": "2026-11-27T20:59:14+00:00",
+      "updated_at": "2026-11-28T08:24:30+00:00",
       "description": "Ils nous coupent le courant 3h trop tôt",
       "image_url": "https://i4.ytimg.com/vi/SuxHnNnXBsw/hqdefault.jpg",
       "source_id": "investi-qc",
@@ -125,11 +149,11 @@
     {
       "id": "facebook:100069958479615:1455944766747459",
       "title": "Black Friday in Tyria: 50% off Guild Wars Reforged ⚔️",
-      "url": "https://www.facebook.com/GuildWars/posts/pfbid0KpERVxwpTBmrNKgk7wn6xmH5WL2SZ6PcHecCDaYDiEAikEiJ9E5HNCrNkpYAfZ6xl",
+      "url": "https://www.facebook.com/GuildWars/posts/pfbid02Pfg8gdseJh9yeHjWJ7E9542qScYo51nePNZEzYW9dyk7gpU812447N3RFHUZCZwul",
       "published_at": "2026-11-27T19:00:30+00:00",
       "updated_at": "2026-11-27T19:00:30+00:00",
       "description": "Black Friday in Tyria: 50% off Guild Wars Reforged ⚔️\n\nCome back to the game you love, or finally bring your friends along. Get settled in before Afterlife launches January 13.\n\nSale ends December 1st. https://store.guildwars.com/ 🔗\n\n👇 Tag ",
-      "image_url": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/935878824_1455944753414127_7802832608726576995_n.jpg?stp=dst-jpg_tt6&cstp=mx1920x1080&ctp=s960x960&_nc_cat=105&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=1e_c8NospV8Q7kNvwG2g8hz&_nc_oc=AdrsVbTsc4dqj53reiD92N_PUTGSZFAqApL3K_PkzOvIeRifYZOcCD28g5p7RLFFCWU&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&_nc_gid=l-MJx5NwisJx8PU5Q_K7dg&_nc_ss=7f389&oh=00_AQXpCYWylB4P05mb4LcU_klm3fMigf1bRRpZ97ZI95KDWg&oe=6B0FB9B8",
+      "image_url": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/935878824_1455944753414127_7802832608726576995_n.jpg?stp=dst-jpg_tt6&cstp=mx1920x1080&ctp=s960x960&_nc_cat=105&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=J7TbgwkqSF4Q7kNvwGgK73v&_nc_oc=AdrHPtKncp7aZntQkI_yoTcbSo0iXZOHzGuWDQfqPvXxWK0gLYZQZXcFp3adSu8n9jU&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&_nc_gid=28rlA3DiTazWeuZaO29X5Q&_nc_ss=7f389&oh=00_AQXByh0a8t6Bd35WC4VcSOGu1s2JZTmRoWH2dggg1JX4og&oe=6B109AB8",
       "source_id": "guild-wars",
       "source_name": "Guild Wars",
       "platform": "facebook"
@@ -137,11 +161,11 @@
     {
       "id": "facebook:100063889127390:1695584672581154",
       "title": "Finance 360 est officiellement une marque de commerce enregistrée.",
-      "url": "https://www.facebook.com/firmetraders360/posts/pfbid021CFa3KqGXuvKnVvtjd9F6a9cVYEm7LSbvvyY3koQf2qWomA592s2Lr4yJHTZQrZ1l",
+      "url": "https://www.facebook.com/firmetraders360/posts/pfbid034ZjkfMBtZhyCqZHKPKv9ZDgXXmn2gRETx4xYc9V1YEAk73fioE2zwPCyR9zn7dV1l",
       "published_at": "2026-11-27T18:39:55+00:00",
       "updated_at": "2026-11-27T18:39:55+00:00",
       "description": "Finance 360 est officiellement une marque de commerce enregistrée.\n\nQuand j’ai commencé, je parlais tout seul devant un micro en espérant que quelques personnes allaient trouver ça intéressant.\n\nAujourd’hui, c’est des milliers d’auditeurs e",
-      "image_url": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.99422-6/926684631_1133235646231462_8421128921538015282_n.png?stp=dst-jpg_tt6&cstp=mx1088x912&ctp=s600x600&_nc_cat=109&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=P7rvVLsdTWMQ7kNvwFDbnky&_nc_oc=Adr_V368FCVWb9BJc6kG7FhkYf4Mdm38_E6jY2P6kXJgq67BQfqFdxwIwCMcr9a-A-A&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=BKqNG7sxLXYz-_5XcOcaUQ&_nc_ss=7f389&oh=00_AQV373o6lT7J0KhjoFwaP5rtD7HonFz4n5kf6s9p4HlDUA&oe=6B0FD6CA",
+      "image_url": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.99422-6/926684631_1133235646231462_8421128921538015282_n.png?stp=dst-jpg_tt6&cstp=mx1088x912&ctp=s600x600&_nc_cat=109&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=P7rvVLsdTWMQ7kNvwE5afeD&_nc_oc=Adpu3QuI3nWvGPigRQjzfYv6U3471zMG2whJ3dXCOX12HxDwaJAivut_-KXguDgAAVQ&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=SOBH5yoGGI8SeHGyMhiM8g&_nc_ss=7f389&oh=00_AQWklOZ05ZSscV8sByefbMxOSzqVuT78IuWjqCgNbh7Hkw&oe=6B10B7CA",
       "source_id": "traders-360",
       "source_name": "Traders 360",
       "platform": "facebook"
@@ -163,7 +187,7 @@
       "title": "Ça ressemblait à quoi Goodstock en bourse?",
       "url": "https://www.youtube.com/watch?v=bMexpq5DWds",
       "published_at": "2026-11-27T13:16:33+00:00",
-      "updated_at": "2026-11-27T13:16:39+00:00",
+      "updated_at": "2026-11-28T08:12:24+00:00",
       "description": "",
       "image_url": "https://i3.ytimg.com/vi/bMexpq5DWds/hqdefault.jpg",
       "source_id": "investi-qc",
@@ -295,7 +319,7 @@
       "title": "Une correction me rend une meilleure personne",
       "url": "https://www.youtube.com/watch?v=v9mh-Kmsguo",
       "published_at": "2026-11-25T20:40:38+00:00",
-      "updated_at": "2026-11-26T09:24:02+00:00",
+      "updated_at": "2026-11-28T07:51:59+00:00",
       "description": "Une correction me rend une meilleure personne",
       "image_url": "https://i3.ytimg.com/vi/v9mh-Kmsguo/hqdefault.jpg",
       "source_id": "investi-qc",
@@ -319,7 +343,7 @@
       "title": "Ce que Paul Maco pense de Fortinet (FTNT)",
       "url": "https://www.youtube.com/watch?v=uSbwf2fFgxc",
       "published_at": "2026-11-25T15:39:46+00:00",
-      "updated_at": "2026-11-26T09:58:44+00:00",
+      "updated_at": "2026-11-28T07:08:14+00:00",
       "description": "Ce que Paul Maco pense de Fortinet (FTNT)",
       "image_url": "https://i2.ytimg.com/vi/uSbwf2fFgxc/hqdefault.jpg",
       "source_id": "investi-qc",
@@ -427,7 +451,7 @@
       "title": "Les investisseurs québécois ont tendance à surinvestir au Canada",
       "url": "https://www.youtube.com/watch?v=9nEtSl2O2jU",
       "published_at": "2026-11-23T23:05:34+00:00",
-      "updated_at": "2026-11-24T20:29:59+00:00",
+      "updated_at": "2026-11-26T22:12:33+00:00",
       "description": "C'est ce qu'on appelle le biais domestique.\n\nPourtant, le marché canadien ne représente qu'une petite fraction de la Bourse mondiale.\n\nEn concentrant son portefeuille ici, on risque de passer à côté de nombreuses occasions",
       "image_url": "https://i2.ytimg.com/vi/9nEtSl2O2jU/hqdefault.jpg",
       "source_id": "alex-demers-finance360",
@@ -475,7 +499,7 @@
       "title": "Et si les astronautes pouvaient marcher au lieu de flotter ?  #espace  #science #insolite",
       "url": "https://www.youtube.com/watch?v=uxdWxwjpH84",
       "published_at": "2026-11-23T08:15:08+00:00",
-      "updated_at": "2026-11-25T01:46:20+00:00",
+      "updated_at": "2026-11-26T22:09:21+00:00",
       "description": "Comment marcher au sol dans une station spatiale en orbite ? Vast prépare Haven-1, sa première station habitée, puis vise une station beaucoup plus grande qui tournerait sur elle-même pour créer une gravité artificielle. Le projet de Vast\n\nPourquoi la taille compte ? Dans une petite station, il faudrait tourner si vite qu’un simple mouvement de tête pourrait donner le vertige. Avec une station plus grande, les astronautes pourraient retrouver leur poids à une vitesse de rotation plus faible.\n\n#GravitéArtificielle #StationSpatiale #Vast #Shorts",
       "image_url": "https://i2.ytimg.com/vi/uxdWxwjpH84/hqdefault.jpg",
       "source_id": "hugo-lisoir",
@@ -1939,7 +1963,7 @@
       "title": "La bulle de l'IA expliquée simplement",
       "url": "https://www.youtube.com/watch?v=CQkb8USMmw0",
       "published_at": "2026-11-07T11:26:01+00:00",
-      "updated_at": "2026-11-10T22:26:28+00:00",
+      "updated_at": "2026-11-28T11:58:11+00:00",
       "description": "La bulle de l'IA expliquée simplement, comme si vous aviez 5 ans. En septembre 2025, Nvidia promet jusqu'à 100 milliards de dollars à OpenAI, qui doit lui acheter ses puces ; ce n'était pas un engagement, et l'argent tourne en rond entre Nvidia, OpenAI et Microsoft. Puis on suit les chantiers géants, payés de plus en plus à crédit (218 milliards de dollars d'obligations en neuf mois, Oracle compris), et le parallèle avec les réseaux télécoms de 2000, où le Nasdaq a perdu 78 % entre mars 2000 et octobre 2002. Enfin, la chute récente des valeurs (au 2 novembre, le Nasdaq-100 avait perdu environ 10 % depuis son sommet du 6 octobre), le rôle réel de la Chine, et ce que cela change pour un épargnant français : sur 1 000 euros dans un fonds World, environ 250 euros dépendent de sept géants américains.\n\n📅 Vidéo bouclée avant le jeudi 5 novembre 2026 : le recul d'environ 4 % du S&P 500 (vers 9:57) date du lundi 2. Le jeudi 5 novembre, le Nasdaq-100 a perdu 6,36 % sur la séance et le S&P 500 a fini à 5,95 % sous son sommet.\n\n⏱️ Chapitres\n0:00 La bulle de l'IA : l'argent qui tourne en rond\n1:53 Partie 1 — Le billet qui revient\n3:55 Partie 2 — Les chantiers géants\n6:09 Partie 3 — Les câbles de l'an 2000\n8:10 Partie 4 — Le lundi rouge\n10:22 Partie 5 — Vos 1 000 euros\n12:47 Et aujourd'hui, en France\n\n📌 Sources (lues en novembre 2026)\n- Nvidia et OpenAI : Nvidia, « OpenAI and NVIDIA announce strategic partnership » (22/09/2025) ; Fortune, « Jensen Huang on Nvidia's OpenAI investment » (02/02/2026) ; OpenAI, « Scaling AI for everyone » (27/02/2026) ; SEC, Nvidia, Form 10-Q (clos le 26/07/2026)\n- Boucles de financement : Reuters via The Star, « CoreWeave, Nvidia sign $6.3 billion cloud computing capacity order » (15/09/2025) ; FMI, « Global financial markets face rising risks from AI » (13/10/2026) ; Nvidia, résultats du deuxième trimestre de l'exercice 2027 (26/08/2026)\n- Investissements et dette : Sherwood News, « Big Tech capital expenditure soared in 2025 » (06/02/2026) ; SEC, Alphabet, Form 8-K (28/10/2026) ; LSEG FTSE Russell, « AI's borrowing boom » (29/10/2026) ; SEC, Oracle, Form 10-Q (09/2026) ; Wikipedia, « Hyperion Data Center » (03/11/2026)\n- Précédent de 2000 : SEC, Lucent, Form 10-Q (clos le 31/12/1999) ; Wikipedia, « Dot-com bubble » (03/11/2026) ; DQYDJ, « NASDAQ Drawdown History » (03/11/2026) ; Encyclopædia Universalis, « 12 septembre 2002 : lourdes pertes pour France Télécom »\n- Valorisation : DoubleLine, « Diversifying U.S. Equity Exposure in a Concentrated Market » (10/2026)\n- Chute récente : Bloomberg, « Nasdaq 100 enters correction » (02/11/2026) ; CNBC, « CoreWeave credit default swaps hit distress levels » (15/10/2026) et « Oracle files to sell $20 billion in new stock, bonds » (02/11/2026)\n- Chine : Bloomberg via Insurance Journal (27/01/2026) ; Reuters via Yahoo Finance sur DeepSeek (27/04/2026) ; Journal du Geek, « La bulle de l'IA a déjà explosé en Chine » (02/11/2026)\n- Citation de Pichai : Reuters via Yahoo Finance, « No firm immune from AI bubble » (18/11/2025)\n- Fonds World, PEA, retraites : MSCI, fiche MSCI World (30/09/2026) ; Banque de France, « Plan d'épargne en actions - 2025 » (06/2026) ; BCE, blog (17/08/2026) ; Agirc-Arrco, résultats 2025 (31/03/2026)\n- France : France-Epargne sur Schneider Electric (16/10/2026) ; abcbourse sur Legrand (29/07/2026) ; RTE via les-energies-renouvelables.eu (28/07/2026) ; JeChange (11/09/2026) ; Banque de France, Bulletin n° 266 (2026) ; Maddyness sur le gouverneur Moulin (02/11/2026)\n\n🎞️ Photos, extraits et crédits\n- Jensen Huang à Stanford (30/04/2026) : Anderseidesvik, Wikimedia Commons, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)\n- Sam Altman à une conférence TED : Steve Jurvetson, Wikimedia Commons, CC BY 2.0 (https://creativecommons.org/licenses/by/2.0)\n- Sundar Pichai (2023) : Lukasz Kobus (European Commission), Wikimedia Commons, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0)\n- Emmanuel Moulin (Banque de France) : Thomas Padilla (Commission européenne), Wikimedia Commons, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0)\n- Dario Amodei au TechCrunch Disrupt 2023 : TechCrunch, Wikimedia Commons, CC BY 2.0 (https://creativecommons.org/licenses/by/2.0)\n- Dario Amodei, « Anthropic C.E.O.: Massive A.I. Spending Could Haunt Some Companies », The New York Times (DealBook Summit), 4:47 à 4:53, courte citation doublée en français\n- Sam Altman, « Sam Altman on Astra, AGI, and the future of OpenAI », Sources Podcast, 55:28 à 55:34, courte citation doublée en français\n- Sundar Pichai, « Google boss says trillion-dollar AI investment boom has 'elements of irrationality' », BBC News, 0:45 à 0:51, courte citation doublée en français\n\nMusique : bibliothèque audio YouTube.\nDessins d'illustration ; montants datés, en dollars ou euros courants. Explication générale, pas un conseil en investissement.",
       "image_url": "https://i4.ytimg.com/vi/CQkb8USMmw0/hqdefault.jpg",
       "source_id": "eco-en-batons",
@@ -3535,7 +3559,7 @@
       "title": "Mes actions BMO me rapportent 6,6% par année en dividendes (yield on cost)",
       "url": "https://www.youtube.com/watch?v=tfH37hvQwos",
       "published_at": "2026-10-26T21:50:38+00:00",
-      "updated_at": "2026-10-30T10:01:09+00:00",
+      "updated_at": "2026-11-26T14:40:18+00:00",
       "description": "Ce rendement est calculé sur mon coût d'achat moyen de 103$ par action. Quelqu'un qui achète l'action au prix d'aujourd'hui obtiendrait un rendement autour de 2,9%.\n\nIl ne faut pas oublier le fait que le montant du dividende trimestriel a grimpé de 60% depuis 2020.",
       "image_url": "https://i1.ytimg.com/vi/tfH37hvQwos/hqdefault.jpg",
       "source_id": "alex-demers-finance360",
